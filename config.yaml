@@ -26,7 +26,7 @@ keywords:
     description: "推荐系统"
     categories:
     query: >
-      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system")
+      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
     max_results: 10
     sort_by: "submitted_date"
     sort_order: "descending"
@@ -37,7 +37,7 @@ keywords:
       - cs.IR
       - cs.LG
     query: >
-      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system")
+      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
       AND
       (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
     max_results: 10
