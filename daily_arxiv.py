@@ -16,6 +16,50 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+# 排序映射
+sort_by_map = {
+    "submitted_date": arxiv.SortCriterion.SubmittedDate,
+    "relevance": arxiv.SortCriterion.Relevance,
+    "last_updated_date": arxiv.SortCriterion.LastUpdatedDate,
+}
+sort_order_map = {
+    "descending": arxiv.SortOrder.Descending,
+    "ascending": arxiv.SortOrder.Ascending,
+}
+
+def my_arxiv_search(user_search_config):
+    '''
+    #  graph_rec:
+    #    description: "图神经网络在推荐系统中的应用，在 cs.LG 中检索"
+    #    categories:
+    #      - cs.LG
+    #    query: >
+    #      (ti:"graph neural network" OR abs:"graph neural network" OR ti:GNN OR abs:GNN)
+    #      AND
+    #      (ti:recommendation OR abs:recommendation)
+    #    max_results: 10
+    #    sort_by: "submitted_date"
+    #    sort_order: "descending"
+    '''
+    config = user_search_config
+    # 构造分类子句
+    if config["categories"] is not None and len(config["categories"]) > 0:
+        cat_clause = " OR ".join(f"cat:{c}" for c in config["categories"])
+        final_query = f"({cat_clause}) AND {config['query']}"
+    else:
+        cat_clause = ""
+        final_query = f"{config['query']}"
+    final_query = final_query.strip()
+
+    logging.info(f"Final Query: {final_query}")
+    search = arxiv.Search(
+        query=final_query,
+        max_results=config["max_results"],
+        sort_by=sort_by_map[config["sort_by"]],
+        sort_order=sort_order_map[config["sort_order"]],
+    )
+    return search
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -43,7 +87,6 @@ def load_config(config_file:str) -> dict:
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
-        config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
     return config
 
@@ -84,7 +127,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query, max_results=2):
     """
     @param topic: str
     @param query: str
@@ -93,11 +136,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
+    search_engine = my_arxiv_search(query)
 
     for result in search_engine.results():
 
@@ -220,6 +259,7 @@ def update_json_file(filename,data_dict):
     '''
     with open(filename,"r") as f:
         content = f.read()
+        content = content.strip()
         if not content:
             m = {}
         else:
@@ -372,7 +412,7 @@ def demo(**config):
     data_collector = []
     data_collector_web= []
 
-    keywords = config['kv']
+    keywords = config['keywords']
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
@@ -384,7 +424,8 @@ def demo(**config):
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
+            logging.info(f"Download Topic: {topic}")
+            logging.info(f"Query: {keyword}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)

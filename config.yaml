@@ -22,18 +22,51 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+  "Recsys":
+    description: "推荐系统"
+    categories:
+    query: >
+      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system")
+    max_results: 10
+    sort_by: "submitted_date"
+    sort_order: "descending"
+
+  "Recsys LLM":
+    description: "推荐系统&大模型"
+    categories:
+      - cs.IR
+      - cs.LG
+    query: >
+      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system")
+      AND
+      (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
+    max_results: 10
+    sort_by: "submitted_date"
+    sort_order: "descending"
+  
+  "LLM":
+    description: "大模型论文"
+    categories:
+      - cs.CL
+      - cs.IR
+      - cs.LG
+      - cs.AI
+    query: >
+      (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
+      AND
+      (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")
+    max_results: 10
+    sort_by: "submitted_date"
+    sort_order: "descending"
+  
+#  graph_rec:
+#    description: "图神经网络在推荐系统中的应用，在 cs.LG 中检索"
+#    categories:
+#      - cs.LG
+#    query: >
+#      (ti:"graph neural network" OR abs:"graph neural network" OR ti:GNN OR abs:GNN)
+#      AND
+#      (ti:recommendation OR abs:recommendation)
+#    max_results: 10
+#    sort_by: "submitted_date"
+#    sort_order: "descending"
