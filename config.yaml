@@ -27,7 +27,7 @@ keywords:
     categories:
     query: >
       (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
-    max_results: 10
+    max_results: 100
     sort_by: "submitted_date"
     sort_order: "descending"
 
@@ -40,7 +40,7 @@ keywords:
       (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
       AND
       (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
-    max_results: 10
+    max_results: 100
     sort_by: "submitted_date"
     sort_order: "descending"
   
@@ -55,7 +55,7 @@ keywords:
       (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
       AND
       (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")
-    max_results: 10
+    max_results: 100
     sort_by: "submitted_date"
     sort_order: "descending"
   
