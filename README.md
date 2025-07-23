@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao (wustl.edu) et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
+|**2025-07-22**|**AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review**|Choro Ulan Uulu (siemens.com) et.al.|[2507.16586](http://arxiv.org/abs/2507.16586)|null|
+|**2025-07-22**|**Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems**|Octavian M. Machidon (fri.uni-lj.si) et.al.|[2507.16430](http://arxiv.org/abs/2507.16430)|null|
+|**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak (skoltech.ru) et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|null|
+|**2025-07-22**|**Reinforce Lifelong Interaction Value of User-Author Pairs for Large-Scale Recommendation Systems**|Yisha Li (kuaishou.com) et.al.|[2507.16253](http://arxiv.org/abs/2507.16253)|null|
+|**2025-07-21**|**Scaling Recommender Transformers to One Billion Parameters**|Kirill Khrylchenko (gmail.com) et.al.|[2507.15994](http://arxiv.org/abs/2507.15994)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre (criteo.com) et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu (bytedance.com) et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
 |**2025-07-22**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj (usask.ca) et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
@@ -121,6 +127,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao (wustl.edu) et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
+|**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak (skoltech.ru) et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|null|
+|**2025-07-21**|**Scaling Recommender Transformers to One Billion Parameters**|Kirill Khrylchenko (gmail.com) et.al.|[2507.15994](http://arxiv.org/abs/2507.15994)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre (criteo.com) et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu (bytedance.com) et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li (student.uva.nl) et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
@@ -228,6 +237,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Towards Automated Regulatory Compliance Verification in Financial Auditing with Large Language Models**|Armin Berger et.al.|[2507.16642](http://arxiv.org/abs/2507.16642)|null|
+|**2025-07-22**|**Pixels to Principles: Probing Intuitive Physics Understanding in Multimodal Language Models**|Mohamad Ballout (uos.de) et.al.|[2507.16572](http://arxiv.org/abs/2507.16572)|null|
+|**2025-07-22**|**Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch**|Elza Strazda (maastrichtuniversity.nl) et.al.|[2507.16442](http://arxiv.org/abs/2507.16442)|null|
+|**2025-07-22**|**eX-NIDS: A Framework for Explainable Network Intrusion Detection Leveraging Large Language Models**|Paul R. B. Houssel (uq.edu.au) et.al.|[2507.16241](http://arxiv.org/abs/2507.16241)|null|
+|**2025-07-22**|**Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design**|Dong Ben (ucmerced.edu) et.al.|[2507.16226](http://arxiv.org/abs/2507.16226)|null|
+|**2025-07-22**|**Towards Compute-Optimal Many-Shot In-Context Learning**|Shahriar Golchin (arizona.edu) et.al.|[2507.16217](http://arxiv.org/abs/2507.16217)|null|
+|**2025-07-22**|**Disability Across Cultures: A Human-Centered Audit of Ableism in Western and Indic LLMs**|Mahika Phutane (cs.cornell.edu) et.al.|[2507.16130](http://arxiv.org/abs/2507.16130)|null|
+|**2025-07-21**|**Does More Inference-Time Compute Really Help Robustness?**|Tong Wu (princeton.edu) et.al.|[2507.15974](http://arxiv.org/abs/2507.15974)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang (gmail.com) et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li (seas.upenn.edu) et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
 |**2025-07-21**|**DialogueForge: LLM Simulation of Human-Chatbot Dialogue**|Ruizhe Zhu (calvin-risk.com) et.al.|[2507.15752](http://arxiv.org/abs/2507.15752)|null|
