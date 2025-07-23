@@ -128,12 +128,14 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def extract_emails_from_pdf_url(pdf_url):
+def extract_email_domain_from_pdf_url(pdf_url):
     response = requests.get(pdf_url)
     doc = pymupdf.open(stream=response.content, filetype="pdf")  # 直接在内存中打开
     first_page_text = doc[0].get_text()
-    emails = re.findall(r'[\w\.-]+@[\w\.-]+', first_page_text)
-    return emails
+    # emails = re.findall(r'[\w\.-{},]+@[\w\.-]+', first_page_text)
+    emails_domains = re.findall(r'[\w\.-{},]+@([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})', first_page_text)
+    # print(emails_domains)
+    return emails_domains
 
 def get_daily_papers(topic, query, max_results=2):
     """
@@ -160,9 +162,8 @@ def get_daily_papers(topic, query, max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-        emails = extract_emails_from_pdf_url(result.pdf_url)
-        domains = [email.split('@')[1] for email in emails]
-        if len(emails) > 0:
+        domains = extract_email_domain_from_pdf_url(result.pdf_url)
+        if len(domains) > 0:
             paper_first_author = f"{paper_first_author} ({domains[0]})"
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
