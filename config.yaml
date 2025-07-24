@@ -25,6 +25,10 @@ keywords:
   "Recsys":
     description: "推荐系统"
     categories:
+      - cs.CL
+      - cs.IR
+      - cs.LG
+      - cs.AI
     query: >
       (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
     max_results: 20
@@ -34,8 +38,10 @@ keywords:
   "Recsys LLM":
     description: "推荐系统&大模型"
     categories:
+      - cs.CL
       - cs.IR
       - cs.LG
+      - cs.AI
     query: >
       (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
       AND
