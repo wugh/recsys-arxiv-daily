@@ -503,6 +503,14 @@ if __name__ == "__main__":
                         action="store_true",help='whether to update paper links etc.')
     args = parser.parse_args()
     log_file = "run.log"
+    try:
+        with open(log_file, 'r') as f:
+            lines = f.readlines()
+        if len(lines) > 10000:
+            with open(log_file, 'w') as f:
+                f.writelines(lines[-10000:])
+    except FileNotFoundError:
+        pass
     logging.basicConfig(
         level=logging.INFO,
         format='[%(asctime)s %(levelname)s] %(message)s',
