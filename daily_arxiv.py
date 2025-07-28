@@ -8,10 +8,11 @@ import logging
 import argparse
 import datetime
 import requests
+from bs4 import BeautifulSoup
 
-logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
-                    datefmt='%m/%d/%Y %H:%M:%S',
-                    level=logging.INFO)
+# logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
+#                     datefmt='%m/%d/%Y %H:%M:%S',
+#                     level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
@@ -27,6 +28,25 @@ sort_order_map = {
     "descending": arxiv.SortOrder.Descending,
     "ascending": arxiv.SortOrder.Ascending,
 }
+
+def get_code_url(arxiv_id):
+    arxiv_id = "2006.10029"
+    url = f"https://arxiv.org/abs/{arxiv_id}"
+
+    try:
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # 找出所有可能的链接
+        links = soup.find_all('a', href=True)
+        code_links = [a['href'] for a in links if re.search(r'github|gitlab|bitbucket', a['href'], re.IGNORECASE)]
+        if (code_links is not None and len(code_links) > 0):
+            return code_links[0]
+        else:
+            return None
+    except Exception as ex:
+        logging.exception(f"get paper url failed {ex}")
+    return None
 
 def my_arxiv_search(user_search_config):
     '''
@@ -166,7 +186,7 @@ def get_daily_papers(topic, query, max_results=2):
         if len(domains) > 0:
             paper_first_author = f"{paper_first_author} ({domains[0]})"
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+        # logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -178,15 +198,8 @@ def get_daily_papers(topic, query, max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+            repo_url = get_code_url(paper_id)
+            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author} repo_url = {repo_url}")
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
@@ -207,7 +220,7 @@ def get_daily_papers(topic, query, max_results=2):
                 content_to_web[paper_key] += f"\n"
 
         except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            logging.exception(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -251,18 +264,14 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    repo_url = get_code_url(paper_id)
+                    if repo_url is not None:
+                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                    logging.exception(f"exception: {e} with id: {paper_id}")
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -493,6 +502,16 @@ if __name__ == "__main__":
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true",help='whether to update paper links etc.')
     args = parser.parse_args()
+    log_file = "run.log"
+    logging.basicConfig(
+        level=logging.INFO,
+        format='[%(asctime)s %(levelname)s] %(message)s',
+        datefmt='%m/%d/%Y %H:%M:%S',
+        handlers=[
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
+        ]
+    )
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)

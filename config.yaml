@@ -19,6 +19,7 @@ json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
+logging_path: 'run.log'
 
 # keywords to search
 keywords:
