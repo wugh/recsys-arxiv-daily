@@ -226,7 +226,7 @@ def get_daily_papers(topic, query, max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web
 
-def update_paper_links(filename):
+def update_paper_links(filename, update_code_link_num):
     '''
     weekly update paper links in json file
     '''
@@ -249,6 +249,7 @@ def update_paper_links(filename):
 
         json_data = m.copy()
 
+        update_num = 0
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
@@ -265,13 +266,15 @@ def update_paper_links(filename):
                     continue
                 try:
                     repo_url = get_code_url(paper_id)
+                    update_num += 1
                     if repo_url is not None:
                         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                        logging.info(f'ID = {paper_id}, update_num = {update_num}, contents = {new_cont}')
                         json_data[keywords][paper_id] = str(new_cont)
-
                 except Exception as e:
                     logging.exception(f"exception: {e} with id: {paper_id}")
+                if update_num >= update_code_link_num:
+                    break
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -462,7 +465,7 @@ def demo(**config):
         md_file   = config['md_readme_path']
         # update paper links
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, config['update_code_link_num'])
         else:
             # update json data
             update_json_file(json_file,data_collector)
@@ -476,7 +479,7 @@ def demo(**config):
         md_file   = config['md_gitpage_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, config['update_code_link_num'])
         else:
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
@@ -489,7 +492,7 @@ def demo(**config):
         md_file   = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            update_paper_links(json_file, config['update_code_link_num'])
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \

@@ -20,6 +20,7 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 logging_path: 'run.log'
+update_code_link_num: 200
 
 # keywords to search
 keywords:
