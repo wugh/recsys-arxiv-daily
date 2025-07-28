@@ -30,7 +30,6 @@ sort_order_map = {
 }
 
 def get_code_url(arxiv_id):
-    arxiv_id = "2006.10029"
     url = f"https://arxiv.org/abs/{arxiv_id}"
 
     try:
