@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.28
+## Updated on 2025.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -152,11 +152,11 @@ layout: default
 |**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao (ict.ac.cn) et.al.|[2507.16969](http://arxiv.org/abs/2507.16969)|null|
 |**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao (wustl.edu) et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
 |**2025-07-22**|**AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review**|Choro Ulan Uulu (siemens.com) et.al.|[2507.16586](http://arxiv.org/abs/2507.16586)|null|
-|**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak (skoltech.ru) et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|null|
+|**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak (skoltech.ru) et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|**[link](https://github.com/monkey0head/time-to-split)**|
 |**2025-07-21**|**Scaling Recommender Transformers to One Billion Parameters**|Kirill Khrylchenko (gmail.com) et.al.|[2507.15994](http://arxiv.org/abs/2507.15994)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre (criteo.com) et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
-|**2025-07-24**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu (bytedance.com) et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
-|**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida (alumni.usp.br) et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|null|
+|**2025-07-26**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu (bytedance.com) et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
+|**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida (alumni.usp.br) et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|**[link](https://github.com/almeidava93/llm-as-code-selectors-paper)**|
 |**2025-07-24**|**What Makes You CLIC: Detection of Croatian Clickbait Headlines**|Marija Anđelić (fer.hr) et.al.|[2507.14314](http://arxiv.org/abs/2507.14314)|null|
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li (student.uva.nl) et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
 |**2025-07-18**|**Preprint: Did I Just Browse A Website Written by LLMs?**|Sichang "Steven" He et.al.|[2507.13933](http://arxiv.org/abs/2507.13933)|null|
@@ -276,9 +276,9 @@ layout: default
 |**2025-07-25**|**SLoW: Select Low-frequency Words! Automatic Dictionary Selection for Translation on Large Language Models**|Hongyuan Lu (se.cuhk.edu.hk) et.al.|[2507.18902](http://arxiv.org/abs/2507.18902)|null|
 |**2025-07-24**|**MemoCoder: Automated Function Synthesis using LLM-Supported Agents**|Yiping Jia (queensu.ca) et.al.|[2507.18812](http://arxiv.org/abs/2507.18812)|null|
 |**2025-07-24**|**Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback**|Chandra Maddila (meta.com) et.al.|[2507.18755](http://arxiv.org/abs/2507.18755)|null|
-|**2025-07-24**|**AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs**|Xiaopeng Ke (gmail.com) et.al.|[2507.18584](http://arxiv.org/abs/2507.18584)|null|
+|**2025-07-24**|**AQuilt: Weaving Logic and Self-Inspection into Low-Cost, High-Relevance Data Synthesis for Specialist LLMs**|Xiaopeng Ke (gmail.com) et.al.|[2507.18584](http://arxiv.org/abs/2507.18584)|**[link](https://github.com/Krueske/AQuilt)**|
 |**2025-07-24**|**How Well Do LLMs Predict Prerequisite Skills? Zero-Shot Comparison to Expert-Defined Concepts**|Ngoc Luyen Le (hds.utc.fr) et.al.|[2507.18479](http://arxiv.org/abs/2507.18479)|null|
-|**2025-07-24**|**Reasoning Beyond the Obvious: Evaluating Divergent and Convergent Thinking in LLMs for Financial Scenarios**|Zhuang Qiang Bok (deepinsightlabs.ai) et.al.|[2507.18368](http://arxiv.org/abs/2507.18368)|null|
+|**2025-07-24**|**Reasoning Beyond the Obvious: Evaluating Divergent and Convergent Thinking in LLMs for Financial Scenarios**|Zhuang Qiang Bok (deepinsightlabs.ai) et.al.|[2507.18368](http://arxiv.org/abs/2507.18368)|**[link](https://kdd-eval-workshop.github.io/genai-evaluation-kdd2025/)**|
 |**2025-07-25**|**HIVMedQA: Benchmarking large language models for HIV medical decision support**|Gonzalo Cardenal-Antolin et.al.|[2507.18143](http://arxiv.org/abs/2507.18143)|null|
 |**2025-07-24**|**Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method**|Qingcheng Zhu (buaa.edu.cn) et.al.|[2507.18073](http://arxiv.org/abs/2507.18073)|null|
 |**2025-07-24**|**Does visualization help AI understand data?**|Victoria R. Li (college.harvard.edu) et.al.|[2507.18022](http://arxiv.org/abs/2507.18022)|null|
@@ -288,10 +288,10 @@ layout: default
 |**2025-07-23**|**Evaluating the Performance of AI Text Detectors, Few-Shot and Chain-of-Thought Prompting Using DeepSeek Generated Text**|Hulayyil Alshammari (umsystem.edu) et.al.|[2507.17944](http://arxiv.org/abs/2507.17944)|null|
 |**2025-07-23**|**SV3.3B: A Sports Video Understanding Model for Action Recognition**|Sai Varun Kodathala (sportsvision.ai) et.al.|[2507.17844](http://arxiv.org/abs/2507.17844)|null|
 |**2025-07-23**|**GenSelect: A Generative Approach to Best-of-N**|Shubham Toshniwal (nvidia.com) et.al.|[2507.17797](http://arxiv.org/abs/2507.17797)|null|
-|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao (uwaterloo.ca) et.al.|[2507.17747](http://arxiv.org/abs/2507.17747)|null|
+|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao (uwaterloo.ca) et.al.|[2507.17747](http://arxiv.org/abs/2507.17747)|**[link](http://github.com/l6cao/Debate-Driven-Evaluation)**|
 |**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song (gmail.com) et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
 |**2025-07-23**|**CASCADE: LLM-Powered JavaScript Deobfuscator at Google**|Shan Jiang (utexas.edu) et.al.|[2507.17691](http://arxiv.org/abs/2507.17691)|null|
-|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu (mail.ustc.edu.cn) et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu (mail.ustc.edu.cn) et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|**[link](https://github.com/MeteorElf/FundusExpert)**|
 |**2025-07-23**|**Probing Vision-Language Understanding through the Visual Entailment Task: promises and pitfalls**|Elena Pitta (liacs.leidenuniv.nl) et.al.|[2507.17467](http://arxiv.org/abs/2507.17467)|null|
 |**2025-07-23**|**SKA-Bench: A Fine-Grained Benchmark for Evaluating Structured Knowledge Understanding of LLMs**|Zhiqiang Liu (zju.edu.cn) et.al.|[2507.17178](http://arxiv.org/abs/2507.17178)|null|
 |**2025-07-23**|**Improving LLMs' Generalized Reasoning Abilities by Graph Problems**|Qifan Zhang (connect.hkust-gz.edu.cn) et.al.|[2507.17168](http://arxiv.org/abs/2507.17168)|null|
