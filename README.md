@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**Beyond Interactions: Node-Level Graph Generation for Knowledge-Free Augmentation in Recommender Systems**|Zhaoyan Wang (kaist.ac.kr) et.al.|[2507.20578](http://arxiv.org/abs/2507.20578)|null|
+|**2025-07-28**|**MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design**|Zishang Qiu (nottingham.edu.com) et.al.|[2507.20541](http://arxiv.org/abs/2507.20541)|null|
+|**2025-07-27**|**TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation**|Xiang Gao (kuaishou.com) et.al.|[2507.20327](http://arxiv.org/abs/2507.20327)|null|
+|**2025-07-27**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
+|**2025-07-27**|**Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation**|Minh Hoang Nguyen (student.hcmus.edu.vn) et.al.|[2507.20210](http://arxiv.org/abs/2507.20210)|**[link](https://github.com/MinhNguyenDS/Co-NAML-LSTUR)**|
+|**2025-07-27**|**Practical Multi-Task Learning for Rare Conversions in Ad Tech**|Yuval Dishi (teads.com) et.al.|[2507.20161](http://arxiv.org/abs/2507.20161)|null|
+|**2025-07-26**|**Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model**|Sinnyum Choi (gmail.com) et.al.|[2507.19990](http://arxiv.org/abs/2507.19990)|null|
 |**2025-07-25**|**Let It Go? Not Quite: Addressing Item Cold Start in Sequential Recommendations with Content-Based Initialization**|Anton Pembek (bk.ru) et.al.|[2507.19473](http://arxiv.org/abs/2507.19473)|null|
 |**2025-07-25**|**Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges**|Andrii Dzhoha (zalando.de) et.al.|[2507.19346](http://arxiv.org/abs/2507.19346)|null|
 |**2025-07-25**|**Towards LLM-Enhanced Group Recommender Systems**|Sebastian Lubos (tugraz.at) et.al.|[2507.19283](http://arxiv.org/abs/2507.19283)|null|
@@ -149,6 +156,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**Beyond Interactions: Node-Level Graph Generation for Knowledge-Free Augmentation in Recommender Systems**|Zhaoyan Wang (kaist.ac.kr) et.al.|[2507.20578](http://arxiv.org/abs/2507.20578)|null|
+|**2025-07-28**|**MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design**|Zishang Qiu (nottingham.edu.com) et.al.|[2507.20541](http://arxiv.org/abs/2507.20541)|null|
+|**2025-07-27**|**TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation**|Xiang Gao (kuaishou.com) et.al.|[2507.20327](http://arxiv.org/abs/2507.20327)|null|
+|**2025-07-27**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
+|**2025-07-26**|**Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model**|Sinnyum Choi (gmail.com) et.al.|[2507.19990](http://arxiv.org/abs/2507.19990)|null|
+|**2025-07-22**|**Graph Learning Metallic Glass Discovery from Wikipedia**|K. -C. Ouyang (ustc.edu.cn) et.al.|[2507.19536](http://arxiv.org/abs/2507.19536)|null|
 |**2025-07-25**|**Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges**|Andrii Dzhoha (zalando.de) et.al.|[2507.19346](http://arxiv.org/abs/2507.19346)|null|
 |**2025-07-25**|**Towards LLM-Enhanced Group Recommender Systems**|Sebastian Lubos (tugraz.at) et.al.|[2507.19283](http://arxiv.org/abs/2507.19283)|null|
 |**2025-07-25**|**Agent0: Leveraging LLM Agents to Discover Multi-value Features from Text for Enhanced Recommendations**|Blaž Škrlj (teads.com) et.al.|[2507.18993](http://arxiv.org/abs/2507.18993)|null|
@@ -272,6 +285,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-28**|**LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning**|Yining Huang (gmail.com) et.al.|[2507.20999](http://arxiv.org/abs/2507.20999)|null|
+|**2025-07-28**|**FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models**|Likun Tan (usepegasi.com) et.al.|[2507.20930](http://arxiv.org/abs/2507.20930)|**[link](https://github.com/pegasi-ai/fine-grained-editting)**|
+|**2025-07-28**|**Leveraging Open-Source Large Language Models for Clinical Information Extraction in Resource-Constrained Settings**|Luc Builtjes (radboudumc.nl) et.al.|[2507.20859](http://arxiv.org/abs/2507.20859)|null|
+|**2025-07-28**|**Aligning Large Language Model Agents with Rational and Moral Preferences: A Supervised Fine-Tuning Approach**|Wei Lu (baruch.cuny.edu) et.al.|[2507.20796](http://arxiv.org/abs/2507.20796)|null|
+|**2025-07-28**|**When Scale Meets Diversity: Evaluating Language Models on Fine-Grained Multilingual Claim Verification**|Hanna Shcharbakova (stud.uni-saarland.de) et.al.|[2507.20700](http://arxiv.org/abs/2507.20700)|null|
+|**2025-07-28**|**Kimi K2: Open Agentic Intelligence**|Kimi Team et.al.|[2507.20534](http://arxiv.org/abs/2507.20534)|null|
+|**2025-07-27**|**CodeNER: Code Prompting for Named Entity Recognition**|Sungwoo Han (o.cnu.ac.kr) et.al.|[2507.20423](http://arxiv.org/abs/2507.20423)|null|
+|**2025-07-27**|**MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models**|Hafsteinn Einarsson (hi.is) et.al.|[2507.20395](http://arxiv.org/abs/2507.20395)|null|
+|**2025-07-27**|**Advancing Dialectal Arabic to Modern Standard Arabic Machine Translation**|Abdullah Alabdullah (student.manchester.ac.uk) et.al.|[2507.20301](http://arxiv.org/abs/2507.20301)|null|
+|**2025-07-27**|**What Language(s) Does Aya-23 Think In? How Multilinguality Affects Internal Language Representations**|Katharina Trinley (stud.uni-saarland.de) et.al.|[2507.20279](http://arxiv.org/abs/2507.20279)|null|
+|**2025-07-26**|**The Carbon Cost of Conversation, Sustainability in the Age of Language Models**|Sayed Mahbub Hasan Amiri et.al.|[2507.20018](http://arxiv.org/abs/2507.20018)|null|
+|**2025-07-26**|**Leveraging Fine-Tuned Large Language Models for Interpretable Pancreatic Cystic Lesion Feature Extraction and Risk Categorization**|Ebrahim Rasromani (nyulangone.org) et.al.|[2507.19973](http://arxiv.org/abs/2507.19973)|null|
+|**2025-07-26**|**Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text**|Mizanur Rahman (yorku.ca) et.al.|[2507.19969](http://arxiv.org/abs/2507.19969)|**[link](https://github.com/vis-nlp/Text2Vis)**|
+|**2025-07-26**|**Predicting Brain Responses To Natural Movies With Multimodal LLMs**|Cesar Kadir Torrico Villanueva et.al.|[2507.19956](http://arxiv.org/abs/2507.19956)|**[link](https://github.com/MedARC-AI/algonauts2025)**|
+|**2025-07-26**|**A Gold Standard Dataset and Evaluation Framework for Depression Detection and Explanation in Social Media using LLMs**|Prajval Bolegave (cse.iitb.ac.in) et.al.|[2507.19899](http://arxiv.org/abs/2507.19899)|null|
+|**2025-07-26**|**JT-Math: A Multi-Stage Framework for Advanced Mathematical Reasoning in Large Language Models**|Yifan Hao (chinamobile.com) et.al.|[2507.19748](http://arxiv.org/abs/2507.19748)|null|
+|**2025-07-25**|**Ta-G-T: Subjectivity Capture in Table to Text Generation via RDF Graphs**|Ronak Upasham (cse.iitb.ac.in) et.al.|[2507.19710](http://arxiv.org/abs/2507.19710)|null|
+|**2025-07-25**|**DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference**|Jiawen Qi (liacs.leidenuniv.nl) et.al.|[2507.19608](http://arxiv.org/abs/2507.19608)|null|
+|**2025-07-25**|**PennyCoder: Efficient Domain-Specific LLMs for PennyLane-Based Quantum Code Generation**|Abdul Basit (nyu.edu) et.al.|[2507.19562](http://arxiv.org/abs/2507.19562)|null|
 |**2025-07-25**|**Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding**|StepFun et.al.|[2507.19427](http://arxiv.org/abs/2507.19427)|null|
 |**2025-07-25**|**TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability**|Mohammad Aflah Khan (mpi-sws.org) et.al.|[2507.19419](http://arxiv.org/abs/2507.19419)|null|
 |**2025-07-25**|**Running in CIRCLE? A Simple Benchmark for LLM Code Interpreter Security**|Gabriel Chua (tech.gov.sg) et.al.|[2507.19399](http://arxiv.org/abs/2507.19399)|null|
