@@ -2,17 +2,25 @@
 layout: default
 ---
 
-## Updated on 2025.07.29
+## Updated on 2025.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-29**|**Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**|Patrick Iff (inf.ethz.ch) et.al.|[2507.21989](http://arxiv.org/abs/2507.21989)|null|
+|**2025-07-29**|**Improving Generative Ad Text on Facebook using Reinforcement Learning**|Daniel R. Jiang (meta.com) et.al.|[2507.21983](http://arxiv.org/abs/2507.21983)|null|
+|**2025-07-29**|**Exploration on Demand: From Algorithmic Control to User Empowerment**|Edoardo Bianchi (unibz.it) et.al.|[2507.21884](http://arxiv.org/abs/2507.21884)|null|
+|**2025-07-29**|**Proposing a Semantic Movie Recommendation System Enhanced by ChatGPT's NLP Results**|Ali Fallahi (kiau.ac.ir) et.al.|[2507.21770](http://arxiv.org/abs/2507.21770)|null|
+|**2025-07-29**|**Towards a rigorous evaluation of RAG systems: the challenge of due diligence**|Grégoire Martinon (capgemini.com) et.al.|[2507.21753](http://arxiv.org/abs/2507.21753)|null|
+|**2025-07-29**|**Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation**|Minh-Anh Nguyen et.al.|[2507.21563](http://arxiv.org/abs/2507.21563)|null|
+|**2025-07-29**|**Efficient Data Retrieval and Comparative Bias Analysis of Recommendation Algorithms for YouTube Shorts and Long-Form Videos**|Selimhan Dagtas (ualr.edu) et.al.|[2507.21467](http://arxiv.org/abs/2507.21467)|null|
+|**2025-07-28**|**Large Language Model-Enhanced Reinforcement Learning for Diverse and Novel Recommendations**|Jiin Woo (andrew.cmu.edu) et.al.|[2507.21274](http://arxiv.org/abs/2507.21274)|null|
 |**2025-07-28**|**Beyond Interactions: Node-Level Graph Generation for Knowledge-Free Augmentation in Recommender Systems**|Zhaoyan Wang (kaist.ac.kr) et.al.|[2507.20578](http://arxiv.org/abs/2507.20578)|null|
 |**2025-07-28**|**MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design**|Zishang Qiu (nottingham.edu.com) et.al.|[2507.20541](http://arxiv.org/abs/2507.20541)|null|
 |**2025-07-27**|**TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation**|Xiang Gao (kuaishou.com) et.al.|[2507.20327](http://arxiv.org/abs/2507.20327)|null|
-|**2025-07-27**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
+|**2025-07-29**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
 |**2025-07-27**|**Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation**|Minh Hoang Nguyen (student.hcmus.edu.vn) et.al.|[2507.20210](http://arxiv.org/abs/2507.20210)|**[link](https://github.com/MinhNguyenDS/Co-NAML-LSTUR)**|
 |**2025-07-27**|**Practical Multi-Task Learning for Rare Conversions in Ad Tech**|Yuval Dishi (teads.com) et.al.|[2507.20161](http://arxiv.org/abs/2507.20161)|null|
 |**2025-07-26**|**Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model**|Sinnyum Choi (gmail.com) et.al.|[2507.19990](http://arxiv.org/abs/2507.19990)|null|
@@ -149,10 +157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-29**|**Improving Generative Ad Text on Facebook using Reinforcement Learning**|Daniel R. Jiang (meta.com) et.al.|[2507.21983](http://arxiv.org/abs/2507.21983)|null|
+|**2025-07-29**|**Exploration on Demand: From Algorithmic Control to User Empowerment**|Edoardo Bianchi (unibz.it) et.al.|[2507.21884](http://arxiv.org/abs/2507.21884)|null|
+|**2025-07-29**|**Proposing a Semantic Movie Recommendation System Enhanced by ChatGPT's NLP Results**|Ali Fallahi (kiau.ac.ir) et.al.|[2507.21770](http://arxiv.org/abs/2507.21770)|null|
+|**2025-07-29**|**Towards a rigorous evaluation of RAG systems: the challenge of due diligence**|Grégoire Martinon (capgemini.com) et.al.|[2507.21753](http://arxiv.org/abs/2507.21753)|null|
+|**2025-07-29**|**Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation**|Minh-Anh Nguyen et.al.|[2507.21563](http://arxiv.org/abs/2507.21563)|null|
+|**2025-07-28**|**Large Language Model-Enhanced Reinforcement Learning for Diverse and Novel Recommendations**|Jiin Woo (andrew.cmu.edu) et.al.|[2507.21274](http://arxiv.org/abs/2507.21274)|null|
 |**2025-07-28**|**Beyond Interactions: Node-Level Graph Generation for Knowledge-Free Augmentation in Recommender Systems**|Zhaoyan Wang (kaist.ac.kr) et.al.|[2507.20578](http://arxiv.org/abs/2507.20578)|null|
 |**2025-07-28**|**MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design**|Zishang Qiu (nottingham.edu.com) et.al.|[2507.20541](http://arxiv.org/abs/2507.20541)|null|
 |**2025-07-27**|**TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation**|Xiang Gao (kuaishou.com) et.al.|[2507.20327](http://arxiv.org/abs/2507.20327)|null|
-|**2025-07-27**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
+|**2025-07-29**|**CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**|Yanda Chen (gmail.com) et.al.|[2507.20227](http://arxiv.org/abs/2507.20227)|null|
 |**2025-07-26**|**Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model**|Sinnyum Choi (gmail.com) et.al.|[2507.19990](http://arxiv.org/abs/2507.19990)|null|
 |**2025-07-22**|**Graph Learning Metallic Glass Discovery from Wikipedia**|K. -C. Ouyang (ustc.edu.cn) et.al.|[2507.19536](http://arxiv.org/abs/2507.19536)|null|
 |**2025-07-25**|**Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges**|Andrii Dzhoha (zalando.de) et.al.|[2507.19346](http://arxiv.org/abs/2507.19346)|null|
@@ -276,6 +290,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-29**|**Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with Large Language Models**|Hyunwoo Yoo (drexel.edu) et.al.|[2507.21980](http://arxiv.org/abs/2507.21980)|null|
+|**2025-07-29**|**Libra: Large Chinese-based Safeguard for AI Content**|Ziyang Chen (iie.ac.cn) et.al.|[2507.21929](http://arxiv.org/abs/2507.21929)|null|
+|**2025-07-29**|**Introducing HALC: A general pipeline for finding optimal prompting strategies for automated coding with LLMs in the computational social sciences**|Andreas Reich (uni-hohenheim.de) et.al.|[2507.21831](http://arxiv.org/abs/2507.21831)|null|
+|**2025-07-29**|**Can large language models assist choice modelling? Insights into prompting strategies and current models capabilities**|Georges Sfeir (leeds.ac.uk) et.al.|[2507.21790](http://arxiv.org/abs/2507.21790)|null|
+|**2025-07-29**|**Proposing a Semantic Movie Recommendation System Enhanced by ChatGPT's NLP Results**|Ali Fallahi (kiau.ac.ir) et.al.|[2507.21770](http://arxiv.org/abs/2507.21770)|null|
+|**2025-07-29**|**Validating Pharmacogenomics Generative Artificial Intelligence Query Prompts Using Retrieval-Augmented Generation (RAG)**|Ashley Rector (mail.lipscomb.edu) et.al.|[2507.21453](http://arxiv.org/abs/2507.21453)|null|
+|**2025-07-29**|**Towards Locally Deployable Fine-Tuned Causal Large Language Models for Mode Choice Behaviour**|Tareq Alsaleh (torontomu.ca) et.al.|[2507.21432](http://arxiv.org/abs/2507.21432)|null|
+|**2025-07-28**|**MAAD: Automate Software Architecture Design through Knowledge-Driven Multi-Agent Collaboration**|Ruiyin Li (whu.edu.cn) et.al.|[2507.21382](http://arxiv.org/abs/2507.21382)|null|
+|**2025-07-26**|**A ChatGPT-based approach for questions generation in higher education**|Sinh Trong Vu (hvnh.edu.vn) et.al.|[2507.21174](http://arxiv.org/abs/2507.21174)|null|
 |**2025-07-28**|**LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning**|Yining Huang (gmail.com) et.al.|[2507.20999](http://arxiv.org/abs/2507.20999)|null|
 |**2025-07-28**|**FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models**|Likun Tan (usepegasi.com) et.al.|[2507.20930](http://arxiv.org/abs/2507.20930)|**[link](https://github.com/pegasi-ai/fine-grained-editting)**|
 |**2025-07-28**|**Leveraging Open-Source Large Language Models for Clinical Information Extraction in Resource-Constrained Settings**|Luc Builtjes (radboudumc.nl) et.al.|[2507.20859](http://arxiv.org/abs/2507.20859)|null|
@@ -286,7 +309,7 @@ layout: default
 |**2025-07-27**|**MazeEval: A Benchmark for Testing Sequential Decision-Making in Language Models**|Hafsteinn Einarsson (hi.is) et.al.|[2507.20395](http://arxiv.org/abs/2507.20395)|null|
 |**2025-07-27**|**Advancing Dialectal Arabic to Modern Standard Arabic Machine Translation**|Abdullah Alabdullah (student.manchester.ac.uk) et.al.|[2507.20301](http://arxiv.org/abs/2507.20301)|null|
 |**2025-07-27**|**What Language(s) Does Aya-23 Think In? How Multilinguality Affects Internal Language Representations**|Katharina Trinley (stud.uni-saarland.de) et.al.|[2507.20279](http://arxiv.org/abs/2507.20279)|null|
-|**2025-07-26**|**The Carbon Cost of Conversation, Sustainability in the Age of Language Models**|Sayed Mahbub Hasan Amiri et.al.|[2507.20018](http://arxiv.org/abs/2507.20018)|null|
+|**2025-07-29**|**The Carbon Cost of Conversation, Sustainability in the Age of Language Models**|Sayed Mahbub Hasan Amiri et.al.|[2507.20018](http://arxiv.org/abs/2507.20018)|null|
 |**2025-07-26**|**Leveraging Fine-Tuned Large Language Models for Interpretable Pancreatic Cystic Lesion Feature Extraction and Risk Categorization**|Ebrahim Rasromani (nyulangone.org) et.al.|[2507.19973](http://arxiv.org/abs/2507.19973)|null|
 |**2025-07-26**|**Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text**|Mizanur Rahman (yorku.ca) et.al.|[2507.19969](http://arxiv.org/abs/2507.19969)|**[link](https://github.com/vis-nlp/Text2Vis)**|
 |**2025-07-26**|**Predicting Brain Responses To Natural Movies With Multimodal LLMs**|Cesar Kadir Torrico Villanueva et.al.|[2507.19956](http://arxiv.org/abs/2507.19956)|**[link](https://github.com/MedARC-AI/algonauts2025)**|
