@@ -1,4 +1,4 @@
-## Updated on 2025.07.31
+## Updated on 2025.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-31**|**Improving annotator selection in Active Learning using a mood and fatigue-aware Recommender System**|Diana Mortagua et.al.|[2507.23756](http://arxiv.org/abs/2507.23756)|null|
+|**2025-07-31**|**KLAN: Kuaishou Landing-page Adaptive Navigator**|Fan Li (kuaishou.com) et.al.|[2507.23459](http://arxiv.org/abs/2507.23459)|null|
+|**2025-07-31**|**Optimal Transport Learning: Balancing Value Optimization and Fairness in Individualized Treatment Rules**|Wenhai Cui et.al.|[2507.23349](http://arxiv.org/abs/2507.23349)|null|
+|**2025-07-31**|**Are Recommenders Self-Aware? Label-Free Recommendation Performance Estimation via Model Uncertainty**|Jiayu Li (gmail.com) et.al.|[2507.23208](http://arxiv.org/abs/2507.23208)|null|
 |**2025-07-30**|**AUV-Fusion: Cross-Modal Adversarial Fusion of User Interactions and Visual Perturbations Against VARS**|Hai Ling (cuc.edu.cn) et.al.|[2507.22880](http://arxiv.org/abs/2507.22880)|null|
-|**2025-07-30**|**RecGPT Technical Report**|Chao Yi et.al.|[2507.22879](http://arxiv.org/abs/2507.22879)|null|
+|**2025-07-31**|**RecGPT Technical Report**|Chao Yi et.al.|[2507.22879](http://arxiv.org/abs/2507.22879)|null|
 |**2025-07-30**|**Sustainability Evaluation Metrics for Recommender Systems**|Alexander Felfernig (tugraz.at) et.al.|[2507.22520](http://arxiv.org/abs/2507.22520)|null|
 |**2025-07-29**|**Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**|Patrick Iff (inf.ethz.ch) et.al.|[2507.21989](http://arxiv.org/abs/2507.21989)|null|
 |**2025-07-29**|**Improving Generative Ad Text on Facebook using Reinforcement Learning**|Daniel R. Jiang (meta.com) et.al.|[2507.21983](http://arxiv.org/abs/2507.21983)|null|
@@ -161,13 +165,13 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250801>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-30**|**RecGPT Technical Report**|Chao Yi et.al.|[2507.22879](http://arxiv.org/abs/2507.22879)|null|
+|**2025-07-31**|**RecGPT Technical Report**|Chao Yi et.al.|[2507.22879](http://arxiv.org/abs/2507.22879)|null|
 |**2025-07-29**|**Improving Generative Ad Text on Facebook using Reinforcement Learning**|Daniel R. Jiang (meta.com) et.al.|[2507.21983](http://arxiv.org/abs/2507.21983)|null|
 |**2025-07-29**|**Exploration on Demand: From Algorithmic Control to User Empowerment**|Edoardo Bianchi (unibz.it) et.al.|[2507.21884](http://arxiv.org/abs/2507.21884)|null|
 |**2025-07-29**|**Proposing a Semantic Movie Recommendation System Enhanced by ChatGPT's NLP Results**|Ali Fallahi (kiau.ac.ir) et.al.|[2507.21770](http://arxiv.org/abs/2507.21770)|null|
@@ -297,12 +301,26 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250801>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-31**|**LLM-Based Identification of Infostealer Infection Vectors from Screenshots: The Case of Aurora**|Estelle Ruellan et.al.|[2507.23611](http://arxiv.org/abs/2507.23611)|null|
+|**2025-07-31**|**Med-R $^3$ : Enhancing Medical Retrieval-Augmented Reasoning of LLMs via Progressive Reinforcement Learning**|Keer Lu et.al.|[2507.23541](http://arxiv.org/abs/2507.23541)|null|
+|**2025-07-31**|**Causal Reasoning in Pieces: Modular In-Context Learning for Causal Discovery**|Kacper Kadziolka (umail.leidenuniv.nl) et.al.|[2507.23488](http://arxiv.org/abs/2507.23488)|null|
+|**2025-07-31**|**Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling**|Trae Research Team (mail.trae.ai) et.al.|[2507.23370](http://arxiv.org/abs/2507.23370)|**[link](https://github.com/bytedance/trae-agent)**|
+|**2025-07-31**|**DSBC : Data Science task Benchmarking with Context engineering**|Ram Mohan Rao Kadiyala (traversaal.ai) et.al.|[2507.23336](http://arxiv.org/abs/2507.23336)|null|
+|**2025-07-31**|**What's Taboo for You? - An Empirical Evaluation of LLMs Behavior Toward Sensitive Content**|Alfio Ferrara (unimi.it) et.al.|[2507.23319](http://arxiv.org/abs/2507.23319)|null|
+|**2025-07-31**|**Evaluating LLMs' Multilingual Capabilities for Bengali: Benchmark Creation and Performance Analysis**|Shimanto Bhowmik (g.rit.edu) et.al.|[2507.23248](http://arxiv.org/abs/2507.23248)|**[link](https://github.com/BengaliAI/bn-llm-benchmark)**|
+|**2025-07-31**|**P-ReMIS: Pragmatic Reasoning in Mental Health and a Social Implication**|Sneha Oram et.al.|[2507.23247](http://arxiv.org/abs/2507.23247)|null|
+|**2025-07-31**|**Enabling Few-Shot Alzheimer's Disease Diagnosis on Tabular Biomarker Data with LLMs**|Sophie Kearney (pennmedicine.upenn.edu) et.al.|[2507.23227](http://arxiv.org/abs/2507.23227)|null|
+|**2025-07-30**|**On the Sustainability of AI Inferences in the Edge**|Ghazal Sobhani et.al.|[2507.23093](http://arxiv.org/abs/2507.23093)|null|
+|**2025-07-30**|**Moravec's Paradox: Towards an Auditory Turing Test**|David Noever (peopletec.com) et.al.|[2507.23091](http://arxiv.org/abs/2507.23091)|null|
+|**2025-07-29**|**CHECK-MAT: Checking Hand-Written Mathematical Answers for the Russian Unified State Exam**|Ruslan Khrulev (gmail.com) et.al.|[2507.22958](http://arxiv.org/abs/2507.22958)|**[link](https://github.com/Karifannaa/Auto-check-EGE-math)**|
+|**2025-07-29**|**LLM-Assisted Cheating Detection in Korean Language via Keystrokes**|Dong Hyun Roh (bucknell.edu) et.al.|[2507.22956](http://arxiv.org/abs/2507.22956)|null|
+|**2025-07-29**|**LLMs Between the Nodes: Community Discovery Beyond Vectors**|Ekta Gujral (ucr.edu) et.al.|[2507.22955](http://arxiv.org/abs/2507.22955)|null|
 |**2025-07-30**|**Where to show Demos in Your Prompt: A Positional Bias of In-Context Learning**|Kwesi Cobbina (umd.edu) et.al.|[2507.22887](http://arxiv.org/abs/2507.22887)|null|
 |**2025-07-30**|**MoCHA: Advanced Vision-Language Reasoning with MoE Connector and Hierarchical Group Attention**|Yuqi Pang (iie.ac.cn) et.al.|[2507.22805](http://arxiv.org/abs/2507.22805)|null|
 |**2025-07-30**|**Investigating Hallucination in Conversations for Low Resource Languages**|Amit Das (una.edu) et.al.|[2507.22720](http://arxiv.org/abs/2507.22720)|null|
@@ -311,7 +329,7 @@
 |**2025-07-30**|**aLLoyM: A large language model for alloy phase diagram prediction**|Yuna Oikawa (nims.go.jp) et.al.|[2507.22558](http://arxiv.org/abs/2507.22558)|null|
 |**2025-07-30**|**AI-generated stories favour stability over change: homogeneity and cultural stereotyping in narratives generated by gpt-4o-mini**|Jill Walker Rettberg et.al.|[2507.22445](http://arxiv.org/abs/2507.22445)|null|
 |**2025-07-30**|**NeedleChain: Measuring Intact Long-Context Reasoning Capability of Large Language Models**|Hyeonseok Moon (korea.ac.kr) et.al.|[2507.22411](http://arxiv.org/abs/2507.22411)|**[link](https://github.com/hyeonseokk/NeedleChain)**|
-|**2025-07-30**|**LLM-Crowdsourced: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models**|Qianhong Guo (nudt.edu.cn) et.al.|[2507.22359](http://arxiv.org/abs/2507.22359)|null|
+|**2025-07-31**|**LLM-Crowdsourced: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models**|Qianhong Guo (nudt.edu.cn) et.al.|[2507.22359](http://arxiv.org/abs/2507.22359)|null|
 |**2025-07-30**|**From Articles to Code: On-Demand Generation of Core Algorithms from Scientific Publications**|Cameron S. Movassaghi (gmail.com) et.al.|[2507.22324](http://arxiv.org/abs/2507.22324)|null|
 |**2025-07-29**|**Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems**|Muhammad Sharshar et.al.|[2507.22239](http://arxiv.org/abs/2507.22239)|null|
 |**2025-07-29**|**Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with Large Language Models**|Hyunwoo Yoo (drexel.edu) et.al.|[2507.21980](http://arxiv.org/abs/2507.21980)|null|
@@ -488,7 +506,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
