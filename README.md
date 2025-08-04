@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-01**|**Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking**|Qing Zhang (airbnb.com) et.al.|[2508.00751](http://arxiv.org/abs/2508.00751)|null|
+|**2025-08-01**|**M^2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation**|Chuan He (zjut.edu.cn) et.al.|[2508.00452](http://arxiv.org/abs/2508.00452)|null|
+|**2025-08-01**|**When Relevance Meets Novelty: Dual-Stable Periodic Optimization for Exploratory Recommendation**|Hongxiang Lin (meituan.com) et.al.|[2508.00450](http://arxiv.org/abs/2508.00450)|null|
+|**2025-07-31**|**RecoMind: A Reinforcement Learning Framework for Optimizing In-Session User Satisfaction in Recommendation Systems**|Mehdi Ben Ayed (pinterest.com) et.al.|[2508.00201](http://arxiv.org/abs/2508.00201)|null|
+|**2025-07-31**|**Audio Prototypical Network For Controllable Music Recommendation**|Fırat Öncel et.al.|[2508.00194](http://arxiv.org/abs/2508.00194)|null|
+|**2025-07-31**|**Exploring the Feasibility of Deep Learning Techniques for Accurate Gender Classification from Eye Images**|Basna Mohammed Salih Hasan (uoz.edu.krd) et.al.|[2508.00135](http://arxiv.org/abs/2508.00135)|null|
+|**2025-07-30**|**Quantum Semi-Random Forests for Qubit-Efficient Recommender Systems**|Azadeh Alavi (rmit.edu.au) et.al.|[2508.00027](http://arxiv.org/abs/2508.00027)|null|
 |**2025-07-31**|**Improving annotator selection in Active Learning using a mood and fatigue-aware Recommender System**|Diana Mortagua et.al.|[2507.23756](http://arxiv.org/abs/2507.23756)|null|
 |**2025-07-31**|**KLAN: Kuaishou Landing-page Adaptive Navigator**|Fan Li (kuaishou.com) et.al.|[2507.23459](http://arxiv.org/abs/2507.23459)|null|
 |**2025-07-31**|**Optimal Transport Learning: Balancing Value Optimization and Fairness in Individualized Treatment Rules**|Wenhai Cui et.al.|[2507.23349](http://arxiv.org/abs/2507.23349)|null|
@@ -171,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-01**|**When Relevance Meets Novelty: Dual-Stable Periodic Optimization for Exploratory Recommendation**|Hongxiang Lin (meituan.com) et.al.|[2508.00450](http://arxiv.org/abs/2508.00450)|null|
 |**2025-07-31**|**RecGPT Technical Report**|Chao Yi et.al.|[2507.22879](http://arxiv.org/abs/2507.22879)|null|
 |**2025-07-29**|**Improving Generative Ad Text on Facebook using Reinforcement Learning**|Daniel R. Jiang (meta.com) et.al.|[2507.21983](http://arxiv.org/abs/2507.21983)|null|
 |**2025-07-29**|**Exploration on Demand: From Algorithmic Control to User Empowerment**|Edoardo Bianchi (unibz.it) et.al.|[2507.21884](http://arxiv.org/abs/2507.21884)|null|
@@ -307,6 +315,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-01**|**Do They Understand Them? An Updated Evaluation on Nonbinary Pronoun Handling in Large Language Models**|Xushuo Tang (unsw.edu.au) et.al.|[2508.00788](http://arxiv.org/abs/2508.00788)|null|
+|**2025-08-01**|**Agentic large language models improve retrieval-based radiology question answering**|Sebastian Wind (fau.de) et.al.|[2508.00743](http://arxiv.org/abs/2508.00743)|null|
+|**2025-08-01**|**Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data**|Sohaib Imran (lancaster.ac.uk) et.al.|[2508.00741](http://arxiv.org/abs/2508.00741)|null|
+|**2025-08-01**|**Demo: TOSense -- What Did You Just Agree to?**|Xinzhang Chen (unsw.edu.au) et.al.|[2508.00659](http://arxiv.org/abs/2508.00659)|null|
+|**2025-08-01**|**Prompting Science Report 3: I'll pay you or I'll kill you -- but will you care?**|Lennart Meincke et.al.|[2508.00614](http://arxiv.org/abs/2508.00614)|null|
+|**2025-08-01**|**LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks**|Francesco Panebianco (polimi.it) et.al.|[2508.00602](http://arxiv.org/abs/2508.00602)|null|
+|**2025-08-01**|**EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond**|Jiaxin Deng et.al.|[2508.00522](http://arxiv.org/abs/2508.00522)|null|
+|**2025-08-01**|**Automated Type Annotation in Python Using Large Language Models**|Varun Bharti (iiitd.ac.in) et.al.|[2508.00422](http://arxiv.org/abs/2508.00422)|null|
+|**2025-08-01**|**Loop Invariant Generation: A Hybrid Framework of Reasoning optimised LLMs and SMT Solvers**|Varun Bharti (iiitd.ac.in) et.al.|[2508.00419](http://arxiv.org/abs/2508.00419)|null|
+|**2025-08-01**|**Lucy: edgerunning agentic web search on mobile with machine generated task vectors**|Alan Dao (menlo.ai) et.al.|[2508.00360](http://arxiv.org/abs/2508.00360)|null|
+|**2025-08-01**|**PilotRL: Training Language Model Agents via Global Planning-Guided Progressive Reinforcement Learning**|Keer Lu et.al.|[2508.00344](http://arxiv.org/abs/2508.00344)|null|
+|**2025-08-01**|**Mind the Gap: The Divergence Between Human and LLM-Generated Tasks**|Yi-Long Lu (gmail.com) et.al.|[2508.00282](http://arxiv.org/abs/2508.00282)|null|
+|**2025-08-01**|**Model Misalignment and Language Change: Traces of AI-Associated Language in Unscripted Spoken English**|Bryce Anderson et.al.|[2508.00238](http://arxiv.org/abs/2508.00238)|null|
+|**2025-07-31**|**Comparison of Large Language Models for Deployment Requirements**|Alper Yaman (ipa.fraunhofer.de) et.al.|[2508.00185](http://arxiv.org/abs/2508.00185)|null|
+|**2025-07-31**|**Watch the Weights: Unsupervised monitoring and control of fine-tuned LLMs**|Ziqian Zhong (andrew.cmu.edu) et.al.|[2508.00161](http://arxiv.org/abs/2508.00161)|**[link](https://github.com/fjzzq2002/WeightWatch)**|
+|**2025-07-31**|**Do LLMs produce texts with "human-like" lexical diversity?**|Kelly Kendro (byuh.edu) et.al.|[2508.00086](http://arxiv.org/abs/2508.00086)|null|
 |**2025-07-31**|**LLM-Based Identification of Infostealer Infection Vectors from Screenshots: The Case of Aurora**|Estelle Ruellan et.al.|[2507.23611](http://arxiv.org/abs/2507.23611)|null|
 |**2025-07-31**|**Med-R $^3$ : Enhancing Medical Retrieval-Augmented Reasoning of LLMs via Progressive Reinforcement Learning**|Keer Lu et.al.|[2507.23541](http://arxiv.org/abs/2507.23541)|null|
 |**2025-07-31**|**Causal Reasoning in Pieces: Modular In-Context Learning for Causal Discovery**|Kacper Kadziolka (umail.leidenuniv.nl) et.al.|[2507.23488](http://arxiv.org/abs/2507.23488)|null|
