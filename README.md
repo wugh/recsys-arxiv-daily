@@ -1,4 +1,4 @@
-## Updated on 2025.08.05
+## Updated on 2025.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**Personalized Recommendation of Dish and Restaurant Collections on iFood**|Fernando F. Granado (ifood.com.br) et.al.|[2508.03670](http://arxiv.org/abs/2508.03670)|null|
+|**2025-08-05**|**CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction**|Zixuan Li (nlpr.ia.ac.cn) et.al.|[2508.03668](http://arxiv.org/abs/2508.03668)|null|
+|**2025-08-05**|**LLMDistill4Ads: Using Cross-Encoders to Distill from LLM Signals for Advertiser Keyphrase Recommendations at eBay**|Soumik Dey (ebay.com) et.al.|[2508.03628](http://arxiv.org/abs/2508.03628)|null|
+|**2025-08-05**|**Demystifying Sequential Recommendations: Counterfactual Explanations via Genetic Algorithms**|Domiziano Scarcelli (studenti.uniroma1.it) et.al.|[2508.03606](http://arxiv.org/abs/2508.03606)|null|
+|**2025-08-05**|**Parameter-Efficient Single Collaborative Branch for Recommendation**|Marta Moscati (jku.at) et.al.|[2508.03518](http://arxiv.org/abs/2508.03518)|null|
+|**2025-08-05**|**HALO: Hindsight-Augmented Learning for Online Auto-Bidding**|Pusen Dong (shopee.com) et.al.|[2508.03267](http://arxiv.org/abs/2508.03267)|null|
+|**2025-08-05**|**NANDA Adaptive Resolver: Architecture for Dynamic Resolution of AI Agent Names**|John Zinky et.al.|[2508.03113](http://arxiv.org/abs/2508.03113)|null|
+|**2025-08-04**|**Realizing Scaling Laws in Recommender Systems: A Foundation-Expert Paradigm for Hyperscale Model Deployment**|Dai Li (meta.com) et.al.|[2508.02929](http://arxiv.org/abs/2508.02929)|null|
+|**2025-08-04**|**Clus-UCB: A Near-Optimal Algorithm for Clustered Bandits**|Aakash Gore (iitb.ac.in) et.al.|[2508.02909](http://arxiv.org/abs/2508.02909)|null|
 |**2025-08-04**|**Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads**|Jiayin Jin (pinterest.com) et.al.|[2508.02609](http://arxiv.org/abs/2508.02609)|null|
 |**2025-08-04**|**Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for Local-Life Service Recommendation**|Zhaoyu Hu (meituan.com) et.al.|[2508.02451](http://arxiv.org/abs/2508.02451)|null|
 |**2025-08-04**|**Agentic Personalized Fashion Recommendation in the Age of Generative AI: Challenges, Opportunities, and Evaluation**|Yashar Deldjoo (acm.org) et.al.|[2508.02342](http://arxiv.org/abs/2508.02342)|null|
@@ -189,12 +198,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction**|Zixuan Li (nlpr.ia.ac.cn) et.al.|[2508.03668](http://arxiv.org/abs/2508.03668)|null|
+|**2025-08-05**|**LLMDistill4Ads: Using Cross-Encoders to Distill from LLM Signals for Advertiser Keyphrase Recommendations at eBay**|Soumik Dey (ebay.com) et.al.|[2508.03628](http://arxiv.org/abs/2508.03628)|null|
 |**2025-08-04**|**Agentic Personalized Fashion Recommendation in the Age of Generative AI: Challenges, Opportunities, and Evaluation**|Yashar Deldjoo (acm.org) et.al.|[2508.02342](http://arxiv.org/abs/2508.02342)|null|
 |**2025-08-04**|**Evaluating User Experience in Conversational Recommender Systems: A Systematic Review Across Classical and LLM-Powered Approaches**|Raj Mahmud (uts.edu.au) et.al.|[2508.02096](http://arxiv.org/abs/2508.02096)|null|
 |**2025-08-02**|**End-to-End Personalization: Unifying Recommender Systems with Large Language Models**|Danial Ebrat (uwindsor.ca) et.al.|[2508.01514](http://arxiv.org/abs/2508.01514)|null|
@@ -330,12 +341,34 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**Agent Lightning: Train ANY AI Agents with Reinforcement Learning**|Xufang Luo (microsoft.com) et.al.|[2508.03680](http://arxiv.org/abs/2508.03680)|null|
+|**2025-08-05**|**Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**|Yong Lin et.al.|[2508.03613](http://arxiv.org/abs/2508.03613)|**[link](https://github.com/Goedel-LM/Goedel-Prover-V2)**|
+|**2025-08-05**|**FilBench: Can LLMs Understand and Generate Filipino?**|Lester James V. Miranda et.al.|[2508.03523](http://arxiv.org/abs/2508.03523)|null|
+|**2025-08-05**|**Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning**|Alexander Golubev (nebius.com) et.al.|[2508.03501](http://arxiv.org/abs/2508.03501)|null|
+|**2025-08-05**|**CF-RAG: A Dataset and Method for Carbon Footprint QA Using Retrieval-Augmented Generation**|Kaiwen Zhao (acm.org) et.al.|[2508.03489](http://arxiv.org/abs/2508.03489)|null|
+|**2025-08-05**|**BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice**|Yuanpeng Li (bytedance.com) et.al.|[2508.03487](http://arxiv.org/abs/2508.03487)|null|
+|**2025-08-05**|**R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation**|Futian Wang (stu.ahu.edu.cn) et.al.|[2508.03426](http://arxiv.org/abs/2508.03426)|**[link](https://github.com/Event-AHU/Medical_Image_Analysis)**|
+|**2025-08-05**|**Hide and Seek with LLMs: An Adversarial Game for Sneaky Error Generation and Self-Improving Diagnosis**|Rui Zou (ruc.edu.cn) et.al.|[2508.03396](http://arxiv.org/abs/2508.03396)|null|
+|**2025-08-05**|**Board Game Arena: A Framework and Benchmark for Assessing Large Language Models via Strategic Play**|Lucia Cipolina-Kun et.al.|[2508.03368](http://arxiv.org/abs/2508.03368)|null|
+|**2025-08-05**|**Taggus: An Automated Pipeline for the Extraction of Characters' Social Networks from Portuguese Fiction Literature**|Tiago G Canário (novaims.unl.pt) et.al.|[2508.03358](http://arxiv.org/abs/2508.03358)|null|
+|**2025-08-05**|**Compressing Chain-of-Thought in LLMs via Step Entropy**|Zeju Li (cse.cuhk.edu.hk) et.al.|[2508.03346](http://arxiv.org/abs/2508.03346)|null|
+|**2025-08-05**|**Adaptive AI Agent Placement and Migration in Edge Intelligence Systems**|Xingdan Wang (mail.bnu.edu.cn) et.al.|[2508.03345](http://arxiv.org/abs/2508.03345)|null|
+|**2025-08-05**|**NLP Methods May Actually Be Better Than Professors at Estimating Question Difficulty**|Leonidas Zotos (rug.nl) et.al.|[2508.03294](http://arxiv.org/abs/2508.03294)|null|
+|**2025-08-05**|**GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations**|Xinwei Liu et.al.|[2508.03209](http://arxiv.org/abs/2508.03209)|null|
+|**2025-08-05**|**Light-IF: Endowing LLMs with Generalizable Reasoning via Preview and Self-Checking for Complex Instruction Following**|Chenyang Wang (360.cn) et.al.|[2508.03178](http://arxiv.org/abs/2508.03178)|null|
+|**2025-08-05**|**CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and Prediction**|Jueon Park (korea.ac.kr) et.al.|[2508.03159](http://arxiv.org/abs/2508.03159)|**[link](https://github.com/dmis-lab/CoTox)**|
+|**2025-08-05**|**Estimating Worst-Case Frontier Risks of Open-Weight LLMs**|Eric Wallace et.al.|[2508.03153](http://arxiv.org/abs/2508.03153)|null|
+|**2025-08-05**|**Can Large Language Models Bridge the Gap in Environmental Knowledge?**|Linda Smail (zu.ac.ae) et.al.|[2508.03149](http://arxiv.org/abs/2508.03149)|null|
+|**2025-08-05**|**AgentSME for Simulating Diverse Communication Modes in Smart Education**|Wen-Xi Yang (foxmail.com) et.al.|[2508.03109](http://arxiv.org/abs/2508.03109)|null|
+|**2025-08-04**|**MedBLINK: Probing Basic Perception in Multimodal Language Models for Medicine**|Mahtab Bigverdi et.al.|[2508.02951](http://arxiv.org/abs/2508.02951)|null|
+|**2025-08-04**|**On the Theory and Practice of GRPO: A Trajectory-Corrected Approach with Fast Convergence**|Lei Pang (pku.edu.cn) et.al.|[2508.02833](http://arxiv.org/abs/2508.02833)|null|
+|**2025-08-04**|**Cognitive Loop via In-Situ Optimization: Self-Adaptive Reasoning for Science**|Newman Cheng (microsoft.com) et.al.|[2508.02789](http://arxiv.org/abs/2508.02789)|null|
 |**2025-08-04**|**MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification**|Ming Pok Ng (imperial.ac.uk) et.al.|[2508.02584](http://arxiv.org/abs/2508.02584)|null|
 |**2025-08-04**|**EHSAN: Leveraging ChatGPT in a Hybrid Framework for Arabic Aspect-Based Sentiment Analysis in Healthcare**|Eman Alamoudi (newcastle.ac.uk) et.al.|[2508.02574](http://arxiv.org/abs/2508.02574)|null|
 |**2025-08-04**|**I Have No Mouth, and I Must Rhyme: Uncovering Internal Phonetic Representations in LLaMA 3.2**|Jack Merullo (brown.edu) et.al.|[2508.02527](http://arxiv.org/abs/2508.02527)|null|
@@ -581,7 +614,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
