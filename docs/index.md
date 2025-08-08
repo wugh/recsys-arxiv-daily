@@ -2,13 +2,24 @@
 layout: default
 ---
 
-## Updated on 2025.08.07
+## Updated on 2025.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**On the Reliability of Sampling Strategies in Offline Recommender Evaluation**|Bruno L. Pereira (dcc.ufmg.br) et.al.|[2508.05398](http://arxiv.org/abs/2508.05398)|null|
+|**2025-08-07**|**Does Multimodality Improve Recommender Systems as Expected? A Critical Analysis and Future Directions**|Hongyu Zhou (e.ntu.edu.sg) et.al.|[2508.05377](http://arxiv.org/abs/2508.05377)|null|
+|**2025-08-07**|**Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising**|Xiaoxi Cui (163.com) et.al.|[2508.05352](http://arxiv.org/abs/2508.05352)|null|
+|**2025-08-07**|**RLHF Fine-Tuning of LLMs for Alignment with Implicit User Feedback in Conversational Recommenders**|Zhongheng Yang (northeastern.edu) et.al.|[2508.05289](http://arxiv.org/abs/2508.05289)|null|
+|**2025-08-07**|**FIRE: Faithful Interpretable Recommendation Explanations**|S. M. F. Sani (sharif.edu) et.al.|[2508.05225](http://arxiv.org/abs/2508.05225)|null|
+|**2025-08-07**|**Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising**|Bin Liu (alibaba-inc.com) et.al.|[2508.05206](http://arxiv.org/abs/2508.05206)|null|
+|**2025-08-07**|**Navigating Through Paper Flood: Advancing LLM-based Paper Evaluation through Domain-Aware Retrieval and Latent Reasoning**|Wuqiang Zheng (gmail.com) et.al.|[2508.05129](http://arxiv.org/abs/2508.05129)|null|
+|**2025-08-07**|**Community-Aware Social Community Recommendation**|Runhao Jiang (comp.hkbu.edu.hk) et.al.|[2508.05107](http://arxiv.org/abs/2508.05107)|null|
+|**2025-08-07**|**An End-to-End Multi-objective Ensemble Ranking Framework for Video Recommendation**|Tiantian He (kuaishou.com) et.al.|[2508.05093](http://arxiv.org/abs/2508.05093)|null|
+|**2025-08-07**|**A Metric for MLLM Alignment in Large-scale Recommendation**|Yubin Zhang (xiaohongshu.com) et.al.|[2508.04963](http://arxiv.org/abs/2508.04963)|null|
+|**2025-08-06**|**Federated Continual Recommendation**|Jaehyung Lim (postech.ac.kr) et.al.|[2508.04792](http://arxiv.org/abs/2508.04792)|null|
 |**2025-08-06**|**HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs**|Dengzhao Fang (gmail.com) et.al.|[2508.04618](http://arxiv.org/abs/2508.04618)|null|
 |**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao (baidu.com) et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|null|
 |**2025-08-06**|**Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation**|Claudio Pomo (poliba.it) et.al.|[2508.04571](http://arxiv.org/abs/2508.04571)|null|
@@ -211,6 +222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**RLHF Fine-Tuning of LLMs for Alignment with Implicit User Feedback in Conversational Recommenders**|Zhongheng Yang (northeastern.edu) et.al.|[2508.05289](http://arxiv.org/abs/2508.05289)|null|
+|**2025-08-07**|**Navigating Through Paper Flood: Advancing LLM-based Paper Evaluation through Domain-Aware Retrieval and Latent Reasoning**|Wuqiang Zheng (gmail.com) et.al.|[2508.05129](http://arxiv.org/abs/2508.05129)|null|
+|**2025-08-07**|**A Metric for MLLM Alignment in Large-scale Recommendation**|Yubin Zhang (xiaohongshu.com) et.al.|[2508.04963](http://arxiv.org/abs/2508.04963)|null|
 |**2025-08-06**|**TURA: Tool-Augmented Unified Retrieval Agent for AI Search**|Zhejun Zhao (baidu.com) et.al.|[2508.04604](http://arxiv.org/abs/2508.04604)|null|
 |**2025-08-06**|**Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation**|Claudio Pomo (poliba.it) et.al.|[2508.04571](http://arxiv.org/abs/2508.04571)|null|
 |**2025-08-06**|**ViLLA-MMBench: A Unified Benchmark Suite for LLM-Augmented Multimodal Movie Recommendation**|Fatemeh Nazary (poliba.it) et.al.|[2508.04206](http://arxiv.org/abs/2508.04206)|**[link](https://recsys-lab.github.io/ViLLA-MMBench)**|
@@ -356,7 +370,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-06**|**IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards**|Xu Guo (pjlab.org.cn) et.al.|[2508.04632](http://arxiv.org/abs/2508.04632)|null|
+|**2025-08-07**|**Streamlining Admission with LOR Insights: AI-Based Leadership Assessment in Online Master's Program**|Meryem Yilmaz Soylu (gatech.edu) et.al.|[2508.05513](http://arxiv.org/abs/2508.05513)|null|
+|**2025-08-07**|**Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation**|Roshita Bhonsle et.al.|[2508.05508](http://arxiv.org/abs/2508.05508)|null|
+|**2025-08-07**|**InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities**|Shuo Cai et.al.|[2508.05496](http://arxiv.org/abs/2508.05496)|null|
+|**2025-08-07**|**TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**|Chenzhuo Zhao (stu.pku.edu.cn) et.al.|[2508.05468](http://arxiv.org/abs/2508.05468)|**[link](https://github.com/cyzcz/Tase)**|
+|**2025-08-07**|**Can Language Models Critique Themselves? Investigating Self-Feedback for Retrieval Augmented Generation at BioASQ 2025**|Samy Ateia (stud.uni-regensburg.de) et.al.|[2508.05366](http://arxiv.org/abs/2508.05366)|null|
+|**2025-08-07**|**Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression**|Jiameng Huang (stu.pku.edu.cn) et.al.|[2508.05337](http://arxiv.org/abs/2508.05337)|null|
+|**2025-08-07**|**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**|Meiqi Wu (mails.ucas.ac.cn) et.al.|[2508.05299](http://arxiv.org/abs/2508.05299)|**[link](https://github.com/wmeiqi/VS-LLM)**|
+|**2025-08-07**|**Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction**|Sahar Salimpour (utu.fi) et.al.|[2508.05294](http://arxiv.org/abs/2508.05294)|null|
+|**2025-08-07**|**MoBE: Mixture-of-Basis-Experts for Compressing MoE-based LLMs**|Xiaodong Chen et.al.|[2508.05257](http://arxiv.org/abs/2508.05257)|null|
+|**2025-08-07**|**Evaluation of LLMs in AMR Parsing**|Shu Han Ho (ucl.ac.uk) et.al.|[2508.05028](http://arxiv.org/abs/2508.05028)|null|
+|**2025-08-07**|**A Multi-Stage Large Language Model Framework for Extracting Suicide-Related Social Determinants of Health**|Song Wang (med.cornell.edu) et.al.|[2508.05003](http://arxiv.org/abs/2508.05003)|null|
+|**2025-08-07**|**Situated Epistemic Infrastructures: A Diagnostic Framework for Post-Coherence Knowledge**|Matthew Kelly et.al.|[2508.04995](http://arxiv.org/abs/2508.04995)|null|
+|**2025-08-06**|**Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment**|Aleksander Boruch-Gruszecki (abgru.me) et.al.|[2508.04865](http://arxiv.org/abs/2508.04865)|null|
+|**2025-08-06**|**Automated File-Level Logging Generation for Machine Learning Applications using LLMs: A Case Study using GPT-4o Mini**|Mayra Sofia Ruiz Rodriguez (live.concordia.ca) et.al.|[2508.04820](http://arxiv.org/abs/2508.04820)|null|
+|**2025-08-06**|**Enhancing Dialogue Annotation with Speaker Characteristics Leveraging a Frozen LLM**|Thomas Thebaud (jhu.edu) et.al.|[2508.04795](http://arxiv.org/abs/2508.04795)|null|
+|**2025-08-06**|**AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models**|Xuan Lin (xtu.edu.cn) et.al.|[2508.04748](http://arxiv.org/abs/2508.04748)|**[link](https://github.com/szu-tera/AttriLens-Mol)**|
+|**2025-08-06**|**CodonMoE: DNA Language Models for mRNA Analyses**|Shiyi Du (cs.cmu.edu) et.al.|[2508.04739](http://arxiv.org/abs/2508.04739)|null|
+|**2025-08-07**|**IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards**|Xu Guo (pjlab.org.cn) et.al.|[2508.04632](http://arxiv.org/abs/2508.04632)|null|
 |**2025-08-06**|**\textsc{SimInstruct}: A Responsible Tool for Collecting Scaffolding Dialogues Between Experts and LLM-Simulated Novices**|Si Chen et.al.|[2508.04428](http://arxiv.org/abs/2508.04428)|null|
 |**2025-08-06**|**Evaluating, Synthesizing, and Enhancing for Customer Support Conversation**|Jie Zhu et.al.|[2508.04423](http://arxiv.org/abs/2508.04423)|**[link](https://github.com/aliyun/qwen-dianjin)**|
 |**2025-08-06**|**Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents**|Thassilo M. Schiepanski (surfly.com) et.al.|[2508.04412](http://arxiv.org/abs/2508.04412)|null|
