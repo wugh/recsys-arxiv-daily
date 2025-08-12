@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2025.08.11
+## Updated on 2025.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation**|Van-Khang Nguyen (vnu.edu.vn) et.al.|[2508.08042](http://arxiv.org/abs/2508.08042)|**[link](https://github.com/L2R-UET/MAMEX)**|
+|**2025-08-11**|**Early Explorations of Recommender Systems for Physical Activity and Well-being**|Alan Said (acm.org) et.al.|[2508.07980](http://arxiv.org/abs/2508.07980)|null|
+|**2025-08-11**|**Meta Off-Policy Estimation**|Olivier Jeunen (aampe.com) et.al.|[2508.07914](http://arxiv.org/abs/2508.07914)|null|
+|**2025-08-11**|**Recommendation Is a Dish Better Served Warm**|Danil Gusak (skoltech.ru) et.al.|[2508.07856](http://arxiv.org/abs/2508.07856)|null|
+|**2025-08-11**|**Encode Me If You Can: Learning Universal User Representations via Event Sequence Autoencoding**|Anton Klenitskiy (gmail.com) et.al.|[2508.07748](http://arxiv.org/abs/2508.07748)|null|
+|**2025-08-11**|**Ethics2vec: aligning automatic agents and human preferences**|Gianluca Bontempi et.al.|[2508.07673](http://arxiv.org/abs/2508.07673)|null|
+|**2025-08-11**|**UMRE: A Unified Monotonic Transformation for Ranking Ensemble in Recommender Systems**|Zhengrui Xu (bjtu.edu.cn) et.al.|[2508.07613](http://arxiv.org/abs/2508.07613)|null|
+|**2025-08-11**|**ShoulderShot: Generating Over-the-Shoulder Dialogue Videos**|Yuang Zhang (gmail.com) et.al.|[2508.07597](http://arxiv.org/abs/2508.07597)|**[link](https://shouldershot.github.io)**|
+|**2025-08-11**|**Towards Comprehensible Recommendation with Large Language Model Fine-tuning**|Yunze Luo (pku.edu.cn) et.al.|[2508.07595](http://arxiv.org/abs/2508.07595)|null|
+|**2025-08-11**|**Orthogonal Low Rank Embedding Stabilization**|Kevin Zielnicki (netflix.com) et.al.|[2508.07574](http://arxiv.org/abs/2508.07574)|null|
+|**2025-08-10**|**SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations**|Amit Jaspal (meta.com) et.al.|[2508.07241](http://arxiv.org/abs/2508.07241)|null|
+|**2025-08-10**|**"Draw me a curator" Examining the visual stereotyping of a cultural services profession by generative AI**|Dirk HR Spennemann (csu.edu.au) et.al.|[2508.07132](http://arxiv.org/abs/2508.07132)|null|
+|**2025-08-09**|**Blending Sequential Embeddings, Graphs, and Engineered Features: 4th Place Solution in RecSys Challenge 2025**|Sergei Makeev (gmail.com) et.al.|[2508.06970](http://arxiv.org/abs/2508.06970)|null|
 |**2025-08-08**|**Maximum Impact with Fewer Features: Efficient Feature Selection for Cold-Start Recommenders through Collaborative Importance Weighting**|Nikita Sukhorukov (airi.net) et.al.|[2508.06455](http://arxiv.org/abs/2508.06455)|null|
 |**2025-08-08**|**Graph Federated Learning for Personalized Privacy Recommendation**|Ce Na (stu.yzu.edu.cn) et.al.|[2508.06208](http://arxiv.org/abs/2508.06208)|null|
 |**2025-08-08**|**Semantic Item Graph Enhancement for Multimodal Recommendation**|Xiaoxiong Zhang (e.ntu.edu.sg) et.al.|[2508.06154](http://arxiv.org/abs/2508.06154)|null|
@@ -17,7 +30,7 @@ layout: default
 |**2025-08-08**|**Dual prototype attentive graph network for cross-market recommendation**|Li Fan (xjtlu.edu.cn) et.al.|[2508.05969](http://arxiv.org/abs/2508.05969)|null|
 |**2025-08-07**|**G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation**|Boyu Chen et.al.|[2508.05709](http://arxiv.org/abs/2508.05709)|null|
 |**2025-08-07**|**Multi-Faceted Large Embedding Tables for Pinterest Ads Ranking**|Runze Su (pinterest.com) et.al.|[2508.05700](http://arxiv.org/abs/2508.05700)|null|
-|**2025-08-07**|**On the Reliability of Sampling Strategies in Offline Recommender Evaluation**|Bruno L. Pereira (dcc.ufmg.br) et.al.|[2508.05398](http://arxiv.org/abs/2508.05398)|null|
+|**2025-08-11**|**On the Reliability of Sampling Strategies in Offline Recommender Evaluation**|Bruno L. Pereira (dcc.ufmg.br) et.al.|[2508.05398](http://arxiv.org/abs/2508.05398)|null|
 |**2025-08-07**|**Does Multimodality Improve Recommender Systems as Expected? A Critical Analysis and Future Directions**|Hongyu Zhou (e.ntu.edu.sg) et.al.|[2508.05377](http://arxiv.org/abs/2508.05377)|null|
 |**2025-08-07**|**Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising**|Xiaoxi Cui (163.com) et.al.|[2508.05352](http://arxiv.org/abs/2508.05352)|null|
 |**2025-08-07**|**RLHF Fine-Tuning of LLMs for Alignment with Implicit User Feedback in Conversational Recommenders**|Zhongheng Yang (northeastern.edu) et.al.|[2508.05289](http://arxiv.org/abs/2508.05289)|null|
@@ -230,6 +243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Towards Comprehensible Recommendation with Large Language Model Fine-tuning**|Yunze Luo (pku.edu.cn) et.al.|[2508.07595](http://arxiv.org/abs/2508.07595)|null|
 |**2025-08-07**|**G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation**|Boyu Chen et.al.|[2508.05709](http://arxiv.org/abs/2508.05709)|null|
 |**2025-08-01**|**ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations**|Zekun Liu (bjtu.edu.cn) et.al.|[2508.05667](http://arxiv.org/abs/2508.05667)|**[link](https://github.com/hellolzk/ITDR)**|
 |**2025-07-30**|**Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation**|Haozhe Xu (m.fudan.edu.cn) et.al.|[2508.05657](http://arxiv.org/abs/2508.05657)|null|
@@ -241,7 +255,7 @@ layout: default
 |**2025-08-06**|**ViLLA-MMBench: A Unified Benchmark Suite for LLM-Augmented Multimodal Movie Recommendation**|Fatemeh Nazary (poliba.it) et.al.|[2508.04206](http://arxiv.org/abs/2508.04206)|**[link](https://recsys-lab.github.io/ViLLA-MMBench)**|
 |**2025-08-06**|**Enhancing Serendipity Recommendation System by Constructing Dynamic User Knowledge Graphs with Large Language Models**|Qian Yong (gmail.com) et.al.|[2508.04032](http://arxiv.org/abs/2508.04032)|null|
 |**2025-08-05**|**CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction**|Zixuan Li (nlpr.ia.ac.cn) et.al.|[2508.03668](http://arxiv.org/abs/2508.03668)|null|
-|**2025-08-05**|**LLMDistill4Ads: Using Cross-Encoders to Distill from LLM Signals for Advertiser Keyphrase Recommendations at eBay**|Soumik Dey (ebay.com) et.al.|[2508.03628](http://arxiv.org/abs/2508.03628)|null|
+|**2025-08-08**|**LLMDistill4Ads: Using Cross-Encoders to Distill from LLM Signals for Advertiser Keyphrase Recommendations at eBay**|Soumik Dey (ebay.com) et.al.|[2508.03628](http://arxiv.org/abs/2508.03628)|null|
 |**2025-08-04**|**Agentic Personalized Fashion Recommendation in the Age of Generative AI: Challenges, Opportunities, and Evaluation**|Yashar Deldjoo (acm.org) et.al.|[2508.02342](http://arxiv.org/abs/2508.02342)|null|
 |**2025-08-06**|**Evaluating User Experience in Conversational Recommender Systems: A Systematic Review Across Classical and LLM-Powered Approaches**|Raj Mahmud (uts.edu.au) et.al.|[2508.02096](http://arxiv.org/abs/2508.02096)|null|
 |**2025-08-02**|**End-to-End Personalization: Unifying Recommender Systems with Large Language Models**|Danial Ebrat (uwindsor.ca) et.al.|[2508.01514](http://arxiv.org/abs/2508.01514)|null|
@@ -381,6 +395,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang (emory.edu) et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
+|**2025-08-11**|**Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions**|Bangsheng Tang (meta.com) et.al.|[2508.08192](http://arxiv.org/abs/2508.08192)|null|
+|**2025-08-11**|**Data-Efficient Biomedical In-Context Learning: A Diversity-Enhanced Submodular Perspective**|Jun Wang (umn.edu) et.al.|[2508.08140](http://arxiv.org/abs/2508.08140)|null|
+|**2025-08-11**|**Vision-Based Localization and LLM-based Navigation for Indoor Environments**|Keyan Rahimi (brown.edu) et.al.|[2508.08120](http://arxiv.org/abs/2508.08120)|null|
+|**2025-08-11**|**ChatGPT on the Road: Leveraging Large Language Model-Powered In-vehicle Conversational Agents for Safer and More Enjoyable Driving Experience**|Yeana Lee Bond (vt.edu) et.al.|[2508.08101](http://arxiv.org/abs/2508.08101)|null|
+|**2025-08-11**|**Large Language Models for Subjective Language Understanding: A Survey**|Changhao Song (tju.edu.cn) et.al.|[2508.07959](http://arxiv.org/abs/2508.07959)|null|
+|**2025-08-11**|**Evaluating Large Language Models as Expert Annotators**|Yu-Min Tseng (vt.edu) et.al.|[2508.07827](http://arxiv.org/abs/2508.07827)|null|
+|**2025-08-11**|**EvoCoT: Overcoming the Exploration Bottleneck in Reinforcement Learning**|Huanyu Liu (stu.pku.edu.cn) et.al.|[2508.07809](http://arxiv.org/abs/2508.07809)|null|
+|**2025-08-11**|**UniSVG: A Unified Dataset for Vector Graphic Understanding and Generation with Multimodal Large Language Models**|Jinke Li (intl.zju.edu.cn) et.al.|[2508.07766](http://arxiv.org/abs/2508.07766)|**[link](https://ryanlijinke.github.io/)**|
+|**2025-08-11**|**What am I missing here?: Evaluating Large Language Models for Masked Sentence Prediction**|Charlie Wyatt (student.unsw.edu.au) et.al.|[2508.07702](http://arxiv.org/abs/2508.07702)|null|
+|**2025-08-11**|**1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning**|Wenkai Li (andrew.cmu.edu) et.al.|[2508.07667](http://arxiv.org/abs/2508.07667)|null|
+|**2025-08-11**|**Multi-Turn Jailbreaks Are Simpler Than They Seem**|Xiaoxue Yang (imperial.ac.uk) et.al.|[2508.07646](http://arxiv.org/abs/2508.07646)|**[link](https://github.com/diogo-cruz/multi_turn_simpler)**|
+|**2025-08-10**|**Pentest-R1: Towards Autonomous Penetration Testing Reasoning Optimized via Two-Stage Reinforcement Learning**|He Kong et.al.|[2508.07382](http://arxiv.org/abs/2508.07382)|null|
+|**2025-08-10**|**CCFQA: A Benchmark for Cross-Lingual and Cross-Modal Speech and Text Factuality Evaluation**|Yexing Du (ir.hit.edu.cn) et.al.|[2508.07295](http://arxiv.org/abs/2508.07295)|**[link](https://github.com/yxduir/ccfqa)**|
+|**2025-08-10**|**Can Smaller Large Language Models Evaluate Research Quality?**|Mike Thelwall et.al.|[2508.07196](http://arxiv.org/abs/2508.07196)|null|
+|**2025-08-10**|**Schema Lineage Extraction at Scale: Multilingual Pipelines, Composite Evaluation, and Language-Model Benchmarks**|Jiaqi Yin (microsoft.com) et.al.|[2508.07179](http://arxiv.org/abs/2508.07179)|null|
+|**2025-08-10**|**A Real-Time, Self-Tuning Moderator Framework for Adversarial Prompt Detection**|Ivan Zhang (andrew.cmu.edu) et.al.|[2508.07139](http://arxiv.org/abs/2508.07139)|null|
+|**2025-08-09**|**Towards Safer AI Moderation: Evaluating LLM Moderators Through a Unified Benchmark Dataset and Advocating a Human-First Approach**|Naseem Machlovi (fordham.edu) et.al.|[2508.07063](http://arxiv.org/abs/2508.07063)|null|
+|**2025-08-09**|**ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability**|Wenhan Liu (ruc.edu.cn) et.al.|[2508.07050](http://arxiv.org/abs/2508.07050)|**[link](https://brightbenchmark.github.io/)**|
+|**2025-08-09**|**K-Dense Analyst: Towards Fully Automated Scientific Analysis**|Orion Li (biostate.ai) et.al.|[2508.07043](http://arxiv.org/abs/2508.07043)|null|
+|**2025-08-09**|**Large Language Models Do Not Simulate Human Psychology**|Sarah Schröder et.al.|[2508.06950](http://arxiv.org/abs/2508.06950)|null|
+|**2025-08-09**|**Technical Report: Full-Stack Fine-Tuning for the Q Programming Language**|Brendan R. Hogan (morganstanley.com) et.al.|[2508.06813](http://arxiv.org/abs/2508.06813)|null|
+|**2025-08-09**|**PROPS: Progressively Private Self-alignment of Large Language Models**|Noel Teku (arizona.edu) et.al.|[2508.06783](http://arxiv.org/abs/2508.06783)|null|
+|**2025-08-08**|**Large Language Models for Oral History Understanding with Text Classification and Sentiment Analysis**|Komala Subramanyam Cherukuri (my.unt.edu) et.al.|[2508.06729](http://arxiv.org/abs/2508.06729)|**[link](https://github.com/kc6699c/LLM4OralHistoryAnalysis)**|
+|**2025-08-08**|**Play Favorites: A Statistical Method to Measure Self-Bias in LLM-as-a-Judge**|Evangelia Spiliopoulou et.al.|[2508.06709](http://arxiv.org/abs/2508.06709)|null|
+|**2025-08-08**|**Fractal Language Modelling by Universal Sequence Maps (USM)**|Jonas S Almeida (nih.gov) et.al.|[2508.06641](http://arxiv.org/abs/2508.06641)|null|
 |**2025-08-08**|**Effective Training Data Synthesis for Improving MLLM Chart Understanding**|Yuwei Yang (anu.edu.au) et.al.|[2508.06492](http://arxiv.org/abs/2508.06492)|**[link](https://github.com/yuweiyang-anu/ECD)**|
 |**2025-08-08**|**HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning**|Guimin Hu (gmail.com) et.al.|[2508.06475](http://arxiv.org/abs/2508.06475)|null|
 |**2025-08-08**|**Echoes of Automation: The Increasing Use of LLMs in Newsmaking**|Abolfazl Ansari (psu.edu) et.al.|[2508.06445](http://arxiv.org/abs/2508.06445)|null|
