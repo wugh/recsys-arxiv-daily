@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.08.12
+## Updated on 2025.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for recommender system**|Jialiang Shi (dewu.com) et.al.|[2508.09090](http://arxiv.org/abs/2508.09090)|null|
+|**2025-08-12**|**Recent Advances and Trends in Research Paper Recommender Systems: A Comprehensive Survey**|Iratxe Pinedo (ehu.eus) et.al.|[2508.08828](http://arxiv.org/abs/2508.08828)|null|
+|**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri (spotify.com) et.al.|[2508.08777](http://arxiv.org/abs/2508.08777)|null|
+|**2025-08-12**|**Expert-Guided Diffusion Planner for Auto-bidding**|Yunshan Peng (kuaishou.com) et.al.|[2508.08687](http://arxiv.org/abs/2508.08687)|null|
+|**2025-08-11**|**Using LLMs to Capture Users' Temporal Context for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2508.08512](http://arxiv.org/abs/2508.08512)|null|
+|**2025-08-11**|**Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations**|Milad Sabouri (depaul.edu) et.al.|[2508.08454](http://arxiv.org/abs/2508.08454)|null|
+|**2025-08-11**|**Regret minimization in Linear Bandits with offline data via extended D-optimal exploration**|Sushant Vijayan (tifr.res.in) et.al.|[2508.08420](http://arxiv.org/abs/2508.08420)|null|
+|**2025-08-11**|**Generating Query-Relevant Document Summaries via Reinforcement Learning**|Nitin Yadav (walmart.com) et.al.|[2508.08404](http://arxiv.org/abs/2508.08404)|null|
 |**2025-08-11**|**Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation**|Van-Khang Nguyen (vnu.edu.vn) et.al.|[2508.08042](http://arxiv.org/abs/2508.08042)|**[link](https://github.com/L2R-UET/MAMEX)**|
 |**2025-08-11**|**Early Explorations of Recommender Systems for Physical Activity and Well-being**|Alan Said (acm.org) et.al.|[2508.07980](http://arxiv.org/abs/2508.07980)|null|
 |**2025-08-11**|**Meta Off-Policy Estimation**|Olivier Jeunen (aampe.com) et.al.|[2508.07914](http://arxiv.org/abs/2508.07914)|null|
@@ -243,6 +251,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri (spotify.com) et.al.|[2508.08777](http://arxiv.org/abs/2508.08777)|null|
+|**2025-08-11**|**Using LLMs to Capture Users' Temporal Context for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2508.08512](http://arxiv.org/abs/2508.08512)|null|
+|**2025-08-11**|**Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations**|Milad Sabouri (depaul.edu) et.al.|[2508.08454](http://arxiv.org/abs/2508.08454)|null|
+|**2025-08-11**|**Generating Query-Relevant Document Summaries via Reinforcement Learning**|Nitin Yadav (walmart.com) et.al.|[2508.08404](http://arxiv.org/abs/2508.08404)|null|
 |**2025-08-11**|**Towards Comprehensible Recommendation with Large Language Model Fine-tuning**|Yunze Luo (pku.edu.cn) et.al.|[2508.07595](http://arxiv.org/abs/2508.07595)|null|
 |**2025-08-07**|**G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation**|Boyu Chen et.al.|[2508.05709](http://arxiv.org/abs/2508.05709)|null|
 |**2025-08-01**|**ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations**|Zekun Liu (bjtu.edu.cn) et.al.|[2508.05667](http://arxiv.org/abs/2508.05667)|**[link](https://github.com/hellolzk/ITDR)**|
@@ -395,6 +407,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Xinyuan Wang et.al.|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
+|**2025-08-12**|**Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams**|Zane Witherspoon et.al.|[2508.09036](http://arxiv.org/abs/2508.09036)|null|
+|**2025-08-12**|**Steering Towards Fairness: Mitigating Political Bias in LLMs**|Afrozah Nadeem (students.mq.edu.au) et.al.|[2508.08846](http://arxiv.org/abs/2508.08846)|null|
+|**2025-08-12**|**EditMF: Drawing an Invisible Fingerprint for Your Large Language Models**|Jiaxuan Wu (cau.edu.cn) et.al.|[2508.08836](http://arxiv.org/abs/2508.08836)|null|
+|**2025-08-12**|**An Investigation of Robustness of LLMs in Mathematical Reasoning: Benchmarking with Mathematically-Equivalent Transformation of Advanced Mathematical Problems**|Yuren Hao (illinois.edu) et.al.|[2508.08833](http://arxiv.org/abs/2508.08833)|null|
+|**2025-08-12**|**TiMoE: Time-Aware Mixture of Language Experts**|Robin Faro (epfl.ch) et.al.|[2508.08827](http://arxiv.org/abs/2508.08827)|**[link](https://github.com/epfml/TiMoE)**|
+|**2025-08-12**|**Prompt-and-Check: Using Large Language Models to Evaluate Communication Protocol Compliance in Simulation-Based Training**|Vishakha Lall (sp.edu.sg) et.al.|[2508.08652](http://arxiv.org/abs/2508.08652)|null|
+|**2025-08-12**|**LLaMA-Based Models for Aspect-Based Sentiment Analysis**|Jakub Šmíd (kiv.zcu.cz) et.al.|[2508.08649](http://arxiv.org/abs/2508.08649)|null|
+|**2025-08-11**|**SynLLM: A Comparative Analysis of Large Language Models for Medical Tabular Synthetic Data Generation via Prompt Engineering**|Arshia Ilaty (sdsu.edu) et.al.|[2508.08529](http://arxiv.org/abs/2508.08529)|null|
+|**2025-08-11**|**Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery**|Jiatong Li (pjlab.org.cn) et.al.|[2508.08401](http://arxiv.org/abs/2508.08401)|null|
+|**2025-08-11**|**CoDAE: Adapting Large Language Models for Education via Chain-of-Thought Data Augmentation**|Shuzhou Yuan (tu-dresden.de) et.al.|[2508.08386](http://arxiv.org/abs/2508.08386)|null|
+|**2025-08-11**|**UrzaGPT: LoRA-Tuned Large Language Models for Card Selection in Collectible Card Games**|Timo Bertram (ml.jku.at) et.al.|[2508.08382](http://arxiv.org/abs/2508.08382)|null|
+|**2025-08-10**|**Energy-Aware Code Generation with LLMs: Benchmarking Small vs. Large Language Models for Sustainable AI Programming**|Humza Ashraf (algomau.ca) et.al.|[2508.08332](http://arxiv.org/abs/2508.08332)|null|
 |**2025-08-11**|**Capabilities of GPT-5 on Multimodal Medical Reasoning**|Shansong Wang (emory.edu) et.al.|[2508.08224](http://arxiv.org/abs/2508.08224)|null|
 |**2025-08-11**|**Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions**|Bangsheng Tang (meta.com) et.al.|[2508.08192](http://arxiv.org/abs/2508.08192)|null|
 |**2025-08-11**|**Data-Efficient Biomedical In-Context Learning: A Diversity-Enhanced Submodular Perspective**|Jun Wang (umn.edu) et.al.|[2508.08140](http://arxiv.org/abs/2508.08140)|null|
