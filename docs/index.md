@@ -2,20 +2,24 @@
 layout: default
 ---
 
-## Updated on 2025.08.13
+## Updated on 2025.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-12**|**SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for recommender system**|Jialiang Shi (dewu.com) et.al.|[2508.09090](http://arxiv.org/abs/2508.09090)|null|
+|**2025-08-13**|**Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations**|Marco De Nadai (spotify.com) et.al.|[2508.09789](http://arxiv.org/abs/2508.09789)|null|
+|**2025-08-13**|**Generative Modeling with Multi-Instance Reward Learning for E-commerce Creative Optimization**|Qiaolei Gu (jd.com) et.al.|[2508.09730](http://arxiv.org/abs/2508.09730)|null|
+|**2025-08-13**|**On Negative-aware Preference Optimization for Recommendation**|Chenlu Ding (gmail.com) et.al.|[2508.09653](http://arxiv.org/abs/2508.09653)|null|
+|**2025-08-12**|**Over-Squashing in GNNs and Causal Inference of Rewiring Strategies**|Danial Saber (ontariotechu.ca) et.al.|[2508.09265](http://arxiv.org/abs/2508.09265)|null|
+|**2025-08-13**|**SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for recommender system**|Jialiang Shi (dewu.com) et.al.|[2508.09090](http://arxiv.org/abs/2508.09090)|null|
 |**2025-08-12**|**Recent Advances and Trends in Research Paper Recommender Systems: A Comprehensive Survey**|Iratxe Pinedo (ehu.eus) et.al.|[2508.08828](http://arxiv.org/abs/2508.08828)|null|
 |**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri (spotify.com) et.al.|[2508.08777](http://arxiv.org/abs/2508.08777)|null|
 |**2025-08-12**|**Expert-Guided Diffusion Planner for Auto-bidding**|Yunshan Peng (kuaishou.com) et.al.|[2508.08687](http://arxiv.org/abs/2508.08687)|null|
 |**2025-08-11**|**Using LLMs to Capture Users' Temporal Context for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2508.08512](http://arxiv.org/abs/2508.08512)|null|
 |**2025-08-11**|**Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations**|Milad Sabouri (depaul.edu) et.al.|[2508.08454](http://arxiv.org/abs/2508.08454)|null|
-|**2025-08-11**|**Regret minimization in Linear Bandits with offline data via extended D-optimal exploration**|Sushant Vijayan (tifr.res.in) et.al.|[2508.08420](http://arxiv.org/abs/2508.08420)|null|
+|**2025-08-13**|**Regret minimization in Linear Bandits with offline data via extended D-optimal exploration**|Sushant Vijayan (tifr.res.in) et.al.|[2508.08420](http://arxiv.org/abs/2508.08420)|null|
 |**2025-08-11**|**Generating Query-Relevant Document Summaries via Reinforcement Learning**|Nitin Yadav (walmart.com) et.al.|[2508.08404](http://arxiv.org/abs/2508.08404)|null|
 |**2025-08-11**|**Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation**|Van-Khang Nguyen (vnu.edu.vn) et.al.|[2508.08042](http://arxiv.org/abs/2508.08042)|**[link](https://github.com/L2R-UET/MAMEX)**|
 |**2025-08-11**|**Early Explorations of Recommender Systems for Physical Activity and Well-being**|Alan Said (acm.org) et.al.|[2508.07980](http://arxiv.org/abs/2508.07980)|null|
@@ -251,6 +255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-13**|**Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations**|Marco De Nadai (spotify.com) et.al.|[2508.09789](http://arxiv.org/abs/2508.09789)|null|
+|**2025-08-13**|**On Negative-aware Preference Optimization for Recommendation**|Chenlu Ding (gmail.com) et.al.|[2508.09653](http://arxiv.org/abs/2508.09653)|null|
 |**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri (spotify.com) et.al.|[2508.08777](http://arxiv.org/abs/2508.08777)|null|
 |**2025-08-11**|**Using LLMs to Capture Users' Temporal Context for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2508.08512](http://arxiv.org/abs/2508.08512)|null|
 |**2025-08-11**|**Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations**|Milad Sabouri (depaul.edu) et.al.|[2508.08454](http://arxiv.org/abs/2508.08454)|null|
@@ -407,6 +413,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-13**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki (ccf.org) et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
+|**2025-08-13**|**VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models**|Lingjie Jiang et.al.|[2508.09945](http://arxiv.org/abs/2508.09945)|null|
+|**2025-08-13**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang (memphis.edu) et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
+|**2025-08-13**|**Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models**|Jiaqi Cao et.al.|[2508.09874](http://arxiv.org/abs/2508.09874)|null|
+|**2025-08-13**|**The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?**|Manuel Herrador (ujaen.es) et.al.|[2508.09762](http://arxiv.org/abs/2508.09762)|null|
+|**2025-08-13**|**Evaluating the Role of Large Language Models in Legal Practice in India**|Rahul Hemrajani (nls.ac.in) et.al.|[2508.09713](http://arxiv.org/abs/2508.09713)|null|
+|**2025-08-13**|**MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement**|Weitao Jia et.al.|[2508.09670](http://arxiv.org/abs/2508.09670)|null|
+|**2025-08-13**|**AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian**|Tatiana Batura et.al.|[2508.09622](http://arxiv.org/abs/2508.09622)|**[link](https://github.com/iis-research-team/AINL-Eval-2025)**|
+|**2025-08-13**|**How Persuasive Could LLMs Be? A First Study Combining Linguistic-Rhetorical Analysis and User Experiments**|Daniel Raffini (diag.uniroma1.it) et.al.|[2508.09614](http://arxiv.org/abs/2508.09614)|null|
+|**2025-08-13**|**The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage**|Skyler Hallinan (usc.edu) et.al.|[2508.09603](http://arxiv.org/abs/2508.09603)|null|
+|**2025-08-13**|**HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap**|Wenxiang Lin (stu.hit.edu.cn) et.al.|[2508.09591](http://arxiv.org/abs/2508.09591)|null|
+|**2025-08-13**|**UWBa at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval**|Ladislav Lenc (kiv.zcu.cz) et.al.|[2508.09517](http://arxiv.org/abs/2508.09517)|null|
+|**2025-08-13**|**From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text**|Ridwan Mahbub (yorku.ca) et.al.|[2508.09450](http://arxiv.org/abs/2508.09450)|null|
+|**2025-08-12**|**Decoding Neural Emotion Patterns through Natural Language Processing Embeddings**|Gideon Vos et.al.|[2508.09337](http://arxiv.org/abs/2508.09337)|null|
+|**2025-08-12**|**Leveraging Large Language Models for Rare Disease Named Entity Recognition**|Nan Miles Xi (purdue.edu) et.al.|[2508.09323](http://arxiv.org/abs/2508.09323)|null|
+|**2025-08-12**|**Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs**|Aayush Gupta et.al.|[2508.09288](http://arxiv.org/abs/2508.09288)|**[link](https://github.com/ayushgupta4897/Contextual-Integrity-Verification)**|
+|**2025-08-12**|**Cluster Topology-Driven Placement of Experts Reduces Network Traffic in MoE Inference**|Danil Sivtsov (airi.net) et.al.|[2508.09229](http://arxiv.org/abs/2508.09229)|null|
+|**2025-08-12**|**From Hard Refusals to Safe-Completions: Toward Output-Centric Safety Training**|Yuan Yuan (openai.com) et.al.|[2508.09224](http://arxiv.org/abs/2508.09224)|null|
 |**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Xinyuan Wang et.al.|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
 |**2025-08-12**|**Can We Trust AI to Govern AI? Benchmarking LLM Performance on Privacy and AI Governance Exams**|Zane Witherspoon et.al.|[2508.09036](http://arxiv.org/abs/2508.09036)|null|
 |**2025-08-12**|**Steering Towards Fairness: Mitigating Political Bias in LLMs**|Afrozah Nadeem (students.mq.edu.au) et.al.|[2508.08846](http://arxiv.org/abs/2508.08846)|null|
