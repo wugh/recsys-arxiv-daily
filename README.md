@@ -1,4 +1,4 @@
-## Updated on 2025.08.14
+## Updated on 2025.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
+|**2025-08-14**|**CrossDenoise: Denoising Implicit Feedback via a Lightweight Entity-Aware Synergistic Framework**|Ze Liu (mail.ustc.edu.cn) et.al.|[2508.10851](http://arxiv.org/abs/2508.10851)|null|
+|**2025-08-14**|**Non-Stationary Restless Multi-Armed Bandits with Provable Guarantee**|Yu-Heng Hung (nycu.edu.tw) et.al.|[2508.10804](http://arxiv.org/abs/2508.10804)|null|
+|**2025-08-14**|**Hypercomplex Prompt-aware Multimodal Recommendation**|Zheyu Chen (connect.polyu.hk) et.al.|[2508.10753](http://arxiv.org/abs/2508.10753)|null|
+|**2025-08-14**|**STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation**|Zhenye Yang (bupt.edu.cn) et.al.|[2508.10669](http://arxiv.org/abs/2508.10669)|**[link](https://github.com/Alex-bupt/STEP)**|
+|**2025-08-14**|**DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System**|Wencai Ye (kuaishou.com) et.al.|[2508.10584](http://arxiv.org/abs/2508.10584)|null|
+|**2025-08-14**|**Efficient Patent Searching Using Graph Transformers**|Krzysztof Daniell (iprally.com) et.al.|[2508.10496](http://arxiv.org/abs/2508.10496)|null|
+|**2025-08-14**|**Confounding is a Pervasive Problem in Real World Recommender Systems**|Alexander Merkov et.al.|[2508.10479](http://arxiv.org/abs/2508.10479)|null|
+|**2025-08-14**|**Proxy Model-Guided Reinforcement Learning for Client Selection in Federated Recommendation**|Liang Qu (ecu.edu.au) et.al.|[2508.10401](http://arxiv.org/abs/2508.10401)|null|
+|**2025-08-14**|**Beyond Semantic Understanding: Preserving Collaborative Frequency Components in LLM-based Recommendation**|Minhao Wang (stu.ecnu.edu.cn) et.al.|[2508.10312](http://arxiv.org/abs/2508.10312)|null|
+|**2025-08-13**|**DS4RS: Community-Driven and Explainable Dataset Search Engine for Recommender System Research**|Xinyang Shao (huawei-partners.com) et.al.|[2508.10238](http://arxiv.org/abs/2508.10238)|null|
 |**2025-08-13**|**Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations**|Marco De Nadai (spotify.com) et.al.|[2508.09789](http://arxiv.org/abs/2508.09789)|null|
 |**2025-08-13**|**Generative Modeling with Multi-Instance Reward Learning for E-commerce Creative Optimization**|Qiaolei Gu (jd.com) et.al.|[2508.09730](http://arxiv.org/abs/2508.09730)|null|
 |**2025-08-13**|**On Negative-aware Preference Optimization for Recommendation**|Chenlu Ding (gmail.com) et.al.|[2508.09653](http://arxiv.org/abs/2508.09653)|null|
@@ -256,12 +267,16 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
+|**2025-08-14**|**STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation**|Zhenye Yang (bupt.edu.cn) et.al.|[2508.10669](http://arxiv.org/abs/2508.10669)|**[link](https://github.com/Alex-bupt/STEP)**|
+|**2025-08-14**|**DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System**|Wencai Ye (kuaishou.com) et.al.|[2508.10584](http://arxiv.org/abs/2508.10584)|null|
+|**2025-08-14**|**Beyond Semantic Understanding: Preserving Collaborative Frequency Components in LLM-based Recommendation**|Minhao Wang (stu.ecnu.edu.cn) et.al.|[2508.10312](http://arxiv.org/abs/2508.10312)|null|
 |**2025-08-13**|**Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations**|Marco De Nadai (spotify.com) et.al.|[2508.09789](http://arxiv.org/abs/2508.09789)|null|
 |**2025-08-13**|**On Negative-aware Preference Optimization for Recommendation**|Chenlu Ding (gmail.com) et.al.|[2508.09653](http://arxiv.org/abs/2508.09653)|null|
 |**2025-08-12**|**Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge**|Francesco Fabbri (spotify.com) et.al.|[2508.08777](http://arxiv.org/abs/2508.08777)|null|
@@ -416,15 +431,31 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-13**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki (ccf.org) et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
+|**2025-08-14**|**Performance of GPT-5 in Brain Tumor MRI Reasoning**|Mojtaba Safari (emory.edu) et.al.|[2508.10865](http://arxiv.org/abs/2508.10865)|null|
+|**2025-08-14**|**Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**|Chongyuan Dai (mail.hfut.edu.cn) et.al.|[2508.10848](http://arxiv.org/abs/2508.10848)|null|
+|**2025-08-14**|**FROGENT: An End-to-End Full-process Drug Design Agent**|Qihua Pan (foxmail.com) et.al.|[2508.10760](http://arxiv.org/abs/2508.10760)|null|
+|**2025-08-14**|**eDIF: A European Deep Inference Fabric for Remote Interpretability of LLM**|Irma Heithoff. Marc Guggenberger (hs-ansbach.de) et.al.|[2508.10553](http://arxiv.org/abs/2508.10553)|null|
+|**2025-08-14**|**Diversity First, Quality Later: A Two-Stage Assumption for Language Model Alignment**|Zetian Sun (gmail.com) et.al.|[2508.10530](http://arxiv.org/abs/2508.10530)|null|
+|**2025-08-14**|**A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation**|Jiulin Li (bigai.ai) et.al.|[2508.10494](http://arxiv.org/abs/2508.10494)|null|
+|**2025-08-14**|**SEQ-GPT: LLM-assisted Spatial Query via Example**|Ivan Khai Ze Lim (e.ntu.edu.sg) et.al.|[2508.10486](http://arxiv.org/abs/2508.10486)|null|
+|**2025-08-14**|**X-Node: Self-Explanation is All We Need**|Prajit Sengupta (imperial.ac.uk) et.al.|[2508.10461](http://arxiv.org/abs/2508.10461)|**[link](https://github.com/basiralab/X-Node)**|
+|**2025-08-14**|**MM-Food-100K: A 100,000-Sample Multimodal Food Intelligence Dataset with Verifiable Provenance**|Yi Dong (inductive.network) et.al.|[2508.10429](http://arxiv.org/abs/2508.10429)|null|
+|**2025-08-14**|**Evaluating LLMs on Chinese Idiom Translation**|Cai Yang (outlook.com) et.al.|[2508.10421](http://arxiv.org/abs/2508.10421)|null|
+|**2025-08-14**|**MCP2OSC: Parametric Control by Natural Language**|Yuan-Yi Fan (yuanyifan.com) et.al.|[2508.10414](http://arxiv.org/abs/2508.10414)|null|
+|**2025-08-14**|**Large Language Models for Summarizing Czech Historical Documents and Beyond**|Václav Tran (students.zcu.cz) et.al.|[2508.10368](http://arxiv.org/abs/2508.10368)|null|
+|**2025-08-14**|**Why Cannot Large Language Models Ever Make True Correct Reasoning?**|Jingde Cheng (aise.ics.saitama-u.ac.jp) et.al.|[2508.10265](http://arxiv.org/abs/2508.10265)|null|
+|**2025-08-13**|**Benchmark-Driven Selection of AI: Evidence from DeepSeek-R1**|Petr Spelda (fsv.cuni.cz) et.al.|[2508.10173](http://arxiv.org/abs/2508.10173)|null|
+|**2025-08-13**|**Agentic AI Frameworks: Architectures, Protocols, and Design Challenges**|Hana Derouiche (gmail.com) et.al.|[2508.10146](http://arxiv.org/abs/2508.10146)|null|
+|**2025-08-12**|**Large Language Models Show Signs of Alignment with Human Neurocognition During Abstract Reasoning**|Christopher Pinier (uva.nl) et.al.|[2508.10057](http://arxiv.org/abs/2508.10057)|null|
+|**2025-08-14**|**Performance of GPT-5 Frontier Models in Ophthalmology Question Answering**|Fares Antaki (ccf.org) et.al.|[2508.09956](http://arxiv.org/abs/2508.09956)|null|
 |**2025-08-13**|**VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models**|Lingjie Jiang et.al.|[2508.09945](http://arxiv.org/abs/2508.09945)|null|
-|**2025-08-13**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang (memphis.edu) et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
+|**2025-08-14**|**Mathematical Computation and Reasoning Errors by Large Language Models**|Liang Zhang (memphis.edu) et.al.|[2508.09932](http://arxiv.org/abs/2508.09932)|null|
 |**2025-08-13**|**Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models**|Jiaqi Cao et.al.|[2508.09874](http://arxiv.org/abs/2508.09874)|null|
 |**2025-08-13**|**The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?**|Manuel Herrador (ujaen.es) et.al.|[2508.09762](http://arxiv.org/abs/2508.09762)|null|
 |**2025-08-13**|**Evaluating the Role of Large Language Models in Legal Practice in India**|Rahul Hemrajani (nls.ac.in) et.al.|[2508.09713](http://arxiv.org/abs/2508.09713)|null|
@@ -798,7 +829,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
