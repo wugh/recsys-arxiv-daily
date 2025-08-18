@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems**|Kaiyuan Li (kuaishou.com) et.al.|[2508.11565](http://arxiv.org/abs/2508.11565)|null|
+|**2025-08-15**|**When Algorithms Mirror Minds: A Confirmation-Aware Social Dynamic Model of Echo Chamber and Homogenization Traps**|Ming Tang (bjtu.edu.cn) et.al.|[2508.11516](http://arxiv.org/abs/2508.11516)|null|
+|**2025-08-15**|**Mitigating Filter Bubble from the Perspective of Community Detection: A Universal Framework**|Ming Tang (bjtu.edu.cn) et.al.|[2508.11239](http://arxiv.org/abs/2508.11239)|null|
+|**2025-08-15**|**Representation Quantization for Collaborative Filtering Augmentation**|Yunze Luo (pku.edu.cn) et.al.|[2508.11194](http://arxiv.org/abs/2508.11194)|null|
+|**2025-08-15**|**Role-Augmented Intent-Driven Generative Search Engine Optimization**|Xiaolu Chen et.al.|[2508.11158](http://arxiv.org/abs/2508.11158)|null|
+|**2025-08-14**|**Hybrid-Hierarchical Fashion Graph Attention Network for Compatibility-Oriented and Personalized Outfit Recommendation**|Sajjad Saed (modares.ac.ir) et.al.|[2508.11105](http://arxiv.org/abs/2508.11105)|null|
 |**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
 |**2025-08-14**|**CrossDenoise: Denoising Implicit Feedback via a Lightweight Entity-Aware Synergistic Framework**|Ze Liu (mail.ustc.edu.cn) et.al.|[2508.10851](http://arxiv.org/abs/2508.10851)|null|
 |**2025-08-14**|**Non-Stationary Restless Multi-Armed Bandits with Provable Guarantee**|Yu-Heng Hung (nycu.edu.tw) et.al.|[2508.10804](http://arxiv.org/abs/2508.10804)|null|
@@ -266,6 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**Role-Augmented Intent-Driven Generative Search Engine Optimization**|Xiaolu Chen et.al.|[2508.11158](http://arxiv.org/abs/2508.11158)|null|
 |**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
 |**2025-08-14**|**STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation**|Zhenye Yang (bupt.edu.cn) et.al.|[2508.10669](http://arxiv.org/abs/2508.10669)|**[link](https://github.com/Alex-bupt/STEP)**|
 |**2025-08-14**|**DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System**|Wencai Ye (kuaishou.com) et.al.|[2508.10584](http://arxiv.org/abs/2508.10584)|null|
@@ -428,6 +435,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**Is ChatGPT-5 Ready for Mammogram VQA?**|Qiang Li (emory.edu) et.al.|[2508.11628](http://arxiv.org/abs/2508.11628)|null|
+|**2025-08-15**|**CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection**|Zhihao Li et.al.|[2508.11599](http://arxiv.org/abs/2508.11599)|null|
+|**2025-08-15**|**Retrieval-augmented reasoning with lean language models**|Ryan Sze-Yin Chan (turing.ac.uk) et.al.|[2508.11386](http://arxiv.org/abs/2508.11386)|null|
+|**2025-08-15**|**When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness Methods for LLMs**|Mikhail Seleznyov (airi.net) et.al.|[2508.11383](http://arxiv.org/abs/2508.11383)|**[link](https://github.com/AIRI-Institute/when-punctuation-matters)**|
+|**2025-08-15**|**Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning**|Sylvio Rüdian et.al.|[2508.11364](http://arxiv.org/abs/2508.11364)|null|
+|**2025-08-15**|**LLM Compression: How Far Can We Go in Balancing Size and Performance?**|Sahil Sk (amd.com) et.al.|[2508.11318](http://arxiv.org/abs/2508.11318)|null|
+|**2025-08-15**|**AI in Mental Health: Emotional and Sentiment Analysis of Large Language Models' Responses to Depression, Anxiety, and Stress Queries**|Arya VarastehNezhad (ut.ac.ir) et.al.|[2508.11285](http://arxiv.org/abs/2508.11285)|null|
+|**2025-08-15**|**ToxiFrench: Benchmarking and Enhancing Language Models via CoT Fine-Tuning for French Toxicity Detection**|Axel Delaval (polytechnique.org) et.al.|[2508.11281](http://arxiv.org/abs/2508.11281)|null|
+|**2025-08-15**|**LETToT: Label-Free Evaluation of Large Language Models On Tourism Using Expert Tree-of-Thought**|Ruiyan Qi (warwick.ac.uk) et.al.|[2508.11280](http://arxiv.org/abs/2508.11280)|null|
+|**2025-08-15**|**Is General-Purpose AI Reasoning Sensitive to Data-Induced Cognitive Biases? Dynamic Benchmarking on Typical Software Engineering Dilemmas**|Francesco Sovrano (ethz.ch) et.al.|[2508.11278](http://arxiv.org/abs/2508.11278)|null|
+|**2025-08-15**|**Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing**|Ruicheng Xian (illinois.edu) et.al.|[2508.11258](http://arxiv.org/abs/2508.11258)|null|
+|**2025-08-15**|**Hallucination in LLM-Based Code Generation: An Automotive Case Study**|Marc Pavel (mytum.de) et.al.|[2508.11257](http://arxiv.org/abs/2508.11257)|null|
+|**2025-08-14**|**BIPOLAR: Polarization-based granular framework for LLM bias evaluation**|Martin Pavlíček et.al.|[2508.11061](http://arxiv.org/abs/2508.11061)|null|
+|**2025-08-14**|**Can Multi-modal (reasoning) LLMs detect document manipulation?**|Zisheng Liang (duke.edu) et.al.|[2508.11021](http://arxiv.org/abs/2508.11021)|null|
+|**2025-08-14**|**Not There Yet: Evaluating Vision Language Models in Simulating the Visual Perception of People with Low Vision**|Rosiana Natalie (umich.edu) et.al.|[2508.10972](http://arxiv.org/abs/2508.10972)|null|
+|**2025-08-14**|**Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules**|Nasim Shirvani-Mahdavi (mavs.uta.edu) et.al.|[2508.10971](http://arxiv.org/abs/2508.10971)|**[link](https://github.com/idirlab/KGRule2NL)**|
+|**2025-08-14**|**Empowering Multimodal LLMs with External Tools: A Comprehensive Survey**|Wenbin An (stu.xjtu.edu.cn) et.al.|[2508.10955](http://arxiv.org/abs/2508.10955)|null|
 |**2025-08-14**|**Performance of GPT-5 in Brain Tumor MRI Reasoning**|Mojtaba Safari (emory.edu) et.al.|[2508.10865](http://arxiv.org/abs/2508.10865)|null|
 |**2025-08-14**|**Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning**|Chongyuan Dai (mail.hfut.edu.cn) et.al.|[2508.10848](http://arxiv.org/abs/2508.10848)|null|
 |**2025-08-14**|**FROGENT: An End-to-End Full-process Drug Design Agent**|Qihua Pan (foxmail.com) et.al.|[2508.10760](http://arxiv.org/abs/2508.10760)|null|
