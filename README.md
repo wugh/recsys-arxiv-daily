@@ -1,4 +1,4 @@
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-18**|**D-RDW: Diversity-Driven Random Walks for News Recommender Systems**|Runze Li (uzh.ch) et.al.|[2508.13035](http://arxiv.org/abs/2508.13035)|null|
+|**2025-08-18**|**Informfully Recommenders -- Reproducibility Framework for Diversity-aware Intra-session Recommendations**|Lucien Heitz (ifi.uzh.ch) et.al.|[2508.13019](http://arxiv.org/abs/2508.13019)|null|
+|**2025-08-18**|**Asymmetric Diffusion Recommendation Model**|Yongchun Zhu (bytedance.com) et.al.|[2508.12706](http://arxiv.org/abs/2508.12706)|null|
+|**2025-08-18**|**The Maximum Coverage Model and Recommendation System for UAV Vertiports Location Planning**|Chunliang Hua (seu.edu.cn) et.al.|[2508.12651](http://arxiv.org/abs/2508.12651)|null|
+|**2025-08-18**|**Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation**|Hongyang Liu (hdr.mq.edu.au) et.al.|[2508.12645](http://arxiv.org/abs/2508.12645)|null|
+|**2025-08-16**|**Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations**|Viacheslav Yusupov (hse.ru) et.al.|[2508.11978](http://arxiv.org/abs/2508.11978)|null|
+|**2025-08-16**|**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**|Zida Liang (sjtu.edu.cn) et.al.|[2508.11977](http://arxiv.org/abs/2508.11977)|null|
 |**2025-08-15**|**INFNet: A Task-aware Information Flow Network for Large-Scale Recommendation Systems**|Kaiyuan Li (kuaishou.com) et.al.|[2508.11565](http://arxiv.org/abs/2508.11565)|null|
 |**2025-08-15**|**When Algorithms Mirror Minds: A Confirmation-Aware Social Dynamic Model of Echo Chamber and Homogenization Traps**|Ming Tang (bjtu.edu.cn) et.al.|[2508.11516](http://arxiv.org/abs/2508.11516)|null|
 |**2025-08-15**|**Mitigating Filter Bubble from the Perspective of Community Detection: A Universal Framework**|Ming Tang (bjtu.edu.cn) et.al.|[2508.11239](http://arxiv.org/abs/2508.11239)|null|
@@ -273,12 +280,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-18**|**Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation**|Hongyang Liu (hdr.mq.edu.au) et.al.|[2508.12645](http://arxiv.org/abs/2508.12645)|null|
+|**2025-08-07**|**LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering**|Ronald Carvalho Boadana (uea.edu.br) et.al.|[2508.11671](http://arxiv.org/abs/2508.11671)|null|
 |**2025-08-15**|**Role-Augmented Intent-Driven Generative Search Engine Optimization**|Xiaolu Chen et.al.|[2508.11158](http://arxiv.org/abs/2508.11158)|null|
 |**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
 |**2025-08-14**|**STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation**|Zhenye Yang (bupt.edu.cn) et.al.|[2508.10669](http://arxiv.org/abs/2508.10669)|**[link](https://github.com/Alex-bupt/STEP)**|
@@ -438,12 +447,30 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-18**|**Spot the BlindSpots: Systematic Identification and Quantification of Fine-Grained LLM Biases in Contact Center Summaries**|Kawin Mayilvaghanan (observe.ai) et.al.|[2508.13124](http://arxiv.org/abs/2508.13124)|null|
+|**2025-08-18**|**WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents**|Ralph Peeters (uni-mannheim.de) et.al.|[2508.13024](http://arxiv.org/abs/2508.13024)|null|
+|**2025-08-18**|**Do Large Language Model Agents Exhibit a Survival Instinct? An Empirical Study in a Sugarscape-Style Simulation**|Atsushi Masumori (gmail.com) et.al.|[2508.12920](http://arxiv.org/abs/2508.12920)|null|
+|**2025-08-18**|**SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite State Machines in Systems-on-Chip**|Ziteng Hu et.al.|[2508.12910](http://arxiv.org/abs/2508.12910)|null|
+|**2025-08-18**|**Reinforcement Learning with Rubric Anchors**|Zenan Huang (zju.edu.cn) et.al.|[2508.12790](http://arxiv.org/abs/2508.12790)|null|
+|**2025-08-18**|**EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding**|Ashish Seth (umd.edu) et.al.|[2508.12687](http://arxiv.org/abs/2508.12687)|null|
+|**2025-08-18**|**Beyond GPT-5: Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing**|Yiqun Zhang (pjlab.org.cn) et.al.|[2508.12631](http://arxiv.org/abs/2508.12631)|**[link](https://github.com/ZhangYiqun018/AvengersPro)**|
+|**2025-08-18**|**CorrSteer: Steering Improves Task Performance and Safety in LLMs through Correlation-based Sparse Autoencoder Feature Selection**|Seonglae Cho et.al.|[2508.12535](http://arxiv.org/abs/2508.12535)|null|
+|**2025-08-17**|**Rethinking Safety in LLM Fine-tuning: An Optimization Perspective**|Minseon Kim (microsoft.com) et.al.|[2508.12531](http://arxiv.org/abs/2508.12531)|null|
+|**2025-08-17**|**Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models**|Ziqian Bi (vokram.com) et.al.|[2508.12461](http://arxiv.org/abs/2508.12461)|null|
+|**2025-08-17**|**GraphCogent: Overcoming LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding**|Rongzheng Wang (std.uestc.edu.cn) et.al.|[2508.12379](http://arxiv.org/abs/2508.12379)|null|
+|**2025-08-17**|**Legal $Δ$ : Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain**|Xin Dai (mail.neu.edu.cn) et.al.|[2508.12281](http://arxiv.org/abs/2508.12281)|**[link](https://github.com/NEUIR/LegalDelta)**|
+|**2025-08-16**|**Simple o3: Towards Interleaved Vision-Language Reasoning**|Ye Wang (m.fudan.edu.cn) et.al.|[2508.12109](http://arxiv.org/abs/2508.12109)|null|
+|**2025-08-16**|**VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models**|Haidong Xu (gmail.com) et.al.|[2508.12081](http://arxiv.org/abs/2508.12081)|null|
+|**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen (unb.ca) et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
+|**2025-08-16**|**SupraTok: Cross-Boundary Tokenization for Enhanced Language Model Performance**|Andrei-Valentin Tănase (365.univ-ovidius.ro) et.al.|[2508.11857](http://arxiv.org/abs/2508.11857)|null|
+|**2025-08-15**|**A Multi-Task Evaluation of LLMs' Processing of Academic Text Input**|Tianyi Li (cuhk.edu.hk) et.al.|[2508.11779](http://arxiv.org/abs/2508.11779)|null|
+|**2025-08-15**|**Using Natural Language for Human-Robot Collaboration in the Real World**|Peter Lindes (cic.iqmri.org) et.al.|[2508.11759](http://arxiv.org/abs/2508.11759)|null|
 |**2025-08-15**|**Is ChatGPT-5 Ready for Mammogram VQA?**|Qiang Li (emory.edu) et.al.|[2508.11628](http://arxiv.org/abs/2508.11628)|null|
 |**2025-08-15**|**CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection**|Zhihao Li et.al.|[2508.11599](http://arxiv.org/abs/2508.11599)|null|
 |**2025-08-15**|**Retrieval-augmented reasoning with lean language models**|Ryan Sze-Yin Chan (turing.ac.uk) et.al.|[2508.11386](http://arxiv.org/abs/2508.11386)|null|
@@ -853,7 +880,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
