@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2025.08.20
+## Updated on 2025.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Reading Between the Lines: A Study of Thematic Bias in Book Recommender Systems**|Nityaa Kalra (gmail.com) et.al.|[2508.15643](http://arxiv.org/abs/2508.15643)|null|
+|**2025-08-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong (tum.de) et.al.|[2508.15633](http://arxiv.org/abs/2508.15633)|null|
+|**2025-08-21**|**LongRetriever: Towards Ultra-Long Sequence based Candidate Retrieval for Recommendation**|Ren Qin (bytedance.com) et.al.|[2508.15486](http://arxiv.org/abs/2508.15486)|null|
+|**2025-08-21**|**SLM4Offer: Personalized Marketing Offer Generation Using Contrastive Learning Based Fine-Tuning**|Vedasamhitha Challapalli et.al.|[2508.15471](http://arxiv.org/abs/2508.15471)|null|
+|**2025-08-21**|**TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation**|Yu Xia (mails.ucas.ac.cn) et.al.|[2508.15388](http://arxiv.org/abs/2508.15388)|null|
+|**2025-08-21**|**KG-EDAS: A Meta-Metric Framework for Evaluating Knowledge Graph Completion Models**|Haji Gul et.al.|[2508.15357](http://arxiv.org/abs/2508.15357)|null|
+|**2025-08-21**|**Modeling Long-term User Behaviors with Diffusion-driven Multi-interest Network for CTR Prediction**|Weijiang Lai (otcaix.iscas.ac.cn) et.al.|[2508.15311](http://arxiv.org/abs/2508.15311)|**[link](https://github.com/laiweijiang/DiffuMIN)**|
+|**2025-08-21**|**REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale Recommendation Systems**|Haibo Xing (alibaba-inc.com) et.al.|[2508.15308](http://arxiv.org/abs/2508.15308)|null|
+|**2025-08-21**|**MLLMRec: Exploring the Potential of Multimodal Large Language Models in Recommender Systems**|Yuzhuo Dang (nudt.edu.cn) et.al.|[2508.15304](http://arxiv.org/abs/2508.15304)|null|
+|**2025-08-21**|**MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation**|Yi Xu (alibaba-inc.com) et.al.|[2508.15281](http://arxiv.org/abs/2508.15281)|null|
+|**2025-08-21**|**M- $LLM^3$ REC: A Motivation-Aware User-Item Interaction Framework for Enhancing Recommendation Accuracy with LLMs**|Lining Chen (uni.sydney.edu.au) et.al.|[2508.15262](http://arxiv.org/abs/2508.15262)|null|
+|**2025-08-21**|**Retrieval-Augmented Review Generation for Poisoning Recommender Systems**|Shiyi Yang (unsw.edu.au) et.al.|[2508.15252](http://arxiv.org/abs/2508.15252)|null|
+|**2025-08-21**|**See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction**|Sishuo Chen (alibaba-inc.com) et.al.|[2508.15217](http://arxiv.org/abs/2508.15217)|null|
+|**2025-08-20**|**Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism**|Ashmi Banerjee (tum.de) et.al.|[2508.15030](http://arxiv.org/abs/2508.15030)|null|
+|**2025-08-20**|**Large Foundation Model for Ads Recommendation**|Shangyu Zhang (mails.tsinghua.edu.cn) et.al.|[2508.14948](http://arxiv.org/abs/2508.14948)|null|
+|**2025-08-20**|**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**|Zhipeng Wei (kuaishou.com) et.al.|[2508.14646](http://arxiv.org/abs/2508.14646)|null|
+|**2025-08-20**|**MISS: Multi-Modal Tree Indexing and Searching with Lifelong Sequential Behavior for Retrieval Recommendation**|Chengcheng Guo (kuaishou.com) et.al.|[2508.14515](http://arxiv.org/abs/2508.14515)|null|
+|**2025-08-20**|**DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate Prediction via Discrete Diffusion**|Moyu Zhang (bupt.cn) et.al.|[2508.14500](http://arxiv.org/abs/2508.14500)|null|
+|**2025-08-20**|**You Only Evaluate Once: A Tree-based Rerank Method at Meituan**|Shuli Wang (meituan.com) et.al.|[2508.14420](http://arxiv.org/abs/2508.14420)|null|
+|**2025-08-20**|**Multi-view Graph Condensation via Tensor Decomposition**|Nícolas Roque dos Santos (ucr.edu) et.al.|[2508.14330](http://arxiv.org/abs/2508.14330)|null|
 |**2025-08-19**|**Multi-User Contextual Cascading Bandits for Personalized Recommendation**|Jiho Park (berkeley.edu) et.al.|[2508.13981](http://arxiv.org/abs/2508.13981)|null|
 |**2025-08-19**|**Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE**|Hardy (ims.uni-stuttgart.de) et.al.|[2508.13978](http://arxiv.org/abs/2508.13978)|null|
 |**2025-08-19**|**Query Logs Analytics: A Aystematic Literature Review**|Dihia Lanasri (esi.dz) et.al.|[2508.13949](http://arxiv.org/abs/2508.13949)|null|
@@ -290,11 +310,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**SLM4Offer: Personalized Marketing Offer Generation Using Contrastive Learning Based Fine-Tuning**|Vedasamhitha Challapalli et.al.|[2508.15471](http://arxiv.org/abs/2508.15471)|null|
+|**2025-08-21**|**TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation**|Yu Xia (mails.ucas.ac.cn) et.al.|[2508.15388](http://arxiv.org/abs/2508.15388)|null|
+|**2025-08-21**|**MLLMRec: Exploring the Potential of Multimodal Large Language Models in Recommender Systems**|Yuzhuo Dang (nudt.edu.cn) et.al.|[2508.15304](http://arxiv.org/abs/2508.15304)|null|
+|**2025-08-21**|**M- $LLM^3$ REC: A Motivation-Aware User-Item Interaction Framework for Enhancing Recommendation Accuracy with LLMs**|Lining Chen (uni.sydney.edu.au) et.al.|[2508.15262](http://arxiv.org/abs/2508.15262)|null|
+|**2025-08-20**|**Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism**|Ashmi Banerjee (tum.de) et.al.|[2508.15030](http://arxiv.org/abs/2508.15030)|null|
 |**2025-08-19**|**CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**|Chuang Li (u.nus.edu) et.al.|[2508.13889](http://arxiv.org/abs/2508.13889)|null|
 |**2025-08-19**|**LLM-Enhanced Linear Autoencoders for Recommendation**|Jaewan Moon (skku.edu) et.al.|[2508.13500](http://arxiv.org/abs/2508.13500)|**[link](https://github.com/jaewan7599/L3AE_CIKM2025)**|
 |**2025-08-19**|**AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System**|Qixin Wang (walmart.com) et.al.|[2508.13423](http://arxiv.org/abs/2508.13423)|null|
 |**2025-08-16**|**Research on Conversational Recommender System Considering Consumer Types**|Yaying Luo (stu.sufe.edu.cn) et.al.|[2508.13209](http://arxiv.org/abs/2508.13209)|null|
-|**2025-08-19**|**Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation**|Hongyang Liu (hdr.mq.edu.au) et.al.|[2508.12645](http://arxiv.org/abs/2508.12645)|null|
+|**2025-08-20**|**Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation**|Hongyang Liu (hdr.mq.edu.au) et.al.|[2508.12645](http://arxiv.org/abs/2508.12645)|null|
 |**2025-08-07**|**LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering**|Ronald Carvalho Boadana (uea.edu.br) et.al.|[2508.11671](http://arxiv.org/abs/2508.11671)|null|
 |**2025-08-15**|**Role-Augmented Intent-Driven Generative Search Engine Optimization**|Xiaolu Chen et.al.|[2508.11158](http://arxiv.org/abs/2508.11158)|null|
 |**2025-08-14**|**SSRL: Self-Search Reinforcement Learning**|Yuchen Fan (mails.tsinghua.edu.cn) et.al.|[2508.10874](http://arxiv.org/abs/2508.10874)|null|
@@ -459,11 +484,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning**|Qiaoyu Zheng (sjtu.edu.cn) et.al.|[2508.15746](http://arxiv.org/abs/2508.15746)|**[link](https://github.com/MAGIC-AI4Med/Deep-DxSearch)**|
+|**2025-08-21**|**SLM4Offer: Personalized Marketing Offer Generation Using Contrastive Learning Based Fine-Tuning**|Vedasamhitha Challapalli et.al.|[2508.15471](http://arxiv.org/abs/2508.15471)|null|
+|**2025-08-21**|**Deep Think with Confidence**|Yichao Fu (ucsd.edu) et.al.|[2508.15260](http://arxiv.org/abs/2508.15260)|null|
+|**2025-08-21**|**Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models**|Yuanchen Zhou et.al.|[2508.15202](http://arxiv.org/abs/2508.15202)|**[link](https://github.com/aliyun/qwen-dianjin)**|
+|**2025-08-21**|**SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks**|Xiangman Li (queensu.ca) et.al.|[2508.15182](http://arxiv.org/abs/2508.15182)|null|
+|**2025-08-21**|**ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following**|Seungmin Han et.al.|[2508.15164](http://arxiv.org/abs/2508.15164)|null|
+|**2025-08-21**|**A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports**|Minh Tran (unsw.edu.au) et.al.|[2508.15149](http://arxiv.org/abs/2508.15149)|null|
+|**2025-08-20**|**Long Chain-of-Thought Reasoning Across Languages**|Josh Barua (berkeley.edu) et.al.|[2508.14828](http://arxiv.org/abs/2508.14828)|null|
+|**2025-08-20**|**Reliable generation of isomorphic physics problems using ChatGPT with prompt-chaining and tool use**|Zhongzhou Chen et.al.|[2508.14755](http://arxiv.org/abs/2508.14755)|null|
+|**2025-08-20**|**Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis**|Abbas Sabra et.al.|[2508.14727](http://arxiv.org/abs/2508.14727)|null|
+|**2025-08-20**|**ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students' Cognitive Abilities**|Wenhan Dong (hkust-gz.edu.cn) et.al.|[2508.14377](http://arxiv.org/abs/2508.14377)|null|
+|**2025-08-19**|**Zero-knowledge LLM hallucination detection and mitigation through fine-grained cross-model consistency**|Aman Goel (amazon.com) et.al.|[2508.14314](http://arxiv.org/abs/2508.14314)|null|
+|**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin (rutgers.edu) et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-19**|**Tokens with Meaning: A Hybrid Tokenization Approach for NLP**|M. Ali Bayram (gmail.com) et.al.|[2508.14292](http://arxiv.org/abs/2508.14292)|null|
+|**2025-08-19**|**GRILE: A Benchmark for Grammar Reasoning and Explanation in Romanian LLMs**|Adrian-Marius Dumitran et.al.|[2508.14279](http://arxiv.org/abs/2508.14279)|null|
+|**2025-08-19**|**Let's Use ChatGPT To Write Our Paper! Benchmarking LLMs To Write the Introduction of a Research Paper**|Krishna Garg (uic.edu) et.al.|[2508.14273](http://arxiv.org/abs/2508.14273)|null|
+|**2025-08-19**|**Large Language Models are Highly Aligned with Human Ratings of Emotional Stimuli**|Mattson Ogg (jhuapl.edu) et.al.|[2508.14214](http://arxiv.org/abs/2508.14214)|null|
+|**2025-08-19**|**Two Birds with One Stone: Multi-Task Detection and Attribution of LLM-Generated Text**|Zixin Rao (uga.edu) et.al.|[2508.14190](http://arxiv.org/abs/2508.14190)|null|
+|**2025-08-18**|**AI Agents for Photonic Integrated Circuit Design Automation**|Ankita Sharma (mail.utoronto.ca) et.al.|[2508.14123](http://arxiv.org/abs/2508.14123)|null|
 |**2025-08-19**|**The Promise of Large Language Models in Digital Health: Evidence from Sentiment Analysis in Online Health Communities**|Xiancheng Li (qmul.ac.uk) et.al.|[2508.14032](http://arxiv.org/abs/2508.14032)|null|
 |**2025-08-19**|**Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values Understanding**|Maciej Skorski et.al.|[2508.13804](http://arxiv.org/abs/2508.13804)|null|
 |**2025-08-19**|**COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models**|James Meaden (codility.com) et.al.|[2508.13757](http://arxiv.org/abs/2508.13757)|null|
 |**2025-08-19**|**CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning**|Minh Hoang Nguyen (deakin.edu.au) et.al.|[2508.13721](http://arxiv.org/abs/2508.13721)|null|
-|**2025-08-19**|**Input Time Scaling**|Rapheal Huang (163.com) et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
+|**2025-08-20**|**Input Time Scaling**|Rapheal Huang (163.com) et.al.|[2508.13654](http://arxiv.org/abs/2508.13654)|null|
 |**2025-08-19**|**LM Agents May Fail to Act on Their Own Risk Knowledge**|Yuzhi Tang (mail.utoronto.ca) et.al.|[2508.13465](http://arxiv.org/abs/2508.13465)|null|
 |**2025-08-19**|**Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference**|Yunxiang Yang (uga.edu) et.al.|[2508.13439](http://arxiv.org/abs/2508.13439)|null|
 |**2025-08-19**|**ALIGN: Word Association Learning for Cross-Cultural Generalization in Large Language Models**|Chunhua Liu (unimelb.edu.au) et.al.|[2508.13426](http://arxiv.org/abs/2508.13426)|null|
