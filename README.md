@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**ORCA: Mitigating Over-Reliance for Multi-Task Dwell Time Prediction with Causal Decoupling**|Huishi Luo (buaa.edu.cn) et.al.|[2508.16573](http://arxiv.org/abs/2508.16573)|**[link](https://github.com/Chrissie-Law/ORCA-Mitigating-Over-Reliance-for-Multi-Task-Dwell-Time-Prediction-with-Causal-Decoupling)**|
+|**2025-08-22**|**A Node-Aware Dynamic Quantization Approach for Graph Collaborative Filtering**|Lin Li (whut.edu.cn) et.al.|[2508.16516](http://arxiv.org/abs/2508.16516)|null|
+|**2025-08-22**|**Similarity-Based Supervised User Session Segmentation Method for Behavior Logs**|Yongzhi Jin (uec.ac.jp) et.al.|[2508.16106](http://arxiv.org/abs/2508.16106)|null|
 |**2025-08-21**|**Reading Between the Lines: A Study of Thematic Bias in Book Recommender Systems**|Nityaa Kalra (gmail.com) et.al.|[2508.15643](http://arxiv.org/abs/2508.15643)|null|
 |**2025-08-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong (tum.de) et.al.|[2508.15633](http://arxiv.org/abs/2508.15633)|null|
 |**2025-08-21**|**LongRetriever: Towards Ultra-Long Sequence based Candidate Retrieval for Recommendation**|Ren Qin (bytedance.com) et.al.|[2508.15486](http://arxiv.org/abs/2508.15486)|null|
@@ -493,6 +496,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence**|Alisa Vinogradova (optic.inc) et.al.|[2508.16571](http://arxiv.org/abs/2508.16571)|null|
+|**2025-08-22**|**RL Is Neither a Panacea Nor a Mirage: Understanding Supervised vs. Reinforcement Learning Fine-Tuning for LLMs**|Hangzhan Jin et.al.|[2508.16546](http://arxiv.org/abs/2508.16546)|null|
+|**2025-08-22**|**FLAMES: Improving LLM Math Reasoning via a Fine-Grained Analysis of the Data Synthesis Pipeline**|Parker Seegmiller (dartmouth.edu) et.al.|[2508.16514](http://arxiv.org/abs/2508.16514)|null|
+|**2025-08-22**|**Boardwalk: Towards a Framework for Creating Board Games with LLMs**|Álvaro Guglielmin Becker (inf.ufrgs.br) et.al.|[2508.16447](http://arxiv.org/abs/2508.16447)|null|
+|**2025-08-22**|**Cetvel: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of LLMs for Turkish**|Yakup Abrek Er (ku.edu.tr) et.al.|[2508.16431](http://arxiv.org/abs/2508.16431)|null|
+|**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre (my.tamuct.edu) et.al.|[2508.16419](http://arxiv.org/abs/2508.16419)|null|
+|**2025-08-22**|**M3TQA: Massively Multilingual Multitask Table Question Answering**|Daixin Shu (buaa.edu.cn) et.al.|[2508.16265](http://arxiv.org/abs/2508.16265)|null|
+|**2025-08-22**|**TULIP: Adapting Open-Source Large Language Models for Underrepresented Languages and Specialized Financial Tasks**|İrem Demirtaş (prometeia.com) et.al.|[2508.16243](http://arxiv.org/abs/2508.16243)|null|
+|**2025-08-22**|**ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects**|Kaushal Sharma (iimidr.ac.in) et.al.|[2508.16185](http://arxiv.org/abs/2508.16185)|null|
+|**2025-08-22**|**LLM-Assisted Semantic Alignment and Integration in Collaborative Model-Based Systems Engineering Using SysML v2**|Zirui Li et.al.|[2508.16181](http://arxiv.org/abs/2508.16181)|null|
+|**2025-08-22**|**Hardwired-Neurons Language Processing Units as General-Purpose Cognitive Substrates**|Yang Liu (mail.ustc.edu.cn) et.al.|[2508.16151](http://arxiv.org/abs/2508.16151)|null|
+|**2025-08-22**|**Take That for Me: Multimodal Exophora Resolution with Interactive Questioning for Ambiguous Out-of-View Instructions**|Akira Oyama (soka.ac.jp) et.al.|[2508.16143](http://arxiv.org/abs/2508.16143)|**[link](https://emergentsystemlabstudent.github.io/MIEL/)**|
+|**2025-08-22**|**Text Takes Over: A Study of Modality Bias in Multimodal Intent Detection**|Ankan Mullick (kgpian.iitkgp.ac.in) et.al.|[2508.16122](http://arxiv.org/abs/2508.16122)|null|
+|**2025-08-22**|**CEQuest: Benchmarking Large Language Models for Construction Estimation**|Yanzhao Wu (fiu.edu) et.al.|[2508.16081](http://arxiv.org/abs/2508.16081)|null|
+|**2025-08-22**|**InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles**|Zizhen Li (pjlab.org.cn) et.al.|[2508.16072](http://arxiv.org/abs/2508.16072)|null|
+|**2025-08-22**|**Generative Foundation Model for Structured and Unstructured Electronic Health Records**|Sonish Sivarajkumar (pitt.edu) et.al.|[2508.16054](http://arxiv.org/abs/2508.16054)|null|
+|**2025-08-22**|**OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages**|Raphaël Merx et.al.|[2508.16048](http://arxiv.org/abs/2508.16048)|null|
+|**2025-08-21**|**ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with Benchmark Evaluation**|Ahmed Allam (aucegypt.edu) et.al.|[2508.15940](http://arxiv.org/abs/2508.15940)|null|
+|**2025-08-21**|**Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search**|Yuxian Gu (nvidia.com) et.al.|[2508.15884](http://arxiv.org/abs/2508.15884)|null|
+|**2025-08-20**|**QU-NLP at QIAS 2025 Shared Task: A Two-Phase LLM Fine-Tuning and Retrieval-Augmented Generation Approach for Islamic Inheritance Reasoning**|Mohammad AL-Smadi (qu.edu.qa) et.al.|[2508.15854](http://arxiv.org/abs/2508.15854)|null|
 |**2025-08-21**|**End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning**|Qiaoyu Zheng (sjtu.edu.cn) et.al.|[2508.15746](http://arxiv.org/abs/2508.15746)|**[link](https://github.com/MAGIC-AI4Med/Deep-DxSearch)**|
 |**2025-08-21**|**SLM4Offer: Personalized Marketing Offer Generation Using Contrastive Learning Based Fine-Tuning**|Vedasamhitha Challapalli et.al.|[2508.15471](http://arxiv.org/abs/2508.15471)|null|
 |**2025-08-21**|**Deep Think with Confidence**|Yichao Fu (ucsd.edu) et.al.|[2508.15260](http://arxiv.org/abs/2508.15260)|null|
