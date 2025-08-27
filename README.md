@@ -1,4 +1,4 @@
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-25**|**PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation**|Bin Tan (microsoft.com) et.al.|[2508.18166](http://arxiv.org/abs/2508.18166)|null|
+|**2025-08-26**|**Recycling History: Efficient Recommendations from Contextual Dueling Bandits**|Suryanarayana Sankagiri (epfl.ch) et.al.|[2508.18841](http://arxiv.org/abs/2508.18841)|null|
+|**2025-08-26**|**STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning**|Chenghao Wu (ruc.edu.cn) et.al.|[2508.18812](http://arxiv.org/abs/2508.18812)|null|
+|**2025-08-26**|**Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models**|Chang Wang (xiaohongshu.com) et.al.|[2508.18739](http://arxiv.org/abs/2508.18739)|null|
+|**2025-08-26**|**Taming the One-Epoch Phenomenon in Online Recommendation System by Two-stage Contrastive ID Pre-training**|Yi-Ping Hsu (pinterest.com) et.al.|[2508.18700](http://arxiv.org/abs/2508.18700)|null|
+|**2025-08-26**|**Membership Inference Attacks on LLM-based Recommender Systems**|Jiajie He (umbc.edu) et.al.|[2508.18665](http://arxiv.org/abs/2508.18665)|null|
+|**2025-08-26**|**PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation**|Bin Tan (microsoft.com) et.al.|[2508.18166](http://arxiv.org/abs/2508.18166)|null|
 |**2025-08-25**|**Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2508.18142](http://arxiv.org/abs/2508.18142)|**[link](https://github.com/UserMirrorer/UserMirrorer)**|
 |**2025-08-25**|**HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation**|Junyi Chen (bytedance.com) et.al.|[2508.18118](http://arxiv.org/abs/2508.18118)|**[link](https://github.com/bytedance/HLLM)**|
 |**2025-08-25**|**HyST: LLM-Powered Hybrid Retrieval over Semi-Structured Tabular Data**|Jiyoon Myung (gmail.com) et.al.|[2508.18048](http://arxiv.org/abs/2508.18048)|null|
@@ -327,12 +332,15 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning**|Chenghao Wu (ruc.edu.cn) et.al.|[2508.18812](http://arxiv.org/abs/2508.18812)|null|
+|**2025-08-26**|**Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models**|Chang Wang (xiaohongshu.com) et.al.|[2508.18739](http://arxiv.org/abs/2508.18739)|null|
+|**2025-08-26**|**Membership Inference Attacks on LLM-based Recommender Systems**|Jiajie He (umbc.edu) et.al.|[2508.18665](http://arxiv.org/abs/2508.18665)|null|
 |**2025-08-25**|**Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2508.18142](http://arxiv.org/abs/2508.18142)|**[link](https://github.com/UserMirrorer/UserMirrorer)**|
 |**2025-08-25**|**HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation**|Junyi Chen (bytedance.com) et.al.|[2508.18118](http://arxiv.org/abs/2508.18118)|**[link](https://github.com/bytedance/HLLM)**|
 |**2025-08-25**|**HyST: LLM-Powered Hybrid Retrieval over Semi-Structured Tabular Data**|Jiyoon Myung (gmail.com) et.al.|[2508.18048](http://arxiv.org/abs/2508.18048)|null|
@@ -346,7 +354,7 @@
 |**2025-08-21**|**M- $LLM^3$ REC: A Motivation-Aware User-Item Interaction Framework for Enhancing Recommendation Accuracy with LLMs**|Lining Chen (uni.sydney.edu.au) et.al.|[2508.15262](http://arxiv.org/abs/2508.15262)|null|
 |**2025-08-20**|**Collab-REC: An LLM-based Agentic Framework for Balancing Recommendations in Tourism**|Ashmi Banerjee (tum.de) et.al.|[2508.15030](http://arxiv.org/abs/2508.15030)|null|
 |**2025-08-19**|**CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**|Chuang Li (u.nus.edu) et.al.|[2508.13889](http://arxiv.org/abs/2508.13889)|null|
-|**2025-08-19**|**LLM-Enhanced Linear Autoencoders for Recommendation**|Jaewan Moon (skku.edu) et.al.|[2508.13500](http://arxiv.org/abs/2508.13500)|**[link](https://github.com/jaewan7599/L3AE_CIKM2025)**|
+|**2025-08-26**|**LLM-Enhanced Linear Autoencoders for Recommendation**|Jaewan Moon (skku.edu) et.al.|[2508.13500](http://arxiv.org/abs/2508.13500)|**[link](https://github.com/jaewan7599/L3AE_CIKM2025)**|
 |**2025-08-19**|**AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System**|Qixin Wang (walmart.com) et.al.|[2508.13423](http://arxiv.org/abs/2508.13423)|null|
 |**2025-08-16**|**Research on Conversational Recommender System Considering Consumer Types**|Yaying Luo (stu.sufe.edu.cn) et.al.|[2508.13209](http://arxiv.org/abs/2508.13209)|null|
 |**2025-08-20**|**Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation**|Hongyang Liu (hdr.mq.edu.au) et.al.|[2508.12645](http://arxiv.org/abs/2508.12645)|null|
@@ -510,12 +518,26 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**MATRIX: Multi-Agent simulaTion fRamework for safe Interactions and conteXtual clinical conversational evaluation**|Ernest Lim (ufonia.com) et.al.|[2508.19163](http://arxiv.org/abs/2508.19163)|null|
+|**2025-08-26**|**Reasoning LLMs in the Medical Domain: A Literature Survey**|Armin Berger et.al.|[2508.19097](http://arxiv.org/abs/2508.19097)|null|
+|**2025-08-26**|**Sense of Self and Time in Borderline Personality. A Comparative Robustness Study with Generative AI**|Marcin Moskalewicz (ideas.edu.pl) et.al.|[2508.19008](http://arxiv.org/abs/2508.19008)|null|
+|**2025-08-26**|**AI Models Exceed Individual Human Accuracy in Predicting Everyday Social Norms**|Pontus Strimling (mdu.se) et.al.|[2508.19004](http://arxiv.org/abs/2508.19004)|null|
+|**2025-08-26**|**ConfTuner: Training Large Language Models to Express Their Confidence Verbally**|Yibo Li (u.nus.edu) et.al.|[2508.18847](http://arxiv.org/abs/2508.18847)|**[link](https://github.com/liushiliushi/ConfTuner)**|
+|**2025-08-26**|**ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models**|Qianyu He (bytedance.com) et.al.|[2508.18773](http://arxiv.org/abs/2508.18773)|null|
+|**2025-08-26**|**Filtering for Creativity: Adaptive Prompting for Multilingual Riddle Generation in LLMs**|Duy Le (algoverse.us) et.al.|[2508.18709](http://arxiv.org/abs/2508.18709)|null|
+|**2025-08-26**|**MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use**|Weikang Zhao (ia.ac.cn) et.al.|[2508.18669](http://arxiv.org/abs/2508.18669)|null|
+|**2025-08-26**|**DrugReasoner: Interpretable Drug Approval Prediction with a Reasoning-augmented Language Model**|Mohammadreza Ghaffarzadeh-Esfahani (gmail.com) et.al.|[2508.18579](http://arxiv.org/abs/2508.18579)|null|
+|**2025-08-25**|**Integrating gender inclusivity into large language models via instruction tuning**|Alina Wróblewska (ipipan.waw.pl) et.al.|[2508.18466](http://arxiv.org/abs/2508.18466)|null|
+|**2025-08-25**|**VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning**|Fu Teng (zju.edu.cn) et.al.|[2508.18462](http://arxiv.org/abs/2508.18462)|**[link](https://github.com/omniAI-Lab/VeriRL)**|
+|**2025-08-25**|**A Systematic Approach to Predict the Impact of Cybersecurity Vulnerabilities Using LLMs**|Anders Mølmen Høst (simula.no) et.al.|[2508.18439](http://arxiv.org/abs/2508.18439)|null|
+|**2025-08-25**|**Backprompting: Leveraging Synthetic Production Data for Health Advice Guardrails**|Kellen Tan Cheng (us.ibm.edu) et.al.|[2508.18384](http://arxiv.org/abs/2508.18384)|null|
+|**2025-08-25**|**Training Language Model Agents to Find Vulnerabilities with CTF-Dojo**|Terry Yue Zhuo (monash.edu) et.al.|[2508.18370](http://arxiv.org/abs/2508.18370)|null|
 |**2025-08-25**|**HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation**|Junyi Chen (bytedance.com) et.al.|[2508.18118](http://arxiv.org/abs/2508.18118)|**[link](https://github.com/bytedance/HLLM)**|
 |**2025-08-25**|**Detecting and Characterizing Planning in Language Models**|Jatin Nainani (umass.edu) et.al.|[2508.18098](http://arxiv.org/abs/2508.18098)|null|
 |**2025-08-25**|**Agri-Query: A Case Study on RAG vs. Long-Context LLMs for Cross-Lingual Technical Question Answering**|Julius Gun (tum.de) et.al.|[2508.18093](http://arxiv.org/abs/2508.18093)|null|
@@ -1024,7 +1046,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
