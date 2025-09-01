@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|Zhuoxing Wei (meituan.com) et.al.|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
+|**2025-08-29**|**What Data is Really Necessary? A Feasibility Study of Inference Data Minimization for Recommender Systems**|Jens Leysen (uantwerpen.be) et.al.|[2508.21547](http://arxiv.org/abs/2508.21547)|null|
+|**2025-08-29**|**Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction**|Xiaoxi Cui (163.com) et.al.|[2508.21460](http://arxiv.org/abs/2508.21460)|**[link](https://github.com/Cxx-0/Diff-MSIN)**|
+|**2025-08-29**|**Stairway to Fairness: Connecting Group and Individual Fairness**|Theresia Veronika Rampisela (di.ku.dk) et.al.|[2508.21334](http://arxiv.org/abs/2508.21334)|**[link](https://github.com/theresiavr/stairway-to-fairness)**|
+|**2025-08-28**|**Breaking the Cold-Start Barrier: Reinforcement Learning with Double and Dueling DQNs**|Minda Zhao (hsph.harvard.edu) et.al.|[2508.21259](http://arxiv.org/abs/2508.21259)|null|
+|**2025-08-28**|**The Hidden Cost of Defaults in Recommender System Evaluation**|Hannah Berlin (gmail.com) et.al.|[2508.21180](http://arxiv.org/abs/2508.21180)|null|
 |**2025-08-28**|**Efficient Large-Scale Cross-Domain Sequential Recommendation with Dynamic State Representations**|Manuel V. Loureiro (huawei.com) et.al.|[2508.20945](http://arxiv.org/abs/2508.20945)|null|
 |**2025-08-28**|**Finite-Time Guarantees for Multi-Agent Combinatorial Bandits with Nonstationary Rewards**|Katherine B. Adams (utsa.edu) et.al.|[2508.20923](http://arxiv.org/abs/2508.20923)|null|
 |**2025-08-28**|**OneRec-V2 Technical Report**|Guorui Zhou et.al.|[2508.20900](http://arxiv.org/abs/2508.20900)|null|
@@ -353,11 +359,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|Zhuoxing Wei (meituan.com) et.al.|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
 |**2025-08-28**|**SUMMA: A Multimodal Large Language Model for Advertisement Summarization**|Weitao Jia (bytedance.com) et.al.|[2508.20582](http://arxiv.org/abs/2508.20582)|null|
 |**2025-08-28**|**Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting**|Alexandre Andre (seas.upenn.edu) et.al.|[2508.20401](http://arxiv.org/abs/2508.20401)|null|
 |**2025-08-28**|**AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**|Lang Mei (huawei.com) et.al.|[2508.20368](http://arxiv.org/abs/2508.20368)|null|
 |**2025-08-27**|**ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations**|Ben Kabongo (sorbonne-universite.fr) et.al.|[2508.20312](http://arxiv.org/abs/2508.20312)|null|
-|**2025-08-28**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|Manato Tajiri (gl.cc.uec.ac.jp) et.al.|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
+|**2025-08-29**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|Manato Tajiri (gl.cc.uec.ac.jp) et.al.|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
 |**2025-08-27**|**A Hybrid Recommendation Framework for Enhancing User Engagement in Local News**|Payam Pourashraf (depaul.edu) et.al.|[2508.19539](http://arxiv.org/abs/2508.19539)|null|
 |**2025-08-26**|**STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning**|Chenghao Wu (ruc.edu.cn) et.al.|[2508.18812](http://arxiv.org/abs/2508.18812)|null|
 |**2025-08-26**|**Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models**|Chang Wang (xiaohongshu.com) et.al.|[2508.18739](http://arxiv.org/abs/2508.18739)|null|
@@ -543,6 +550,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**Personality Matters: User Traits Predict LLM Preferences in Multi-Turn Collaborative Tasks**|Sarfaroz Yunusov (brocku.ca) et.al.|[2508.21628](http://arxiv.org/abs/2508.21628)|null|
+|**2025-08-29**|**HealthProcessAI: A Technical Framework and Proof-of-Concept for LLM-Enhanced Healthcare Process Mining**|Eduardo Illueca-Fernandez et.al.|[2508.21540](http://arxiv.org/abs/2508.21540)|null|
+|**2025-08-29**|**zkLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs**|Guofu Liao (email.szu.edu.cn) et.al.|[2508.21393](http://arxiv.org/abs/2508.21393)|null|
+|**2025-08-29**|**Normality and the Turing Test**|Alexandre Kabbach (kabbach.net) et.al.|[2508.21382](http://arxiv.org/abs/2508.21382)|null|
+|**2025-08-29**|**Challenges and Applications of Large Language Models: A Comparison of GPT and DeepSeek family of models**|Shubham Sharma (sunitechai.com) et.al.|[2508.21377](http://arxiv.org/abs/2508.21377)|null|
+|**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
+|**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|null|
+|**2025-08-28**|**Designing Smarter Conversational Agents for Kids: Lessons from Cognitive Work and Means-Ends Analyses**|Vanessa Figueiredo (uregina.ca) et.al.|[2508.21209](http://arxiv.org/abs/2508.21209)|null|
+|**2025-08-28**|**Quantifying Label-Induced Bias in Large Language Model Self- and Cross-Evaluations**|Muskan Saraf (actualreality.tech) et.al.|[2508.21164](http://arxiv.org/abs/2508.21164)|null|
+|**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|Samrajnee Ghosh et.al.|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
+|**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|Jie Jiang et.al.|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
 |**2025-08-28**|**ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery**|Junda Wang (umass.edu) et.al.|[2508.20996](http://arxiv.org/abs/2508.20996)|null|
 |**2025-08-28**|**ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents**|Tianjian Liu (mail2.sysu.edu.cn) et.al.|[2508.20973](http://arxiv.org/abs/2508.20973)|null|
 |**2025-08-28**|**Research Challenges in Relational Database Management Systems for LLM Queries**|Kerem Akillioglu (uwaterloo.ca) et.al.|[2508.20912](http://arxiv.org/abs/2508.20912)|null|
