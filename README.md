@@ -1,4 +1,4 @@
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -360,7 +360,7 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -553,7 +553,7 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## LLM
 
@@ -567,9 +567,9 @@
 |**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
 |**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|null|
 |**2025-08-28**|**Designing Smarter Conversational Agents for Kids: Lessons from Cognitive Work and Means-Ends Analyses**|Vanessa Figueiredo (uregina.ca) et.al.|[2508.21209](http://arxiv.org/abs/2508.21209)|null|
-|**2025-08-28**|**Quantifying Label-Induced Bias in Large Language Model Self- and Cross-Evaluations**|Muskan Saraf (actualreality.tech) et.al.|[2508.21164](http://arxiv.org/abs/2508.21164)|null|
+|**2025-09-02**|**Quantifying Label-Induced Bias in Large Language Model Self- and Cross-Evaluations**|Muskan Saraf (actualreality.tech) et.al.|[2508.21164](http://arxiv.org/abs/2508.21164)|null|
 |**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|Samrajnee Ghosh et.al.|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
-|**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|Jie Jiang et.al.|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
+|**2025-09-02**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|Qi Yang et.al.|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
 |**2025-08-28**|**ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery**|Junda Wang (umass.edu) et.al.|[2508.20996](http://arxiv.org/abs/2508.20996)|null|
 |**2025-08-28**|**ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents**|Tianjian Liu (mail2.sysu.edu.cn) et.al.|[2508.20973](http://arxiv.org/abs/2508.20973)|null|
 |**2025-08-28**|**Research Challenges in Relational Database Management Systems for LLM Queries**|Kerem Akillioglu (uwaterloo.ca) et.al.|[2508.20912](http://arxiv.org/abs/2508.20912)|null|
@@ -1118,7 +1118,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

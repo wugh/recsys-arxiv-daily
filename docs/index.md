@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -558,9 +558,9 @@ layout: default
 |**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
 |**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|Tingxuan Xu et.al.|[2508.21238](http://arxiv.org/abs/2508.21238)|null|
 |**2025-08-28**|**Designing Smarter Conversational Agents for Kids: Lessons from Cognitive Work and Means-Ends Analyses**|Vanessa Figueiredo (uregina.ca) et.al.|[2508.21209](http://arxiv.org/abs/2508.21209)|null|
-|**2025-08-28**|**Quantifying Label-Induced Bias in Large Language Model Self- and Cross-Evaluations**|Muskan Saraf (actualreality.tech) et.al.|[2508.21164](http://arxiv.org/abs/2508.21164)|null|
+|**2025-09-02**|**Quantifying Label-Induced Bias in Large Language Model Self- and Cross-Evaluations**|Muskan Saraf (actualreality.tech) et.al.|[2508.21164](http://arxiv.org/abs/2508.21164)|null|
 |**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|Samrajnee Ghosh et.al.|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
-|**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|Jie Jiang et.al.|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
+|**2025-09-02**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|Qi Yang et.al.|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
 |**2025-08-28**|**ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery**|Junda Wang (umass.edu) et.al.|[2508.20996](http://arxiv.org/abs/2508.20996)|null|
 |**2025-08-28**|**ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents**|Tianjian Liu (mail2.sysu.edu.cn) et.al.|[2508.20973](http://arxiv.org/abs/2508.20973)|null|
 |**2025-08-28**|**Research Challenges in Relational Database Management Systems for LLM Queries**|Kerem Akillioglu (uwaterloo.ca) et.al.|[2508.20912](http://arxiv.org/abs/2508.20912)|null|
