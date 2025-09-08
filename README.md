@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Deep Reinforcement Learning for Ranking Utility Tuning in the Ad Recommender System at Pinterest**|Xiao Yang (pinterest.com) et.al.|[2509.05292](http://arxiv.org/abs/2509.05292)|null|
+|**2025-09-05**|**Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System**|Hao Chen (ytu.edu.cn) et.al.|[2509.05115](http://arxiv.org/abs/2509.05115)|null|
+|**2025-09-05**|**Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation**|Yogev Cohen et.al.|[2509.04810](http://arxiv.org/abs/2509.04810)|null|
+|**2025-09-05**|**Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms**|Yushang Zhao (wustl.edu) et.al.|[2509.04751](http://arxiv.org/abs/2509.04751)|null|
+|**2025-09-04**|**Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems**|Wei Xu et.al.|[2509.04694](http://arxiv.org/abs/2509.04694)|null|
+|**2025-09-02**|**DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence**|Pranav Narayanan Venkit (salesforce.com) et.al.|[2509.04499](http://arxiv.org/abs/2509.04499)|null|
+|**2025-09-01**|**Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations**|Krithi Shailya (gmail.com) et.al.|[2509.04498](http://arxiv.org/abs/2509.04498)|null|
 |**2025-09-04**|**Contextualized Token Discrimination for Speech Search Query Correction**|Junyu Lu et.al.|[2509.04393](http://arxiv.org/abs/2509.04393)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|Tian Miao (hust.edu.cn) et.al.|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
 |**2025-09-03**|**ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems**|Daryl Chang (google.com) et.al.|[2509.03661](http://arxiv.org/abs/2509.03661)|null|
@@ -388,13 +395,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation**|Yogev Cohen et.al.|[2509.04810](http://arxiv.org/abs/2509.04810)|null|
+|**2025-09-02**|**DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence**|Pranav Narayanan Venkit (salesforce.com) et.al.|[2509.04499](http://arxiv.org/abs/2509.04499)|null|
+|**2025-09-01**|**Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations**|Krithi Shailya (gmail.com) et.al.|[2509.04498](http://arxiv.org/abs/2509.04498)|null|
+|**2025-08-30**|**Discrete Prompt Tuning via Recursive Utilization of Black-box Multimodal Large Language Model for Personalized Visual Emotion Recognition**|Ryo Takahashi (lmd.ist.hokudai.ac.jp) et.al.|[2509.04480](http://arxiv.org/abs/2509.04480)|null|
 |**2025-09-02**|**Lighting the Way for BRIGHT: Reproducible Baselines with Anserini, Pyserini, and RankLLM**|Yijun Ge (uwaterloo.ca) et.al.|[2509.02558](http://arxiv.org/abs/2509.02558)|null|
 |**2025-09-01**|**Cloud-Device Collaborative Agents for Sequential Recommendation**|Jing Long (eduhk.hk) et.al.|[2509.01551](http://arxiv.org/abs/2509.01551)|null|
 |**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|Zhuoxing Wei (meituan.com) et.al.|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
 |**2025-08-28**|**SUMMA: A Multimodal Large Language Model for Advertisement Summarization**|Weitao Jia (bytedance.com) et.al.|[2508.20582](http://arxiv.org/abs/2508.20582)|null|
 |**2025-08-28**|**Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting**|Alexandre Andre (seas.upenn.edu) et.al.|[2508.20401](http://arxiv.org/abs/2508.20401)|null|
-|**2025-08-28**|**AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**|Lang Mei (huawei.com) et.al.|[2508.20368](http://arxiv.org/abs/2508.20368)|null|
-|**2025-08-27**|**ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations**|Ben Kabongo (sorbonne-universite.fr) et.al.|[2508.20312](http://arxiv.org/abs/2508.20312)|null|
+|**2025-09-05**|**AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**|Lang Mei (huawei.com) et.al.|[2508.20368](http://arxiv.org/abs/2508.20368)|null|
+|**2025-09-05**|**ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations**|Ben Kabongo (sorbonne-universite.fr) et.al.|[2508.20312](http://arxiv.org/abs/2508.20312)|null|
 |**2025-08-29**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|Manato Tajiri (gl.cc.uec.ac.jp) et.al.|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
 |**2025-08-27**|**A Hybrid Recommendation Framework for Enhancing User Engagement in Local News**|Payam Pourashraf (depaul.edu) et.al.|[2508.19539](http://arxiv.org/abs/2508.19539)|null|
 |**2025-08-26**|**STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning**|Chenghao Wu (ruc.edu.cn) et.al.|[2508.18812](http://arxiv.org/abs/2508.18812)|null|
@@ -583,6 +594,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**ACE-RL: Adaptive Constraint-Enhanced Reward for Long-form Generation Reinforcement Learning**|Jianghao Chen (ia.ac.cn) et.al.|[2509.04903](http://arxiv.org/abs/2509.04903)|**[link](https://github.com/ZNLP/ACE-RL)**|
+|**2025-09-05**|**Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs**|Ilham Wicaksono et.al.|[2509.04802](http://arxiv.org/abs/2509.04802)|null|
+|**2025-09-05**|**Decoders Laugh as Loud as Encoders**|Eli Borodach et.al.|[2509.04779](http://arxiv.org/abs/2509.04779)|null|
+|**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu (gatech.edu) et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|null|
+|**2025-09-05**|**A Study of Large Language Models for Patient Information Extraction: Model Architecture, Fine-Tuning Strategy, and Multi-task Instruction Tuning**|Cheng Peng (selfii.com) et.al.|[2509.04753](http://arxiv.org/abs/2509.04753)|null|
+|**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|Yushi Sun (cse.ust.hk) et.al.|[2509.04716](http://arxiv.org/abs/2509.04716)|null|
+|**2025-09-03**|**Using LLMs to create analytical datasets: A case study of reconstructing the historical memory of Colombia**|David Anderson (umd.edu) et.al.|[2509.04523](http://arxiv.org/abs/2509.04523)|null|
+|**2025-09-03**|**Mitigation of Gender and Ethnicity Bias in AI-Generated Stories through Model Explanations**|Martha O. Dimgba et.al.|[2509.04515](http://arxiv.org/abs/2509.04515)|null|
+|**2025-09-02**|**Scaling behavior of large language models in emotional safety classification across sizes and tasks**|Edoardo Pinzuti (lir-mainz.de) et.al.|[2509.04512](http://arxiv.org/abs/2509.04512)|null|
 |**2025-09-04**|**Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding**|Wanfu Wang (suda.edu.cn) et.al.|[2509.04243](http://arxiv.org/abs/2509.04243)|null|
 |**2025-09-04**|**RepoDebug: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models**|Jingjing Liu (buaa.edu.cn) et.al.|[2509.04078](http://arxiv.org/abs/2509.04078)|null|
 |**2025-09-04**|**Improving Narrative Classification and Explanation via Fine Tuned Language Models**|Rishit Tyagi (gmail.com) et.al.|[2509.04077](http://arxiv.org/abs/2509.04077)|null|
