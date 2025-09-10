@@ -1,4 +1,4 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**Smart Fast Finish: Preventing Overdelivery via Daily Budget Pacing at DoorDash**|Rohan Garg (doordash.com) et.al.|[2509.07929](http://arxiv.org/abs/2509.07929)|null|
+|**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
+|**2025-09-09**|**Conv4Rec: A 1-by-1 Convolutional AutoEncoder for User Profiling through Joint Analysis of Implicit and Explicit Feedbacks**|Antoine Ledent et.al.|[2509.07499](http://arxiv.org/abs/2509.07499)|null|
+|**2025-09-09**|**MEGG: Replay via Maximally Extreme GGscore in Incremental Learning for Neural Recommendation Models**|Yunxiao Shi (uts.edu.au) et.al.|[2509.07319](http://arxiv.org/abs/2509.07319)|null|
+|**2025-09-08**|**Datasets for Navigating Sensitive Topics in Recommendation Systems**|Amelia Kovacs (cornell.edu) et.al.|[2509.07269](http://arxiv.org/abs/2509.07269)|null|
+|**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
 |**2025-09-08**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|Jiahui Chen (kuaishou.com) et.al.|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
 |**2025-09-08**|**When Secure Isn't: Assessing the Security of Machine Learning Model Sharing**|Gabriele Digregorio (polimi.it) et.al.|[2509.06703](http://arxiv.org/abs/2509.06703)|null|
 |**2025-09-08**|**Reasoning-enhanced Query Understanding through Decomposition and Interpretation**|Yunfei Zhong (gmail.com) et.al.|[2509.06544](http://arxiv.org/abs/2509.06544)|null|
@@ -400,12 +406,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
+|**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
 |**2025-09-08**|**Reasoning-enhanced Query Understanding through Decomposition and Interpretation**|Yunfei Zhong (gmail.com) et.al.|[2509.06544](http://arxiv.org/abs/2509.06544)|null|
 |**2025-09-07**|**Modeling shopper interest broadness with entropy-driven dialogue policy in the context of arbitrarily large product catalogs**|Firas Jarboui (acm.org) et.al.|[2509.06185](http://arxiv.org/abs/2509.06185)|null|
 |**2025-09-06**|**LESER: Learning to Expand via Search Engine-feedback Reinforcement in e-Commerce**|Yipeng Zhang (ebay.com) et.al.|[2509.05570](http://arxiv.org/abs/2509.05570)|null|
@@ -419,7 +427,7 @@
 |**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|Zhuoxing Wei (meituan.com) et.al.|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
 |**2025-08-28**|**SUMMA: A Multimodal Large Language Model for Advertisement Summarization**|Weitao Jia (bytedance.com) et.al.|[2508.20582](http://arxiv.org/abs/2508.20582)|null|
 |**2025-09-05**|**Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting**|Alexandre Andre (seas.upenn.edu) et.al.|[2508.20401](http://arxiv.org/abs/2508.20401)|null|
-|**2025-09-05**|**AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**|Lang Mei (huawei.com) et.al.|[2508.20368](http://arxiv.org/abs/2508.20368)|null|
+|**2025-09-09**|**AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**|Lang Mei (huawei.com) et.al.|[2508.20368](http://arxiv.org/abs/2508.20368)|null|
 |**2025-09-05**|**ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations**|Ben Kabongo (sorbonne-universite.fr) et.al.|[2508.20312](http://arxiv.org/abs/2508.20312)|null|
 |**2025-08-29**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|Manato Tajiri (gl.cc.uec.ac.jp) et.al.|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
 |**2025-08-27**|**A Hybrid Recommendation Framework for Enhancing User Engagement in Local News**|Payam Pourashraf (depaul.edu) et.al.|[2508.19539](http://arxiv.org/abs/2508.19539)|null|
@@ -603,12 +611,27 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge**|Lukas Haas (google.com) et.al.|[2509.07968](http://arxiv.org/abs/2509.07968)|null|
+|**2025-09-09**|**Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation**|Wanni Vidulige Ishan Perera (shsu.edu) et.al.|[2509.07933](http://arxiv.org/abs/2509.07933)|null|
+|**2025-09-09**|**SCoder: Iterative Self-Distillation for Bootstrapping Small-Scale Data Synthesizers to Empower Code LLMs**|Xinyu Zhang (gmail.com) et.al.|[2509.07858](http://arxiv.org/abs/2509.07858)|null|
+|**2025-09-09**|**Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study**|Amay Jain (gmail.com) et.al.|[2509.07846](http://arxiv.org/abs/2509.07846)|null|
+|**2025-09-09**|**Are LLMs Enough for Hyperpartisan, Fake, Polarized and Harmful Content Detection? Evaluating In-Context Learning vs. Fine-Tuning**|Michele Joshua Maggini (usc.es) et.al.|[2509.07768](http://arxiv.org/abs/2509.07768)|null|
+|**2025-09-09**|**Factuality Beyond Coherence: Evaluating LLM Watermarking Methods for Medical Texts**|Rochana Prih Hastuti (ucf.edu) et.al.|[2509.07755](http://arxiv.org/abs/2509.07755)|null|
+|**2025-09-09**|**RIMO: An Easy-to-Evaluate, Hard-to-Solve Olympiad Benchmark for Advanced Mathematical Reasoning**|Ziye Chen (hkust-gz.edu.cn) et.al.|[2509.07711](http://arxiv.org/abs/2509.07711)|null|
+|**2025-09-09**|**MaLei at MultiClinSUM: Summarisation of Clinical Documents using Perspective-Aware Iterative Self-Prompting with LLMs**|Libo Ren (gmail.com) et.al.|[2509.07622](http://arxiv.org/abs/2509.07622)|null|
+|**2025-09-09**|**Astra: A Multi-Agent System for GPU Kernel Performance Optimization**|Anjiang Wei (cs.stanford.edu) et.al.|[2509.07506](http://arxiv.org/abs/2509.07506)|null|
+|**2025-09-09**|**GLEAM: Learning to Match and Explain in Cross-View Geo-Localization**|Xudong Lu (sjtu.edu.cn) et.al.|[2509.07450](http://arxiv.org/abs/2509.07450)|**[link](https://github.com/Lucky-Lance/GLEAM)**|
+|**2025-09-09**|**LongEmotion: Measuring Emotional Intelligence of Large Language Models in Long-Context Interaction**|Weichu Liu (gmail.com) et.al.|[2509.07403](http://arxiv.org/abs/2509.07403)|**[link](https://github.com/LongEmotion/LongEmotion)**|
+|**2025-09-09**|**PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions**|Yixuan Tang (connect.ust.hk) et.al.|[2509.07370](http://arxiv.org/abs/2509.07370)|null|
+|**2025-09-08**|**Systematic Optimization of Open Source Large Language Models for Mathematical Reasoning**|Pranav Pawar et.al.|[2509.07238](http://arxiv.org/abs/2509.07238)|null|
+|**2025-09-08**|**Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector**|Amal Chebbi (fitila.ai) et.al.|[2509.07177](http://arxiv.org/abs/2509.07177)|null|
+|**2025-09-08**|**MedBench-IT: A Comprehensive Benchmark for Evaluating Large Language Models on Italian Medical Entrance Examinations**|Ruggero Marino Lazzaroni (uni-graz.at) et.al.|[2509.07135](http://arxiv.org/abs/2509.07135)|null|
 |**2025-09-08**|**Outcome-based Exploration for LLM Reasoning**|Yuda Song (andrew.cmu.edu) et.al.|[2509.06941](http://arxiv.org/abs/2509.06941)|null|
 |**2025-09-08**|**An Ethically Grounded LLM-Based Approach to Insider Threat Synthesis and Detection**|Haywood Gelman (trojans.dsu.edu) et.al.|[2509.06920](http://arxiv.org/abs/2509.06920)|null|
 |**2025-09-08**|**mmBERT: A Modern Multilingual Encoder with Annealed Language Learning**|Marc Marone (jhu.edu) et.al.|[2509.06888](http://arxiv.org/abs/2509.06888)|null|
@@ -1244,7 +1267,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
