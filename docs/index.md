@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.09.10
+## Updated on 2025.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Soundtracks of Our Lives: How Age Influences Musical Preferences**|Arsen Matej Golubovikj (famnit.upr.si) et.al.|[2509.08337](http://arxiv.org/abs/2509.08337)|null|
 |**2025-09-09**|**Smart Fast Finish: Preventing Overdelivery via Daily Budget Pacing at DoorDash**|Rohan Garg (doordash.com) et.al.|[2509.07929](http://arxiv.org/abs/2509.07929)|null|
 |**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
 |**2025-09-09**|**Conv4Rec: A 1-by-1 Convolutional AutoEncoder for User Profiling through Joint Analysis of Implicit and Explicit Feedbacks**|Antoine Ledent et.al.|[2509.07499](http://arxiv.org/abs/2509.07499)|null|
 |**2025-09-09**|**MEGG: Replay via Maximally Extreme GGscore in Incremental Learning for Neural Recommendation Models**|Yunxiao Shi (uts.edu.au) et.al.|[2509.07319](http://arxiv.org/abs/2509.07319)|null|
 |**2025-09-08**|**Datasets for Navigating Sensitive Topics in Recommendation Systems**|Amelia Kovacs (cornell.edu) et.al.|[2509.07269](http://arxiv.org/abs/2509.07269)|null|
 |**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
-|**2025-09-08**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|Jiahui Chen (kuaishou.com) et.al.|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
+|**2025-09-10**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|Jiahui Chen (kuaishou.com) et.al.|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
 |**2025-09-08**|**When Secure Isn't: Assessing the Security of Machine Learning Model Sharing**|Gabriele Digregorio (polimi.it) et.al.|[2509.06703](http://arxiv.org/abs/2509.06703)|null|
 |**2025-09-08**|**Reasoning-enhanced Query Understanding through Decomposition and Interpretation**|Yunfei Zhong (gmail.com) et.al.|[2509.06544](http://arxiv.org/abs/2509.06544)|null|
 |**2025-09-08**|**Explained, yet misunderstood: How AI Literacy shapes HR Managers' interpretation of User Interfaces in Recruiting Recommender Systems**|Yannick Kalff (htw-berlin.de) et.al.|[2509.06475](http://arxiv.org/abs/2509.06475)|null|
@@ -24,7 +25,7 @@ layout: default
 |**2025-09-07**|**DISTRIBUTEDANN: Efficient Scaling of a Single DISKANN Graph Across Thousands of Computers**|Philip Adams (microsoft.com) et.al.|[2509.06046](http://arxiv.org/abs/2509.06046)|null|
 |**2025-09-07**|**A Survey of Real-World Recommender Systems: Challenges, Constraints, and Industrial Perspectives**|Kuan Zou (e.ntu.edu.sg) et.al.|[2509.06002](http://arxiv.org/abs/2509.06002)|null|
 |**2025-09-06**|**Beyond Keywords: Driving Generative Search Engine Optimization with Content-Centric Agents**|Qiyuan Chen (zju.edu.cn) et.al.|[2509.05607](http://arxiv.org/abs/2509.05607)|null|
-|**2025-09-06**|**LESER: Learning to Expand via Search Engine-feedback Reinforcement in e-Commerce**|Yipeng Zhang (ebay.com) et.al.|[2509.05570](http://arxiv.org/abs/2509.05570)|null|
+|**2025-09-10**|**LESER: Learning to Expand via Search Engine-feedback Reinforcement in e-Commerce**|Yipeng Zhang (ebay.com) et.al.|[2509.05570](http://arxiv.org/abs/2509.05570)|null|
 |**2025-09-05**|**Biomedical Literature Q&A System Using Retrieval-Augmented Generation (RAG)**|Mansi Garg (usc.edu) et.al.|[2509.05505](http://arxiv.org/abs/2509.05505)|null|
 |**2025-09-05**|**Deep Reinforcement Learning for Ranking Utility Tuning in the Ad Recommender System at Pinterest**|Xiao Yang (pinterest.com) et.al.|[2509.05292](http://arxiv.org/abs/2509.05292)|null|
 |**2025-09-05**|**Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System**|Hao Chen (ytu.edu.cn) et.al.|[2509.05115](http://arxiv.org/abs/2509.05115)|null|
@@ -409,7 +410,7 @@ layout: default
 |**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
 |**2025-09-08**|**Reasoning-enhanced Query Understanding through Decomposition and Interpretation**|Yunfei Zhong (gmail.com) et.al.|[2509.06544](http://arxiv.org/abs/2509.06544)|null|
 |**2025-09-07**|**Modeling shopper interest broadness with entropy-driven dialogue policy in the context of arbitrarily large product catalogs**|Firas Jarboui (acm.org) et.al.|[2509.06185](http://arxiv.org/abs/2509.06185)|null|
-|**2025-09-06**|**LESER: Learning to Expand via Search Engine-feedback Reinforcement in e-Commerce**|Yipeng Zhang (ebay.com) et.al.|[2509.05570](http://arxiv.org/abs/2509.05570)|null|
+|**2025-09-10**|**LESER: Learning to Expand via Search Engine-feedback Reinforcement in e-Commerce**|Yipeng Zhang (ebay.com) et.al.|[2509.05570](http://arxiv.org/abs/2509.05570)|null|
 |**2025-09-05**|**Biomedical Literature Q&A System Using Retrieval-Augmented Generation (RAG)**|Mansi Garg (usc.edu) et.al.|[2509.05505](http://arxiv.org/abs/2509.05505)|null|
 |**2025-09-05**|**Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation**|Yogev Cohen et.al.|[2509.04810](http://arxiv.org/abs/2509.04810)|null|
 |**2025-09-02**|**DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence**|Pranav Narayanan Venkit (salesforce.com) et.al.|[2509.04499](http://arxiv.org/abs/2509.04499)|null|
@@ -608,6 +609,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**A Survey of Reinforcement Learning for Large Reasoning Models**|Kaiyan Zhang (mails.tsinghua.edu.cn) et.al.|[2509.08827](http://arxiv.org/abs/2509.08827)|**[link](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)**|
+|**2025-09-10**|**Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms**|Minyeong Choe (chosun.ac.kr) et.al.|[2509.08778](http://arxiv.org/abs/2509.08778)|null|
+|**2025-09-10**|**Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing**|Jeffrey Amico (gensyn.ai) et.al.|[2509.08721](http://arxiv.org/abs/2509.08721)|null|
+|**2025-09-10**|**LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge**|Dima Galat et.al.|[2509.08596](http://arxiv.org/abs/2509.08596)|null|
+|**2025-09-10**|**Agents of Discovery**|Sascha Diefenbacher et.al.|[2509.08535](http://arxiv.org/abs/2509.08535)|null|
+|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Dikshant Sagar et.al.|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-10**|**An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization**|Zhuo Xiao (buaa.edu.cn) et.al.|[2509.08407](http://arxiv.org/abs/2509.08407)|null|
+|**2025-09-10**|**Low-Resource Fine-Tuning for Multi-Task Structured Information Extraction with a Billion-Parameter Instruction-Tuned Model**|Yu Cheng Chih (m111.nthu.edu.tw) et.al.|[2509.08381](http://arxiv.org/abs/2509.08381)|null|
+|**2025-09-10**|**<think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs**|Sergey Pletenev (skol.tech) et.al.|[2509.08358](http://arxiv.org/abs/2509.08358)|null|
+|**2025-09-10**|**Accelerating Reinforcement Learning Algorithms Convergence using Pre-trained Large Language Models as Tutors With Advice Reusing**|Lukas Toral (gmail.com) et.al.|[2509.08329](http://arxiv.org/abs/2509.08329)|null|
+|**2025-09-09**|**MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder and LLM Fusion**|Kosei Uemura (mail.utoronto.ca) et.al.|[2509.08105](http://arxiv.org/abs/2509.08105)|null|
+|**2025-09-09**|**Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression**|Nathaniel Imel (nyu.edu) et.al.|[2509.08093](http://arxiv.org/abs/2509.08093)|null|
+|**2025-09-09**|**SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery**|Fengyu She (foxmail.com) et.al.|[2509.08032](http://arxiv.org/abs/2509.08032)|null|
+|**2025-09-09**|**NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment**|Hoang-Trung Nguyen (vnu.edu.vn) et.al.|[2509.08025](http://arxiv.org/abs/2509.08025)|null|
 |**2025-09-09**|**SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge**|Lukas Haas (google.com) et.al.|[2509.07968](http://arxiv.org/abs/2509.07968)|null|
 |**2025-09-09**|**Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation**|Wanni Vidulige Ishan Perera (shsu.edu) et.al.|[2509.07933](http://arxiv.org/abs/2509.07933)|null|
 |**2025-09-09**|**SCoder: Iterative Self-Distillation for Bootstrapping Small-Scale Data Synthesizers to Empower Code LLMs**|Xinyu Zhang (gmail.com) et.al.|[2509.07858](http://arxiv.org/abs/2509.07858)|null|
