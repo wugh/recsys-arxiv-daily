@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.09.11
+## Updated on 2025.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs**|Vadim Zadykian (mymtu.ie) et.al.|[2509.09522](http://arxiv.org/abs/2509.09522)|null|
+|**2025-09-11**|**We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later**|Alan Said (acm.org) et.al.|[2509.09414](http://arxiv.org/abs/2509.09414)|null|
+|**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|Yifan Wang et.al.|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
+|**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|Haipeng Liu (mails.jlu.edu.cn) et.al.|[2509.09226](http://arxiv.org/abs/2509.09226)|null|
+|**2025-09-11**|**Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation**|Kelin Ren (hanyang.ac.kr) et.al.|[2509.09114](http://arxiv.org/abs/2509.09114)|**[link](https://github.com/rkl71/MambaRec)**|
+|**2025-09-11**|**Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users**|Haowei Yang (cougarnet.uh.edu) et.al.|[2509.09066](http://arxiv.org/abs/2509.09066)|null|
+|**2025-09-10**|**Envy-Free but Still Unfair: Envy-Freeness Up To One Item (EF-1) in Personalized Recommendation**|Amanda Aird (colorado.edu) et.al.|[2509.09037](http://arxiv.org/abs/2509.09037)|null|
+|**2025-09-10**|**Generative Engine Optimization: How to Dominate AI Search**|Mahe Chen (mail.utoronto.ca) et.al.|[2509.08919](http://arxiv.org/abs/2509.08919)|null|
 |**2025-09-10**|**Soundtracks of Our Lives: How Age Influences Musical Preferences**|Arsen Matej Golubovikj (famnit.upr.si) et.al.|[2509.08337](http://arxiv.org/abs/2509.08337)|null|
 |**2025-09-09**|**Smart Fast Finish: Preventing Overdelivery via Daily Budget Pacing at DoorDash**|Rohan Garg (doordash.com) et.al.|[2509.07929](http://arxiv.org/abs/2509.07929)|null|
 |**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
@@ -406,6 +414,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|Haipeng Liu (mails.jlu.edu.cn) et.al.|[2509.09226](http://arxiv.org/abs/2509.09226)|null|
+|**2025-09-11**|**Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users**|Haowei Yang (cougarnet.uh.edu) et.al.|[2509.09066](http://arxiv.org/abs/2509.09066)|null|
 |**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
 |**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
 |**2025-09-08**|**Reasoning-enhanced Query Understanding through Decomposition and Interpretation**|Yunfei Zhong (gmail.com) et.al.|[2509.06544](http://arxiv.org/abs/2509.06544)|null|
@@ -609,17 +619,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search**|Shuocheng Li (microsoft.com) et.al.|[2509.09245](http://arxiv.org/abs/2509.09245)|null|
+|**2025-09-11**|**Agentic LLMs for Question Answering over Tabular Data**|Rishit Tyagi (gmail.com) et.al.|[2509.09234](http://arxiv.org/abs/2509.09234)|null|
+|**2025-09-11**|**Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset**|Doha Nam (kaist.ac.kr) et.al.|[2509.09192](http://arxiv.org/abs/2509.09192)|null|
+|**2025-09-11**|**Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia**|Sophia Maria (shopee.com) et.al.|[2509.09121](http://arxiv.org/abs/2509.09121)|null|
+|**2025-09-11**|**Towards Confidential and Efficient LLM Inference with Dual Privacy Protection**|Honglan Yu (iie.ac.cn) et.al.|[2509.09091](http://arxiv.org/abs/2509.09091)|null|
+|**2025-09-11**|**Understanding Economic Tradeoffs Between Human and AI Agents in Bargaining Games**|Crystal Qian (google.com) et.al.|[2509.09071](http://arxiv.org/abs/2509.09071)|null|
+|**2025-09-09**|**Decentralising LLM Alignment: A Case for Context, Pluralism, and Participation**|Oriane Peter (kcl.ac.uk) et.al.|[2509.08858](http://arxiv.org/abs/2509.08858)|null|
 |**2025-09-10**|**A Survey of Reinforcement Learning for Large Reasoning Models**|Kaiyan Zhang (mails.tsinghua.edu.cn) et.al.|[2509.08827](http://arxiv.org/abs/2509.08827)|**[link](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)**|
 |**2025-09-10**|**Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms**|Minyeong Choe (chosun.ac.kr) et.al.|[2509.08778](http://arxiv.org/abs/2509.08778)|null|
 |**2025-09-10**|**Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing**|Jeffrey Amico (gensyn.ai) et.al.|[2509.08721](http://arxiv.org/abs/2509.08721)|null|
 |**2025-09-10**|**LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge**|Dima Galat et.al.|[2509.08596](http://arxiv.org/abs/2509.08596)|null|
 |**2025-09-10**|**Agents of Discovery**|Sascha Diefenbacher et.al.|[2509.08535](http://arxiv.org/abs/2509.08535)|null|
-|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Dikshant Sagar et.al.|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-11**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|Dikshant Sagar et.al.|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
 |**2025-09-10**|**An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization**|Zhuo Xiao (buaa.edu.cn) et.al.|[2509.08407](http://arxiv.org/abs/2509.08407)|null|
 |**2025-09-10**|**Low-Resource Fine-Tuning for Multi-Task Structured Information Extraction with a Billion-Parameter Instruction-Tuned Model**|Yu Cheng Chih (m111.nthu.edu.tw) et.al.|[2509.08381](http://arxiv.org/abs/2509.08381)|null|
 |**2025-09-10**|**<think> So let's replace this phrase with insult... </think> Lessons learned from generation of toxic texts with LLMs**|Sergey Pletenev (skol.tech) et.al.|[2509.08358](http://arxiv.org/abs/2509.08358)|null|
 |**2025-09-10**|**Accelerating Reinforcement Learning Algorithms Convergence using Pre-trained Large Language Models as Tutors With Advice Reusing**|Lukas Toral (gmail.com) et.al.|[2509.08329](http://arxiv.org/abs/2509.08329)|null|
-|**2025-09-09**|**MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder and LLM Fusion**|Kosei Uemura (mail.utoronto.ca) et.al.|[2509.08105](http://arxiv.org/abs/2509.08105)|null|
+|**2025-09-11**|**MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder and LLM Fusion**|Kosei Uemura (mail.utoronto.ca) et.al.|[2509.08105](http://arxiv.org/abs/2509.08105)|null|
 |**2025-09-09**|**Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression**|Nathaniel Imel (nyu.edu) et.al.|[2509.08093](http://arxiv.org/abs/2509.08093)|null|
 |**2025-09-09**|**SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery**|Fengyu She (foxmail.com) et.al.|[2509.08032](http://arxiv.org/abs/2509.08032)|null|
 |**2025-09-09**|**NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment**|Hoang-Trung Nguyen (vnu.edu.vn) et.al.|[2509.08025](http://arxiv.org/abs/2509.08025)|null|
