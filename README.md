@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|Fei Liu (meta.com) et.al.|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
+|**2025-09-12**|**Diversified recommendations of cultural activities with personalized determinantal point processes**|Carole Ibrahim et.al.|[2509.10392](http://arxiv.org/abs/2509.10392)|null|
+|**2025-09-12**|**Property prediction for ionic liquids without prior structural knowledge using limited experimental data: A data-driven neural recommender system leveraging transfer learning**|Sahil Sethi et.al.|[2509.10273](http://arxiv.org/abs/2509.10273)|null|
+|**2025-09-12**|**Model-agnostic post-hoc explainability for recommender systems**|Irina Arévalo et.al.|[2509.10245](http://arxiv.org/abs/2509.10245)|null|
 |**2025-09-11**|**Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs**|Vadim Zadykian (mymtu.ie) et.al.|[2509.09522](http://arxiv.org/abs/2509.09522)|null|
 |**2025-09-11**|**We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later**|Alan Said (acm.org) et.al.|[2509.09414](http://arxiv.org/abs/2509.09414)|null|
 |**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|Yifan Wang et.al.|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
@@ -421,6 +425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|Fei Liu (meta.com) et.al.|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
 |**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|Haipeng Liu (mails.jlu.edu.cn) et.al.|[2509.09226](http://arxiv.org/abs/2509.09226)|null|
 |**2025-09-11**|**Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users**|Haowei Yang (cougarnet.uh.edu) et.al.|[2509.09066](http://arxiv.org/abs/2509.09066)|null|
 |**2025-09-09**|**ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction**|Rui Dong (alibaba-inc.com) et.al.|[2509.07594](http://arxiv.org/abs/2509.07594)|null|
@@ -628,6 +633,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL**|Rui Lu (mails.tsinghua.edu.cn) et.al.|[2509.10446](http://arxiv.org/abs/2509.10446)|**[link](https://github.com/THUDM/DeepDive)**|
+|**2025-09-12**|**Long Context Automated Essay Scoring with Language Models**|Christopher Ormerod (cambiumassessment.com) et.al.|[2509.10417](http://arxiv.org/abs/2509.10417)|null|
+|**2025-09-12**|**Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs**|Yixiao Zhou (zju.edu.cn) et.al.|[2509.10377](http://arxiv.org/abs/2509.10377)|null|
+|**2025-09-12**|**Beyond Token Limits: Assessing Language Model Performance on Long Text Classification**|Miklós Sebők (tk.hu) et.al.|[2509.10199](http://arxiv.org/abs/2509.10199)|null|
+|**2025-09-12**|**Scaling Arabic Medical Chatbots Using Synthetic Data: Enhancing Generative AI with Synthetic Patient Records**|Abdulrahman Allam (msa.edu.eg) et.al.|[2509.10108](http://arxiv.org/abs/2509.10108)|null|
+|**2025-09-12**|**Arabic Large Language Models for Medical Text Generation**|Abdulrahman Allam (msa.edu.eg) et.al.|[2509.10095](http://arxiv.org/abs/2509.10095)|null|
+|**2025-09-12**|**Multi-Intent Recognition in Dialogue Understanding: A Comparison Between Smaller Open-Source LLMs**|Adnan Ahmad (tu-berlin.de) et.al.|[2509.10010](http://arxiv.org/abs/2509.10010)|null|
+|**2025-09-12**|**SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization**|Lei Yu (iscas.ac.cn) et.al.|[2509.09942](http://arxiv.org/abs/2509.09942)|null|
+|**2025-09-12**|**WALL: A Web Application for Automated Quality Assurance using Large Language Models**|Seyed Moein Abtahi (ontariotechu.net) et.al.|[2509.09918](http://arxiv.org/abs/2509.09918)|null|
+|**2025-09-11**|**Emulating Public Opinion: A Proof-of-Concept of AI-Generated Synthetic Survey Responses for the Chilean Case**|Bastián González-Bustamante (mail.udp.cl) et.al.|[2509.09871](http://arxiv.org/abs/2509.09871)|null|
+|**2025-09-10**|**Discrimination by LLMs: Cross-lingual Bias Assessment and Mitigation in Decision-Making and Summarisation**|Willem Huijzer (gmail.com) et.al.|[2509.09735](http://arxiv.org/abs/2509.09735)|null|
+|**2025-09-10**|**A Role-Aware Multi-Agent Framework for Financial Education Question Answering with LLMs**|Andy Zhu (rpi.edu) et.al.|[2509.09727](http://arxiv.org/abs/2509.09727)|null|
+|**2025-09-10**|**Improving MLLM Historical Record Extraction with Test-Time Image**|Taylor Archibald (byu.edu) et.al.|[2509.09722](http://arxiv.org/abs/2509.09722)|null|
 |**2025-09-11**|**Jupiter: Enhancing LLM Data Analysis Capabilities via Notebook and Inference-Time Value-Guided Search**|Shuocheng Li (microsoft.com) et.al.|[2509.09245](http://arxiv.org/abs/2509.09245)|null|
 |**2025-09-11**|**Agentic LLMs for Question Answering over Tabular Data**|Rishit Tyagi (gmail.com) et.al.|[2509.09234](http://arxiv.org/abs/2509.09234)|null|
 |**2025-09-11**|**Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset**|Doha Nam (kaist.ac.kr) et.al.|[2509.09192](http://arxiv.org/abs/2509.09192)|null|
