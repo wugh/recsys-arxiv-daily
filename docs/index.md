@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li (cse.cuhk.edu.hk) et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
+|**2025-09-15**|**AEFS: Adaptive Early Feature Selection for Deep Recommender Systems**|Fan Hu (163.com) et.al.|[2509.12076](http://arxiv.org/abs/2509.12076)|null|
+|**2025-09-15**|**MillStone: How Open-Minded Are LLMs?**|Harold Triedman (cs.cornell.edu) et.al.|[2509.11967](http://arxiv.org/abs/2509.11967)|null|
+|**2025-09-15**|**Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio**|Luca Casini (kth.se) et.al.|[2509.11824](http://arxiv.org/abs/2509.11824)|null|
+|**2025-09-14**|**Federated Recommender System with Data Valuation for E-commerce Platform**|Jongwon Park et.al.|[2509.11196](http://arxiv.org/abs/2509.11196)|null|
+|**2025-09-14**|**Understanding the Information Cocoon: A Multidimensional Assessment and Analysis of News Recommendation Systems**|Xin Wang (bjtu.edu.cn) et.al.|[2509.11139](http://arxiv.org/abs/2509.11139)|null|
+|**2025-09-14**|**SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation**|Binhao Wang (my.cityu.edu.hk) et.al.|[2509.11094](http://arxiv.org/abs/2509.11094)|**[link](https://github.com/Applied-Machine-Learning-Lab/SPARK)**|
+|**2025-09-14**|**Membership Inference Attacks on Recommender System: A Survey**|Jiajie He (umbc.edu) et.al.|[2509.11080](http://arxiv.org/abs/2509.11080)|null|
+|**2025-09-12**|**Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media**|Xiaofan Zhou (uic.edu) et.al.|[2509.10584](http://arxiv.org/abs/2509.10584)|null|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|Fei Liu (meta.com) et.al.|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
 |**2025-09-12**|**Diversified recommendations of cultural activities with personalized determinantal point processes**|Carole Ibrahim et.al.|[2509.10392](http://arxiv.org/abs/2509.10392)|null|
 |**2025-09-12**|**Property prediction for ionic liquids without prior structural knowledge using limited experimental data: A data-driven neural recommender system leveraging transfer learning**|Sahil Sethi et.al.|[2509.10273](http://arxiv.org/abs/2509.10273)|null|
@@ -418,6 +427,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li (cse.cuhk.edu.hk) et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
+|**2025-09-15**|**MillStone: How Open-Minded Are LLMs?**|Harold Triedman (cs.cornell.edu) et.al.|[2509.11967](http://arxiv.org/abs/2509.11967)|null|
+|**2025-09-12**|**Smart Trial: Evaluating the Use of Large Language Models for Recruiting Clinical Trial Participants via Social Media**|Xiaofan Zhou (uic.edu) et.al.|[2509.10584](http://arxiv.org/abs/2509.10584)|null|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|Fei Liu (meta.com) et.al.|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
 |**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|Haipeng Liu (mails.jlu.edu.cn) et.al.|[2509.09226](http://arxiv.org/abs/2509.09226)|null|
 |**2025-09-11**|**Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users**|Haowei Yang (cougarnet.uh.edu) et.al.|[2509.09066](http://arxiv.org/abs/2509.09066)|null|
@@ -624,6 +636,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Advancing Medical Artificial Intelligence Using a Century of Cases**|Thomas A. Buckley (hms.harvard.edu) et.al.|[2509.12194](http://arxiv.org/abs/2509.12194)|null|
+|**2025-09-15**|**Beyond PII: How Users Attempt to Estimate and Mitigate Implicit LLM Inference**|Synthia Wang et.al.|[2509.12152](http://arxiv.org/abs/2509.12152)|null|
+|**2025-09-15**|**Can LLMs Address Mental Health Questions? A Comparison with Human Therapists**|Synthia Wang et.al.|[2509.12102](http://arxiv.org/abs/2509.12102)|null|
+|**2025-09-15**|**Is 'Hope' a person or an idea? A pilot benchmark for NER: comparing traditional NLP tools and large language models on ambiguous entities**|Payam Latifi (edu.unito.it) et.al.|[2509.12098](http://arxiv.org/abs/2509.12098)|null|
+|**2025-09-15**|**How to Evaluate Medical AI**|Ilia Kopanichuk (airi.net) et.al.|[2509.11941](http://arxiv.org/abs/2509.11941)|null|
+|**2025-09-15**|**Growing Perspectives: Modelling Embodied Perspective Taking and Inner Narrative Development Using Large Language Models**|Sabrina Patania (unimib.it) et.al.|[2509.11868](http://arxiv.org/abs/2509.11868)|null|
+|**2025-09-15**|**AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment**|Kun Li (my.cityu.edu.hk) et.al.|[2509.11620](http://arxiv.org/abs/2509.11620)|null|
+|**2025-09-15**|**HalluDetect: Detecting, Mitigating, and Benchmarking Hallucinations in Conversational Systems**|Spandan Anaokar (gmail.com) et.al.|[2509.11619](http://arxiv.org/abs/2509.11619)|null|
+|**2025-09-15**|**Formal Reasoning for Intelligent QA Systems: A Case Study in the Educational Domain**|Tuan Bui (hcmut.edu.vn) et.al.|[2509.11572](http://arxiv.org/abs/2509.11572)|null|
+|**2025-09-15**|**Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia -- Current Stage and Challenges**|Sampoorna Poria (gmail.com) et.al.|[2509.11570](http://arxiv.org/abs/2509.11570)|**[link](https://github.com/trust-nlp/LM4SouthAsia-Survey)**|
+|**2025-09-15**|**ClaimIQ at CheckThat! 2025: Comparing Prompted and Fine-Tuned Language Models for Verifying Numerical Claims**|Anirban Saha Anik (my.unt.edu) et.al.|[2509.11492](http://arxiv.org/abs/2509.11492)|null|
+|**2025-09-14**|**Framing AI System Benchmarking as a Learning Task: FlexBench and the Open MLPerf Dataset**|Grigori Fursin et.al.|[2509.11413](http://arxiv.org/abs/2509.11413)|null|
+|**2025-09-14**|**Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations**|Seyed Kourosh Mahjour (evergladesuniversity.edu) et.al.|[2509.11376](http://arxiv.org/abs/2509.11376)|null|
+|**2025-09-14**|**!MSA at AraHealthQA 2025 Shared Task: Enhancing LLM Performance for Arabic Clinical Question Answering through Prompt Engineering and Ensemble Learning**|Mohamed Tarek (msa.edu.eg) et.al.|[2509.11365](http://arxiv.org/abs/2509.11365)|null|
+|**2025-09-14**|**Do Large Language Models Favor Recent Content? A Study on Recency Bias in LLM-Based Reranking**|Hanpei Fang (ruri.waseda.jp) et.al.|[2509.11353](http://arxiv.org/abs/2509.11353)|null|
+|**2025-09-14**|**MatQnA: A Benchmark Dataset for Multi-modal Large Language Models in Materials Characterization and Analysis**|Yonghao Weng (zju.edu.cn) et.al.|[2509.11335](http://arxiv.org/abs/2509.11335)|null|
+|**2025-09-14**|**Ko-PIQA: A Korean Physical Commonsense Reasoning Dataset with Cultural Context**|Dasol Choi (yonsei.ac.kr) et.al.|[2509.11303](http://arxiv.org/abs/2509.11303)|null|
+|**2025-09-14**|**The Prompt Engineering Report Distilled: Quick Start Guide for Life Sciences**|Valentin Romanov (imperial.ac.uk) et.al.|[2509.11295](http://arxiv.org/abs/2509.11295)|null|
+|**2025-09-14**|**EmoBench-Reddit: A Hierarchical Benchmark for Evaluating the Emotional Intelligence of Multimodal Large Language Models**|Haokun Li et.al.|[2509.11101](http://arxiv.org/abs/2509.11101)|null|
+|**2025-09-13**|**An Interpretable Benchmark for Clickbait Detection and Tactic Attribution**|Lihi Nofar et.al.|[2509.10937](http://arxiv.org/abs/2509.10937)|**[link](https://github.com/LLM-HITCS25S/ClickbaitTacticsDetection)**|
+|**2025-09-13**|**Harmful Prompt Laundering: Jailbreaking LLMs with Abductive Styles and Symbolic Encoding**|Seongho Joo (snu.ac.kr) et.al.|[2509.10931](http://arxiv.org/abs/2509.10931)|null|
+|**2025-09-13**|**CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis**|Xinyu Zhang (alibaba-inc.com) et.al.|[2509.10886](http://arxiv.org/abs/2509.10886)|**[link](https://github.com/Eyr3/CultureSynth)**|
+|**2025-09-13**|**Evaluating Large Language Models for Evidence-Based Clinical Question Answering**|Can Wang (jh.edu) et.al.|[2509.10843](http://arxiv.org/abs/2509.10843)|null|
+|**2025-09-13**|**Towards Automated Error Discovery: A Study in Conversational AI**|Dominic Petrak et.al.|[2509.10833](http://arxiv.org/abs/2509.10833)|null|
+|**2025-09-13**|**Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction**|Yijun Liu (ir.hit.edu.cn) et.al.|[2509.10798](http://arxiv.org/abs/2509.10798)|null|
+|**2025-09-12**|**A Comparison and Evaluation of Fine-tuned Convolutional Neural Networks to Large Language Models for Image Classification and Segmentation of Brain Tumors on MRI**|Felicia Liu et.al.|[2509.10683](http://arxiv.org/abs/2509.10683)|null|
+|**2025-09-12**|**Test-Time Warmup for Multimodal Large Language Models**|Nikita Rajaneesh (COLUMBIA.EDU) et.al.|[2509.10641](http://arxiv.org/abs/2509.10641)|null|
 |**2025-09-12**|**DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL**|Rui Lu (mails.tsinghua.edu.cn) et.al.|[2509.10446](http://arxiv.org/abs/2509.10446)|**[link](https://github.com/THUDM/DeepDive)**|
 |**2025-09-12**|**Long Context Automated Essay Scoring with Language Models**|Christopher Ormerod (cambiumassessment.com) et.al.|[2509.10417](http://arxiv.org/abs/2509.10417)|null|
 |**2025-09-12**|**Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs**|Yixiao Zhou (zju.edu.cn) et.al.|[2509.10377](http://arxiv.org/abs/2509.10377)|null|
