@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|Yushang Zhao (wustl.edu) et.al.|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
 |**2025-09-16**|**Green Recommender Systems: Understanding and Minimizing the Carbon Footprint of AI-Powered Personalization**|Lukas Wegmeth (uni-siegen.de) et.al.|[2509.13001](http://arxiv.org/abs/2509.13001)|null|
 |**2025-09-16**|**A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System**|Chao Xiong (antgroup.com) et.al.|[2509.12948](http://arxiv.org/abs/2509.12948)|null|
@@ -433,6 +434,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|Yushang Zhao (wustl.edu) et.al.|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
 |**2025-09-15**|**LLM-as-a-Judge: Rapid Evaluation of Legal Document Recommendation for Retrieval-Augmented Generation**|Anu Pradhan (bloomberg.net) et.al.|[2509.12382](http://arxiv.org/abs/2509.12382)|null|
 |**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li (cse.cuhk.edu.hk) et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
@@ -644,6 +646,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision**|Dulhan Jayalath (robots.ox.ac.uk) et.al.|[2509.14234](http://arxiv.org/abs/2509.14234)|null|
+|**2025-09-17**|**NIRVANA: Structured pruning reimagined for large language models compression**|Mengting Ai (illinois.edu) et.al.|[2509.14230](http://arxiv.org/abs/2509.14230)|**[link](https://github.com/iDEA-iSAIL-Lab-UIUC/NIRVANA)**|
+|**2025-09-17**|**LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology**|Renan Souza et.al.|[2509.13978](http://arxiv.org/abs/2509.13978)|null|
+|**2025-09-17**|**Do Large Language Models Understand Word Senses?**|Domenico Meconi (babelscape.com) et.al.|[2509.13905](http://arxiv.org/abs/2509.13905)|null|
+|**2025-09-17**|**Synthetic Data Generation for Screen Time and App Usage**|Gustavo Kruger (etu.u-paris.fr) et.al.|[2509.13892](http://arxiv.org/abs/2509.13892)|null|
+|**2025-09-17**|**Prompt Stability in Code LLMs: Measuring Sensitivity across Emotion- and Personality-Driven Variations**|Wei Ma (smu.edu.sg) et.al.|[2509.13680](http://arxiv.org/abs/2509.13680)|null|
+|**2025-09-17**|**LLM-I: LLMs are Naturally Interleaved Multimodal Creators**|Zirun Guo (gmail.com) et.al.|[2509.13642](http://arxiv.org/abs/2509.13642)|**[link](https://github.com/ByteDance-BandAI/LLM-I)**|
+|**2025-09-16**|**Intelligent Healthcare Imaging Platform An VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation**|Samer Al-Hamadani et.al.|[2509.13590](http://arxiv.org/abs/2509.13590)|null|
+|**2025-09-16**|**Overview of Dialog System Evaluation Track: Dimensionality, Language, Culture and Safety at DSTC 12**|John Mendonça (inesc-id.pt) et.al.|[2509.13569](http://arxiv.org/abs/2509.13569)|null|
+|**2025-09-16**|**AI Agents with Human-Like Collaborative Tools: Adaptive Strategies for Enhanced Problem-Solving**|Harper Reed (2389.ai) et.al.|[2509.13547](http://arxiv.org/abs/2509.13547)|null|
+|**2025-09-16**|**An LLM Agentic Approach for Legal-Critical Software: A Case Study for Tax Prep Software**|Sina Gogani-Khiabani (uic.edu) et.al.|[2509.13471](http://arxiv.org/abs/2509.13471)|null|
+|**2025-09-16**|**EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing**|Tianyu Chen (utexas.edu) et.al.|[2509.13399](http://arxiv.org/abs/2509.13399)|**[link](https://tianyucodings.github.io/EdiVAL-page/)**|
+|**2025-09-15**|**The Provenance Problem: LLMs and the Breakdown of Citation Norms**|Brian D. Earp et.al.|[2509.13365](http://arxiv.org/abs/2509.13365)|null|
 |**2025-09-16**|**Evaluating LLM Alignment on Personality Inference from Real-World Interview Data**|Jianfeng Zhu et.al.|[2509.13244](http://arxiv.org/abs/2509.13244)|null|
 |**2025-09-16**|**Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy**|Nadim Barakat (tufts.edu) et.al.|[2509.13234](http://arxiv.org/abs/2509.13234)|null|
 |**2025-09-16**|**The Few-shot Dilemma: Over-prompting Large Language Models**|Yongjian Tang et.al.|[2509.13196](http://arxiv.org/abs/2509.13196)|null|
