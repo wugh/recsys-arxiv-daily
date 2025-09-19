@@ -2,18 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Optimal Learning from Label Proportions with General Loss Functions**|Lorne Applebaum (google.com) et.al.|[2509.15145](http://arxiv.org/abs/2509.15145)|null|
+|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-18**|**Set Contribution Functions for Quantitative Bipolar Argumentation and their Principles**|Filip Naudot (cs.umu.se) et.al.|[2509.14963](http://arxiv.org/abs/2509.14963)|null|
+|**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|Lijia Ma et.al.|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|Yushang Zhao (wustl.edu) et.al.|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
 |**2025-09-16**|**Green Recommender Systems: Understanding and Minimizing the Carbon Footprint of AI-Powered Personalization**|Lukas Wegmeth (uni-siegen.de) et.al.|[2509.13001](http://arxiv.org/abs/2509.13001)|null|
 |**2025-09-16**|**A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System**|Chao Xiong (antgroup.com) et.al.|[2509.12948](http://arxiv.org/abs/2509.12948)|null|
-|**2025-09-16**|**Human + AI for Accelerating Ad Localization Evaluation**|Harshit Rajgarhia (centific.com) et.al.|[2509.12543](http://arxiv.org/abs/2509.12543)|null|
+|**2025-09-17**|**Human + AI for Accelerating Ad Localization Evaluation**|Harshit Rajgarhia (centific.com) et.al.|[2509.12543](http://arxiv.org/abs/2509.12543)|null|
 |**2025-09-15**|**LLM-as-a-Judge: Rapid Evaluation of Legal Document Recommendation for Retrieval-Augmented Generation**|Anu Pradhan (bloomberg.net) et.al.|[2509.12382](http://arxiv.org/abs/2509.12382)|null|
 |**2025-09-15**|**What News Recommendation Research Did (But Mostly Didn't) Teach Us About Building A News Recommender**|Karl Higley (umn.edu) et.al.|[2509.12361](http://arxiv.org/abs/2509.12361)|null|
 |**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li (cse.cuhk.edu.hk) et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
@@ -434,6 +438,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|Lijia Ma et.al.|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
+|**2025-09-12**|**JU-NLP at Touché: Covert Advertisement in Conversational AI-Generation and Detection Strategies**|Arka Dutta (gmail.com) et.al.|[2509.14256](http://arxiv.org/abs/2509.14256)|null|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|Yushang Zhao (wustl.edu) et.al.|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
 |**2025-09-15**|**LLM-as-a-Judge: Rapid Evaluation of Legal Document Recommendation for Retrieval-Augmented Generation**|Anu Pradhan (bloomberg.net) et.al.|[2509.12382](http://arxiv.org/abs/2509.12382)|null|
@@ -646,6 +653,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**TDRM: Smooth Reward Models with Temporal Difference for LLM RL and Inference**|Dan Zhang et.al.|[2509.15110](http://arxiv.org/abs/2509.15110)|**[link](https://github.com/THUDM/TDRM)**|
+|**2025-09-18**|**Value-Guided KV Compression for LLMs via Approximated CUR Decomposition**|Ayan Sengupta (ee.iitd.ac.in) et.al.|[2509.15038](http://arxiv.org/abs/2509.15038)|null|
+|**2025-09-18**|**Stochastic Bilevel Optimization with Heavy-Tailed Noise**|Zhuanghua Liu et.al.|[2509.14952](http://arxiv.org/abs/2509.14952)|null|
+|**2025-09-18**|**Explicit vs. Implicit Biographies: Evaluating and Adapting LLM Information Extraction on Wikidata-Derived Texts**|Alessandra Stramiglio (unibo.it) et.al.|[2509.14943](http://arxiv.org/abs/2509.14943)|null|
+|**2025-09-18**|**A Comparative Evaluation of Large Language Models for Persian Sentiment Analysis and Emotion Detection in Social Media Texts**|Kian Tohidi et.al.|[2509.14922](http://arxiv.org/abs/2509.14922)|null|
+|**2025-09-18**|**CARGO: A Framework for Confidence-Aware Routing of Large Language Models**|Amine Barrak (oakland.edu) et.al.|[2509.14899](http://arxiv.org/abs/2509.14899)|null|
+|**2025-09-18**|**Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens**|Issa Sugiura et.al.|[2509.14882](http://arxiv.org/abs/2509.14882)|null|
+|**2025-09-18**|**LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring**|Jinhee Jang (ncsoft.com) et.al.|[2509.14834](http://arxiv.org/abs/2509.14834)|null|
+|**2025-09-18**|**KAIO: A Collection of More Challenging Korean Questions**|Nahyun Lee et.al.|[2509.14752](http://arxiv.org/abs/2509.14752)|null|
+|**2025-09-18**|**Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language**|Hanlong Wan (pnnl.gov) et.al.|[2509.14623](http://arxiv.org/abs/2509.14623)|**[link](https://github.com/pnnl/prompt2control)**|
+|**2025-09-18**|**Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection**|Yihao Guo et.al.|[2509.14622](http://arxiv.org/abs/2509.14622)|null|
+|**2025-09-18**|**Do Vision-Language Models See Urban Scenes as People Do? An Urban Perception Benchmark**|Rashid Mushkani et.al.|[2509.14574](http://arxiv.org/abs/2509.14574)|null|
+|**2025-09-18**|**Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error Correction**|Roman Kovalchuk (ucu.edu.ua) et.al.|[2509.14504](http://arxiv.org/abs/2509.14504)|null|
+|**2025-09-17**|**VCBench: Benchmarking LLMs in Venture Capital**|Rick Chen (gmail.com) et.al.|[2509.14448](http://arxiv.org/abs/2509.14448)|null|
+|**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|Lijia Ma et.al.|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
 |**2025-09-17**|**Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision**|Dulhan Jayalath (robots.ox.ac.uk) et.al.|[2509.14234](http://arxiv.org/abs/2509.14234)|null|
 |**2025-09-17**|**NIRVANA: Structured pruning reimagined for large language models compression**|Mengting Ai (illinois.edu) et.al.|[2509.14230](http://arxiv.org/abs/2509.14230)|**[link](https://github.com/iDEA-iSAIL-Lab-UIUC/NIRVANA)**|
 |**2025-09-17**|**LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology**|Renan Souza et.al.|[2509.13978](http://arxiv.org/abs/2509.13978)|null|
