@@ -9,8 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
+|**2025-09-17**|**M-PACE: Mother Child Framework for Multimodal Compliance**|Shreyash Verma (gmail.com) et.al.|[2509.15241](http://arxiv.org/abs/2509.15241)|null|
 |**2025-09-18**|**Optimal Learning from Label Proportions with General Loss Functions**|Lorne Applebaum (google.com) et.al.|[2509.15145](http://arxiv.org/abs/2509.15145)|null|
-|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
 |**2025-09-18**|**Set Contribution Functions for Quantitative Bipolar Argumentation and their Principles**|Filip Naudot (cs.umu.se) et.al.|[2509.14963](http://arxiv.org/abs/2509.14963)|null|
 |**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|Lijia Ma et.al.|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
@@ -438,7 +440,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
+|**2025-09-17**|**M-PACE: Mother Child Framework for Multimodal Compliance**|Shreyash Verma (gmail.com) et.al.|[2509.15241](http://arxiv.org/abs/2509.15241)|null|
+|**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
 |**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|Lijia Ma et.al.|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
 |**2025-09-12**|**JU-NLP at Touché: Covert Advertisement in Conversational AI-Generation and Detection Strategies**|Arka Dutta (gmail.com) et.al.|[2509.14256](http://arxiv.org/abs/2509.14256)|null|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|Silan Hu (u.nus.edu) et.al.|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
@@ -653,6 +657,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation**|Jane Luo (microsoft.com) et.al.|[2509.16198](http://arxiv.org/abs/2509.16198)|null|
+|**2025-09-19**|**It Depends: Resolving Referential Ambiguity in Minimal Contexts with Commonsense Knowledge**|Lukas Ellinger (tum.de) et.al.|[2509.16107](http://arxiv.org/abs/2509.16107)|null|
+|**2025-09-19**|**How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages**|Siyang Wu (uchicago.edu) et.al.|[2509.15518](http://arxiv.org/abs/2509.15518)|null|
+|**2025-09-19**|**The (Short-Term) Effects of Large Language Models on Unemployment and Earnings**|Danqing Chen et.al.|[2509.15510](http://arxiv.org/abs/2509.15510)|null|
+|**2025-09-18**|**Red Teaming Multimodal Language Models: Evaluating Harm Across Prompt Modalities and Models**|Madison Van Doren et.al.|[2509.15478](http://arxiv.org/abs/2509.15478)|null|
+|**2025-09-18**|**Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**|Zhu Li et.al.|[2509.15476](http://arxiv.org/abs/2509.15476)|null|
+|**2025-09-18**|**PILOT: Steering Synthetic Data Generation with Psychological & Linguistic Output Targeting**|Caitlin Cisar (amazon.com) et.al.|[2509.15447](http://arxiv.org/abs/2509.15447)|null|
+|**2025-09-18**|**Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges**|Kadin Matotek (wcupa.edu) et.al.|[2509.15283](http://arxiv.org/abs/2509.15283)|null|
+|**2025-09-18**|**Fleming-R1: Toward Expert-Level Medical Reasoning via Reinforcement Learning**|Chi Liu (ubiquant.com) et.al.|[2509.15279](http://arxiv.org/abs/2509.15279)|null|
+|**2025-09-17**|**M-PACE: Mother Child Framework for Multimodal Compliance**|Shreyash Verma (gmail.com) et.al.|[2509.15241](http://arxiv.org/abs/2509.15241)|null|
 |**2025-09-18**|**TDRM: Smooth Reward Models with Temporal Difference for LLM RL and Inference**|Dan Zhang et.al.|[2509.15110](http://arxiv.org/abs/2509.15110)|**[link](https://github.com/THUDM/TDRM)**|
 |**2025-09-18**|**Value-Guided KV Compression for LLMs via Approximated CUR Decomposition**|Ayan Sengupta (ee.iitd.ac.in) et.al.|[2509.15038](http://arxiv.org/abs/2509.15038)|null|
 |**2025-09-18**|**Stochastic Bilevel Optimization with Heavy-Tailed Noise**|Zhuanghua Liu et.al.|[2509.14952](http://arxiv.org/abs/2509.14952)|null|
@@ -660,7 +674,7 @@ layout: default
 |**2025-09-18**|**A Comparative Evaluation of Large Language Models for Persian Sentiment Analysis and Emotion Detection in Social Media Texts**|Kian Tohidi et.al.|[2509.14922](http://arxiv.org/abs/2509.14922)|null|
 |**2025-09-18**|**CARGO: A Framework for Confidence-Aware Routing of Large Language Models**|Amine Barrak (oakland.edu) et.al.|[2509.14899](http://arxiv.org/abs/2509.14899)|null|
 |**2025-09-18**|**Llama-Mimi: Speech Language Models with Interleaved Semantic and Acoustic Tokens**|Issa Sugiura et.al.|[2509.14882](http://arxiv.org/abs/2509.14882)|null|
-|**2025-09-18**|**LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring**|Jinhee Jang (ncsoft.com) et.al.|[2509.14834](http://arxiv.org/abs/2509.14834)|null|
+|**2025-09-19**|**LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring**|Jinhee Jang (ncsoft.com) et.al.|[2509.14834](http://arxiv.org/abs/2509.14834)|null|
 |**2025-09-18**|**KAIO: A Collection of More Challenging Korean Questions**|Nahyun Lee et.al.|[2509.14752](http://arxiv.org/abs/2509.14752)|null|
 |**2025-09-18**|**Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language**|Hanlong Wan (pnnl.gov) et.al.|[2509.14623](http://arxiv.org/abs/2509.14623)|**[link](https://github.com/pnnl/prompt2control)**|
 |**2025-09-18**|**Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection**|Yihao Guo et.al.|[2509.14622](http://arxiv.org/abs/2509.14622)|null|
