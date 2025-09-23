@@ -1,4 +1,4 @@
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
+|**2025-09-22**|**Core-elements Subsampling for Alternating Least Squares**|Dunyao Xue (ruc.edu.cn) et.al.|[2509.18024](http://arxiv.org/abs/2509.18024)|null|
+|**2025-09-22**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|Yuanrong Wang (e.ntu.edu.sg) et.al.|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
+|**2025-09-22**|**SeqUDA-Rec: Sequential User Behavior Enhanced Recommendation via Global Unsupervised Data Augmentation for Personalized Content Marketing**|Ruihan Luo (qq.com) et.al.|[2509.17361](http://arxiv.org/abs/2509.17361)|null|
+|**2025-09-21**|**Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations**|David Liu (northeastern.edu) et.al.|[2509.17265](http://arxiv.org/abs/2509.17265)|null|
+|**2025-09-21**|**Equip Pre-ranking with Target Attention by Residual Quantization**|Yutong Li (taobao.com) et.al.|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
+|**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
+|**2025-09-19**|**Auto-bidding under Return-on-Spend Constraints with Uncertainty Quantification**|Jiale Han (ucla.edu) et.al.|[2509.16324](http://arxiv.org/abs/2509.16324)|null|
 |**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
 |**2025-09-17**|**M-PACE: Mother Child Framework for Multimodal Compliance**|Shreyash Verma (gmail.com) et.al.|[2509.15241](http://arxiv.org/abs/2509.15241)|null|
 |**2025-09-18**|**Optimal Learning from Label Proportions with General Loss Functions**|Lorne Applebaum (google.com) et.al.|[2509.15145](http://arxiv.org/abs/2509.15145)|null|
@@ -441,12 +449,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
+|**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
 |**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
 |**2025-09-17**|**M-PACE: Mother Child Framework for Multimodal Compliance**|Shreyash Verma (gmail.com) et.al.|[2509.15241](http://arxiv.org/abs/2509.15241)|null|
 |**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|Kainan Shi (stu.xjtu.edu.cn) et.al.|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
@@ -660,12 +670,41 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies**|Jiaxu Zhou (gmail.com) et.al.|[2509.18052](http://arxiv.org/abs/2509.18052)|null|
+|**2025-09-22**|**Variation in Verification: Understanding Verification Dynamics in Large Language Models**|Yefan Zhou et.al.|[2509.17995](http://arxiv.org/abs/2509.17995)|null|
+|**2025-09-22**|**Learning to vary: Teaching LMs to reproduce human linguistic variability in next-word prediction**|Tobias Groot (student.uva.nl) et.al.|[2509.17794](http://arxiv.org/abs/2509.17794)|null|
+|**2025-09-22**|**Investigating Bias: A Multilingual Pipeline for Generating, Solving, and Evaluating Math Problems with LLMs**|Mariam Mahran (htw-berlin.de) et.al.|[2509.17701](http://arxiv.org/abs/2509.17701)|null|
+|**2025-09-22**|**Evaluating LLM-Generated Versus Human-Authored Responses in Role-Play Dialogues**|Dongxu Lu (uu.nl) et.al.|[2509.17694](http://arxiv.org/abs/2509.17694)|null|
+|**2025-09-22**|**SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models**|Pingyi Chen et.al.|[2509.17664](http://arxiv.org/abs/2509.17664)|**[link](https://github.com/cpystan/SD-VLM)**|
+|**2025-09-22**|**LIMI: Less is More for Agency**|Yang Xiao et.al.|[2509.17567](http://arxiv.org/abs/2509.17567)|null|
+|**2025-09-22**|**CorefInst: Leveraging LLMs for Multilingual Coreference Resolution**|Tuğba Pamay Arslan (itu.edu.tr) et.al.|[2509.17505](http://arxiv.org/abs/2509.17505)|null|
+|**2025-09-22**|**Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents**|Shouju Wang (hawaii.edu) et.al.|[2509.17488](http://arxiv.org/abs/2509.17488)|null|
+|**2025-09-22**|**SLAyiNG: Towards Queer Language Processing**|Leonor Veloso (cis.uni-muenchen.de) et.al.|[2509.17449](http://arxiv.org/abs/2509.17449)|null|
+|**2025-09-22**|**WildClaims: Information Access Conversations in the Wild(Chat)**|Hideaki Joko (ru.nl) et.al.|[2509.17442](http://arxiv.org/abs/2509.17442)|null|
+|**2025-09-22**|**Vision Language Models Are Not (Yet) Spelling Correctors**|Junhong Liang (mbzuai.ac.ae) et.al.|[2509.17418](http://arxiv.org/abs/2509.17418)|null|
+|**2025-09-22**|**Scale-free Characteristics of Multilingual Legal Texts and the Limitations of LLMs**|Haoyang Chen et.al.|[2509.17367](http://arxiv.org/abs/2509.17367)|null|
+|**2025-09-22**|**Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation**|Ahmed T. Elboardy (guh.u-hyogo.ac.jp) et.al.|[2509.17353](http://arxiv.org/abs/2509.17353)|null|
+|**2025-09-21**|**From Prediction to Understanding: Will AI Foundation Models Transform Brain Science?**|Thomas Serre et.al.|[2509.17280](http://arxiv.org/abs/2509.17280)|null|
+|**2025-09-21**|**SFT-TA: Supervised Fine-Tuned Agents in Multi-Agent LLMs for Automated Inductive Thematic Analysis**|Seungjun Yi (utexas.edu) et.al.|[2509.17167](http://arxiv.org/abs/2509.17167)|null|
+|**2025-09-21**|**SAEC: Scene-Aware Enhanced Edge-Cloud Collaborative Industrial Vision Inspection with Multimodal LLM**|Yuhao Tian et.al.|[2509.17136](http://arxiv.org/abs/2509.17136)|**[link](https://github.com/YuHao-Tian/SAEC)**|
+|**2025-09-21**|**KAHAN: Knowledge-Augmented Hierarchical Analysis and Narration for Financial Data Narration**|Yajing Yang (u.nus.edu) et.al.|[2509.17037](http://arxiv.org/abs/2509.17037)|**[link](https://github.com/yajingyang/kahan)**|
+|**2025-09-21**|**CLaC at DISRPT 2025: Hierarchical Adapters for Cross-Framework Multi-lingual Discourse Relation Classification**|Nawar Turk (mail.concordia.ca) et.al.|[2509.16903](http://arxiv.org/abs/2509.16903)|null|
+|**2025-09-21**|**Large Language Models as End-to-end Combinatorial Optimization Solvers**|Xia Jiang (tue.nl) et.al.|[2509.16865](http://arxiv.org/abs/2509.16865)|null|
+|**2025-09-21**|**AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software**|Rui Yang et.al.|[2509.16861](http://arxiv.org/abs/2509.16861)|**[link](https://github.com/awsm-research/AdaptiveGuard)**|
+|**2025-09-20**|**DoubleGen: Debiased Generative Modeling of Counterfactuals**|Alex Luedtke (hms.harvard.edu) et.al.|[2509.16842](http://arxiv.org/abs/2509.16842)|null|
+|**2025-09-20**|**DISCO: Disentangled Communication Steering for Large Language Models**|Max Torop (northeastern.edu) et.al.|[2509.16820](http://arxiv.org/abs/2509.16820)|null|
+|**2025-09-20**|**Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing**|Mengqi Wang (illinois.edu) et.al.|[2509.16622](http://arxiv.org/abs/2509.16622)|null|
+|**2025-09-20**|**From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations**|Benlu Wang (yale.edu) et.al.|[2509.16584](http://arxiv.org/abs/2509.16584)|null|
+|**2025-09-20**|**MPCG: Multi-Round Persona-Conditioned Generation for Modeling the Evolution of Misinformation with LLMs**|Jun Rong Brian Chong (u.nus.edu) et.al.|[2509.16564](http://arxiv.org/abs/2509.16564)|**[link](https://github.com/bcjr1997/MPCG)**|
+|**2025-09-19**|**LightCode: Compiling LLM Inference for Photonic-Electronic Systems**|Ryan Tomich (mit.edu) et.al.|[2509.16443](http://arxiv.org/abs/2509.16443)|null|
+|**2025-09-19**|**'Rich Dad, Poor Lad': How do Large Language Models Contextualize Socioeconomic Factors in College Admission ?**|Huy Nghiem (umd.edu) et.al.|[2509.16400](http://arxiv.org/abs/2509.16400)|null|
+|**2025-09-19**|**Evaluation of Causal Reasoning for Large Language Models in Contextualized Clinical Scenarios of Laboratory Test Interpretation**|Balu Bhasuran et.al.|[2509.16372](http://arxiv.org/abs/2509.16372)|null|
 |**2025-09-19**|**RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation**|Jane Luo (microsoft.com) et.al.|[2509.16198](http://arxiv.org/abs/2509.16198)|null|
 |**2025-09-19**|**It Depends: Resolving Referential Ambiguity in Minimal Contexts with Commonsense Knowledge**|Lukas Ellinger (tum.de) et.al.|[2509.16107](http://arxiv.org/abs/2509.16107)|null|
 |**2025-09-19**|**How do Language Models Generate Slang: A Systematic Comparison between Human and Machine-Generated Slang Usages**|Siyang Wu (uchicago.edu) et.al.|[2509.15518](http://arxiv.org/abs/2509.15518)|null|
@@ -1431,7 +1470,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
