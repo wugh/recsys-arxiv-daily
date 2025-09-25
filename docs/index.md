@@ -2,19 +2,32 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Ads that Stick: Near-Optimal Ad Optimization through Psychological Behavior Models**|Kailash Gopal Darmasubramanian (smail.iitm.ac.in) et.al.|[2509.20304](http://arxiv.org/abs/2509.20304)|null|
+|**2025-09-24**|**Into the Void: Understanding Online Health Information in Low-Web Data Languages**|Hellina Hailu Nigatu (berkeley.edu) et.al.|[2509.20245](http://arxiv.org/abs/2509.20245)|null|
+|**2025-09-24**|**Multimodal Representation-disentangled Information Bottleneck for Multimodal Recommendation**|Hui Wang et.al.|[2509.20225](http://arxiv.org/abs/2509.20225)|null|
+|**2025-09-24**|**Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI**|Lorenzo Giusti (cern.ch) et.al.|[2509.20175](http://arxiv.org/abs/2509.20175)|null|
+|**2025-09-24**|**Intelligent Algorithm Selection for Recommender Systems: Meta-Learning via in-depth algorithm feature engineering**|Jarne Mathi Decker et.al.|[2509.20134](http://arxiv.org/abs/2509.20134)|null|
+|**2025-09-24**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|Wm. Matthew Kennedy (oii.ox.ac.uk) et.al.|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
+|**2025-09-24**|**Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach**|Chunxu Zhang (jlu.edu.cn) et.al.|[2509.19955](http://arxiv.org/abs/2509.19955)|null|
+|**2025-09-23**|**Generative Propaganda**|Madeleine I. G. Daepp (microsoft.com) et.al.|[2509.19147](http://arxiv.org/abs/2509.19147)|null|
+|**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
+|**2025-09-23**|**Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation**|Christian Ganhör (jku.at) et.al.|[2509.18807](http://arxiv.org/abs/2509.18807)|**[link](https://github.com/hcai-mms/single-branch-networks)**|
+|**2025-09-23**|**Robust Denoising Neural Reranker for Recommender Systems**|Wenyu Mao et.al.|[2509.18736](http://arxiv.org/abs/2509.18736)|null|
+|**2025-09-23**|**Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems**|Clarita Hawat et.al.|[2509.18560](http://arxiv.org/abs/2509.18560)|null|
+|**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|Ben Finkelshtein et.al.|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-22**|**Core-elements Subsampling for Alternating Least Squares**|Dunyao Xue (ruc.edu.cn) et.al.|[2509.18024](http://arxiv.org/abs/2509.18024)|null|
-|**2025-09-22**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|Yuanrong Wang (e.ntu.edu.sg) et.al.|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
+|**2025-09-24**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|Yuanrong Wang (e.ntu.edu.sg) et.al.|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
 |**2025-09-22**|**SeqUDA-Rec: Sequential User Behavior Enhanced Recommendation via Global Unsupervised Data Augmentation for Personalized Content Marketing**|Ruihan Luo (qq.com) et.al.|[2509.17361](http://arxiv.org/abs/2509.17361)|null|
 |**2025-09-21**|**Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations**|David Liu (northeastern.edu) et.al.|[2509.17265](http://arxiv.org/abs/2509.17265)|null|
-|**2025-09-21**|**Equip Pre-ranking with Target Attention by Residual Quantization**|Yutong Li (taobao.com) et.al.|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
+|**2025-09-24**|**Equip Pre-ranking with Target Attention by Residual Quantization**|Yutong Li (taobao.com) et.al.|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
 |**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
 |**2025-09-19**|**Auto-bidding under Return-on-Spend Constraints with Uncertainty Quantification**|Jiale Han (ucla.edu) et.al.|[2509.16324](http://arxiv.org/abs/2509.16324)|null|
 |**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
@@ -448,6 +461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
+|**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|Ben Finkelshtein et.al.|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
 |**2025-09-19**|**Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**|Zhiyu Mou et.al.|[2509.15927](http://arxiv.org/abs/2509.15927)|null|
@@ -667,6 +682,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Language Models that Think, Chat Better**|Adithya Bhaskar (cs.princeton.edu) et.al.|[2509.20357](http://arxiv.org/abs/2509.20357)|**[link](https://github.com/princeton-pli/RLMT)**|
+|**2025-09-24**|**When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks Silently Undermine Validity**|Benjamin Feuer et.al.|[2509.20293](http://arxiv.org/abs/2509.20293)|null|
+|**2025-09-24**|**Investigating Security Implications of Automatically Generated Code on the Software Supply Chain**|Xiaofan Li (udel.edu) et.al.|[2509.20277](http://arxiv.org/abs/2509.20277)|null|
+|**2025-09-24**|**STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation**|Tanmay Khule (avl.com) et.al.|[2509.20190](http://arxiv.org/abs/2509.20190)|null|
+|**2025-09-24**|**Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian**|Ghazal Kalhor (ut.ac.ir) et.al.|[2509.20168](http://arxiv.org/abs/2509.20168)|null|
+|**2025-09-24**|**Affective Computing and Emotional Data: Challenges and Implications in Privacy Regulations, The AI Act, and Ethics in Large Language Models**|Nicola Fabiano et.al.|[2509.20153](http://arxiv.org/abs/2509.20153)|null|
+|**2025-09-24**|**EchoBench: Benchmarking Sycophancy in Medical Large Vision-Language Models**|Botai Yuan et.al.|[2509.20146](http://arxiv.org/abs/2509.20146)|null|
+|**2025-09-24**|**Causal Understanding by LLMs: The Role of Uncertainty**|Oscar Lithgow-Serrano et.al.|[2509.20088](http://arxiv.org/abs/2509.20088)|null|
+|**2025-09-24**|**MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**|Wenliang Li et.al.|[2509.20067](http://arxiv.org/abs/2509.20067)|null|
+|**2025-09-24**|**The Knowledge-Behaviour Disconnect in LLM-based Chatbots**|Jan Broersen et.al.|[2509.20004](http://arxiv.org/abs/2509.20004)|null|
+|**2025-09-24**|**CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain**|Ajeet Kumar Singh (infoorigin.com) et.al.|[2509.19925](http://arxiv.org/abs/2509.19925)|null|
+|**2025-09-24**|**LatentGuard: Controllable Latent Steering for Robust Refusal of Attacks and Reliable Response Generation**|Huizhen Shu (hydrox.ai) et.al.|[2509.19839](http://arxiv.org/abs/2509.19839)|null|
+|**2025-09-24**|**CHURRO: Making History Readable with an Open-Weight Large Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition**|Sina J. Semnani (cs.stanford.edu) et.al.|[2509.19768](http://arxiv.org/abs/2509.19768)|null|
+|**2025-09-24**|**Thinking While Listening: Simple Test Time Scaling For Audio Classification**|Prateek Verma et.al.|[2509.19676](http://arxiv.org/abs/2509.19676)|null|
+|**2025-09-24**|**Large Language Models for Pedestrian Safety: An Application to Predicting Driver Yielding Behavior at Unsignalized Intersections**|Yicheng Yang (gmail.com) et.al.|[2509.19657](http://arxiv.org/abs/2509.19657)|null|
+|**2025-09-23**|**LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines**|Yanfang (nd.edu) et.al.|[2509.19580](http://arxiv.org/abs/2509.19580)|null|
+|**2025-09-23**|**Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation**|Mengdi Lu et.al.|[2509.19533](http://arxiv.org/abs/2509.19533)|null|
+|**2025-09-23**|**Cognitive Load Limits in Large Language Models: Benchmarking Multi-Hop Reasoning**|Sai Teja Reddy Adapala (uncc.edu) et.al.|[2509.19517](http://arxiv.org/abs/2509.19517)|null|
+|**2025-09-23**|**Identifying and Addressing User-level Security Concerns in Smart Homes Using "Smaller" LLMs**|Hafijul Hoque Chowdhury (gmail.com) et.al.|[2509.19485](http://arxiv.org/abs/2509.19485)|null|
+|**2025-09-24**|**Soft Tokens, Hard Truths**|Natasha Butt (uva.nl) et.al.|[2509.19170](http://arxiv.org/abs/2509.19170)|null|
+|**2025-09-23**|**On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language**|Sébastien Salva (uca.fr) et.al.|[2509.19136](http://arxiv.org/abs/2509.19136)|null|
+|**2025-09-23**|**DRO-REBEL: Distributionally Robust Relative-Reward Regression for Fast and Efficient LLM Alignment**|Sharan Sahu (cornell.edu) et.al.|[2509.19104](http://arxiv.org/abs/2509.19104)|null|
+|**2025-09-23**|**Are Smaller Open-Weight LLMs Closing the Gap to Proprietary Models for Biomedical Question Answering?**|Damian Stachura (evidenceprime.com) et.al.|[2509.18843](http://arxiv.org/abs/2509.18843)|**[link](https://github.com/evidenceprime/BioASQ-13b)**|
+|**2025-09-23**|**Bounded PCTL Model Checking of Large Language Model Outputs**|Dennis Gross (simula.no) et.al.|[2509.18836](http://arxiv.org/abs/2509.18836)|null|
+|**2025-09-23**|**Pay More Attention To Audio: Mitigating Imbalance of Cross-Modal Attention in Large Audio Language Models**|Junyu Wang et.al.|[2509.18816](http://arxiv.org/abs/2509.18816)|null|
+|**2025-09-23**|**Trace Is In Sentences: Unbiased Lightweight ChatGPT-Generated Text Detector**|Mo Mu et.al.|[2509.18535](http://arxiv.org/abs/2509.18535)|null|
+|**2025-09-23**|**APRIL: Active Partial Rollouts in Reinforcement Learning to tame long-tail generation**|Yuzhen Zhou (gmail.com) et.al.|[2509.18521](http://arxiv.org/abs/2509.18521)|null|
+|**2025-09-22**|**Instruction-Following Evaluation in Function Calling for Large Language Models**|Nikolai Skripko (edu.hse.ru) et.al.|[2509.18420](http://arxiv.org/abs/2509.18420)|**[link](https://github.com/Skripkon/IFEval-FC)**|
+|**2025-09-22**|**Evaluating Large Language Models for Detecting Antisemitism**|Jay Patel (binghamton.edu) et.al.|[2509.18293](http://arxiv.org/abs/2509.18293)|null|
 |**2025-09-22**|**The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies**|Jiaxu Zhou (gmail.com) et.al.|[2509.18052](http://arxiv.org/abs/2509.18052)|null|
 |**2025-09-22**|**Variation in Verification: Understanding Verification Dynamics in Large Language Models**|Yefan Zhou et.al.|[2509.17995](http://arxiv.org/abs/2509.17995)|null|
 |**2025-09-22**|**Learning to vary: Teaching LMs to reproduce human linguistic variability in next-word prediction**|Tobias Groot (student.uva.nl) et.al.|[2509.17794](http://arxiv.org/abs/2509.17794)|null|
