@@ -2,19 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Interactive Recommendation Agent with Active User Commands**|Jiakai Tang (ruc.edu.cn) et.al.|[2509.21317](http://arxiv.org/abs/2509.21317)|null|
+|**2025-09-25**|**Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems**|Zhangchi Zhu (stu.ecnu.edu.cn) et.al.|[2509.20989](http://arxiv.org/abs/2509.20989)|null|
 |**2025-09-24**|**Ads that Stick: Near-Optimal Ad Optimization through Psychological Behavior Models**|Kailash Gopal Darmasubramanian (smail.iitm.ac.in) et.al.|[2509.20304](http://arxiv.org/abs/2509.20304)|null|
 |**2025-09-24**|**Into the Void: Understanding Online Health Information in Low-Web Data Languages**|Hellina Hailu Nigatu (berkeley.edu) et.al.|[2509.20245](http://arxiv.org/abs/2509.20245)|null|
 |**2025-09-24**|**Multimodal Representation-disentangled Information Bottleneck for Multimodal Recommendation**|Hui Wang et.al.|[2509.20225](http://arxiv.org/abs/2509.20225)|null|
 |**2025-09-24**|**Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI**|Lorenzo Giusti (cern.ch) et.al.|[2509.20175](http://arxiv.org/abs/2509.20175)|null|
 |**2025-09-24**|**Intelligent Algorithm Selection for Recommender Systems: Meta-Learning via in-depth algorithm feature engineering**|Jarne Mathi Decker et.al.|[2509.20134](http://arxiv.org/abs/2509.20134)|null|
-|**2025-09-24**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|Wm. Matthew Kennedy (oii.ox.ac.uk) et.al.|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
+|**2025-09-25**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|Wm. Matthew Kennedy (oii.ox.ac.uk) et.al.|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
 |**2025-09-24**|**Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach**|Chunxu Zhang (jlu.edu.cn) et.al.|[2509.19955](http://arxiv.org/abs/2509.19955)|null|
 |**2025-09-23**|**Generative Propaganda**|Madeleine I. G. Daepp (microsoft.com) et.al.|[2509.19147](http://arxiv.org/abs/2509.19147)|null|
 |**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
@@ -461,6 +463,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-20**|**USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model**|Jianyu Wen (gmail.com) et.al.|[2509.20381](http://arxiv.org/abs/2509.20381)|null|
 |**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
 |**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|Ben Finkelshtein et.al.|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
@@ -682,15 +685,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards**|Zhilin Wang (nvidia.com) et.al.|[2509.21319](http://arxiv.org/abs/2509.21319)|null|
+|**2025-09-25**|**SAGE: A Realistic Benchmark for Semantic Understanding**|Samarth Goel (berkeley.edu) et.al.|[2509.21310](http://arxiv.org/abs/2509.21310)|null|
+|**2025-09-25**|**Explaining Fine Tuned LLMs via Counterfactuals A Knowledge Graph Driven Framework**|Yucheng Wang (psu.edu) et.al.|[2509.21241](http://arxiv.org/abs/2509.21241)|null|
+|**2025-09-25**|**What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns**|Stefan Szeider et.al.|[2509.21224](http://arxiv.org/abs/2509.21224)|null|
+|**2025-09-25**|**Go With The Flow: Churn-Tolerant Decentralized Training of Large Language Models**|Nikolay Blagoev (gmail.com) et.al.|[2509.21221](http://arxiv.org/abs/2509.21221)|null|
+|**2025-09-25**|**GEP: A GCG-Based method for extracting personally identifiable information from chatbots built on small language models**|Jieli Zhu (uit.no) et.al.|[2509.21192](http://arxiv.org/abs/2509.21192)|null|
+|**2025-09-25**|**Fine-Tuning LLMs to Analyze Multiple Dimensions of Code Review: A Maximum Entropy Regulated Long Chain-of-Thought Approach**|Yongda Yu (smail.nju.edu.cn) et.al.|[2509.21170](http://arxiv.org/abs/2509.21170)|null|
+|**2025-09-25**|**Learning the Wrong Lessons: Syntactic-Domain Spurious Correlations in Language Models**|Chantal Shaib (northeastern.edu) et.al.|[2509.21155](http://arxiv.org/abs/2509.21155)|null|
+|**2025-09-25**|**Acoustic-based Gender Differentiation in Speech-aware Language Models**|Junhyuk Choi (cau.ac.kr) et.al.|[2509.21125](http://arxiv.org/abs/2509.21125)|null|
+|**2025-09-25**|**VoiceBBQ: Investigating Effect of Content and Acoustics in Social Bias of Spoken Language Model**|Junhyuk Choi (cau.ac.kr) et.al.|[2509.21108](http://arxiv.org/abs/2509.21108)|null|
+|**2025-09-25**|**BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback**|Hyunseo Kim (yonsei.ac.kr) et.al.|[2509.21106](http://arxiv.org/abs/2509.21106)|**[link](https://augustinlib.github.io/BESPOKE/)**|
+|**2025-09-25**|**TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix**|Ahmet Caner Yüzügüler (huawei.com) et.al.|[2509.21081](http://arxiv.org/abs/2509.21081)|null|
+|**2025-09-25**|**Analysis of instruction-based LLMs' capabilities to score and judge text-input problems in an academic setting**|Valeria Ramirez-Garcia et.al.|[2509.20982](http://arxiv.org/abs/2509.20982)|null|
+|**2025-09-25**|**Beyond Stars: Bridging the Gap Between Ratings and Review Sentiment with LLM**|Najla Zuhir (gmail.com) et.al.|[2509.20953](http://arxiv.org/abs/2509.20953)|null|
+|**2025-09-25**|**StyleBench: Evaluating thinking styles in Large Language Models**|Junyu Guo (berkeley.edu) et.al.|[2509.20868](http://arxiv.org/abs/2509.20868)|**[link](https://github.com/JamesJunyuGuo/Style_Bench)**|
+|**2025-09-25**|**Incorporating LLM Embeddings for Variation Across the Human Genome**|Hongqian Niu (unc.edu) et.al.|[2509.20702](http://arxiv.org/abs/2509.20702)|null|
+|**2025-09-25**|**Enhancing Molecular Property Prediction with Knowledge from Large Language Models**|Peng Zhou et.al.|[2509.20664](http://arxiv.org/abs/2509.20664)|null|
+|**2025-09-24**|**Experience Deploying Containerized GenAI Services at an HPC Center**|Angel M. Beltre (sandia.gov) et.al.|[2509.20603](http://arxiv.org/abs/2509.20603)|null|
+|**2025-09-24**|**FastEagle: Cascaded Drafting for Accelerating Speculative Decoding**|Haiduo Huang et.al.|[2509.20416](http://arxiv.org/abs/2509.20416)|null|
 |**2025-09-24**|**Language Models that Think, Chat Better**|Adithya Bhaskar (cs.princeton.edu) et.al.|[2509.20357](http://arxiv.org/abs/2509.20357)|**[link](https://github.com/princeton-pli/RLMT)**|
+|**2025-09-25**|**SIM-CoT: Supervised Implicit Chain-of-Thought**|Xilin Wei (m.fudan.edu.cn) et.al.|[2509.20317](http://arxiv.org/abs/2509.20317)|**[link](https://github.com/InternLM/SIM-CoT)**|
 |**2025-09-24**|**When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks Silently Undermine Validity**|Benjamin Feuer et.al.|[2509.20293](http://arxiv.org/abs/2509.20293)|null|
 |**2025-09-24**|**Investigating Security Implications of Automatically Generated Code on the Software Supply Chain**|Xiaofan Li (udel.edu) et.al.|[2509.20277](http://arxiv.org/abs/2509.20277)|null|
 |**2025-09-24**|**STAF: Leveraging LLMs for Automated Attack Tree-Based Security Test Generation**|Tanmay Khule (avl.com) et.al.|[2509.20190](http://arxiv.org/abs/2509.20190)|null|
 |**2025-09-24**|**Probing Gender Bias in Multilingual LLMs: A Case Study of Stereotypes in Persian**|Ghazal Kalhor (ut.ac.ir) et.al.|[2509.20168](http://arxiv.org/abs/2509.20168)|null|
-|**2025-09-24**|**Affective Computing and Emotional Data: Challenges and Implications in Privacy Regulations, The AI Act, and Ethics in Large Language Models**|Nicola Fabiano et.al.|[2509.20153](http://arxiv.org/abs/2509.20153)|null|
+|**2025-09-25**|**Affective Computing and Emotional Data: Challenges and Implications in Privacy Regulations, The AI Act, and Ethics in Large Language Models**|Nicola Fabiano et.al.|[2509.20153](http://arxiv.org/abs/2509.20153)|null|
 |**2025-09-24**|**EchoBench: Benchmarking Sycophancy in Medical Large Vision-Language Models**|Botai Yuan et.al.|[2509.20146](http://arxiv.org/abs/2509.20146)|null|
 |**2025-09-24**|**Causal Understanding by LLMs: The Role of Uncertainty**|Oscar Lithgow-Serrano et.al.|[2509.20088](http://arxiv.org/abs/2509.20088)|null|
-|**2025-09-24**|**MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**|Wenliang Li et.al.|[2509.20067](http://arxiv.org/abs/2509.20067)|null|
+|**2025-09-25**|**MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**|Wenliang Li et.al.|[2509.20067](http://arxiv.org/abs/2509.20067)|null|
 |**2025-09-24**|**The Knowledge-Behaviour Disconnect in LLM-based Chatbots**|Jan Broersen et.al.|[2509.20004](http://arxiv.org/abs/2509.20004)|null|
 |**2025-09-24**|**CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain**|Ajeet Kumar Singh (infoorigin.com) et.al.|[2509.19925](http://arxiv.org/abs/2509.19925)|null|
 |**2025-09-24**|**LatentGuard: Controllable Latent Steering for Robust Refusal of Attacks and Reliable Response Generation**|Huizhen Shu (hydrox.ai) et.al.|[2509.19839](http://arxiv.org/abs/2509.19839)|null|
