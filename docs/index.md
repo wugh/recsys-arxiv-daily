@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
+|**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
+|**2025-09-26**|**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**|Vianne R. Gao (amazon.com) et.al.|[2509.21777](http://arxiv.org/abs/2509.21777)|null|
+|**2025-09-22**|**ReGeS: Reciprocal Retrieval-Generation Synergy for Conversational Recommender Systems**|Dayu Yang (udel.edu) et.al.|[2509.21371](http://arxiv.org/abs/2509.21371)|**[link](https://github.com/dayuyang1999/ReGeS)**|
 |**2025-09-25**|**Interactive Recommendation Agent with Active User Commands**|Jiakai Tang (ruc.edu.cn) et.al.|[2509.21317](http://arxiv.org/abs/2509.21317)|null|
 |**2025-09-25**|**Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems**|Zhangchi Zhu (stu.ecnu.edu.cn) et.al.|[2509.20989](http://arxiv.org/abs/2509.20989)|null|
 |**2025-09-24**|**Ads that Stick: Near-Optimal Ad Optimization through Psychological Behavior Models**|Kailash Gopal Darmasubramanian (smail.iitm.ac.in) et.al.|[2509.20304](http://arxiv.org/abs/2509.20304)|null|
@@ -463,6 +467,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
+|**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
+|**2025-09-22**|**ReGeS: Reciprocal Retrieval-Generation Synergy for Conversational Recommender Systems**|Dayu Yang (udel.edu) et.al.|[2509.21371](http://arxiv.org/abs/2509.21371)|**[link](https://github.com/dayuyang1999/ReGeS)**|
 |**2025-09-20**|**USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model**|Jianyu Wen (gmail.com) et.al.|[2509.20381](http://arxiv.org/abs/2509.20381)|null|
 |**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
 |**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|Ben Finkelshtein et.al.|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
@@ -685,6 +692,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing**|Ke Wang et.al.|[2509.22651](http://arxiv.org/abs/2509.22651)|**[link](https://mathllm.github.io/VoiceAssistantEval/)**|
+|**2025-09-26**|**CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning**|Long Xing (mail.ustc.edu.cn) et.al.|[2509.22647](http://arxiv.org/abs/2509.22647)|**[link](https://github.com/InternLM/CapRL)**|
+|**2025-09-26**|**Variational Reasoning for Language Models**|Xiangxin Zhou et.al.|[2509.22637](http://arxiv.org/abs/2509.22637)|**[link](https://github.com/sail-sg/variational-reasoning)**|
+|**2025-09-26**|**We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong**|Gautam Siddharth Kashyap (hdr.mq.edu.au) et.al.|[2509.22510](http://arxiv.org/abs/2509.22510)|null|
+|**2025-09-26**|**Evaluating the Limits of Large Language Models in Multilingual Legal Reasoning**|Antreas Ioannou (tudelft.nl) et.al.|[2509.22472](http://arxiv.org/abs/2509.22472)|**[link](https://github.com/RobustML-Lab/Legal-Multilingual-Evaluation-of-LLMs)**|
+|**2025-09-26**|**MDAR: A Multi-scene Dynamic Audio Reasoning Benchmark**|Hui Li (m.fudan.edu.cn) et.al.|[2509.22461](http://arxiv.org/abs/2509.22461)|**[link](https://github.com/luckyerr/MDAR)**|
+|**2025-09-26**|**Advancing Natural Language Formalization to First Order Logic with Fine-tuned LLMs**|Felix Vossel (uos.de) et.al.|[2509.22338](http://arxiv.org/abs/2509.22338)|null|
+|**2025-09-26**|**PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning**|Hieu Tran et.al.|[2509.22315](http://arxiv.org/abs/2509.22315)|null|
+|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li (zju.edu.cn) et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|**[link](https://github.com/LLIKKE/HEAPr)**|
+|**2025-09-26**|**Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks**|Miao Jing (pku.edu.cn) et.al.|[2509.22258](http://arxiv.org/abs/2509.22258)|**[link](https://neuromedbench.github.io/)**|
+|**2025-09-26**|**Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing**|Syed Mahbubul Huq (citystgeorges.ac.uk) et.al.|[2509.22255](http://arxiv.org/abs/2509.22255)|null|
+|**2025-09-26**|**Thinking in Many Modes: How Composite Reasoning Elevates Large Language Model Performance with Limited Data**|Zishan Ahmad (quantiphi.com) et.al.|[2509.22224](http://arxiv.org/abs/2509.22224)|null|
+|**2025-09-26**|**VizGen: Data Exploration and Visualization from Natural Language via a Multi-Agent AI Architecture**|Sandaru Fernando (uom.lk) et.al.|[2509.22218](http://arxiv.org/abs/2509.22218)|null|
+|**2025-09-26**|**Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding**|Shijing Hu (m.fudan.edu.cn) et.al.|[2509.22134](http://arxiv.org/abs/2509.22134)|null|
+|**2025-09-26**|**Multi-Agent Path Finding via Offline RL and LLM Collaboration**|Merve Atasever et.al.|[2509.22130](http://arxiv.org/abs/2509.22130)|null|
+|**2025-09-26**|**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**|Junkai Chen (smu.edu.sg) et.al.|[2509.22097](http://arxiv.org/abs/2509.22097)|null|
+|**2025-09-26**|**COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning**|Dmitriy Shopkhoev (gmail.com) et.al.|[2509.22075](http://arxiv.org/abs/2509.22075)|null|
+|**2025-09-26**|**Evaluating Open-Source Large Language Models for Technical Telecom Question Answering**|Arina Caraus (rmt-labs.com) et.al.|[2509.21949](http://arxiv.org/abs/2509.21949)|null|
+|**2025-09-26**|**AutoSCORE: Enhancing Automated Scoring with Multi-Agent Large Language Models via Structured Component Recognition**|Yun Wang (uga.edu) et.al.|[2509.21910](http://arxiv.org/abs/2509.21910)|null|
+|**2025-09-26**|**AgentPack: A Dataset of Code Changes, Co-Authored by Agents and Humans**|Yangtian Zi (northeastern.edu) et.al.|[2509.21891](http://arxiv.org/abs/2509.21891)|null|
+|**2025-09-26**|**You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors**|Bochuan Cao (psu.edu) et.al.|[2509.21884](http://arxiv.org/abs/2509.21884)|null|
+|**2025-09-26**|**Graph of Agents: Principled Long Context Modeling by Emergent Multi-Agent Collaboration**|Taejong Joo (northwestern.edu) et.al.|[2509.21848](http://arxiv.org/abs/2509.21848)|**[link](https://github.com/tjoo512/graph-of-agents)**|
+|**2025-09-26**|**SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models**|Jingkai Guo (asu.edu) et.al.|[2509.21843](http://arxiv.org/abs/2509.21843)|null|
+|**2025-09-26**|**DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents**|Yansong Ning (ust.hk) et.al.|[2509.21842](http://arxiv.org/abs/2509.21842)|null|
+|**2025-09-26**|**ResT: Reshaping Token-Level Policy Gradients for Tool-Use Large Language Models**|Zihan Lin (nlpr.ia.ac.cn) et.al.|[2509.21826](http://arxiv.org/abs/2509.21826)|null|
+|**2025-09-26**|**Can LLMs Solve and Generate Linguistic Olympiad Puzzles?**|Neh Majmudar (gradcenter.cuny.edu) et.al.|[2509.21820](http://arxiv.org/abs/2509.21820)|null|
+|**2025-09-26**|**Navigating the Impact of Structured Output Format on Large Language Models through the Compass of Causal Inference**|Han Yuan (aexp.com) et.al.|[2509.21791](http://arxiv.org/abs/2509.21791)|null|
+|**2025-09-26**|**How Accurate Are LLMs at Multi-Question Answering on Conversational Transcripts?**|Xiliang Zhu (dialpad.com) et.al.|[2509.21732](http://arxiv.org/abs/2509.21732)|null|
+|**2025-09-25**|**Blockwise Hadamard high-Rank Adaptation for Parameter-Efficient LLM Fine-Tuning**|Feng Yu (exeter.ac.uk) et.al.|[2509.21637](http://arxiv.org/abs/2509.21637)|null|
+|**2025-09-25**|**InvBench: Can LLMs Accelerate Program Verification with Invariant Synthesis?**|Anjiang Wei (cs.stanford.edu) et.al.|[2509.21629](http://arxiv.org/abs/2509.21629)|null|
 |**2025-09-25**|**RLBFF: Binary Flexible Feedback to bridge between Human Feedback & Verifiable Rewards**|Zhilin Wang (nvidia.com) et.al.|[2509.21319](http://arxiv.org/abs/2509.21319)|null|
 |**2025-09-25**|**SAGE: A Realistic Benchmark for Semantic Understanding**|Samarth Goel (berkeley.edu) et.al.|[2509.21310](http://arxiv.org/abs/2509.21310)|null|
 |**2025-09-25**|**Explaining Fine Tuned LLMs via Counterfactuals A Knowledge Graph Driven Framework**|Yucheng Wang (psu.edu) et.al.|[2509.21241](http://arxiv.org/abs/2509.21241)|null|
