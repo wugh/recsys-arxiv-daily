@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**CLASP: Adaptive Spectral Clustering for Unsupervised Per-Image Segmentation**|Max Curie (integralads.com) et.al.|[2509.25016](http://arxiv.org/abs/2509.25016)|null|
+|**2025-09-29**|**SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems**|Kaihong Li et.al.|[2509.24961](http://arxiv.org/abs/2509.24961)|**[link](https://github.com/FrankenstLee/SemanticShield)**|
+|**2025-09-29**|**Bandits roaming Hilbert space**|Josep Lumbreras et.al.|[2509.24569](http://arxiv.org/abs/2509.24569)|null|
+|**2025-09-29**|**Multi-Item-Query Attention for Stable Sequential Recommendation**|Mingshi Xu (connect.ust.hk) et.al.|[2509.24424](http://arxiv.org/abs/2509.24424)|null|
+|**2025-09-29**|**Metamorphic Testing for Audio Content Moderation Software**|Wenxuan Wang (ruc.edu.cn) et.al.|[2509.24215](http://arxiv.org/abs/2509.24215)|null|
+|**2025-09-28**|**From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation**|KaiWen Wei (cqu.edu.cn) et.al.|[2509.23649](http://arxiv.org/abs/2509.23649)|null|
+|**2025-09-27**|**An Accelerated Newton-GMRES Method for Multilinear PageRank**|Maryam Boubekraoui (ced.uca.ma) et.al.|[2509.23374](http://arxiv.org/abs/2509.23374)|null|
+|**2025-09-26**|**Observation-Free Attacks on Online Learning to Rank**|Sameep Chattopadhyay (gmail.com) et.al.|[2509.22855](http://arxiv.org/abs/2509.22855)|null|
+|**2025-09-26**|**MTRec: Learning to Align with User Preferences via Mental Reward Models**|Mengchen Zhao (scut.edu.cn) et.al.|[2509.22807](http://arxiv.org/abs/2509.22807)|null|
 |**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
 |**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
 |**2025-09-26**|**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**|Vianne R. Gao (amazon.com) et.al.|[2509.21777](http://arxiv.org/abs/2509.21777)|null|
@@ -467,6 +476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems**|Kaihong Li et.al.|[2509.24961](http://arxiv.org/abs/2509.24961)|**[link](https://github.com/FrankenstLee/SemanticShield)**|
 |**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
 |**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
 |**2025-09-22**|**ReGeS: Reciprocal Retrieval-Generation Synergy for Conversational Recommender Systems**|Dayu Yang (udel.edu) et.al.|[2509.21371](http://arxiv.org/abs/2509.21371)|**[link](https://github.com/dayuyang1999/ReGeS)**|
@@ -692,6 +702,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models**|Junyi Zhang (ucla.edu) et.al.|[2509.25143](http://arxiv.org/abs/2509.25143)|null|
+|**2025-09-29**|**Confidence-Guided Error Correction for Disordered Speech Recognition**|Abner Hernandez et.al.|[2509.25048](http://arxiv.org/abs/2509.25048)|null|
+|**2025-09-29**|**MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes**|Changsheng Zhao (meta.com) et.al.|[2509.24945](http://arxiv.org/abs/2509.24945)|null|
+|**2025-09-29**|**How Well Do LLMs Imitate Human Writing Style?**|Rebira Jemama (gmail.com) et.al.|[2509.24930](http://arxiv.org/abs/2509.24930)|null|
+|**2025-09-29**|**BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal Decrees and Notifications**|Andrés Fernández García (gmail.com) et.al.|[2509.24908](http://arxiv.org/abs/2509.24908)|null|
+|**2025-09-29**|**MMRQA: Signal-Enhanced Multimodal Large Language Models for MRI Quality Assessment**|Fankai Jia (mails.ucas.ac.cn) et.al.|[2509.24888](http://arxiv.org/abs/2509.24888)|null|
+|**2025-09-29**|**Between Help and Harm: An Evaluation of Mental Health Crisis Handling by LLMs**|Adrian Arnaiz-Rodriguez (ellisalicante.org) et.al.|[2509.24857](http://arxiv.org/abs/2509.24857)|null|
+|**2025-09-29**|**Putnam-like dataset summary: LLMs as mathematical competition contestants**|Bartosz Bieganowski et.al.|[2509.24827](http://arxiv.org/abs/2509.24827)|null|
+|**2025-09-29**|**Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution**|Shaobo Wang et.al.|[2509.24726](http://arxiv.org/abs/2509.24726)|null|
+|**2025-09-29**|**GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient Chain-of-Thought Training**|Hongcheng Wang (pku.edu.cn) et.al.|[2509.24494](http://arxiv.org/abs/2509.24494)|null|
+|**2025-09-29**|**Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents**|Khanh Trinh Pham et.al.|[2509.24405](http://arxiv.org/abs/2509.24405)|**[link](https://github.com/phkhanhtrinh23/Multilingual_Text_to_SQL)**|
+|**2025-09-29**|**Rethinking and Benchmarking Large Language Models for Graph Reasoning**|Yuwei Hu (ruc.edu.cn) et.al.|[2509.24260](http://arxiv.org/abs/2509.24260)|null|
+|**2025-09-29**|**Conda: Column-Normalized Adam for Training Large Language Models Faster**|Junjie Wang (stu.pku.edu.cn) et.al.|[2509.24218](http://arxiv.org/abs/2509.24218)|**[link](https://github.com/jie040109/Conda)**|
+|**2025-09-29**|**AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play**|Ran Xu et.al.|[2509.24193](http://arxiv.org/abs/2509.24193)|**[link](https://github.com/ritaranx/AceSearcher)**|
+|**2025-09-29**|**Robust Preference Optimization: Aligning Language Models with Noisy Preference Feedback**|Xiaoyang Cao (mit.edu) et.al.|[2509.24159](http://arxiv.org/abs/2509.24159)|null|
+|**2025-09-28**|**MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use**|Zijian Wu (bar.com) et.al.|[2509.24002](http://arxiv.org/abs/2509.24002)|null|
+|**2025-09-28**|**ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation**|Haonan Wang (jh.edu) et.al.|[2509.23979](http://arxiv.org/abs/2509.23979)|null|
+|**2025-09-28**|**Quant Fever, Reasoning Blackholes, Schrodinger's Compliance, and More: Probing GPT-OSS-20B**|Shuyi Lin et.al.|[2509.23882](http://arxiv.org/abs/2509.23882)|null|
+|**2025-09-28**|**HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing**|Yukai Zhao (zju.edu.cn) et.al.|[2509.23835](http://arxiv.org/abs/2509.23835)|null|
+|**2025-09-28**|**FedAgentBench: Towards Automating Real-world Federated Medical Image Analysis with Server-Client LLM Agents**|Pramit Saha (eng.ox.ac.uk) et.al.|[2509.23803](http://arxiv.org/abs/2509.23803)|null|
+|**2025-09-28**|**Transformer Tafsir at QIAS 2025 Shared Task: Hybrid Retrieval-Augmented Generation for Islamic Knowledge Question Answering**|Muhammad Abu Ahmad (uni-osnabrueck.de) et.al.|[2509.23793](http://arxiv.org/abs/2509.23793)|null|
+|**2025-09-28**|**Do LLMs Understand Romanian Driving Laws? A Study on Multimodal and Fine-Tuned Question Answering**|Eduard Barbu (yahoo.com) et.al.|[2509.23715](http://arxiv.org/abs/2509.23715)|null|
+|**2025-09-28**|**Hedonic Neurons: A Mechanistic Mapping of Latent Coalitions in Transformer MLPs**|Tanya Chowdhury (cs.umass.edu) et.al.|[2509.23684](http://arxiv.org/abs/2509.23684)|null|
+|**2025-09-28**|**Large Language Models and Futures Price Factors in China**|Yuhan Cheng (sdu.edu.cn) et.al.|[2509.23609](http://arxiv.org/abs/2509.23609)|null|
+|**2025-09-28**|**Jackal: A Real-World Execution-Based Benchmark Evaluating Large Language Models on Text-to-JQL Tasks**|Kevin Frank (pwc.com) et.al.|[2509.23579](http://arxiv.org/abs/2509.23579)|null|
+|**2025-09-28**|**Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks**|Aaron Xuxiang Tian (gmail.com) et.al.|[2509.23537](http://arxiv.org/abs/2509.23537)|null|
+|**2025-09-27**|**ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search**|Zeyu Shen et.al.|[2509.23519](http://arxiv.org/abs/2509.23519)|null|
+|**2025-09-27**|**From Human Annotation to Automation: LLM-in-the-Loop Active Learning for Arabic Sentiment Analysis**|Dania Refai (hotmail.com) et.al.|[2509.23515](http://arxiv.org/abs/2509.23515)|null|
+|**2025-09-27**|**The Impact of Role Design in In-Context Learning for Large Language Models**|Hamidreza Rouzegar (ontariotechu.net) et.al.|[2509.23501](http://arxiv.org/abs/2509.23501)|**[link](https://github.com/hrouzegar/Role_Based-In-Context-Learning)**|
+|**2025-09-27**|**Comparison of Scoring Rationales Between Large Language Models and Human Raters**|Haowei Hua (princeton.edu) et.al.|[2509.23412](http://arxiv.org/abs/2509.23412)|null|
 |**2025-09-26**|**VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing**|Ke Wang et.al.|[2509.22651](http://arxiv.org/abs/2509.22651)|**[link](https://mathllm.github.io/VoiceAssistantEval/)**|
 |**2025-09-26**|**CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning**|Long Xing (mail.ustc.edu.cn) et.al.|[2509.22647](http://arxiv.org/abs/2509.22647)|**[link](https://github.com/InternLM/CapRL)**|
 |**2025-09-26**|**Variational Reasoning for Language Models**|Xiangxin Zhou et.al.|[2509.22637](http://arxiv.org/abs/2509.22637)|**[link](https://github.com/sail-sg/variational-reasoning)**|
