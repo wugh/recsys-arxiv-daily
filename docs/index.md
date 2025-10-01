@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**Informed Dataset Selection**|Abdullah Abbas et.al.|[2509.26448](http://arxiv.org/abs/2509.26448)|null|
+|**2025-09-30**|**Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations**|Huanyu Zhang et.al.|[2509.26107](http://arxiv.org/abs/2509.26107)|null|
+|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-09-30**|**Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation**|Guoqing Hu (mail.ustc.edu.cn) et.al.|[2509.26063](http://arxiv.org/abs/2509.26063)|null|
+|**2025-09-30**|**RAE: A Neural Network Dimensionality Reduction Method for Nearest Neighbors Preservation in Vector Search**|Han Zhang (uw.edu) et.al.|[2509.25839](http://arxiv.org/abs/2509.25839)|null|
+|**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
+|**2025-09-29**|**Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks**|Peiran Xu (ucla.edu) et.al.|[2509.25598](http://arxiv.org/abs/2509.25598)|null|
+|**2025-09-29**|**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**|Jingzhe Liu et.al.|[2509.25522](http://arxiv.org/abs/2509.25522)|null|
+|**2025-09-29**|**Feedback Control for Small Budget Pacing**|Sreeja Apparaju (snapchat.com) et.al.|[2509.25429](http://arxiv.org/abs/2509.25429)|null|
+|**2025-09-29**|**Structural Reward Model: Enhancing Interpretability, Efficiency, and Scalability in Reward Modeling**|Xiaoyu Liu (northeastern.edu) et.al.|[2509.25361](http://arxiv.org/abs/2509.25361)|null|
 |**2025-09-29**|**CLASP: Adaptive Spectral Clustering for Unsupervised Per-Image Segmentation**|Max Curie (integralads.com) et.al.|[2509.25016](http://arxiv.org/abs/2509.25016)|null|
 |**2025-09-29**|**SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems**|Kaihong Li et.al.|[2509.24961](http://arxiv.org/abs/2509.24961)|**[link](https://github.com/FrankenstLee/SemanticShield)**|
 |**2025-09-29**|**Bandits roaming Hilbert space**|Josep Lumbreras et.al.|[2509.24569](http://arxiv.org/abs/2509.24569)|null|
@@ -476,6 +486,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
+|**2025-09-29**|**Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks**|Peiran Xu (ucla.edu) et.al.|[2509.25598](http://arxiv.org/abs/2509.25598)|null|
+|**2025-09-29**|**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**|Jingzhe Liu et.al.|[2509.25522](http://arxiv.org/abs/2509.25522)|null|
+|**2025-09-29**|**Structural Reward Model: Enhancing Interpretability, Efficiency, and Scalability in Reward Modeling**|Xiaoyu Liu (northeastern.edu) et.al.|[2509.25361](http://arxiv.org/abs/2509.25361)|null|
 |**2025-09-29**|**SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems**|Kaihong Li et.al.|[2509.24961](http://arxiv.org/abs/2509.24961)|**[link](https://github.com/FrankenstLee/SemanticShield)**|
 |**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
 |**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
@@ -702,6 +717,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models**|Siddarth Venkatraman (llnl.gov) et.al.|[2509.26626](http://arxiv.org/abs/2509.26626)|**[link](https://github.com/HyperPotatoNeo/RSA)**|
+|**2025-09-30**|**Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models**|Matheus Vinicius da Silva de Oliveira (ufms.br) et.al.|[2509.26584](http://arxiv.org/abs/2509.26584)|null|
+|**2025-09-30**|**OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost Always!**|Jingdi Lei (e.ntu.edu.sg) et.al.|[2509.26495](http://arxiv.org/abs/2509.26495)|null|
+|**2025-09-30**|**SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From**|Yao Tong (cuhk.edu.cn) et.al.|[2509.26404](http://arxiv.org/abs/2509.26404)|null|
+|**2025-09-30**|**AI Playing Business Games: Benchmarking Large Language Models on Managerial Decision-Making in Dynamic Simulations**|Berdymyrat Ovezmyradov et.al.|[2509.26331](http://arxiv.org/abs/2509.26331)|null|
+|**2025-09-30**|**TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics**|Yi-Cheng Lin et.al.|[2509.26329](http://arxiv.org/abs/2509.26329)|null|
+|**2025-09-30**|**LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search**|Ruiyang Wang et.al.|[2509.26324](http://arxiv.org/abs/2509.26324)|null|
+|**2025-09-30**|**Attribution-Guided Decoding**|Piotr Komorowski (hhi.fraunhofer.de) et.al.|[2509.26307](http://arxiv.org/abs/2509.26307)|null|
+|**2025-09-30**|**The Silent Judge: Unacknowledged Shortcut Bias in LLM-as-a-Judge**|Arash Marioriyad (gmail.com) et.al.|[2509.26072](http://arxiv.org/abs/2509.26072)|null|
+|**2025-09-30**|**Unspoken Hints: Accuracy Without Acknowledgement in LLM Reasoning**|Arash Marioriyad (gmail.com) et.al.|[2509.26041](http://arxiv.org/abs/2509.26041)|null|
+|**2025-09-30**|**Using GPT to build a Project Management assistant for Jira environments**|Joel Garcia-Escribano (accenture.com) et.al.|[2509.26014](http://arxiv.org/abs/2509.26014)|null|
+|**2025-09-30**|**SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents**|Ruolin Chen et.al.|[2509.25885](http://arxiv.org/abs/2509.25885)|null|
+|**2025-09-30**|**Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs**|Hankun Dai (microsoft.com) et.al.|[2509.25873](http://arxiv.org/abs/2509.25873)|null|
+|**2025-09-30**|**ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations**|Yindong Wang (hpi.de) et.al.|[2509.25868](http://arxiv.org/abs/2509.25868)|**[link](https://github.com/ddz5431/ReFACT)**|
+|**2025-09-30**|**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**|Haotian Xue et.al.|[2509.25794](http://arxiv.org/abs/2509.25794)|null|
+|**2025-09-30**|**TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning**|Zhepei Wei (viginia.edu) et.al.|[2509.25760](http://arxiv.org/abs/2509.25760)|null|
+|**2025-09-30**|**Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking**|Dengming Zhang (huawei.com) et.al.|[2509.25712](http://arxiv.org/abs/2509.25712)|**[link](https://github.com/Littleor/ExpertMerging)**|
+|**2025-09-30**|**ScheduleMe: Multi-Agent Calendar Assistant**|N. de Silva (cse.mrt.ac.lk) et.al.|[2509.25693](http://arxiv.org/abs/2509.25693)|null|
+|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen (northeastern.edu) et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
+|**2025-09-30**|**Layer-wise dynamic rank for compressing large language models**|Zhendong Mi (stevens.edu) et.al.|[2509.25622](http://arxiv.org/abs/2509.25622)|null|
+|**2025-09-29**|**Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI Against Human Experts and a Taxonomy of Visual Reasoning Errors in Radiology**|Suvrankar Datta (ashoka.edu.in) et.al.|[2509.25559](http://arxiv.org/abs/2509.25559)|null|
+|**2025-09-29**|**RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale**|Jason Holmes et.al.|[2509.25540](http://arxiv.org/abs/2509.25540)|null|
+|**2025-09-29**|**EEsizer: LLM-Based AI Agent for Sizing of Analog and Mixed Signal Circuit**|Chang Liu (ed.ac.uk) et.al.|[2509.25510](http://arxiv.org/abs/2509.25510)|null|
+|**2025-09-29**|**Not Wrong, But Untrue: LLM Overconfidence in Document-Based Queries**|Nick Hagar (northwestern.edu) et.al.|[2509.25498](http://arxiv.org/abs/2509.25498)|null|
+|**2025-09-29**|**On-Premise AI for the Newsroom: Evaluating Small Language Models for Investigative Document Search**|Nick Hagar (northwestern.edu) et.al.|[2509.25494](http://arxiv.org/abs/2509.25494)|null|
+|**2025-09-29**|**PIPer: On-Device Environment Setup via Online Reinforcement Learning**|Alexander Kovrigin (jetbrains.com) et.al.|[2509.25455](http://arxiv.org/abs/2509.25455)|**[link](https://github.com/JetBrains-Research/PIPer)**|
+|**2025-09-29**|**ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents**|Daniel Platnick (flybits.com) et.al.|[2509.25299](http://arxiv.org/abs/2509.25299)|**[link](https://github.com/flybits/humanai-agents)**|
+|**2025-09-29**|**GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs**|Aryan Yazdan Parast (umd.edu) et.al.|[2509.25178](http://arxiv.org/abs/2509.25178)|null|
 |**2025-09-29**|**TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models**|Junyi Zhang (ucla.edu) et.al.|[2509.25143](http://arxiv.org/abs/2509.25143)|null|
 |**2025-09-29**|**Confidence-Guided Error Correction for Disordered Speech Recognition**|Abner Hernandez et.al.|[2509.25048](http://arxiv.org/abs/2509.25048)|null|
 |**2025-09-29**|**MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes**|Changsheng Zhao (meta.com) et.al.|[2509.24945](http://arxiv.org/abs/2509.24945)|null|
