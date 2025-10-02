@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-30**|**Informed Dataset Selection**|Abdullah Abbas et.al.|[2509.26448](http://arxiv.org/abs/2509.26448)|null|
 |**2025-09-30**|**Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations**|Huanyu Zhang et.al.|[2509.26107](http://arxiv.org/abs/2509.26107)|null|
-|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation**|Guoqing Hu (mail.ustc.edu.cn) et.al.|[2509.26063](http://arxiv.org/abs/2509.26063)|null|
 |**2025-09-30**|**RAE: A Neural Network Dimensionality Reduction Method for Nearest Neighbors Preservation in Vector Search**|Han Zhang (uw.edu) et.al.|[2509.25839](http://arxiv.org/abs/2509.25839)|null|
 |**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
@@ -486,7 +486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
 |**2025-09-29**|**Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks**|Peiran Xu (ucla.edu) et.al.|[2509.25598](http://arxiv.org/abs/2509.25598)|null|
 |**2025-09-29**|**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**|Jingzhe Liu et.al.|[2509.25522](http://arxiv.org/abs/2509.25522)|null|
@@ -496,7 +496,7 @@ layout: default
 |**2025-09-26**|**Zero-Effort Image-to-Music Generation: An Interpretable RAG-based VLM Approach**|Zijian Zhao (connect.ust.hk) et.al.|[2509.22378](http://arxiv.org/abs/2509.22378)|**[link](https://github.com/RS2002/Image2Music)**|
 |**2025-09-22**|**ReGeS: Reciprocal Retrieval-Generation Synergy for Conversational Recommender Systems**|Dayu Yang (udel.edu) et.al.|[2509.21371](http://arxiv.org/abs/2509.21371)|**[link](https://github.com/dayuyang1999/ReGeS)**|
 |**2025-09-20**|**USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model**|Jianyu Wen (gmail.com) et.al.|[2509.20381](http://arxiv.org/abs/2509.20381)|null|
-|**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
+|**2025-10-01**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|Maxime Manderlier (umons.ac.be) et.al.|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
 |**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|Ben Finkelshtein et.al.|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|Sunhao Dai (ruc.edu.cn) et.al.|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
@@ -730,11 +730,11 @@ layout: default
 |**2025-09-30**|**Using GPT to build a Project Management assistant for Jira environments**|Joel Garcia-Escribano (accenture.com) et.al.|[2509.26014](http://arxiv.org/abs/2509.26014)|null|
 |**2025-09-30**|**SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents**|Ruolin Chen et.al.|[2509.25885](http://arxiv.org/abs/2509.25885)|null|
 |**2025-09-30**|**Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs**|Hankun Dai (microsoft.com) et.al.|[2509.25873](http://arxiv.org/abs/2509.25873)|null|
-|**2025-09-30**|**ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations**|Yindong Wang (hpi.de) et.al.|[2509.25868](http://arxiv.org/abs/2509.25868)|**[link](https://github.com/ddz5431/ReFACT)**|
+|**2025-10-01**|**ReFACT: A Benchmark for Scientific Confabulation Detection with Positional Error Annotations**|Yindong Wang (hpi.de) et.al.|[2509.25868](http://arxiv.org/abs/2509.25868)|**[link](https://github.com/ddz5431/ReFACT)**|
 |**2025-09-30**|**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**|Haotian Xue et.al.|[2509.25794](http://arxiv.org/abs/2509.25794)|null|
 |**2025-09-30**|**TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning**|Zhepei Wei (viginia.edu) et.al.|[2509.25760](http://arxiv.org/abs/2509.25760)|null|
 |**2025-09-30**|**Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking**|Dengming Zhang (huawei.com) et.al.|[2509.25712](http://arxiv.org/abs/2509.25712)|**[link](https://github.com/Littleor/ExpertMerging)**|
-|**2025-09-30**|**ScheduleMe: Multi-Agent Calendar Assistant**|N. de Silva (cse.mrt.ac.lk) et.al.|[2509.25693](http://arxiv.org/abs/2509.25693)|null|
+|**2025-10-01**|**ScheduleMe: Multi-Agent Calendar Assistant**|Oshadha Wijerathne (cse.mrt.ac.lk) et.al.|[2509.25693](http://arxiv.org/abs/2509.25693)|null|
 |**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen (northeastern.edu) et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
 |**2025-09-30**|**Layer-wise dynamic rank for compressing large language models**|Zhendong Mi (stevens.edu) et.al.|[2509.25622](http://arxiv.org/abs/2509.25622)|null|
 |**2025-09-29**|**Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI Against Human Experts and a Taxonomy of Visual Reasoning Errors in Radiology**|Suvrankar Datta (ashoka.edu.in) et.al.|[2509.25559](http://arxiv.org/abs/2509.25559)|null|
