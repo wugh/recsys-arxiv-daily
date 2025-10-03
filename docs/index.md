@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Learning to Generate Object Interactions with Physics-Guided Video Diffusion**|David Romero (mbzuai.ac.ae) et.al.|[2510.02284](http://arxiv.org/abs/2510.02284)|null|
+|**2025-10-02**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|Mertcan Cokbas (meta.com) et.al.|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
+|**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|Qi He (m.fudan.edu.cn) et.al.|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
+|**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|Oscar Villemaud (epfl.ch) et.al.|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
+|**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
+|**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|Bo Ma (pku.edu.cn) et.al.|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
+|**2025-10-02**|**AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence**|Bo Ma (pku.edu.cn) et.al.|[2510.01609](http://arxiv.org/abs/2510.01609)|null|
+|**2025-10-01**|**MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems**|Shreeranjani Srirangamsridharan et.al.|[2510.01523](http://arxiv.org/abs/2510.01523)|null|
+|**2025-09-30**|**Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing**|Israel Abebe Azime et.al.|[2510.01283](http://arxiv.org/abs/2510.01283)|null|
+|**2025-10-01**|**Deep Learning-Based Approach for Improving Relational Aggregated Search**|Sara Saad Soliman et.al.|[2510.00966](http://arxiv.org/abs/2510.00966)|null|
+|**2025-10-01**|**Multi-Agent Stage-wise Conservative Linear Bandits**|Amirhoseein Afsharrad (stanford.edu) et.al.|[2510.00602](http://arxiv.org/abs/2510.00602)|null|
+|**2025-10-01**|**Panorama: Fast-Track Nearest Neighbors**|Vansh Ramani (cse.iitd.ac.in) et.al.|[2510.00566](http://arxiv.org/abs/2510.00566)|null|
+|**2025-09-30**|**Digital Domination: A Case for Republican Liberty in Artificial Intelligence**|Matthew David Hamilton et.al.|[2510.00312](http://arxiv.org/abs/2510.00312)|null|
 |**2025-09-30**|**Informed Dataset Selection**|Abdullah Abbas et.al.|[2509.26448](http://arxiv.org/abs/2509.26448)|null|
 |**2025-09-30**|**Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations**|Huanyu Zhang et.al.|[2509.26107](http://arxiv.org/abs/2509.26107)|null|
 |**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
@@ -486,6 +499,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|Qi He (m.fudan.edu.cn) et.al.|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
+|**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
+|**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|Bo Ma (pku.edu.cn) et.al.|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
+|**2025-10-02**|**AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence**|Bo Ma (pku.edu.cn) et.al.|[2510.01609](http://arxiv.org/abs/2510.01609)|null|
+|**2025-10-01**|**MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems**|Shreeranjani Srirangamsridharan et.al.|[2510.01523](http://arxiv.org/abs/2510.01523)|null|
+|**2025-09-30**|**Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing**|Israel Abebe Azime et.al.|[2510.01283](http://arxiv.org/abs/2510.01283)|null|
 |**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
 |**2025-09-29**|**Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks**|Peiran Xu (ucla.edu) et.al.|[2509.25598](http://arxiv.org/abs/2509.25598)|null|
@@ -717,6 +736,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL**|Kyoungjun Park et.al.|[2510.02282](http://arxiv.org/abs/2510.02282)|**[link](https://VidGuard-R1.github.io)**|
+|**2025-10-02**|**More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration**|Xiaoyang Yuan et.al.|[2510.02227](http://arxiv.org/abs/2510.02227)|**[link](https://github.com/SII-Enigma/AMPO)**|
+|**2025-10-02**|**StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**|Yanxu Chen (mails.tsinghua.edu.cn) et.al.|[2510.02209](http://arxiv.org/abs/2510.02209)|null|
+|**2025-10-02**|**To Mask or to Mirror: Human-AI Alignment in Collective Reasoning**|Crystal Qian et.al.|[2510.01924](http://arxiv.org/abs/2510.01924)|null|
+|**2025-10-02**|**Randomized Gradient Subspaces for Efficient Large Language Model Training**|Sahar Rajabi (uwaterloo.ca) et.al.|[2510.01878](http://arxiv.org/abs/2510.01878)|null|
+|**2025-10-02**|**Learning a Dense Reasoning Reward Model from Expert Demonstration via Inverse Reinforcement Learning**|Claudio Fanconi (cam.ac.uk) et.al.|[2510.01857](http://arxiv.org/abs/2510.01857)|null|
+|**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu (cs.stanford.edu) et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
+|**2025-10-02**|**MetaboT: AI-based agent for natural language-based interaction with metabolomics knowledge graphs**|Madina Bekbergenova et.al.|[2510.01724](http://arxiv.org/abs/2510.01724)|**[link](https://github.com/HolobiomicsLab/MetaboT)**|
+|**2025-10-02**|**Accelerating Attention with Basis Decomposition**|Jialin Zhao (gmail.com) et.al.|[2510.01718](http://arxiv.org/abs/2510.01718)|**[link](https://github.com/abcbdf/basis-decomposition-official)**|
+|**2025-10-02**|**VaPR -- Vision-language Preference alignment for Reasoning**|Rohan Wadhawan (gmail.com) et.al.|[2510.01700](http://arxiv.org/abs/2510.01700)|**[link](https://vap-r.github.io)**|
+|**2025-10-02**|**Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness**|Erfan Shayegani (ucr.edu) et.al.|[2510.01670](http://arxiv.org/abs/2510.01670)|null|
+|**2025-10-02**|**Learning to Look at the Other Side: A Semantic Probing Study of Word Embeddings in LLMs with Enabled Bidirectional Attention**|Zhaoxin Feng (connect.polyu.hk) et.al.|[2510.01652](http://arxiv.org/abs/2510.01652)|null|
+|**2025-10-02**|**Quagmires in SFT-RL Post-Training: When High SFT Scores Mislead and What to Use Instead**|Feiyang Kang (vt.edu) et.al.|[2510.01624](http://arxiv.org/abs/2510.01624)|null|
+|**2025-10-02**|**Efficient Training of Robust Traditional Chinese LLaMA-1B on a Single Consumer GPU: Continual Pre-training, SFT, and DPO**|Yu-Cheng Chih (m111.nthu.edu.tw) et.al.|[2510.01616](http://arxiv.org/abs/2510.01616)|null|
+|**2025-10-02**|**PychoBench: Evaluating the Psychology Intelligence of Large Language Models**|Min Zeng (gmail.com) et.al.|[2510.01611](http://arxiv.org/abs/2510.01611)|null|
+|**2025-10-02**|**ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models**|Krishna Teja Chitty-Venkata (anl.gov) et.al.|[2510.01582](http://arxiv.org/abs/2510.01582)|null|
+|**2025-10-02**|**AI Foundation Model for Time Series with Innovations Representation**|Lang Tong et.al.|[2510.01560](http://arxiv.org/abs/2510.01560)|null|
+|**2025-10-02**|**Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code**|Aniket Vashishtha (illinois.edu) et.al.|[2510.01539](http://arxiv.org/abs/2510.01539)|null|
+|**2025-10-02**|**Bypassing Prompt Guards in Production with Controlled-Release Prompting**|Jaiden Fairoze (berkeley.edu) et.al.|[2510.01529](http://arxiv.org/abs/2510.01529)|null|
+|**2025-10-01**|**VL-KnG: Visual Scene Understanding for Navigation Goal Identification using Spatiotemporal Knowledge Graphs**|Mohamad Al Mdfaa (gmail.com) et.al.|[2510.01483](http://arxiv.org/abs/2510.01483)|null|
+|**2025-10-01**|**LSPO: Length-aware Dynamic Sampling for Policy Optimization in LLM Reasoning**|Weizhe Chen (usc.edu) et.al.|[2510.01459](http://arxiv.org/abs/2510.01459)|null|
+|**2025-10-01**|**mR3: Multilingual Rubric-Agnostic Reward Reasoning Models**|David Anugraha (stanford.edu) et.al.|[2510.01146](http://arxiv.org/abs/2510.01146)|**[link](https://github.com/rubricreward/mr3)**|
+|**2025-10-01**|**Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense**|Guobin Shen (ia.ac.cn) et.al.|[2510.01088](http://arxiv.org/abs/2510.01088)|null|
+|**2025-10-01**|**Hybrid Dialogue State Tracking for Persian Chatbots: A Language Model-Based Approach**|Samin Mahdipour Aghabagher (aut.ac.ir) et.al.|[2510.01052](http://arxiv.org/abs/2510.01052)|null|
+|**2025-10-01**|**GEM: A Gym for Agentic LLMs**|Zichen Liu et.al.|[2510.01051](http://arxiv.org/abs/2510.01051)|null|
+|**2025-10-01**|**QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL**|Cong Yu (aalto.fi) et.al.|[2510.00967](http://arxiv.org/abs/2510.00967)|null|
+|**2025-10-01**|**Span-level Detection of AI-generated Scientific Text via Contrastive Learning and Structural Calibration**|Zhen Yin et.al.|[2510.00890](http://arxiv.org/abs/2510.00890)|null|
+|**2025-10-01**|**HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation**|Loris Bergeron (blu.bank) et.al.|[2510.00880](http://arxiv.org/abs/2510.00880)|null|
+|**2025-10-01**|**LLM Routing with Dueling Feedback**|Chao-Kai Chiang (k.u-tokyo.ac.jp) et.al.|[2510.00841](http://arxiv.org/abs/2510.00841)|null|
+|**2025-10-01**|**Exposing the Cracks: Vulnerabilities of Retrieval-Augmented LLM-based Machine Translation**|Yanming Sun (gmail.com) et.al.|[2510.00829](http://arxiv.org/abs/2510.00829)|null|
 |**2025-09-30**|**Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models**|Siddarth Venkatraman (llnl.gov) et.al.|[2509.26626](http://arxiv.org/abs/2509.26626)|**[link](https://github.com/HyperPotatoNeo/RSA)**|
 |**2025-09-30**|**Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models**|Matheus Vinicius da Silva de Oliveira (ufms.br) et.al.|[2509.26584](http://arxiv.org/abs/2509.26584)|null|
 |**2025-09-30**|**OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost Always!**|Jingdi Lei (e.ntu.edu.sg) et.al.|[2509.26495](http://arxiv.org/abs/2509.26495)|null|
