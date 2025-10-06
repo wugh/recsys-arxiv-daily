@@ -9,8 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**AgenticRAG: Tool-Augmented Foundation Models for Zero-Shot Explainable Recommender Systems**|Bo Ma (pku.edu.cn) et.al.|[2510.02668](http://arxiv.org/abs/2510.02668)|null|
+|**2025-10-03**|**A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation**|Qianfeng Wen et.al.|[2510.02656](http://arxiv.org/abs/2510.02656)|null|
 |**2025-10-02**|**Learning to Generate Object Interactions with Physics-Guided Video Diffusion**|David Romero (mbzuai.ac.ae) et.al.|[2510.02284](http://arxiv.org/abs/2510.02284)|null|
-|**2025-10-02**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|Mertcan Cokbas (meta.com) et.al.|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
+|**2025-10-03**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|Mertcan Cokbas (meta.com) et.al.|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
 |**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|Qi He (m.fudan.edu.cn) et.al.|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
 |**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|Oscar Villemaud (epfl.ch) et.al.|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
 |**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
@@ -499,6 +501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation**|Qianfeng Wen et.al.|[2510.02656](http://arxiv.org/abs/2510.02656)|null|
+|**2025-09-26**|**Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)**|Moonkyung Ryu (google.com) et.al.|[2510.02331](http://arxiv.org/abs/2510.02331)|null|
 |**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|Qi He (m.fudan.edu.cn) et.al.|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
 |**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
 |**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|Bo Ma (pku.edu.cn) et.al.|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
@@ -508,7 +512,7 @@ layout: default
 |**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|Xiaoyan Zhao (se.cuhk.edu.hk) et.al.|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Galton's Law of Mediocrity: Why Large Language Models Regress to the Mean and Fail at Creativity in Advertising**|Matt Keon (55mv.co) et.al.|[2509.25767](http://arxiv.org/abs/2509.25767)|null|
 |**2025-09-29**|**Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks**|Peiran Xu (ucla.edu) et.al.|[2509.25598](http://arxiv.org/abs/2509.25598)|null|
-|**2025-09-29**|**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**|Jingzhe Liu et.al.|[2509.25522](http://arxiv.org/abs/2509.25522)|null|
+|**2025-10-03**|**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**|Jingzhe Liu (msu.edu) et.al.|[2509.25522](http://arxiv.org/abs/2509.25522)|null|
 |**2025-09-29**|**Structural Reward Model: Enhancing Interpretability, Efficiency, and Scalability in Reward Modeling**|Xiaoyu Liu (northeastern.edu) et.al.|[2509.25361](http://arxiv.org/abs/2509.25361)|null|
 |**2025-09-29**|**SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems**|Kaihong Li et.al.|[2509.24961](http://arxiv.org/abs/2509.24961)|**[link](https://github.com/FrankenstLee/SemanticShield)**|
 |**2025-09-26**|**ArabJobs: A Multinational Corpus of Arabic Job Ads**|Mo El-Haj (vinuni.edu.vn) et.al.|[2509.22589](http://arxiv.org/abs/2509.22589)|**[link](https://github.com/drelhaj/ArabJobs)**|
@@ -736,6 +740,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair**|José Cambronero (google.com) et.al.|[2510.03217](http://arxiv.org/abs/2510.03217)|null|
+|**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di (cs.ucla.edu) et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
+|**2025-10-03**|**Semantic Similarity in Radiology Reports via LLMs and NER**|Beth Pearson (bristol.ac.uk) et.al.|[2510.03102](http://arxiv.org/abs/2510.03102)|**[link](https://github.com/otmive/llama_reports)**|
+|**2025-10-03**|**Investigating The Smells of LLM Generated Code**|Debalina Ghosh Paul (brookes.ac.uk) et.al.|[2510.03029](http://arxiv.org/abs/2510.03029)|null|
+|**2025-10-03**|**Self-Reflective Generation at Test Time**|Jian Mu (hkust-gz.edu.cn) et.al.|[2510.02919](http://arxiv.org/abs/2510.02919)|null|
+|**2025-10-03**|**MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding**|Jingyuan Deng (mails.tsinghua.edu.cn) et.al.|[2510.02790](http://arxiv.org/abs/2510.02790)|**[link](https://github.com/Deng-Jingyuan/MaskCD)**|
+|**2025-10-03**|**TutorBench: A Benchmark To Assess Tutoring Capabilities Of Large Language Models**|Rakshith S Srinivasa (scale.com) et.al.|[2510.02663](http://arxiv.org/abs/2510.02663)|null|
+|**2025-10-03**|**Geolog-IA: Conversational System for Academic Theses**|Micaela Fuel Pozo (uce.edu.ec) et.al.|[2510.02653](http://arxiv.org/abs/2510.02653)|null|
+|**2025-10-03**|**Automatic Building Code Review: A Case Study**|Hanlong Wan (pnnl.gov) et.al.|[2510.02634](http://arxiv.org/abs/2510.02634)|null|
+|**2025-10-02**|**Litespark Technical Report: High-Throughput, Energy-Efficient LLM Training Framework**|Nii Osae Osae Dade (mindbeam.ai) et.al.|[2510.02483](http://arxiv.org/abs/2510.02483)|null|
+|**2025-10-02**|**BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks**|Sagnik Anupam et.al.|[2510.02418](http://arxiv.org/abs/2510.02418)|null|
+|**2025-10-02**|**OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data**|Patrick Langer (ethz.ch) et.al.|[2510.02410](http://arxiv.org/abs/2510.02410)|null|
 |**2025-10-02**|**VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL**|Kyoungjun Park et.al.|[2510.02282](http://arxiv.org/abs/2510.02282)|**[link](https://VidGuard-R1.github.io)**|
 |**2025-10-02**|**More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration**|Xiaoyang Yuan et.al.|[2510.02227](http://arxiv.org/abs/2510.02227)|**[link](https://github.com/SII-Enigma/AMPO)**|
 |**2025-10-02**|**StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**|Yanxu Chen (mails.tsinghua.edu.cn) et.al.|[2510.02209](http://arxiv.org/abs/2510.02209)|null|
