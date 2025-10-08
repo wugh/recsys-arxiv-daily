@@ -1,4 +1,4 @@
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
+|**2025-10-07**|**Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences**|Batu El (stanford.edu) et.al.|[2510.06105](http://arxiv.org/abs/2510.06105)|null|
+|**2025-10-07**|**How public datasets constrain the development of diversity-aware news recommender systems, and what law could do about it**|Max van Drunen (uva.nl) et.al.|[2510.05952](http://arxiv.org/abs/2510.05952)|null|
+|**2025-10-07**|**How to model Human Actions distribution with Event Sequence Data**|Egor Surkov (gmail.com) et.al.|[2510.05856](http://arxiv.org/abs/2510.05856)|null|
+|**2025-10-07**|**Neighborhood-Adaptive Generalized Linear Graph Embedding with Latent Pattern Mining**|S. Peng (ahnu.edu.cn) et.al.|[2510.05719](http://arxiv.org/abs/2510.05719)|null|
+|**2025-10-07**|**Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation**|Nolwenn Bernard (th-koeln.de) et.al.|[2510.05624](http://arxiv.org/abs/2510.05624)|null|
 |**2025-10-06**|**Graph-Aware Diffusion for Signal Generation**|Sergio Rozada et.al.|[2510.05036](http://arxiv.org/abs/2510.05036)|null|
 |**2025-10-06**|**On Predicting Post-Click Conversion Rate via Counterfactual Inference**|Junhyung Ahn (navercorp.com) et.al.|[2510.04816](http://arxiv.org/abs/2510.04816)|null|
 |**2025-10-06**|**Compressed Concatenation of Small Embedding Models**|Mohamed Ayoub Ben Ayad (ads.uni-passau.de) et.al.|[2510.04626](http://arxiv.org/abs/2510.04626)|null|
@@ -508,12 +514,15 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
+|**2025-10-07**|**Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences**|Batu El (stanford.edu) et.al.|[2510.06105](http://arxiv.org/abs/2510.06105)|null|
+|**2025-09-30**|**Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation**|Reza Shirkavand (cs.umd.edu) et.al.|[2510.05125](http://arxiv.org/abs/2510.05125)|null|
 |**2025-10-05**|**Empowering Denoising Sequential Recommendation with Large Language Model Embeddings**|Tongzhou Wu (my.cityu.edu.hk) et.al.|[2510.04239](http://arxiv.org/abs/2510.04239)|null|
 |**2025-10-03**|**A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation**|Qianfeng Wen et.al.|[2510.02656](http://arxiv.org/abs/2510.02656)|null|
 |**2025-09-26**|**Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)**|Moonkyung Ryu (google.com) et.al.|[2510.02331](http://arxiv.org/abs/2510.02331)|null|
@@ -750,14 +759,42 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
+|**2025-10-07**|**Automated Program Repair of Uncompilable Student Code**|Griffin Pitts (ncsu.edu) et.al.|[2510.06187](http://arxiv.org/abs/2510.06187)|null|
+|**2025-10-07**|**RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback**|Chunyu Miao (uic.edu) et.al.|[2510.06186](http://arxiv.org/abs/2510.06186)|**[link](http://github.com/ChunyuMiao98/RECODE)**|
+|**2025-10-07**|**LLMs as Policy-Agnostic Teammates: A Case Study in Human Proxy Design for Heterogeneous Agent Teams**|Aju Ani Justus et.al.|[2510.06151](http://arxiv.org/abs/2510.06151)|null|
+|**2025-10-07**|**Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA**|Python Song et.al.|[2510.06067](http://arxiv.org/abs/2510.06067)|null|
+|**2025-10-07**|**Evaluating The Impact of Stimulus Quality in Investigations of LLM Language Performance**|Timothy Pistotti et.al.|[2510.06018](http://arxiv.org/abs/2510.06018)|**[link](https://brigap-workshop.github.io/)**|
+|**2025-10-07**|**The fragility of "cultural tendencies" in LLMs**|Kun Sun (tongji.edu.cn) et.al.|[2510.05869](http://arxiv.org/abs/2510.05869)|null|
+|**2025-10-07**|**Evaluating the Sensitivity of LLMs to Harmful Contents in Long Input**|Faeze Ghorbanpour (tum.de) et.al.|[2510.05864](http://arxiv.org/abs/2510.05864)|null|
+|**2025-10-07**|**Uncovering Representation Bias for Investment Decisions in Open-Source Large Language Models**|Fabrizio Dimino (domyn.com) et.al.|[2510.05702](http://arxiv.org/abs/2510.05702)|null|
+|**2025-10-07**|**Large Language Model-Based Uncertainty-Adjusted Label Extraction for Artificial Intelligence Model Development in Upper Extremity Radiography**|Hanna Kreutzer (ukaachen.de) et.al.|[2510.05664](http://arxiv.org/abs/2510.05664)|null|
+|**2025-10-07**|**From Principles to Practice: A Systematic Study of LLM Serving on Multi-core NPUs**|Tianhao Zhu et.al.|[2510.05632](http://arxiv.org/abs/2510.05632)|null|
+|**2025-10-07**|**In-the-Flow Agentic System Optimization for Effective Planning and Tool Use**|Zhuofeng Li et.al.|[2510.05592](http://arxiv.org/abs/2510.05592)|null|
+|**2025-10-07**|**Critical attention scaling in long-context transformers**|Shi Chen et.al.|[2510.05554](http://arxiv.org/abs/2510.05554)|null|
+|**2025-10-07**|**ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization**|Lawrence Liu (ucla.edu) et.al.|[2510.05528](http://arxiv.org/abs/2510.05528)|null|
+|**2025-10-07**|**KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance**|Kuangshi Ai (nd.edu) et.al.|[2510.05524](http://arxiv.org/abs/2510.05524)|null|
+|**2025-10-07**|**Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting**|Zhongkai Yu (ucsd.edu) et.al.|[2510.05497](http://arxiv.org/abs/2510.05497)|null|
+|**2025-10-06**|**SimulatorArena: Are User Simulators Reliable Proxies for Multi-Turn Evaluation of AI Assistants?**|Yao Dou (gatech.edu) et.al.|[2510.05444](http://arxiv.org/abs/2510.05444)|null|
+|**2025-10-06**|**Adversarial Reinforcement Learning for Large Language Model Agent Safety**|Zizhao Wang (cs.utexas.edu) et.al.|[2510.05442](http://arxiv.org/abs/2510.05442)|null|
+|**2025-10-06**|**A Lightweight Large Language Model-Based Multi-Agent System for 2D Frame Structural Analysis**|Ziheng Geng (miami.edu) et.al.|[2510.05414](http://arxiv.org/abs/2510.05414)|null|
+|**2025-10-06**|**Aligning Language Models with Clinical Expertise: DPO for Heart Failure Nursing Documentation in Critical Care**|Junyi Fan (usc.edu) et.al.|[2510.05410](http://arxiv.org/abs/2510.05410)|null|
+|**2025-10-06**|**Scalable In-context Ranking with Generative Models**|Nilesh Gupta (cs.utexas.edu) et.al.|[2510.05396](http://arxiv.org/abs/2510.05396)|null|
+|**2025-10-06**|**Context Length Alone Hurts LLM Performance Despite Perfect Retrieval**|Yufeng Du (illinois.edu) et.al.|[2510.05381](http://arxiv.org/abs/2510.05381)|null|
+|**2025-10-06**|**AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling**|Xiaogeng Liu (jhu.edu) et.al.|[2510.05379](http://arxiv.org/abs/2510.05379)|**[link](https://github.com/SaFoLab-WISC/AutoDAN-Reasoning)**|
+|**2025-10-06**|**KVLinC : KV Cache Quantization with Hadamard Rotation and Linear Correction**|Utkarsh Saxena (purdue.edu) et.al.|[2510.05373](http://arxiv.org/abs/2510.05373)|null|
+|**2025-10-06**|**DeepV: A Model-Agnostic Retrieval-Augmented Framework for Verilog Code Generation with a High-Quality Knowledge Base**|Zahin Ibnat (ufl.edu) et.al.|[2510.05327](http://arxiv.org/abs/2510.05327)|null|
+|**2025-10-06**|**RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts**|Yining She (andrew.cmu.edu) et.al.|[2510.05310](http://arxiv.org/abs/2510.05310)|null|
+|**2025-10-06**|**DP-Adam-AC: Privacy-preserving Fine-Tuning of Localizable Language Models Using Adam Optimization with Adaptive Clipping**|Ruoxing Yang (georgetown.edu) et.al.|[2510.05288](http://arxiv.org/abs/2510.05288)|null|
+|**2025-10-06**|**CMT-Benchmark: A Benchmark for Condensed Matter Theory Built by Expert Researchers**|Haining Pan (cornell.edu) et.al.|[2510.05228](http://arxiv.org/abs/2510.05228)|null|
 |**2025-10-06**|**Slm-mux: Orchestrating small language models for reasoning**|Chenyu Wang (seas.harvard.edu) et.al.|[2510.05077](http://arxiv.org/abs/2510.05077)|null|
-|**2025-10-06**|**Large Language Models Achieve Gold Medal Performance at International Astronomy & Astrophysics Olympiad**|Lucas Carrit Delgado Pinheiro et.al.|[2510.05016](http://arxiv.org/abs/2510.05016)|null|
+|**2025-10-07**|**Large Language Models Achieve Gold Medal Performance at the International Olympiad on Astronomy & Astrophysics (IOAA)**|Lucas Carrit Delgado Pinheiro et.al.|[2510.05016](http://arxiv.org/abs/2510.05016)|**[link](https://github.com/OSU-NLP-Group/LLM-IOAA)**|
 |**2025-10-06**|**Resource-Efficient Fine-Tuning of LLaMA-3.2-3B for Medical Chain-of-Thought Reasoning**|Imran Mansha (gmail.com) et.al.|[2510.05003](http://arxiv.org/abs/2510.05003)|null|
 |**2025-10-06**|**Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)**|Om Dobariya (psu.edu) et.al.|[2510.04950](http://arxiv.org/abs/2510.04950)|null|
 |**2025-10-06**|**MARS: Optimizing Dual-System Deep Research via Multi-Agent Reinforcement Learning**|Guoxin Chen (ruc.edu.cn) et.al.|[2510.04935](http://arxiv.org/abs/2510.04935)|null|
@@ -1759,7 +1796,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
