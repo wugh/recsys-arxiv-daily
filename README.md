@@ -1,4 +1,4 @@
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Revisiting Node Affinity Prediction in Temporal Graphs**|Krishna Sri Ipsit Mantri et.al.|[2510.06940](http://arxiv.org/abs/2510.06940)|**[link](https://github.com/orfeld415/NAVIS)**|
+|**2025-10-08**|**Ethical AI prompt recommendations in large language models using collaborative filtering**|Jordan Nelson et.al.|[2510.06924](http://arxiv.org/abs/2510.06924)|null|
+|**2025-10-08**|**LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations**|Boyuan Long (gmail.com) et.al.|[2510.06657](http://arxiv.org/abs/2510.06657)|null|
 |**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
 |**2025-10-07**|**Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences**|Batu El (stanford.edu) et.al.|[2510.06105](http://arxiv.org/abs/2510.06105)|null|
 |**2025-10-07**|**How public datasets constrain the development of diversity-aware news recommender systems, and what law could do about it**|Max van Drunen (uva.nl) et.al.|[2510.05952](http://arxiv.org/abs/2510.05952)|null|
@@ -514,12 +517,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Ethical AI prompt recommendations in large language models using collaborative filtering**|Jordan Nelson et.al.|[2510.06924](http://arxiv.org/abs/2510.06924)|null|
+|**2025-10-08**|**LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations**|Boyuan Long (gmail.com) et.al.|[2510.06657](http://arxiv.org/abs/2510.06657)|null|
 |**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
 |**2025-10-07**|**Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences**|Batu El (stanford.edu) et.al.|[2510.06105](http://arxiv.org/abs/2510.06105)|null|
 |**2025-09-30**|**Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation**|Reza Shirkavand (cs.umd.edu) et.al.|[2510.05125](http://arxiv.org/abs/2510.05125)|null|
@@ -527,7 +532,7 @@
 |**2025-10-03**|**A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation**|Qianfeng Wen et.al.|[2510.02656](http://arxiv.org/abs/2510.02656)|null|
 |**2025-09-26**|**Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)**|Moonkyung Ryu (google.com) et.al.|[2510.02331](http://arxiv.org/abs/2510.02331)|null|
 |**2025-10-04**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|Qi He (m.fudan.edu.cn) et.al.|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
-|**2025-10-06**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
+|**2025-10-08**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|Seungheon Doh (kaist.ac.kr) et.al.|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
 |**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|Bo Ma (pku.edu.cn) et.al.|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
 |**2025-10-02**|**AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence**|Bo Ma (pku.edu.cn) et.al.|[2510.01609](http://arxiv.org/abs/2510.01609)|null|
 |**2025-10-01**|**MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems**|Shreeranjani Srirangamsridharan et.al.|[2510.01523](http://arxiv.org/abs/2510.01523)|null|
@@ -759,12 +764,32 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Sunflower: A New Approach To Expanding Coverage of African Languages in Large Language Models**|Benjamin Akera (sunbird.ai) et.al.|[2510.07203](http://arxiv.org/abs/2510.07203)|null|
+|**2025-10-08**|**A Multi-Agent Framework for Stateful Inference-Time Search**|Arshika Lalan (cs.cmu.edu) et.al.|[2510.07147](http://arxiv.org/abs/2510.07147)|null|
+|**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
+|**2025-10-08**|**The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas**|Baixuan Xu (connect.ust.hk) et.al.|[2510.07091](http://arxiv.org/abs/2510.07091)|null|
+|**2025-10-08**|**The Limits of Goal-Setting Theory in LLM-Driven Assessment**|Mrityunjay Kumar (pilani.bits-pilani.ac.in) et.al.|[2510.06997](http://arxiv.org/abs/2510.06997)|null|
+|**2025-10-08**|**Accelerating Sparse Ternary GEMM for Quantized LLM inference on Apple Silicon**|Baraq Lipshitz et.al.|[2510.06957](http://arxiv.org/abs/2510.06957)|null|
+|**2025-10-08**|**Textual interpretation of transient image classifications from large language models**|Fiorenzo Stoppa (physics.ox.ac.uk) et.al.|[2510.06931](http://arxiv.org/abs/2510.06931)|null|
+|**2025-10-08**|**LongRM: Revealing and Unlocking the Context Boundary of Reward Modeling**|Zecheng Tang (stu.suda.edu.cn) et.al.|[2510.06915](http://arxiv.org/abs/2510.06915)|null|
+|**2025-10-08**|**Utilizing Large Language Models for Machine Learning Explainability**|Alexandros Vassiliades (iti.gr) et.al.|[2510.06912](http://arxiv.org/abs/2510.06912)|null|
+|**2025-10-08**|**MeXtract: Light-Weight Metadata Extraction from Scientific Papers**|Zaid Alyafeai et.al.|[2510.06889](http://arxiv.org/abs/2510.06889)|null|
+|**2025-10-08**|**Crossing Domains without Labels: Distant Supervision for Term Extraction**|Elena Senger (cis.lmu.de) et.al.|[2510.06838](http://arxiv.org/abs/2510.06838)|null|
+|**2025-10-08**|**Adaptive Tool Generation with Models as Tools and Reinforcement Learning**|Chenpeng Wang (yxqiche.com) et.al.|[2510.06825](http://arxiv.org/abs/2510.06825)|null|
+|**2025-10-08**|**Overview of the Plagiarism Detection Task at PAN 2025**|André Greiner-Petter (gipplab.org) et.al.|[2510.06805](http://arxiv.org/abs/2510.06805)|null|
+|**2025-10-08**|**FURINA: A Fully Customizable Role-Playing Benchmark via Scalable Multi-Agent Collaboration Pipeline**|Haotian Wu (hkust-gz.edu.cn) et.al.|[2510.06800](http://arxiv.org/abs/2510.06800)|null|
+|**2025-10-08**|**GPT-5 Model Corrected GPT-4V's Chart Reading Errors, Not Prompting**|Kaichun Yang (illinois.edu) et.al.|[2510.06782](http://arxiv.org/abs/2510.06782)|null|
+|**2025-10-08**|**Adaptive LLM-Symbolic Reasoning via Dynamic Logical Solver Composition**|Lei Xu (idiap.ch) et.al.|[2510.06774](http://arxiv.org/abs/2510.06774)|null|
+|**2025-10-08**|**Evaluating LLMs for Historical Document OCR: A Methodological Framework for Digital Humanities**|Maria Levchenko (gmail.com) et.al.|[2510.06743](http://arxiv.org/abs/2510.06743)|null|
+|**2025-10-08**|**Flipping the Dialogue: Training and Evaluating User Language Models**|Tarek Naous (gatech.edu) et.al.|[2510.06552](http://arxiv.org/abs/2510.06552)|null|
+|**2025-10-08**|**Auto-Prompt Ensemble for LLM Judge**|Jiajie Li et.al.|[2510.06538](http://arxiv.org/abs/2510.06538)|null|
+|**2025-10-07**|**LLM Bias Detection and Mitigation through the Lens of Desired Distributions**|Ingroj Shrestha (uiowa.edu) et.al.|[2510.06354](http://arxiv.org/abs/2510.06354)|null|
 |**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
 |**2025-10-07**|**Automated Program Repair of Uncompilable Student Code**|Griffin Pitts (ncsu.edu) et.al.|[2510.06187](http://arxiv.org/abs/2510.06187)|null|
 |**2025-10-07**|**RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback**|Chunyu Miao (uic.edu) et.al.|[2510.06186](http://arxiv.org/abs/2510.06186)|**[link](http://github.com/ChunyuMiao98/RECODE)**|
@@ -1796,7 +1821,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
