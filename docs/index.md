@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Mobile Gamer Lifetime Value Prediction via Objective Decomposition and Reconstruction**|Tianwei Li (xd.com) et.al.|[2510.08281](http://arxiv.org/abs/2510.08281)|null|
+|**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|**[link](https://kodaikawamura.github.io/Domain_Unlearning/)**|
+|**2025-10-09**|**Evaluating LLM-Generated Legal Explanations for Regulatory Compliance in Social Media Influencer Marketing**|Haoyang Gui et.al.|[2510.08111](http://arxiv.org/abs/2510.08111)|null|
+|**2025-10-09**|**TaoSR-SHE: Stepwise Hybrid Examination Reinforcement Learning Framework for E-commerce Search Relevance**|Pengkun Jiao (m.fudan.edu.cn) et.al.|[2510.07972](http://arxiv.org/abs/2510.07972)|null|
+|**2025-10-09**|**Generation and annotation of item usage scenarios in e-commerce using large language models**|Madoka Hagiri (uec.ac.jp) et.al.|[2510.07885](http://arxiv.org/abs/2510.07885)|null|
+|**2025-10-09**|**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**|Ruining He (google.com) et.al.|[2510.07784](http://arxiv.org/abs/2510.07784)|null|
+|**2025-10-09**|**A Unified Multi-Task Learning Framework for Generative Auto-Bidding with Validation-Aligned Optimization**|Yiqin Lv (gmail.com) et.al.|[2510.07760](http://arxiv.org/abs/2510.07760)|null|
+|**2025-10-09**|**GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation**|Rongchao Xu (fsu.edu) et.al.|[2510.07735](http://arxiv.org/abs/2510.07735)|null|
+|**2025-10-09**|**Safely Exploring Novel Actions in Recommender Systems via Deployment-Efficient Policy Learning**|Haruka Kiyohara (cornell.edu) et.al.|[2510.07635](http://arxiv.org/abs/2510.07635)|null|
+|**2025-10-08**|**Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems**|Saeideh Bakhshi (meta.com) et.al.|[2510.07621](http://arxiv.org/abs/2510.07621)|null|
 |**2025-10-08**|**Revisiting Node Affinity Prediction in Temporal Graphs**|Krishna Sri Ipsit Mantri et.al.|[2510.06940](http://arxiv.org/abs/2510.06940)|**[link](https://github.com/orfeld415/NAVIS)**|
 |**2025-10-08**|**Ethical AI prompt recommendations in large language models using collaborative filtering**|Jordan Nelson et.al.|[2510.06924](http://arxiv.org/abs/2510.06924)|null|
 |**2025-10-08**|**LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations**|Boyuan Long (gmail.com) et.al.|[2510.06657](http://arxiv.org/abs/2510.06657)|null|
@@ -516,6 +526,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|**[link](https://kodaikawamura.github.io/Domain_Unlearning/)**|
+|**2025-10-09**|**Evaluating LLM-Generated Legal Explanations for Regulatory Compliance in Social Media Influencer Marketing**|Haoyang Gui et.al.|[2510.08111](http://arxiv.org/abs/2510.08111)|null|
+|**2025-10-09**|**TaoSR-SHE: Stepwise Hybrid Examination Reinforcement Learning Framework for E-commerce Search Relevance**|Pengkun Jiao (m.fudan.edu.cn) et.al.|[2510.07972](http://arxiv.org/abs/2510.07972)|null|
+|**2025-10-09**|**Generation and annotation of item usage scenarios in e-commerce using large language models**|Madoka Hagiri (uec.ac.jp) et.al.|[2510.07885](http://arxiv.org/abs/2510.07885)|null|
+|**2025-10-09**|**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**|Ruining He (google.com) et.al.|[2510.07784](http://arxiv.org/abs/2510.07784)|null|
 |**2025-10-08**|**Ethical AI prompt recommendations in large language models using collaborative filtering**|Jordan Nelson et.al.|[2510.06924](http://arxiv.org/abs/2510.06924)|null|
 |**2025-10-08**|**LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations**|Boyuan Long (gmail.com) et.al.|[2510.06657](http://arxiv.org/abs/2510.06657)|null|
 |**2025-10-07**|**Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents**|Mingkang Zhu (cse.cuhk.edu.hk) et.al.|[2510.06214](http://arxiv.org/abs/2510.06214)|null|
@@ -761,6 +776,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Hongxing Li (zju.edu.cn) et.al.|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
+|**2025-10-09**|**SenWave: A Fine-Grained Multi-Language Sentiment Analysis Dataset Sourced from COVID-19 Tweets**|Qiang Yang (kaust.edu.sa) et.al.|[2510.08214](http://arxiv.org/abs/2510.08214)|**[link](https://github.com/gitdevqiang/SenWave)**|
+|**2025-10-09**|**Training-Free Group Relative Policy Optimization**|Yuzheng Cai (tencent.com) et.al.|[2510.08191](http://arxiv.org/abs/2510.08191)|null|
+|**2025-10-09**|**Beyond Over-Refusal: Scenario-Based Diagnostics and Post-Hoc Mitigation for Exaggerated Refusals in LLMs**|Shuzhou Yuan (tu-dresden.de) et.al.|[2510.08158](http://arxiv.org/abs/2510.08158)|null|
+|**2025-10-09**|**Think Just Enough: Sequence-Level Entropy as a Confidence Signal for LLM Reasoning**|Aman Sharma (lossfunk.com) et.al.|[2510.08146](http://arxiv.org/abs/2510.08146)|null|
+|**2025-10-09**|**Can Risk-taking AI-Assistants suitably represent entities**|Ali Mazyaki et.al.|[2510.08114](http://arxiv.org/abs/2510.08114)|null|
+|**2025-10-09**|**Language Models Do Not Embed Numbers Continuously**|Alex O. Davies (bristol.ac.uk) et.al.|[2510.08009](http://arxiv.org/abs/2510.08009)|null|
+|**2025-10-09**|**Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning**|Jialu Du (zju.edu.cn) et.al.|[2510.07974](http://arxiv.org/abs/2510.07974)|null|
+|**2025-10-09**|**Vision-Enabled LLMs in Historical Lexicography: Digitising and Enriching Estonian-German Dictionaries from the 17th and 18th Centuries**|Madis Jürviste et.al.|[2510.07931](http://arxiv.org/abs/2510.07931)|null|
+|**2025-10-09**|**RCPU: Rotation-Constrained Error Compensation for Structured Pruning of a Large Language Model**|Shuichiro Haruta (kddi.com) et.al.|[2510.07782](http://arxiv.org/abs/2510.07782)|null|
+|**2025-10-09**|**Multimodal Safety Evaluation in Generative Agent Social Simulations**|Alhim Vera et.al.|[2510.07709](http://arxiv.org/abs/2510.07709)|null|
+|**2025-10-09**|**Stress-Testing Model Specs Reveals Character Differences among Language Models**|Jifan Zhang et.al.|[2510.07686](http://arxiv.org/abs/2510.07686)|null|
+|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu (seas.upenn.edu) et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|null|
+|**2025-10-08**|**Evaluation of LLMs for Process Model Analysis and Optimization**|Akhil Kumar (psu.edu) et.al.|[2510.07489](http://arxiv.org/abs/2510.07489)|null|
+|**2025-10-08**|**LASER: An LLM-based ASR Scoring and Evaluation Rubric**|Amruta Parulekar (gmail.com) et.al.|[2510.07437](http://arxiv.org/abs/2510.07437)|null|
+|**2025-10-08**|**Haystack Engineering: Context Engineering for Heterogeneous and Agentic Long-Context Evaluation**|Mufei Li (gatech.edu) et.al.|[2510.07414](http://arxiv.org/abs/2510.07414)|**[link](https://github.com/Graph-COM/HaystackCraft)**|
+|**2025-10-08**|**Base Models Know How to Reason, Thinking Models Learn When**|Constantin Venhoff (robots.ox.ac.uk) et.al.|[2510.07364](http://arxiv.org/abs/2510.07364)|null|
+|**2025-10-08**|**ConCuR: Conciseness Makes State-of-the-Art Kernel Generation**|Lingcheng Kong (westlake.edu.cn) et.al.|[2510.07356](http://arxiv.org/abs/2510.07356)|null|
 |**2025-10-08**|**Sunflower: A New Approach To Expanding Coverage of African Languages in Large Language Models**|Benjamin Akera (sunbird.ai) et.al.|[2510.07203](http://arxiv.org/abs/2510.07203)|null|
 |**2025-10-08**|**A Multi-Agent Framework for Stateful Inference-Time Search**|Arshika Lalan (cs.cmu.edu) et.al.|[2510.07147](http://arxiv.org/abs/2510.07147)|null|
 |**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
@@ -772,7 +805,7 @@ layout: default
 |**2025-10-08**|**Utilizing Large Language Models for Machine Learning Explainability**|Alexandros Vassiliades (iti.gr) et.al.|[2510.06912](http://arxiv.org/abs/2510.06912)|null|
 |**2025-10-08**|**MeXtract: Light-Weight Metadata Extraction from Scientific Papers**|Zaid Alyafeai et.al.|[2510.06889](http://arxiv.org/abs/2510.06889)|null|
 |**2025-10-08**|**Crossing Domains without Labels: Distant Supervision for Term Extraction**|Elena Senger (cis.lmu.de) et.al.|[2510.06838](http://arxiv.org/abs/2510.06838)|null|
-|**2025-10-08**|**Adaptive Tool Generation with Models as Tools and Reinforcement Learning**|Chenpeng Wang (yxqiche.com) et.al.|[2510.06825](http://arxiv.org/abs/2510.06825)|null|
+|**2025-10-09**|**Adaptive Tool Generation with Models as Tools and Reinforcement Learning**|Chenpeng Wang (yxqiche.com) et.al.|[2510.06825](http://arxiv.org/abs/2510.06825)|null|
 |**2025-10-08**|**Overview of the Plagiarism Detection Task at PAN 2025**|André Greiner-Petter (gipplab.org) et.al.|[2510.06805](http://arxiv.org/abs/2510.06805)|null|
 |**2025-10-08**|**FURINA: A Fully Customizable Role-Playing Benchmark via Scalable Multi-Agent Collaboration Pipeline**|Haotian Wu (hkust-gz.edu.cn) et.al.|[2510.06800](http://arxiv.org/abs/2510.06800)|null|
 |**2025-10-08**|**GPT-5 Model Corrected GPT-4V's Chart Reading Errors, Not Prompting**|Kaichun Yang (illinois.edu) et.al.|[2510.06782](http://arxiv.org/abs/2510.06782)|null|
