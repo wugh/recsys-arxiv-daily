@@ -1,4 +1,4 @@
-## Updated on 2025.10.11
+## Updated on 2025.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -527,7 +527,7 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -779,7 +779,7 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
 
 ## LLM
 
@@ -1854,7 +1854,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
