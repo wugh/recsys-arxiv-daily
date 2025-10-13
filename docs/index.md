@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Getting Your Indices in a Row: Full-Text Search for LLM Training Data for Real World**|Ines Altemir Marinas (epfl.edu) et.al.|[2510.09471](http://arxiv.org/abs/2510.09471)|null|
+|**2025-10-10**|**Hierarchical Semantic RL: Tackling the Problem of Dynamic Action Space for RL-based Recommendations**|Minmao Wang (m.fdu.edu.cn) et.al.|[2510.09167](http://arxiv.org/abs/2510.09167)|**[link](https://github.com/MinmaoWang/HSRL)**|
+|**2025-10-10**|**Generative Data Augmentation in Graph Contrastive Learning for Recommendation**|Yansong Wang (email.swu.edu.cn) et.al.|[2510.09129](http://arxiv.org/abs/2510.09129)|**[link](https://github.com/MrYansong/GDA4Rec)**|
+|**2025-10-10**|**Co-Authoring the Self: A Human-AI Interface for Interest Reflection in Recommenders**|Ruixuan Sun (acm.org) et.al.|[2510.08930](http://arxiv.org/abs/2510.08930)|null|
+|**2025-10-09**|**RA-Gen: A Controllable Code Generation Framework Using ReAct for Multi-Agent Task Execution**|Aofan Liu et.al.|[2510.08665](http://arxiv.org/abs/2510.08665)|null|
 |**2025-10-09**|**Mobile Gamer Lifetime Value Prediction via Objective Decomposition and Reconstruction**|Tianwei Li (xd.com) et.al.|[2510.08281](http://arxiv.org/abs/2510.08281)|null|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|**[link](https://kodaikawamura.github.io/Domain_Unlearning/)**|
 |**2025-10-09**|**Evaluating LLM-Generated Legal Explanations for Regulatory Compliance in Social Media Influencer Marketing**|Haoyang Gui et.al.|[2510.08111](http://arxiv.org/abs/2510.08111)|null|
@@ -526,6 +531,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Getting Your Indices in a Row: Full-Text Search for LLM Training Data for Real World**|Ines Altemir Marinas (epfl.edu) et.al.|[2510.09471](http://arxiv.org/abs/2510.09471)|null|
+|**2025-10-09**|**RA-Gen: A Controllable Code Generation Framework Using ReAct for Multi-Agent Task Execution**|Aofan Liu et.al.|[2510.08665](http://arxiv.org/abs/2510.08665)|null|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|**[link](https://kodaikawamura.github.io/Domain_Unlearning/)**|
 |**2025-10-09**|**Evaluating LLM-Generated Legal Explanations for Regulatory Compliance in Social Media Influencer Marketing**|Haoyang Gui et.al.|[2510.08111](http://arxiv.org/abs/2510.08111)|null|
 |**2025-10-09**|**TaoSR-SHE: Stepwise Hybrid Examination Reinforcement Learning Framework for E-commerce Search Relevance**|Pengkun Jiao (m.fudan.edu.cn) et.al.|[2510.07972](http://arxiv.org/abs/2510.07972)|null|
@@ -776,6 +783,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|**[link](https://github.com/mit-han-lab/streaming-vlm)**|
+|**2025-10-10**|**LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?**|Kaijian Zou (umich.edu) et.al.|[2510.09595](http://arxiv.org/abs/2510.09595)|null|
+|**2025-10-10**|**Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model**|Gavriel Di Nepi (studenti.uniroma1.it) et.al.|[2510.09551](http://arxiv.org/abs/2510.09551)|null|
+|**2025-10-10**|**Multimodal Policy Internalization for Conversational Agents**|Zhenhailong Wang (illinois.edu) et.al.|[2510.09474](http://arxiv.org/abs/2510.09474)|**[link](https://mikewangwzhl.github.io/TriMPI)**|
+|**2025-10-10**|**Domain-Adapted Pre-trained Language Models for Implicit Information Extraction in Crash Narratives**|Xixi Wang (gmail.com) et.al.|[2510.09434](http://arxiv.org/abs/2510.09434)|null|
+|**2025-10-10**|**NL2GenSym: Natural Language to Generative Symbolic Rules for SOAR Cognitive Architecture via Large Language Models**|Fang Yuan (nudt.edu.cn) et.al.|[2510.09355](http://arxiv.org/abs/2510.09355)|null|
+|**2025-10-10**|**Safety Game: Balancing Safe and Informative Conversations with Blackbox Agentic AI using LP Solvers**|Tuan Nguyen (warwick.ac.uk) et.al.|[2510.09330](http://arxiv.org/abs/2510.09330)|null|
+|**2025-10-10**|**CapGeo: A Caption-Assisted Approach to Geometric Reasoning**|Yuying Li (mails.tsinghua.edu.cn) et.al.|[2510.09302](http://arxiv.org/abs/2510.09302)|null|
+|**2025-10-10**|**CFVBench: A Comprehensive Video Benchmark for Fine-grained Multimodal Retrieval-Augmented Generation**|Kaiwen Wei (cqu.edu.cn) et.al.|[2510.09266](http://arxiv.org/abs/2510.09266)|null|
+|**2025-10-10**|**DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation**|Enze Zhang (whu.edu.cn) et.al.|[2510.09116](http://arxiv.org/abs/2510.09116)|null|
+|**2025-10-10**|**FrameEOL: Semantic Frame Induction using Causal Language Models**|Chihiro Yano (s.mail.nagoya-u.ac.jp) et.al.|[2510.09097](http://arxiv.org/abs/2510.09097)|null|
+|**2025-10-10**|**Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation**|Muhammad Ali Shafique et.al.|[2510.09051](http://arxiv.org/abs/2510.09051)|**[link](https://github.com/traversaal-ai/alif-urdu-llm)**|
+|**2025-10-10**|**MEC $^3$ O: Multi-Expert Consensus for Code Time Complexity Prediction**|Joonghyuk Hahn (yonsei.ac.kr) et.al.|[2510.09049](http://arxiv.org/abs/2510.09049)|**[link](https://github.com/suhanmen/MECO)**|
+|**2025-10-10**|**Humanoid Artificial Consciousness Designed with Large Language Model Based on Psychoanalysis and Personality Theory**|Sang Hun Kim (miamioh.edu) et.al.|[2510.09043](http://arxiv.org/abs/2510.09043)|null|
+|**2025-10-10**|**RefGrader: Automated Grading of Mathematical Competition Proofs using Agentic Workflows**|Hamed Mahdavi et.al.|[2510.09021](http://arxiv.org/abs/2510.09021)|null|
+|**2025-10-10**|**SEER: Sustainability Enhanced Engineering of Software Requirements**|Mandira Roy et.al.|[2510.08981](http://arxiv.org/abs/2510.08981)|null|
+|**2025-10-09**|**ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review**|Gaurav Sahu et.al.|[2510.08867](http://arxiv.org/abs/2510.08867)|null|
+|**2025-10-09**|**McMining: Automated Discovery of Misconceptions in Student Code**|Erfan Al-Hossami (charlotte.edu) et.al.|[2510.08827](http://arxiv.org/abs/2510.08827)|null|
+|**2025-10-09**|**MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human Perception of User Interfaces**|Reuben A. Luera (acm.org) et.al.|[2510.08783](http://arxiv.org/abs/2510.08783)|null|
+|**2025-10-09**|**Measuring Moral LLM Responses in Multilingual Capacities**|Kimaya Basu (gmail.com) et.al.|[2510.08776](http://arxiv.org/abs/2510.08776)|null|
+|**2025-10-09**|**BigCodeArena: Unveiling More Reliable Human Preferences in Code Generation via Execution**|Terry Yue Zhuo (monash.edu) et.al.|[2510.08697](http://arxiv.org/abs/2510.08697)|null|
 |**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Hongxing Li (zju.edu.cn) et.al.|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
 |**2025-10-09**|**SenWave: A Fine-Grained Multi-Language Sentiment Analysis Dataset Sourced from COVID-19 Tweets**|Qiang Yang (kaust.edu.sa) et.al.|[2510.08214](http://arxiv.org/abs/2510.08214)|**[link](https://github.com/gitdevqiang/SenWave)**|
 |**2025-10-09**|**Training-Free Group Relative Policy Optimization**|Yuzheng Cai (tencent.com) et.al.|[2510.08191](http://arxiv.org/abs/2510.08191)|null|
