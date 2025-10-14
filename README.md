@@ -1,4 +1,4 @@
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
+|**2025-10-13**|**Differentiable Fast Top-K Selection for Large-Scale Recommendation**|Yanjie Zhu (stu.xjtu.edu.cn) et.al.|[2510.11472](http://arxiv.org/abs/2510.11472)|null|
+|**2025-10-13**|**On Inherited Popularity Bias in Cold-Start Item Recommendation**|Gregor Meehan (qmul.ac.uk) et.al.|[2510.11402](http://arxiv.org/abs/2510.11402)|null|
+|**2025-10-13**|**Next Interest Flow: A Generative Pre-training Paradigm for Recommender Systems by Modeling All-domain Movelines**|Chen Gao (taobao.com) et.al.|[2510.11317](http://arxiv.org/abs/2510.11317)|null|
+|**2025-10-13**|**HoMer: Addressing Heterogeneities by Modeling Sequential and Set-wise Contexts for CTR Prediction**|Shuwei Chen (meituan.com) et.al.|[2510.11100](http://arxiv.org/abs/2510.11100)|null|
+|**2025-10-13**|**Decoupled Multimodal Fusion for User Interest Modeling in Click-Through Rate Prediction**|Alin Fan (alibaba-inc.com) et.al.|[2510.11066](http://arxiv.org/abs/2510.11066)|null|
+|**2025-10-13**|**From Reasoning LLMs to BERT: A Two-Stage Distillation Framework for Search Relevance**|Runze Xia (nuaa.edu.cn) et.al.|[2510.11056](http://arxiv.org/abs/2510.11056)|null|
+|**2025-10-13**|**Does LLM Focus on the Right Words? Diagnosing Language Bias in LLM-based Recommenders**|Bohao Wang (zju.edu.cn) et.al.|[2510.10978](http://arxiv.org/abs/2510.10978)|null|
+|**2025-10-12**|**Multi-Granularity Sequence Denoising with Weakly Supervised Signal for Sequential Recommendation**|Liang Li (stu.cqut.edu.cn) et.al.|[2510.10564](http://arxiv.org/abs/2510.10564)|**[link](https://github.com/lalunex/MGSD-WSS)**|
+|**2025-10-12**|**Towards Long-Term User Welfare in Recommender Systems via Creator-Oriented Information Revelation**|Xu Zhao (ruc.edu.cn) et.al.|[2510.10511](http://arxiv.org/abs/2510.10511)|null|
+|**2025-10-12**|**Does Weighting Improve Matrix Factorization for Recommender Systems?**|Alex Ayoub (ualberta.ca) et.al.|[2510.10440](http://arxiv.org/abs/2510.10440)|null|
+|**2025-10-11**|**Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model**|Qiya Yang (gmail.com) et.al.|[2510.10127](http://arxiv.org/abs/2510.10127)|null|
+|**2025-10-11**|**Integrating Structure-Aware Attention and Knowledge Graphs in Explainable Recommendation Systems**|Shuangquan Lyu et.al.|[2510.10109](http://arxiv.org/abs/2510.10109)|null|
+|**2025-10-11**|**Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based Recommendation through Decoupled Propagation**|Yanping Zheng (ruc.edu.cn) et.al.|[2510.10105](http://arxiv.org/abs/2510.10105)|null|
+|**2025-10-10**|**TAWRMAC: A Novel Dynamic Graph Representation Learning Method**|Soheila Farokhi (usu.edu) et.al.|[2510.09884](http://arxiv.org/abs/2510.09884)|null|
+|**2025-10-10**|**MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest**|Xiao Yang (pinterest.com) et.al.|[2510.09857](http://arxiv.org/abs/2510.09857)|null|
 |**2025-10-10**|**Getting Your Indices in a Row: Full-Text Search for LLM Training Data for Real World**|Ines Altemir Marinas (epfl.edu) et.al.|[2510.09471](http://arxiv.org/abs/2510.09471)|null|
+|**2025-10-13**|**ChoirRec: Semantic User Grouping via LLMs for Conversion Rate Prediction of Low-Activity Users**|Dakai Zhai (alibaba-inc.com) et.al.|[2510.09393](http://arxiv.org/abs/2510.09393)|null|
 |**2025-10-10**|**Hierarchical Semantic RL: Tackling the Problem of Dynamic Action Space for RL-based Recommendations**|Minmao Wang (m.fdu.edu.cn) et.al.|[2510.09167](http://arxiv.org/abs/2510.09167)|**[link](https://github.com/MinmaoWang/HSRL)**|
 |**2025-10-10**|**Generative Data Augmentation in Graph Contrastive Learning for Recommendation**|Yansong Wang (email.swu.edu.cn) et.al.|[2510.09129](http://arxiv.org/abs/2510.09129)|**[link](https://github.com/MrYansong/GDA4Rec)**|
 |**2025-10-10**|**Co-Authoring the Self: A Human-AI Interface for Interest Reflection in Recommenders**|Ruixuan Sun (acm.org) et.al.|[2510.08930](http://arxiv.org/abs/2510.08930)|null|
@@ -532,13 +549,18 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
+|**2025-10-13**|**Next Interest Flow: A Generative Pre-training Paradigm for Recommender Systems by Modeling All-domain Movelines**|Chen Gao (taobao.com) et.al.|[2510.11317](http://arxiv.org/abs/2510.11317)|null|
+|**2025-10-13**|**From Reasoning LLMs to BERT: A Two-Stage Distillation Framework for Search Relevance**|Runze Xia (nuaa.edu.cn) et.al.|[2510.11056](http://arxiv.org/abs/2510.11056)|null|
+|**2025-10-13**|**Does LLM Focus on the Right Words? Diagnosing Language Bias in LLM-based Recommenders**|Bohao Wang (zju.edu.cn) et.al.|[2510.10978](http://arxiv.org/abs/2510.10978)|null|
 |**2025-10-10**|**Getting Your Indices in a Row: Full-Text Search for LLM Training Data for Real World**|Ines Altemir Marinas (epfl.edu) et.al.|[2510.09471](http://arxiv.org/abs/2510.09471)|null|
+|**2025-10-13**|**ChoirRec: Semantic User Grouping via LLMs for Conversion Rate Prediction of Low-Activity Users**|Dakai Zhai (alibaba-inc.com) et.al.|[2510.09393](http://arxiv.org/abs/2510.09393)|null|
 |**2025-10-09**|**RA-Gen: A Controllable Code Generation Framework Using ReAct for Multi-Agent Task Execution**|Aofan Liu et.al.|[2510.08665](http://arxiv.org/abs/2510.08665)|null|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|**[link](https://kodaikawamura.github.io/Domain_Unlearning/)**|
 |**2025-10-09**|**Evaluating LLM-Generated Legal Explanations for Regulatory Compliance in Social Media Influencer Marketing**|Haoyang Gui et.al.|[2510.08111](http://arxiv.org/abs/2510.08111)|null|
@@ -786,12 +808,42 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-13**|**When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents**|Lingfei Qian (acm.org) et.al.|[2510.11695](http://arxiv.org/abs/2510.11695)|null|
+|**2025-10-13**|**MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model**|Prasanna Mayilvahanan (uni-tuebingen.de) et.al.|[2510.11653](http://arxiv.org/abs/2510.11653)|null|
+|**2025-10-13**|**EvoCAD: Evolutionary CAD Code Generation with Vision Language Models**|Tobias Preintner et.al.|[2510.11631](http://arxiv.org/abs/2510.11631)|null|
+|**2025-10-13**|**Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation**|Siheng Xiong (gatech.edu) et.al.|[2510.11620](http://arxiv.org/abs/2510.11620)|null|
+|**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
+|**2025-10-13**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
+|**2025-10-13**|**How Reinforcement Learning After Next-Token Prediction Facilitates Learning**|Nikolaos Tsilivis (nyu.edu) et.al.|[2510.11495](http://arxiv.org/abs/2510.11495)|null|
+|**2025-10-13**|**Audio-Maestro: Enhancing Large Audio-Language Models with Tool-Augmented Reasoning**|Kuan-Yi Lee (ntu.edu.tw) et.al.|[2510.11454](http://arxiv.org/abs/2510.11454)|null|
+|**2025-10-13**|**What Generative Search Engines Like and How to Optimize Web Content Cooperatively**|Yujiang Wu (cs.cmu.edu) et.al.|[2510.11438](http://arxiv.org/abs/2510.11438)|**[link](https://github.com/cxcscmu/AutoGEO)**|
+|**2025-10-13**|**Early Detection and Reduction of Memorisation for Domain Adaptation and Instruction Tuning**|Dean L. Slack (durham.ac.uk) et.al.|[2510.11372](http://arxiv.org/abs/2510.11372)|null|
+|**2025-10-13**|**When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models**|Samer Al-Hamadani (kecbu.uobaghdad.edu.iq) et.al.|[2510.11302](http://arxiv.org/abs/2510.11302)|null|
+|**2025-10-13**|**Beyond touch-based HMI: Control your machines in natural language by utilizing large language models and OPC UA**|Bernd Hofmann (faps.fau.de) et.al.|[2510.11300](http://arxiv.org/abs/2510.11300)|null|
+|**2025-10-13**|**WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent**|Tao Li et.al.|[2510.11221](http://arxiv.org/abs/2510.11221)|null|
+|**2025-10-13**|**Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM**|Rongjie Zhu (gmail.com) et.al.|[2510.11121](http://arxiv.org/abs/2510.11121)|null|
+|**2025-10-13**|**DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety**|Wei-Chieh Huang (uic.edu) et.al.|[2510.10994](http://arxiv.org/abs/2510.10994)|**[link](https://github.com/Jasonya/DeepResearchGuard)**|
+|**2025-10-13**|**Enhancing Large Language Model Reasoning via Selective Critical Token Fine-Tuning**|Zhiwen Ruan et.al.|[2510.10974](http://arxiv.org/abs/2510.10974)|null|
+|**2025-10-13**|**MC#: Mixture Compressor for Mixture-of-Experts Large Models**|Wei Huang (connect.hku.hk) et.al.|[2510.10962](http://arxiv.org/abs/2510.10962)|null|
+|**2025-10-12**|**DUAL-Bench: Measuring Over-Refusal and Robustness in Vision-Language Models**|Kaixuan Ren (mq.edu.au) et.al.|[2510.10846](http://arxiv.org/abs/2510.10846)|null|
+|**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|Mohanakrishnan Hariharan (apple.com) et.al.|[2510.10824](http://arxiv.org/abs/2510.10824)|null|
+|**2025-10-12**|**DRIFT: Decompose, Retrieve, Illustrate, then Formalize Theorems**|Meiru Zhang (cam.ac.uk) et.al.|[2510.10815](http://arxiv.org/abs/2510.10815)|null|
+|**2025-10-12**|**The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable High-Accuracy Authorship Attribution**|Norbert Tihanyi (tii.ae) et.al.|[2510.10493](http://arxiv.org/abs/2510.10493)|**[link](https://github.com/LLM-NodeJS-dataset)**|
+|**2025-10-11**|**ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test**|Guan-Yan Yang (ntu.edu.tw) et.al.|[2510.10281](http://arxiv.org/abs/2510.10281)|null|
+|**2025-10-11**|**Lost in the Middle: An Emergent Property from Information Retrieval Demands in LLMs**|Nikolaus Salvatore (rutgers.edu) et.al.|[2510.10276](http://arxiv.org/abs/2510.10276)|null|
+|**2025-10-11**|**Concise Reasoning in the Lens of Lagrangian Optimization**|Chengqian Gao (mbzuai.ac.ae) et.al.|[2510.10168](http://arxiv.org/abs/2510.10168)|null|
+|**2025-10-11**|**PermLLM: Learnable Channel Permutation for N:M Sparse Large Language Models**|Lancheng Zou et.al.|[2510.10136](http://arxiv.org/abs/2510.10136)|**[link](https://github.com/lanchengzou/PermLLM)**|
+|**2025-10-11**|**Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement Learning and Iterative Inference**|Hua Cai (unidt.com) et.al.|[2510.10072](http://arxiv.org/abs/2510.10072)|null|
+|**2025-10-11**|**Skill-Targeted Adaptive Training**|Yinghui He (princeton.edu) et.al.|[2510.10023](http://arxiv.org/abs/2510.10023)|**[link](https://github.com/princeton-pli/STAT)**|
+|**2025-10-11**|**Deliberative Dynamics and Value Alignment in LLM Debates**|Pratik S. Sachdeva (berkeley.edu) et.al.|[2510.10002](http://arxiv.org/abs/2510.10002)|null|
+|**2025-10-10**|**Enhancing Faithfulness in Abstractive Summarization via Span-Level Fine-Tuning**|Sicong Huang (ucsc.edu) et.al.|[2510.09915](http://arxiv.org/abs/2510.09915)|null|
+|**2025-10-10**|**Learning Bug Context for PyTorch-to-JAX Translation with LLMs**|Hung Phan (iastate.edu) et.al.|[2510.09898](http://arxiv.org/abs/2510.09898)|null|
 |**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|**[link](https://github.com/mit-han-lab/streaming-vlm)**|
 |**2025-10-10**|**LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?**|Kaijian Zou (umich.edu) et.al.|[2510.09595](http://arxiv.org/abs/2510.09595)|null|
 |**2025-10-10**|**Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model**|Gavriel Di Nepi (studenti.uniroma1.it) et.al.|[2510.09551](http://arxiv.org/abs/2510.09551)|null|
@@ -1882,7 +1934,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
