@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|Micah Carroll et.al.|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
+|**2025-10-14**|**Leveraging Language Semantics for Collaborative Filtering with TextGCN and TextGCN-MLP: Zero-Shot vs In-Domain Performance**|Andrei Chernov et.al.|[2510.12461](http://arxiv.org/abs/2510.12461)|**[link](https://github.com/ChernovAndrey/TFCE)**|
+|**2025-10-14**|**Causal Inspired Multi Modal Recommendation**|Jie Yang (qq.com) et.al.|[2510.12325](http://arxiv.org/abs/2510.12325)|null|
+|**2025-10-14**|**Reinforced Preference Optimization for Recommendation**|Junfei Tan (taobao.com) et.al.|[2510.12211](http://arxiv.org/abs/2510.12211)|null|
+|**2025-10-13**|**Asking Clarifying Questions for Preference Elicitation With Large Language Models**|Ali Montazeralghaem (google.com) et.al.|[2510.12015](http://arxiv.org/abs/2510.12015)|null|
+|**2025-10-13**|**Improving Knowledge Graph Embeddings through Contrastive Learning with Negative Statements**|Rita T. Sousa (uni-mannheim.de) et.al.|[2510.11868](http://arxiv.org/abs/2510.11868)|null|
+|**2025-10-13**|**Combining Euclidean and Hyperbolic Representations for Node-level Anomaly Detection**|Simone Mungari (unical.it) et.al.|[2510.11827](http://arxiv.org/abs/2510.11827)|null|
 |**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
 |**2025-10-13**|**Differentiable Fast Top-K Selection for Large-Scale Recommendation**|Yanjie Zhu (stu.xjtu.edu.cn) et.al.|[2510.11472](http://arxiv.org/abs/2510.11472)|null|
 |**2025-10-13**|**On Inherited Popularity Bias in Cold-Start Item Recommendation**|Gregor Meehan (qmul.ac.uk) et.al.|[2510.11402](http://arxiv.org/abs/2510.11402)|null|
@@ -548,6 +555,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|Micah Carroll et.al.|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
+|**2025-10-14**|**Leveraging Language Semantics for Collaborative Filtering with TextGCN and TextGCN-MLP: Zero-Shot vs In-Domain Performance**|Andrei Chernov et.al.|[2510.12461](http://arxiv.org/abs/2510.12461)|**[link](https://github.com/ChernovAndrey/TFCE)**|
+|**2025-10-14**|**Reinforced Preference Optimization for Recommendation**|Junfei Tan (taobao.com) et.al.|[2510.12211](http://arxiv.org/abs/2510.12211)|null|
+|**2025-10-13**|**Asking Clarifying Questions for Preference Elicitation With Large Language Models**|Ali Montazeralghaem (google.com) et.al.|[2510.12015](http://arxiv.org/abs/2510.12015)|null|
 |**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
 |**2025-10-13**|**Next Interest Flow: A Generative Pre-training Paradigm for Recommender Systems by Modeling All-domain Movelines**|Chen Gao (taobao.com) et.al.|[2510.11317](http://arxiv.org/abs/2510.11317)|null|
 |**2025-10-13**|**From Reasoning LLMs to BERT: A Two-Stage Distillation Framework for Search Relevance**|Runze Xia (nuaa.edu.cn) et.al.|[2510.11056](http://arxiv.org/abs/2510.11056)|null|
@@ -805,12 +816,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|Ziyang Ma et.al.|[2510.12720](http://arxiv.org/abs/2510.12720)|**[link](https://github.com/ddlBoJack/Omni-Captioner)**|
+|**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|Xingang Guo et.al.|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
+|**2025-10-14**|**ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning**|Hanyang Chen (illinois.edu) et.al.|[2510.12693](http://arxiv.org/abs/2510.12693)|null|
+|**2025-10-14**|**COSTAR-A: A prompting framework for enhancing Large Language Model performance on Point-of-View questions**|Nzubechukwu C. Ohalete (kennesaw.edu) et.al.|[2510.12637](http://arxiv.org/abs/2510.12637)|null|
+|**2025-10-14**|**Evaluating and Mitigating LLM-as-a-judge Bias in Communication Systems**|Jiaxin Gao (whu.edu.cn) et.al.|[2510.12462](http://arxiv.org/abs/2510.12462)|null|
+|**2025-10-14**|**A large-scale, unsupervised pipeline for automatic corpus annotation using LLMs: variation and change in the English consider construction**|Cameron Morin et.al.|[2510.12306](http://arxiv.org/abs/2510.12306)|null|
+|**2025-10-14**|**Shallow Robustness, Deep Vulnerabilities: Multi-Turn Evaluation of Medical LLMs**|Blazej Manczak (dynamo.ai) et.al.|[2510.12255](http://arxiv.org/abs/2510.12255)|**[link](https://github.com/bmanczak/MedQA-MultiTurnRobustness)**|
+|**2025-10-14**|**DSAS: A Universal Plug-and-Play Framework for Attention Optimization in Multi-Document Question Answering**|Jiakai Li (std.uestc.edu.cn) et.al.|[2510.12251](http://arxiv.org/abs/2510.12251)|null|
+|**2025-10-14**|**Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey**|Abdulhady Abas Abdullah (gmail.com) et.al.|[2510.12178](http://arxiv.org/abs/2510.12178)|null|
+|**2025-10-14**|**Locket: Robust Feature-Locking Technique for Language Models**|Lipeng He (uwaterloo.ca) et.al.|[2510.12117](http://arxiv.org/abs/2510.12117)|null|
+|**2025-10-14**|**An AI-Based Behavioral Health Safety Filter and Dataset for Identifying Mental Health Crises in Text-Based Conversations**|Benjamin W. Nelson (verily.com) et.al.|[2510.12083](http://arxiv.org/abs/2510.12083)|null|
+|**2025-10-14**|**EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making**|Zixing Lei et.al.|[2510.12072](http://arxiv.org/abs/2510.12072)|null|
+|**2025-10-13**|**Conjecturing: An Overlooked Step in Formal Mathematical Reasoning**|Jasivan Alex Sivakumar (sheffield.ac.uk) et.al.|[2510.11986](http://arxiv.org/abs/2510.11986)|null|
+|**2025-10-13**|**TopoAlign: A Framework for Aligning Code to Math via Topological Decomposition**|Yupei Li (imperial.ac.uk) et.al.|[2510.11944](http://arxiv.org/abs/2510.11944)|null|
+|**2025-10-13**|**Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection**|Saroj Basnet et.al.|[2510.11852](http://arxiv.org/abs/2510.11852)|**[link](https://icdmw25mmai.github.io/)**|
+|**2025-10-13**|**PHANTOM RECALL: When Familiar Puzzles Fool Smart Models**|Souradeep Mukhopadhyay (asu.edu) et.al.|[2510.11812](http://arxiv.org/abs/2510.11812)|null|
 |**2025-10-13**|**When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents**|Lingfei Qian (acm.org) et.al.|[2510.11695](http://arxiv.org/abs/2510.11695)|null|
 |**2025-10-13**|**MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model**|Prasanna Mayilvahanan (uni-tuebingen.de) et.al.|[2510.11653](http://arxiv.org/abs/2510.11653)|null|
 |**2025-10-13**|**EvoCAD: Evolutionary CAD Code Generation with Vision Language Models**|Tobias Preintner et.al.|[2510.11631](http://arxiv.org/abs/2510.11631)|null|
 |**2025-10-13**|**Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation**|Siheng Xiong (gatech.edu) et.al.|[2510.11620](http://arxiv.org/abs/2510.11620)|null|
 |**2025-10-13**|**Characterizing Web Search in The Age of Generative AI**|Elisabeth Kirsten (rub.de) et.al.|[2510.11560](http://arxiv.org/abs/2510.11560)|null|
-|**2025-10-13**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
+|**2025-10-14**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
 |**2025-10-13**|**How Reinforcement Learning After Next-Token Prediction Facilitates Learning**|Nikolaos Tsilivis (nyu.edu) et.al.|[2510.11495](http://arxiv.org/abs/2510.11495)|null|
 |**2025-10-13**|**Audio-Maestro: Enhancing Large Audio-Language Models with Tool-Augmented Reasoning**|Kuan-Yi Lee (ntu.edu.tw) et.al.|[2510.11454](http://arxiv.org/abs/2510.11454)|null|
 |**2025-10-13**|**What Generative Search Engines Like and How to Optimize Web Content Cooperatively**|Yujiang Wu (cs.cmu.edu) et.al.|[2510.11438](http://arxiv.org/abs/2510.11438)|**[link](https://github.com/cxcscmu/AutoGEO)**|
