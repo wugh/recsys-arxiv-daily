@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|Jingyi Zhou (acm.org) et.al.|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
+|**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park (hanyang.ac.kr) et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|null|
+|**2025-10-15**|**Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models**|Yuki Yada (mercari.com) et.al.|[2510.13359](http://arxiv.org/abs/2510.13359)|null|
+|**2025-10-15**|**Kernel Representation and Similarity Measure for Incomplete Data**|Yang Cao (ieee.org) et.al.|[2510.13352](http://arxiv.org/abs/2510.13352)|null|
+|**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu (amazon.com) et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|null|
+|**2025-10-15**|**Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation**|Yi Zhang (uq.edu.au) et.al.|[2510.13229](http://arxiv.org/abs/2510.13229)|**[link](https://github.com/ArronDZhang/IL-Rec)**|
+|**2025-10-14**|**Three Lenses on the AI Revolution: Risk, Transformation, Continuity**|Masoud Makrehchi (ontariotechu.ca) et.al.|[2510.12859](http://arxiv.org/abs/2510.12859)|null|
 |**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|Micah Carroll et.al.|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
 |**2025-10-14**|**Leveraging Language Semantics for Collaborative Filtering with TextGCN and TextGCN-MLP: Zero-Shot vs In-Domain Performance**|Andrei Chernov et.al.|[2510.12461](http://arxiv.org/abs/2510.12461)|**[link](https://github.com/ChernovAndrey/TFCE)**|
 |**2025-10-14**|**Causal Inspired Multi Modal Recommendation**|Jie Yang (qq.com) et.al.|[2510.12325](http://arxiv.org/abs/2510.12325)|null|
@@ -555,6 +562,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|Jingyi Zhou (acm.org) et.al.|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
+|**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park (hanyang.ac.kr) et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|null|
+|**2025-10-15**|**Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models**|Yuki Yada (mercari.com) et.al.|[2510.13359](http://arxiv.org/abs/2510.13359)|null|
+|**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu (amazon.com) et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|null|
+|**2025-10-15**|**Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation**|Yi Zhang (uq.edu.au) et.al.|[2510.13229](http://arxiv.org/abs/2510.13229)|**[link](https://github.com/ArronDZhang/IL-Rec)**|
 |**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|Micah Carroll et.al.|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
 |**2025-10-14**|**Leveraging Language Semantics for Collaborative Filtering with TextGCN and TextGCN-MLP: Zero-Shot vs In-Domain Performance**|Andrei Chernov et.al.|[2510.12461](http://arxiv.org/abs/2510.12461)|**[link](https://github.com/ChernovAndrey/TFCE)**|
 |**2025-10-14**|**Reinforced Preference Optimization for Recommendation**|Junfei Tan (taobao.com) et.al.|[2510.12211](http://arxiv.org/abs/2510.12211)|null|
@@ -816,6 +828,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Confidence-Based Response Abstinence: Improving LLM Trustworthiness via Activation-Based Uncertainty Estimation**|Zhiqi Huang (capitalone.com) et.al.|[2510.13750](http://arxiv.org/abs/2510.13750)|null|
+|**2025-10-15**|**FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access**|Aditya Tanikanti et.al.|[2510.13724](http://arxiv.org/abs/2510.13724)|null|
+|**2025-10-15**|**Don't Be Greedy, Just Relax! Pruning LLMs via Frank-Wolfe**|Christophe Roux (zib.de) et.al.|[2510.13713](http://arxiv.org/abs/2510.13713)|null|
+|**2025-10-15**|**Unlocking Public Catalogues: Instruction-Tuning LLMs for ICD Coding of German Tumor Diagnoses**|Stefan Lenz (uni-mainz.de) et.al.|[2510.13624](http://arxiv.org/abs/2510.13624)|null|
+|**2025-10-15**|**Sparse Subnetwork Enhancement for Underrepresented Languages in Large Language Models**|Daniil Gurgurov (dfki.de) et.al.|[2510.13580](http://arxiv.org/abs/2510.13580)|null|
+|**2025-10-15**|**Hierarchical Frequency Tagging Probe (HFTP): A Unified Approach to Investigate Syntactic Structure Representations in Large Language Models and the Human Brain**|Jingmin An (stu.pku.edu.cn) et.al.|[2510.13255](http://arxiv.org/abs/2510.13255)|**[link](https://github.com/LilTiger/HFTP)**|
+|**2025-10-15**|**Addressing the alignment problem in transportation policy making: an LLM approach**|Xiaoyu Yan et.al.|[2510.13139](http://arxiv.org/abs/2510.13139)|null|
+|**2025-10-14**|**From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model**|Boyou Chen (umich.edu) et.al.|[2510.13002](http://arxiv.org/abs/2510.13002)|null|
+|**2025-10-14**|**Max It or Miss It: Benchmarking LLM On Solving Extremal Problems**|Binxin Gao (umd.edu) et.al.|[2510.12997](http://arxiv.org/abs/2510.12997)|null|
+|**2025-10-14**|**Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models**|Tsung-En Lin et.al.|[2510.12851](http://arxiv.org/abs/2510.12851)|null|
+|**2025-10-14**|**VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages**|Jesse Atuhurra (naist.ac.jp) et.al.|[2510.12845](http://arxiv.org/abs/2510.12845)|null|
 |**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|Ziyang Ma et.al.|[2510.12720](http://arxiv.org/abs/2510.12720)|**[link](https://github.com/ddlBoJack/Omni-Captioner)**|
 |**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|Xingang Guo et.al.|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
 |**2025-10-14**|**ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning**|Hanyang Chen (illinois.edu) et.al.|[2510.12693](http://arxiv.org/abs/2510.12693)|null|
