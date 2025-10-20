@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.18
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens**|Chao Wang (ustc.edu.cn) et.al.|[2510.15729](http://arxiv.org/abs/2510.15729)|**[link](https://github.com/YixinRoll/FACE)**|
+|**2025-10-17**|**Enhance Large Language Models as Recommendation Systems with Collaborative Filtering**|Zhisheng Yang (email.swu.edu.cn) et.al.|[2510.15647](http://arxiv.org/abs/2510.15647)|null|
+|**2025-10-17**|**Large-scale User Game Lifecycle Representation Learning**|Yanjie Gou (tencent.com) et.al.|[2510.15412](http://arxiv.org/abs/2510.15412)|null|
+|**2025-10-17**|**Dimension Mask Layer: Optimizing Embedding Efficiency for Scalable ID-based Models**|Srijan Saket (gmail.com) et.al.|[2510.15308](http://arxiv.org/abs/2510.15308)|null|
+|**2025-10-17**|**GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework**|Yijia Sun (kuaishou.com) et.al.|[2510.15299](http://arxiv.org/abs/2510.15299)|null|
+|**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|Xianyang Qi (meituan.com) et.al.|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
+|**2025-10-17**|**HOB: A Holistically Optimized Bidding Strategy under Heterogeneous Auction Mechanisms with Organic Traffic**|Qi Li (alibaba-inc.com) et.al.|[2510.15238](http://arxiv.org/abs/2510.15238)|null|
 |**2025-10-16**|**Secure Sparse Matrix Multiplications and their Applications to Privacy-Preserving Machine Learning**|Marc Damie (utwente.nl) et.al.|[2510.14894](http://arxiv.org/abs/2510.14894)|null|
 |**2025-10-16**|**A Simulation Framework for Studying Systemic Effects of Feedback Loops in Recommender Systems**|Gabriele Barlacchi (sns.it) et.al.|[2510.14857](http://arxiv.org/abs/2510.14857)|null|
 |**2025-10-16**|**Cross-Scenario Unified Modeling of User Interests at Billion Scale**|Manjie Xu et.al.|[2510.14788](http://arxiv.org/abs/2510.14788)|null|
@@ -571,6 +578,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens**|Chao Wang (ustc.edu.cn) et.al.|[2510.15729](http://arxiv.org/abs/2510.15729)|**[link](https://github.com/YixinRoll/FACE)**|
+|**2025-10-17**|**Enhance Large Language Models as Recommendation Systems with Collaborative Filtering**|Zhisheng Yang (email.swu.edu.cn) et.al.|[2510.15647](http://arxiv.org/abs/2510.15647)|null|
 |**2025-10-16**|**Cross-Scenario Unified Modeling of User Interests at Billion Scale**|Manjie Xu et.al.|[2510.14788](http://arxiv.org/abs/2510.14788)|null|
 |**2025-10-16**|**Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**|Penglong Zhai (alibaba-inc.com) et.al.|[2510.14702](http://arxiv.org/abs/2510.14702)|null|
 |**2025-10-16**|**MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs**|Jiani Huang (gmail.com) et.al.|[2510.14629](http://arxiv.org/abs/2510.14629)|null|
@@ -843,6 +852,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Self-evolving expertise in complex non-verifiable subject domains: dialogue as implicit meta-RL**|Richard M. Bailey (ouce.ox.ac.uk) et.al.|[2510.15772](http://arxiv.org/abs/2510.15772)|null|
+|**2025-10-17**|**Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework**|Dr Simon Thorne (cardiffmet.ac.uk) et.al.|[2510.15585](http://arxiv.org/abs/2510.15585)|null|
+|**2025-10-17**|**Finetuning LLMs for EvaCun 2025 token prediction shared task**|Josef Jon (ufal.mff.cuni.cz) et.al.|[2510.15561](http://arxiv.org/abs/2510.15561)|null|
+|**2025-10-17**|**Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning**|Lina Berrayana (microsoft.com) et.al.|[2510.15244](http://arxiv.org/abs/2510.15244)|null|
+|**2025-10-17**|**FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in Finance Domain**|Tiansheng Hu (yale.edu) et.al.|[2510.15232](http://arxiv.org/abs/2510.15232)|null|
+|**2025-10-17**|**Soundness-Aware Level: A Microscopic Signature that Predicts LLM Reasoning Potential**|Xuansheng Wu (uga.edu) et.al.|[2510.15216](http://arxiv.org/abs/2510.15216)|null|
+|**2025-10-17**|**ReasonIF: Large Reasoning Models Fail to Follow Instructions During Reasoning**|Yongchan Kwon (stanford.edu) et.al.|[2510.15211](http://arxiv.org/abs/2510.15211)|null|
+|**2025-10-16**|**MAGPIE: A benchmark for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja (ucsb.edu) et.al.|[2510.15186](http://arxiv.org/abs/2510.15186)|null|
+|**2025-10-16**|**XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models**|Xingrui Wang et.al.|[2510.15148](http://arxiv.org/abs/2510.15148)|**[link](https://xingruiwang.github.io/projects/XModBench/)**|
+|**2025-10-16**|**Measuring the Effect of Disfluency in Multilingual Knowledge Probing Benchmarks**|Kirill Semenov (uzh.ch) et.al.|[2510.15115](http://arxiv.org/abs/2510.15115)|**[link](https://github.com/ZurichNLP/Fluent-mLAMA)**|
+|**2025-10-16**|**DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning**|Shih-Yang Liu et.al.|[2510.15110](http://arxiv.org/abs/2510.15110)|null|
+|**2025-10-16**|**Active Honeypot Guardrail System: Probing and Confirming Multi-Turn LLM Jailbreaks**|ChenYu Wu (gmail.com) et.al.|[2510.15017](http://arxiv.org/abs/2510.15017)|null|
+|**2025-10-16**|**Rethinking Toxicity Evaluation in Large Language Models: A Multi-Label Perspective**|Zhiqiang Kou et.al.|[2510.15007](http://arxiv.org/abs/2510.15007)|null|
 |**2025-10-16**|**Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores**|Zachary Robertson (stanford.edu) et.al.|[2510.14966](http://arxiv.org/abs/2510.14966)|null|
 |**2025-10-16**|**Mapping Smarter, Not Harder: A Test-Time Reinforcement Learning Agent That Improves Without Labels or Model Updates**|Wen-Kwang Tsao (trendmicro.com) et.al.|[2510.14900](http://arxiv.org/abs/2510.14900)|null|
 |**2025-10-16**|**RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning**|Jinrui Liu (ia.ac.cn) et.al.|[2510.14828](http://arxiv.org/abs/2510.14828)|null|
@@ -854,7 +876,7 @@ layout: default
 |**2025-10-16**|**Large Scale Retrieval for the LinkedIn Feed using Causal Language Models**|Sudarshan Srinivasa Ramanujam (linkedin.com) et.al.|[2510.14223](http://arxiv.org/abs/2510.14223)|null|
 |**2025-10-16**|**Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks**|Trilok Padhi (student.gsu.edu) et.al.|[2510.14207](http://arxiv.org/abs/2510.14207)|null|
 |**2025-10-16**|**RLSR: Reinforcement Learning with Supervised Reward Outperforms SFT in Instruction Following**|Zhichao Wang (gmail.com) et.al.|[2510.14200](http://arxiv.org/abs/2510.14200)|null|
-|**2025-10-16**|**JEDA: Query-Free Clinical Order Search from Ambient Dialogues**|Praphul Singh (oracle.com) et.al.|[2510.14169](http://arxiv.org/abs/2510.14169)|null|
+|**2025-10-17**|**JEDA: Query-Free Clinical Order Search from Ambient Dialogues**|Praphul Singh (oracle.com) et.al.|[2510.14169](http://arxiv.org/abs/2510.14169)|null|
 |**2025-10-15**|**FinAI Data Assistant: LLM-based Financial Database Query Processing with the OpenAI Function Calling API**|Juhyeong Kim (miraeasset.com) et.al.|[2510.14162](http://arxiv.org/abs/2510.14162)|null|
 |**2025-10-15**|**CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization**|Henrique Assumpção (inter.co) et.al.|[2510.14150](http://arxiv.org/abs/2510.14150)|null|
 |**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind (clemson.edu) et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
