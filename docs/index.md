@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems**|Fengyuan Yu (zju.edu.cn) et.al.|[2510.20327](http://arxiv.org/abs/2510.20327)|**[link](https://github.com/anonymifish/lego-rec-multiple-attribute-unlearning)**|
+|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng (gmail.com) et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
+|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu (virginia.edu) et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|**[link](https://github.com/yaochenzhu/Rank-GRPO)**|
+|**2025-10-22**|**Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards**|Yuwei Cheng (uchicago.edu) et.al.|[2510.20055](http://arxiv.org/abs/2510.20055)|null|
+|**2025-10-22**|**Optimized Distortion in Linear Social Choice**|Luise Ge et.al.|[2510.20020](http://arxiv.org/abs/2510.20020)|null|
 |**2025-10-22**|**Policy Learning with Abstention**|Ayush Sawarni (stanford.edu) et.al.|[2510.19672](http://arxiv.org/abs/2510.19672)|null|
 |**2025-10-22**|**Explainable e-sports win prediction through Machine Learning classification in streaming**|Silvia García-Méndez (gti.uvigo.es) et.al.|[2510.19671](http://arxiv.org/abs/2510.19671)|null|
 |**2025-10-22**|**Autobidding Arena: unified evaluation of the classical and RL-based autobidding algorithms**|Andrey Pudovikov (iai.msu.ru) et.al.|[2510.19357](http://arxiv.org/abs/2510.19357)|null|
@@ -595,6 +600,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng (gmail.com) et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
+|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu (virginia.edu) et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|**[link](https://github.com/yaochenzhu/Rank-GRPO)**|
+|**2025-10-22**|**Optimized Distortion in Linear Social Choice**|Luise Ge et.al.|[2510.20020](http://arxiv.org/abs/2510.20020)|null|
 |**2025-10-21**|**Search Self-play: Pushing the Frontier of Agent Capability without Supervision**|Hongliang Lu et.al.|[2510.18821](http://arxiv.org/abs/2510.18821)|**[link](https://github.com/Alibaba-Quark/SSP)**|
 |**2025-10-21**|**Evaluating LLM-Based Mobile App Recommendations: An Empirical Study**|Quim Motger (upc.edu) et.al.|[2510.18364](http://arxiv.org/abs/2510.18364)|null|
 |**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|Zhengqing Yuan (nd.edu) et.al.|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
@@ -878,6 +886,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations**|Lorenzo Stacchio (unimc.it) et.al.|[2510.20743](http://arxiv.org/abs/2510.20743)|null|
+|**2025-10-23**|**Fusing Narrative Semantics for Financial Volatility Forecasting**|Yaxuan Kong (eng.ox.ac.uk) et.al.|[2510.20699](http://arxiv.org/abs/2510.20699)|null|
+|**2025-10-23**|**Finding the Sweet Spot: Trading Quality, Cost, and Speed During Inference-Time LLM Reflection**|Jack Butler (amazon.co.uk) et.al.|[2510.20653](http://arxiv.org/abs/2510.20653)|**[link](https://github.com/aws-samples/sample-genai-reflection-for-bedrock)**|
+|**2025-10-23**|**ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature**|Aritra Roy (lsbu.ac.uk) et.al.|[2510.20362](http://arxiv.org/abs/2510.20362)|null|
+|**2025-10-23**|**Teaching Language Models to Reason with Tools**|Chengpeng Li (mail.ustc.edu.cn) et.al.|[2510.20342](http://arxiv.org/abs/2510.20342)|**[link](https://github.com/ChengpengLi1003/CoRT)**|
+|**2025-10-23**|**ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows**|Penghao Wang et.al.|[2510.20279](http://arxiv.org/abs/2510.20279)|null|
+|**2025-10-23**|**Using Large Language Models for Abstraction of Planning Domains - Extended Version**|Bita Banihashemi (igdore.org) et.al.|[2510.20258](http://arxiv.org/abs/2510.20258)|null|
+|**2025-10-23**|**TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning**|Morris Yu-Chao Huang (cs.unc.edu) et.al.|[2510.20188](http://arxiv.org/abs/2510.20188)|null|
+|**2025-10-23**|**Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**|Yuhang Zhou (meta.com) et.al.|[2510.20176](http://arxiv.org/abs/2510.20176)|null|
+|**2025-10-22**|**Learning from Supervision with Semantic and Episodic Memory: A Reflective Approach to Agent Adaptation**|Jackson Hassell (megagon.ai) et.al.|[2510.19897](http://arxiv.org/abs/2510.19897)|null|
+|**2025-10-22**|**Large Language Model enabled Mathematical Modeling**|Guoyun Zhang et.al.|[2510.19895](http://arxiv.org/abs/2510.19895)|null|
+|**2025-10-22**|**From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph**|Junfeng Gong (ict.ac.cn) et.al.|[2510.19873](http://arxiv.org/abs/2510.19873)|null|
+|**2025-10-22**|**An Evaluation of the Pedagogical Soundness and Usability of AI-Generated Lesson Plans Across Different Models and Prompt Frameworks in High-School Physics**|Xincheng Liu (gmail.com) et.al.|[2510.19866](http://arxiv.org/abs/2510.19866)|null|
+|**2025-10-22**|**SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations**|Amila Indika (hawaii.edu) et.al.|[2510.19864](http://arxiv.org/abs/2510.19864)|null|
 |**2025-10-22**|**On Controlled Change: Generative AI's Impact on Professional Authority in Journalism**|Tomás Dodds et.al.|[2510.19792](http://arxiv.org/abs/2510.19792)|null|
 |**2025-10-22**|**Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents**|Gil Pasternak et.al.|[2510.19771](http://arxiv.org/abs/2510.19771)|null|
 |**2025-10-22**|**ELUTQ: Efficient LUT-Aware Quantization for Deploying Large Language Models on Edge Devices**|Xin Nie (nankai.edu.cn) et.al.|[2510.19482](http://arxiv.org/abs/2510.19482)|null|
