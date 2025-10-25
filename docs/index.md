@@ -2,33 +2,33 @@
 layout: default
 ---
 
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems**|Fengyuan Yu (zju.edu.cn) et.al.|[2510.20327](http://arxiv.org/abs/2510.20327)|**[link](https://github.com/anonymifish/lego-rec-multiple-attribute-unlearning)**|
-|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng (gmail.com) et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
-|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu (virginia.edu) et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|**[link](https://github.com/yaochenzhu/Rank-GRPO)**|
-|**2025-10-22**|**Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards**|Yuwei Cheng (uchicago.edu) et.al.|[2510.20055](http://arxiv.org/abs/2510.20055)|null|
+|**2025-10-23**|**LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems**|Fengyuan Yu et.al.|[2510.20327](http://arxiv.org/abs/2510.20327)|null|
+|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
+|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|null|
+|**2025-10-22**|**Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards**|Yuwei Cheng et.al.|[2510.20055](http://arxiv.org/abs/2510.20055)|null|
 |**2025-10-22**|**Optimized Distortion in Linear Social Choice**|Luise Ge et.al.|[2510.20020](http://arxiv.org/abs/2510.20020)|null|
-|**2025-10-22**|**Policy Learning with Abstention**|Ayush Sawarni (stanford.edu) et.al.|[2510.19672](http://arxiv.org/abs/2510.19672)|null|
-|**2025-10-22**|**Explainable e-sports win prediction through Machine Learning classification in streaming**|Silvia García-Méndez (gti.uvigo.es) et.al.|[2510.19671](http://arxiv.org/abs/2510.19671)|null|
-|**2025-10-22**|**Autobidding Arena: unified evaluation of the classical and RL-based autobidding algorithms**|Andrey Pudovikov (iai.msu.ru) et.al.|[2510.19357](http://arxiv.org/abs/2510.19357)|null|
-|**2025-10-22**|**Scalable LinUCB: Low-Rank Design Matrix Updates for Recommenders with Large Action Spaces**|Evgenia Shustova (hse.ru) et.al.|[2510.19349](http://arxiv.org/abs/2510.19349)|null|
-|**2025-10-21**|**Search Self-play: Pushing the Frontier of Agent Capability without Supervision**|Hongliang Lu et.al.|[2510.18821](http://arxiv.org/abs/2510.18821)|**[link](https://github.com/Alibaba-Quark/SSP)**|
-|**2025-10-21**|**Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs**|Yuya Sasaki (ist.osaka-u.ac.jp) et.al.|[2510.18473](http://arxiv.org/abs/2510.18473)|null|
-|**2025-10-21**|**Evaluating LLM-Based Mobile App Recommendations: An Empirical Study**|Quim Motger (upc.edu) et.al.|[2510.18364](http://arxiv.org/abs/2510.18364)|null|
-|**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|Zhengqing Yuan (nd.edu) et.al.|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
-|**2025-10-21**|**Enhancing Hotel Recommendations with AI: LLM-Based Review Summarization and Query-Driven Insights**|Nikolaos Belibasakis (ceid.upatras.gr) et.al.|[2510.18277](http://arxiv.org/abs/2510.18277)|null|
-|**2025-10-21**|**LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling**|Yunjiang Jiang (meta.com) et.al.|[2510.18239](http://arxiv.org/abs/2510.18239)|null|
-|**2025-10-20**|**From AutoRecSys to AutoRecLab: A Call to Build, Evaluate, and Govern Autonomous Recommender-Systems Research Labs**|Joeran Beel (uni-siegen.de) et.al.|[2510.18104](http://arxiv.org/abs/2510.18104)|null|
-|**2025-10-18**|**Graphical model for tensor factorization by sparse sampling**|Angelo Giorgio Cavaliere (osaka-u.ac.jp) et.al.|[2510.17886](http://arxiv.org/abs/2510.17886)|null|
+|**2025-10-22**|**Policy Learning with Abstention**|Ayush Sawarni et.al.|[2510.19672](http://arxiv.org/abs/2510.19672)|null|
+|**2025-10-22**|**Explainable e-sports win prediction through Machine Learning classification in streaming**|Silvia García-Méndez et.al.|[2510.19671](http://arxiv.org/abs/2510.19671)|null|
+|**2025-10-22**|**Autobidding Arena: unified evaluation of the classical and RL-based autobidding algorithms**|Andrey Pudovikov et.al.|[2510.19357](http://arxiv.org/abs/2510.19357)|null|
+|**2025-10-22**|**Scalable LinUCB: Low-Rank Design Matrix Updates for Recommenders with Large Action Spaces**|Evgenia Shustova et.al.|[2510.19349](http://arxiv.org/abs/2510.19349)|null|
+|**2025-10-21**|**Search Self-play: Pushing the Frontier of Agent Capability without Supervision**|Hongliang Lu et.al.|[2510.18821](http://arxiv.org/abs/2510.18821)|null|
+|**2025-10-21**|**Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs**|Yuya Sasaki et.al.|[2510.18473](http://arxiv.org/abs/2510.18473)|null|
+|**2025-10-21**|**Evaluating LLM-Based Mobile App Recommendations: An Empirical Study**|Quim Motger et.al.|[2510.18364](http://arxiv.org/abs/2510.18364)|null|
+|**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|Zhengqing Yuan et.al.|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
+|**2025-10-21**|**Enhancing Hotel Recommendations with AI: LLM-Based Review Summarization and Query-Driven Insights**|Nikolaos Belibasakis et.al.|[2510.18277](http://arxiv.org/abs/2510.18277)|null|
+|**2025-10-21**|**LIME: Link-based user-item Interaction Modeling with decoupled xor attention for Efficient test time scaling**|Yunjiang Jiang et.al.|[2510.18239](http://arxiv.org/abs/2510.18239)|null|
+|**2025-10-20**|**From AutoRecSys to AutoRecLab: A Call to Build, Evaluate, and Govern Autonomous Recommender-Systems Research Labs**|Joeran Beel et.al.|[2510.18104](http://arxiv.org/abs/2510.18104)|null|
+|**2025-10-18**|**Graphical model for tensor factorization by sparse sampling**|Angelo Giorgio Cavaliere et.al.|[2510.17886](http://arxiv.org/abs/2510.17886)|null|
 |**2025-10-20**|**Visibility Allocation Systems: How Algorithmic Design Shapes Online Visibility and Societal Outcomes**|Stefania Ionescu et.al.|[2510.17241](http://arxiv.org/abs/2510.17241)|null|
-|**2025-10-19**|**An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision**|Zishuai Zhang (buaa.edu.cn) et.al.|[2510.16803](http://arxiv.org/abs/2510.16803)|null|
-|**2025-10-18**|**RAVEN: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2510.16455](http://arxiv.org/abs/2510.16455)|null|
+|**2025-10-19**|**An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision**|Zishuai Zhang et.al.|[2510.16803](http://arxiv.org/abs/2510.16803)|null|
+|**2025-10-18**|**RAVEN: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning**|Deyi Ji et.al.|[2510.16455](http://arxiv.org/abs/2510.16455)|null|
 |**2025-10-22**|**The Right to Be Remembered: Preserving Maximally Truthful Digital Memory in the Age of AI**|Alex Zhavoronkov (insilico.cm) et.al.|[2510.16206](http://arxiv.org/abs/2510.16206)|null|
 |**2025-10-17**|**BPL: Bias-adaptive Preference Distillation Learning for Recommender System**|SeongKu Kang (korea.ac.kr) et.al.|[2510.16076](http://arxiv.org/abs/2510.16076)|**[link](https://github.com/SeongKu-Kang/BPL)**|
 |**2025-10-17**|**FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens**|Chao Wang (ustc.edu.cn) et.al.|[2510.15729](http://arxiv.org/abs/2510.15729)|**[link](https://github.com/YixinRoll/FACE)**|
@@ -600,28 +600,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng (gmail.com) et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
-|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu (virginia.edu) et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|**[link](https://github.com/yaochenzhu/Rank-GRPO)**|
+|**2025-10-23**|**Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates**|Changping Meng et.al.|[2510.20260](http://arxiv.org/abs/2510.20260)|null|
+|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|null|
 |**2025-10-22**|**Optimized Distortion in Linear Social Choice**|Luise Ge et.al.|[2510.20020](http://arxiv.org/abs/2510.20020)|null|
-|**2025-10-21**|**Search Self-play: Pushing the Frontier of Agent Capability without Supervision**|Hongliang Lu et.al.|[2510.18821](http://arxiv.org/abs/2510.18821)|**[link](https://github.com/Alibaba-Quark/SSP)**|
-|**2025-10-21**|**Evaluating LLM-Based Mobile App Recommendations: An Empirical Study**|Quim Motger (upc.edu) et.al.|[2510.18364](http://arxiv.org/abs/2510.18364)|null|
-|**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|Zhengqing Yuan (nd.edu) et.al.|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
-|**2025-10-21**|**Enhancing Hotel Recommendations with AI: LLM-Based Review Summarization and Query-Driven Insights**|Nikolaos Belibasakis (ceid.upatras.gr) et.al.|[2510.18277](http://arxiv.org/abs/2510.18277)|null|
-|**2025-10-20**|**From AutoRecSys to AutoRecLab: A Call to Build, Evaluate, and Govern Autonomous Recommender-Systems Research Labs**|Joeran Beel (uni-siegen.de) et.al.|[2510.18104](http://arxiv.org/abs/2510.18104)|null|
-|**2025-10-19**|**An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision**|Zishuai Zhang (buaa.edu.cn) et.al.|[2510.16803](http://arxiv.org/abs/2510.16803)|null|
-|**2025-10-18**|**RAVEN: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2510.16455](http://arxiv.org/abs/2510.16455)|null|
-|**2025-10-22**|**The Right to Be Remembered: Preserving Maximally Truthful Digital Memory in the Age of AI**|Alex Zhavoronkov (insilico.cm) et.al.|[2510.16206](http://arxiv.org/abs/2510.16206)|null|
+|**2025-10-21**|**Search Self-play: Pushing the Frontier of Agent Capability without Supervision**|Hongliang Lu et.al.|[2510.18821](http://arxiv.org/abs/2510.18821)|null|
+|**2025-10-21**|**Evaluating LLM-Based Mobile App Recommendations: An Empirical Study**|Quim Motger et.al.|[2510.18364](http://arxiv.org/abs/2510.18364)|null|
+|**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|Zhengqing Yuan et.al.|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
+|**2025-10-21**|**Enhancing Hotel Recommendations with AI: LLM-Based Review Summarization and Query-Driven Insights**|Nikolaos Belibasakis et.al.|[2510.18277](http://arxiv.org/abs/2510.18277)|null|
+|**2025-10-20**|**From AutoRecSys to AutoRecLab: A Call to Build, Evaluate, and Govern Autonomous Recommender-Systems Research Labs**|Joeran Beel et.al.|[2510.18104](http://arxiv.org/abs/2510.18104)|null|
+|**2025-10-19**|**An Efficient Framework for Whole-Page Reranking via Single-Modal Supervision**|Zishuai Zhang et.al.|[2510.16803](http://arxiv.org/abs/2510.16803)|null|
+|**2025-10-18**|**RAVEN: Robust Advertisement Video Violation Temporal Grounding via Reinforcement Reasoning**|Deyi Ji et.al.|[2510.16455](http://arxiv.org/abs/2510.16455)|null|
+|**2025-10-22**|**The Right to Be Remembered: Preserving Maximally Truthful Digital Memory in the Age of AI**|Alex Zhavoronkov et.al.|[2510.16206](http://arxiv.org/abs/2510.16206)|null|
 |**2025-10-14**|**Aligning Language Models with Investor and Market Behavior for Financial Recommendations**|Fernando Spadea (rpi.edu) et.al.|[2510.15993](http://arxiv.org/abs/2510.15993)|null|
-|**2025-10-17**|**FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens**|Chao Wang (ustc.edu.cn) et.al.|[2510.15729](http://arxiv.org/abs/2510.15729)|**[link](https://github.com/YixinRoll/FACE)**|
-|**2025-10-17**|**Enhance Large Language Models as Recommendation Systems with Collaborative Filtering**|Zhisheng Yang (email.swu.edu.cn) et.al.|[2510.15647](http://arxiv.org/abs/2510.15647)|null|
+|**2025-10-17**|**FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens**|Chao Wang et.al.|[2510.15729](http://arxiv.org/abs/2510.15729)|null|
+|**2025-10-17**|**Enhance Large Language Models as Recommendation Systems with Collaborative Filtering**|Zhisheng Yang et.al.|[2510.15647](http://arxiv.org/abs/2510.15647)|null|
 |**2025-10-16**|**Cross-Scenario Unified Modeling of User Interests at Billion Scale**|Manjie Xu et.al.|[2510.14788](http://arxiv.org/abs/2510.14788)|null|
-|**2025-10-16**|**Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**|Penglong Zhai (alibaba-inc.com) et.al.|[2510.14702](http://arxiv.org/abs/2510.14702)|null|
-|**2025-10-16**|**MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs**|Jiani Huang (gmail.com) et.al.|[2510.14629](http://arxiv.org/abs/2510.14629)|null|
-|**2025-10-16**|**Synergistic Integration and Discrepancy Resolution of Contextualized Knowledge for Personalized Recommendation**|Lingyu Mu (iie.ac.cn) et.al.|[2510.14257](http://arxiv.org/abs/2510.14257)|null|
-|**2025-10-16**|**Large Scale Retrieval for the LinkedIn Feed using Causal Language Models**|Sudarshan Srinivasa Ramanujam (linkedin.com) et.al.|[2510.14223](http://arxiv.org/abs/2510.14223)|null|
+|**2025-10-16**|**Cognitive-Aligned Spatio-Temporal Large Language Models For Next Point-of-Interest Prediction**|Penglong Zhai et.al.|[2510.14702](http://arxiv.org/abs/2510.14702)|null|
+|**2025-10-16**|**MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2510.14629](http://arxiv.org/abs/2510.14629)|null|
+|**2025-10-16**|**Synergistic Integration and Discrepancy Resolution of Contextualized Knowledge for Personalized Recommendation**|Lingyu Mu et.al.|[2510.14257](http://arxiv.org/abs/2510.14257)|null|
+|**2025-10-16**|**Large Scale Retrieval for the LinkedIn Feed using Causal Language Models**|Sudarshan Srinivasa Ramanujam et.al.|[2510.14223](http://arxiv.org/abs/2510.14223)|null|
 |**2025-10-14**|**Order from Chaos: Comparative Study of Ten Leading LLMs on Unstructured Data Categorization**|Ariel Kamen (ringcentral.com) et.al.|[2510.13885](http://arxiv.org/abs/2510.13885)|null|
-|**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|Jingyi Zhou (acm.org) et.al.|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
-|**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park (hanyang.ac.kr) et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|null|
+|**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|Jingyi Zhou et.al.|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
+|**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|Jiin Park et.al.|[2510.13371](http://arxiv.org/abs/2510.13371)|null|
 |**2025-10-15**|**Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models**|Yuki Yada (mercari.com) et.al.|[2510.13359](http://arxiv.org/abs/2510.13359)|null|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|Zhichao Xu (amazon.com) et.al.|[2510.13272](http://arxiv.org/abs/2510.13272)|null|
 |**2025-10-15**|**Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation**|Yi Zhang (uq.edu.au) et.al.|[2510.13229](http://arxiv.org/abs/2510.13229)|**[link](https://github.com/ArronDZhang/IL-Rec)**|
@@ -886,39 +886,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations**|Lorenzo Stacchio (unimc.it) et.al.|[2510.20743](http://arxiv.org/abs/2510.20743)|null|
-|**2025-10-23**|**Fusing Narrative Semantics for Financial Volatility Forecasting**|Yaxuan Kong (eng.ox.ac.uk) et.al.|[2510.20699](http://arxiv.org/abs/2510.20699)|null|
-|**2025-10-23**|**Finding the Sweet Spot: Trading Quality, Cost, and Speed During Inference-Time LLM Reflection**|Jack Butler (amazon.co.uk) et.al.|[2510.20653](http://arxiv.org/abs/2510.20653)|**[link](https://github.com/aws-samples/sample-genai-reflection-for-bedrock)**|
-|**2025-10-23**|**ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature**|Aritra Roy (lsbu.ac.uk) et.al.|[2510.20362](http://arxiv.org/abs/2510.20362)|null|
-|**2025-10-23**|**Teaching Language Models to Reason with Tools**|Chengpeng Li (mail.ustc.edu.cn) et.al.|[2510.20342](http://arxiv.org/abs/2510.20342)|**[link](https://github.com/ChengpengLi1003/CoRT)**|
+|**2025-10-23**|**Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations**|Lorenzo Stacchio et.al.|[2510.20743](http://arxiv.org/abs/2510.20743)|null|
+|**2025-10-23**|**Fusing Narrative Semantics for Financial Volatility Forecasting**|Yaxuan Kong et.al.|[2510.20699](http://arxiv.org/abs/2510.20699)|null|
+|**2025-10-23**|**Finding the Sweet Spot: Trading Quality, Cost, and Speed During Inference-Time LLM Reflection**|Jack Butler et.al.|[2510.20653](http://arxiv.org/abs/2510.20653)|null|
+|**2025-10-23**|**ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature**|Aritra Roy et.al.|[2510.20362](http://arxiv.org/abs/2510.20362)|null|
+|**2025-10-23**|**Teaching Language Models to Reason with Tools**|Chengpeng Li et.al.|[2510.20342](http://arxiv.org/abs/2510.20342)|null|
 |**2025-10-23**|**ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows**|Penghao Wang et.al.|[2510.20279](http://arxiv.org/abs/2510.20279)|null|
-|**2025-10-23**|**Using Large Language Models for Abstraction of Planning Domains - Extended Version**|Bita Banihashemi (igdore.org) et.al.|[2510.20258](http://arxiv.org/abs/2510.20258)|null|
-|**2025-10-23**|**TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning**|Morris Yu-Chao Huang (cs.unc.edu) et.al.|[2510.20188](http://arxiv.org/abs/2510.20188)|null|
-|**2025-10-23**|**Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**|Yuhang Zhou (meta.com) et.al.|[2510.20176](http://arxiv.org/abs/2510.20176)|null|
-|**2025-10-22**|**Learning from Supervision with Semantic and Episodic Memory: A Reflective Approach to Agent Adaptation**|Jackson Hassell (megagon.ai) et.al.|[2510.19897](http://arxiv.org/abs/2510.19897)|null|
+|**2025-10-23**|**Using Large Language Models for Abstraction of Planning Domains - Extended Version**|Bita Banihashemi et.al.|[2510.20258](http://arxiv.org/abs/2510.20258)|null|
+|**2025-10-23**|**TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning**|Morris Yu-Chao Huang et.al.|[2510.20188](http://arxiv.org/abs/2510.20188)|null|
+|**2025-10-23**|**Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**|Yuhang Zhou et.al.|[2510.20176](http://arxiv.org/abs/2510.20176)|null|
+|**2025-10-22**|**Learning from Supervision with Semantic and Episodic Memory: A Reflective Approach to Agent Adaptation**|Jackson Hassell et.al.|[2510.19897](http://arxiv.org/abs/2510.19897)|null|
 |**2025-10-22**|**Large Language Model enabled Mathematical Modeling**|Guoyun Zhang et.al.|[2510.19895](http://arxiv.org/abs/2510.19895)|null|
-|**2025-10-22**|**From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph**|Junfeng Gong (ict.ac.cn) et.al.|[2510.19873](http://arxiv.org/abs/2510.19873)|null|
-|**2025-10-22**|**An Evaluation of the Pedagogical Soundness and Usability of AI-Generated Lesson Plans Across Different Models and Prompt Frameworks in High-School Physics**|Xincheng Liu (gmail.com) et.al.|[2510.19866](http://arxiv.org/abs/2510.19866)|null|
-|**2025-10-22**|**SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations**|Amila Indika (hawaii.edu) et.al.|[2510.19864](http://arxiv.org/abs/2510.19864)|null|
+|**2025-10-22**|**From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph**|Junfeng Gong et.al.|[2510.19873](http://arxiv.org/abs/2510.19873)|null|
+|**2025-10-22**|**An Evaluation of the Pedagogical Soundness and Usability of AI-Generated Lesson Plans Across Different Models and Prompt Frameworks in High-School Physics**|Xincheng Liu et.al.|[2510.19866](http://arxiv.org/abs/2510.19866)|null|
+|**2025-10-22**|**SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations**|Amila Indika et.al.|[2510.19864](http://arxiv.org/abs/2510.19864)|null|
 |**2025-10-22**|**On Controlled Change: Generative AI's Impact on Professional Authority in Journalism**|Tomás Dodds et.al.|[2510.19792](http://arxiv.org/abs/2510.19792)|null|
 |**2025-10-22**|**Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents**|Gil Pasternak et.al.|[2510.19771](http://arxiv.org/abs/2510.19771)|null|
-|**2025-10-22**|**ELUTQ: Efficient LUT-Aware Quantization for Deploying Large Language Models on Edge Devices**|Xin Nie (nankai.edu.cn) et.al.|[2510.19482](http://arxiv.org/abs/2510.19482)|null|
-|**2025-10-22**|**LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts**|Siyuan Wang (microsoft.com) et.al.|[2510.19363](http://arxiv.org/abs/2510.19363)|null|
-|**2025-10-22**|**Local Obfuscation by GLINER for Impartial Context Aware Lineage: Development and evaluation of PII Removal system**|Prakrithi Shivaprakash (gmail.com) et.al.|[2510.19346](http://arxiv.org/abs/2510.19346)|null|
-|**2025-10-22**|**Algorithmic Fairness in NLP: Persona-Infused LLMs for Human-Centric Hate Speech Detection**|Ewelina Gajewska (pw.edu.pl) et.al.|[2510.19331](http://arxiv.org/abs/2510.19331)|null|
-|**2025-10-22**|**SORA-ATMAS: Adaptive Trust Management and Multi-LLM Aligned Governance for Future Smart Cities**|Usama Antuley (nu.edu.pk) et.al.|[2510.19327](http://arxiv.org/abs/2510.19327)|null|
-|**2025-10-22**|**QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation**|Yang Zhang (ict.ac.cn) et.al.|[2510.19296](http://arxiv.org/abs/2510.19296)|**[link](https://github.com/zy1xxx/SALV)**|
-|**2025-10-22**|**LAPRAD: LLM-Assisted PRotocol Attack Discovery**|R. Can Aygun (cs.ucla.edu) et.al.|[2510.19264](http://arxiv.org/abs/2510.19264)|null|
-|**2025-10-21**|**A Graph Signal Processing Framework for Hallucination Detection in Large Language Models**|Valentin Noël (devoteam.com) et.al.|[2510.19117](http://arxiv.org/abs/2510.19117)|null|
-|**2025-10-21**|**What Makes a Good Curriculum? Disentangling the Effects of Data Ordering on LLM Mathematical Reasoning**|Yaning Jia (dartmouth.edu) et.al.|[2510.19099](http://arxiv.org/abs/2510.19099)|null|
+|**2025-10-22**|**ELUTQ: Efficient LUT-Aware Quantization for Deploying Large Language Models on Edge Devices**|Xin Nie et.al.|[2510.19482](http://arxiv.org/abs/2510.19482)|null|
+|**2025-10-22**|**LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts**|Siyuan Wang et.al.|[2510.19363](http://arxiv.org/abs/2510.19363)|null|
+|**2025-10-22**|**Local Obfuscation by GLINER for Impartial Context Aware Lineage: Development and evaluation of PII Removal system**|Prakrithi Shivaprakash et.al.|[2510.19346](http://arxiv.org/abs/2510.19346)|null|
+|**2025-10-22**|**Algorithmic Fairness in NLP: Persona-Infused LLMs for Human-Centric Hate Speech Detection**|Ewelina Gajewska et.al.|[2510.19331](http://arxiv.org/abs/2510.19331)|null|
+|**2025-10-22**|**SORA-ATMAS: Adaptive Trust Management and Multi-LLM Aligned Governance for Future Smart Cities**|Usama Antuley et.al.|[2510.19327](http://arxiv.org/abs/2510.19327)|null|
+|**2025-10-22**|**QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation**|Yang Zhang et.al.|[2510.19296](http://arxiv.org/abs/2510.19296)|null|
+|**2025-10-22**|**LAPRAD: LLM-Assisted PRotocol Attack Discovery**|R. Can Aygun et.al.|[2510.19264](http://arxiv.org/abs/2510.19264)|null|
+|**2025-10-21**|**A Graph Signal Processing Framework for Hallucination Detection in Large Language Models**|Valentin Noël et.al.|[2510.19117](http://arxiv.org/abs/2510.19117)|null|
+|**2025-10-21**|**What Makes a Good Curriculum? Disentangling the Effects of Data Ordering on LLM Mathematical Reasoning**|Yaning Jia et.al.|[2510.19099](http://arxiv.org/abs/2510.19099)|null|
 |**2025-10-21**|**The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS**|Brandon James Carone et.al.|[2510.19055](http://arxiv.org/abs/2510.19055)|null|
-|**2025-10-21**|**From Memorization to Generalization: Fine-Tuning Large Language Models for Biomedical Term-to-Identifier Normalization**|Suswitha Pericharla (missouristate.edu) et.al.|[2510.19036](http://arxiv.org/abs/2510.19036)|null|
-|**2025-10-21**|**XGen-Q: An Explainable Domain-Adaptive LLM Framework with Retrieval-Augmented Generation for Software Security**|Hamed Jelodar (unb.ca) et.al.|[2510.19006](http://arxiv.org/abs/2510.19006)|null|
-|**2025-10-21**|**Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality**|Arpan Mukherjee (imperial.ac.uk) et.al.|[2510.18982](http://arxiv.org/abs/2510.18982)|null|
+|**2025-10-21**|**From Memorization to Generalization: Fine-Tuning Large Language Models for Biomedical Term-to-Identifier Normalization**|Suswitha Pericharla et.al.|[2510.19036](http://arxiv.org/abs/2510.19036)|null|
+|**2025-10-21**|**XGen-Q: An Explainable Domain-Adaptive LLM Framework with Retrieval-Augmented Generation for Software Security**|Hamed Jelodar et.al.|[2510.19006](http://arxiv.org/abs/2510.19006)|null|
+|**2025-10-21**|**Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality**|Arpan Mukherjee et.al.|[2510.18982](http://arxiv.org/abs/2510.18982)|null|
 |**2025-10-21**|**Evaluating LLM Story Generation through Large-scale Network Analysis of Social Structures**|Hiroshi Nonaka (soka.edu) et.al.|[2510.18932](http://arxiv.org/abs/2510.18932)|null|
 |**2025-10-21**|**Benchmarking On-Device Machine Learning on Apple Silicon with MLX**|Oluwaseun A. Ajayi et.al.|[2510.18921](http://arxiv.org/abs/2510.18921)|null|
 |**2025-10-20**|**Evaluating LLMs for Career Guidance: Comparative Analysis of Computing Competency Recommendations Across Ten African Countries**|Precious Eze (fiu.edu) et.al.|[2510.18902](http://arxiv.org/abs/2510.18902)|null|
-|**2025-10-21**|**Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**|Howard Chen (cs.princeton.edu) et.al.|[2510.18874](http://arxiv.org/abs/2510.18874)|null|
+|**2025-10-21**|**Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**|Howard Chen et.al.|[2510.18874](http://arxiv.org/abs/2510.18874)|null|
 |**2025-10-21**|**LightMem: Lightweight and Efficient Memory-Augmented Generation**|Jizhan Fang (zju.edu.cn) et.al.|[2510.18866](http://arxiv.org/abs/2510.18866)|**[link](https://github.com/zjunlp/LightMem)**|
 |**2025-10-21**|**HarmNet: A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models**|Sidhant Narula (odu.edu) et.al.|[2510.18728](http://arxiv.org/abs/2510.18728)|null|
 |**2025-10-21**|**ECG-LLM -- training and evaluation of domain-specific large language models for electrocardiography**|Lara Ahrens (uol.de) et.al.|[2510.18339](http://arxiv.org/abs/2510.18339)|**[link](https://github.com/AI4HealthUOL/ecg-llm)**|
