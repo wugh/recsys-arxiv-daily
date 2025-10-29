@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Talk2Ref: A Dataset for Reference Prediction from Scientific Talks**|Frederik Broy (student.kit.edu) et.al.|[2510.24478](http://arxiv.org/abs/2510.24478)|null|
+|**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng (google.com) et.al.|[2510.24452](http://arxiv.org/abs/2510.24452)|null|
+|**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
+|**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|Yejin Kim (comcast.com) et.al.|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
+|**2025-10-28**|**DUET: Dual Model Co-Training for Entire Space CTR Prediction**|Yutian Xiao (kuaishou.com) et.al.|[2510.24369](http://arxiv.org/abs/2510.24369)|null|
 |**2025-10-27**|**Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens**|Jiahao Ji (alibaba-inc.com) et.al.|[2510.23410](http://arxiv.org/abs/2510.23410)|null|
 |**2025-10-27**|**Think before Recommendation: Autonomous Reasoning-enhanced Recommender**|Xiaoyu Kong (alibaba-inc.com) et.al.|[2510.23077](http://arxiv.org/abs/2510.23077)|null|
 |**2025-10-26**|**Civic Ground Truth in News Recommenders: A Method for Public Value Scoring**|James Meese (rmit.edu.au) et.al.|[2510.22865](http://arxiv.org/abs/2510.22865)|null|
@@ -613,6 +618,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
+|**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|Yejin Kim (comcast.com) et.al.|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
 |**2025-10-27**|**Think before Recommendation: Autonomous Reasoning-enhanced Recommender**|Xiaoyu Kong (alibaba-inc.com) et.al.|[2510.23077](http://arxiv.org/abs/2510.23077)|null|
 |**2025-10-26**|**Agentic Meta-Orchestrator for Multi-task Copilots**|Xiaofeng Zhu (microsoft.com) et.al.|[2510.22781](http://arxiv.org/abs/2510.22781)|null|
 |**2025-10-24**|**Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders**|Zhimin Chen (meta.com) et.al.|[2510.22049](http://arxiv.org/abs/2510.22049)|null|
@@ -906,6 +913,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality Games?**|Shuqing Li et.al.|[2510.24706](http://arxiv.org/abs/2510.24706)|null|
+|**2025-10-28**|**AgentFold: Long-Horizon Web Agents with Proactive Context Management**|Rui Ye (sjtu.edu.cn) et.al.|[2510.24699](http://arxiv.org/abs/2510.24699)|null|
+|**2025-10-28**|**Evolving Diagnostic Agents in a Virtual Clinical Environment**|Pengcheng Qiu (sjtu.edu.cn) et.al.|[2510.24654](http://arxiv.org/abs/2510.24654)|null|
+|**2025-10-28**|**Zero-Shot Cross-Lingual Transfer using Prefix-Based Adaptation**|Snegha A (iitb.ac.in) et.al.|[2510.24619](http://arxiv.org/abs/2510.24619)|null|
+|**2025-10-28**|**Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way**|Yicun Yang (gmail.com) et.al.|[2510.24605](http://arxiv.org/abs/2510.24605)|null|
+|**2025-10-28**|**CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?**|Qing Zong (cse.ust.hk) et.al.|[2510.24505](http://arxiv.org/abs/2510.24505)|null|
+|**2025-10-28**|**Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content**|Abdullah Mushtaq et.al.|[2510.24438](http://arxiv.org/abs/2510.24438)|null|
+|**2025-10-28**|**Human-Level Reasoning: A Comparative Study of Large Language Models on Logical and Abstract Reasoning**|Benjamin Grando Moreira (ufsc.br) et.al.|[2510.24435](http://arxiv.org/abs/2510.24435)|null|
+|**2025-10-28**|**LuxIT: A Luxembourgish Instruction Tuning Dataset from Monolingual Seed Data**|Julian Valline (list.lu) et.al.|[2510.24434](http://arxiv.org/abs/2510.24434)|null|
+|**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
+|**2025-10-28**|**VDSAgents: A PCS-Guided Multi-Agent System for Veridical Data Science Automation**|Yunxuan Jiang (stu.xjtu.edu.cn) et.al.|[2510.24339](http://arxiv.org/abs/2510.24339)|**[link](https://github.com/fengzer/VDSAgents)**|
+|**2025-10-28**|**Generative Large Language Models (gLLMs) in Content Analysis: A Practical Guide for Communication Research**|Daria Kravets-Meinke et.al.|[2510.24337](http://arxiv.org/abs/2510.24337)|null|
+|**2025-10-28**|**ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model**|Juntian Zhang (ruc.edu.cn) et.al.|[2510.24285](http://arxiv.org/abs/2510.24285)|null|
+|**2025-10-28**|**SALS: Sparse Attention in Latent Space for KV cache Compression**|Junlin Mu (bjtu.edu.cn) et.al.|[2510.24273](http://arxiv.org/abs/2510.24273)|null|
+|**2025-10-28**|**Can LLMs Translate Human Instructions into a Reinforcement Learning Agent's Internal Emergent Symbolic Representation?**|Ziqi Ma (163.com) et.al.|[2510.24259](http://arxiv.org/abs/2510.24259)|null|
+|**2025-10-28**|**Towards Transparent Reasoning: What Drives Faithfulness in Large Language Models?**|Teague McMillan (ethz.ch) et.al.|[2510.24236](http://arxiv.org/abs/2510.24236)|null|
+|**2025-10-28**|**LLMLogAnalyzer: A Clustering-Based Log Analysis Chatbot using Large Language Models**|Peng Cai (curtin.edu.au) et.al.|[2510.24031](http://arxiv.org/abs/2510.24031)|null|
+|**2025-10-28**|**Lifecycle-Aware code generation: Leveraging Software Engineering Phases in LLMs**|Xing Xing (m.fudan.edu.cn) et.al.|[2510.24019](http://arxiv.org/abs/2510.24019)|null|
+|**2025-10-27**|**AfriMTEB and AfriE5: Benchmarking and Adapting Text Embedding Models for African Languages**|Kosei Uemura (mail.utoronto.ca) et.al.|[2510.23896](http://arxiv.org/abs/2510.23896)|null|
+|**2025-10-27**|**RefleXGen:The unexamined code is not worth using**|Bin Wang et.al.|[2510.23674](http://arxiv.org/abs/2510.23674)|null|
 |**2025-10-27**|**Minimizing Human Intervention in Online Classification**|William Réveillard (kth.se) et.al.|[2510.23557](http://arxiv.org/abs/2510.23557)|null|
 |**2025-10-27**|**Policy-Aware Generative AI for Safe, Auditable Data Access Governance**|Shames Al Mandalawi (ualr.edu) et.al.|[2510.23474](http://arxiv.org/abs/2510.23474)|null|
 |**2025-10-27**|**Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts**|Nikesh Gyawali (ksu.edu) et.al.|[2510.23464](http://arxiv.org/abs/2510.23464)|null|
@@ -913,7 +940,7 @@ layout: default
 |**2025-10-27**|**Code Aesthetics with Agentic Reward Feedback**|Bang Xiao et.al.|[2510.23272](http://arxiv.org/abs/2510.23272)|null|
 |**2025-10-27**|**MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models**|Suchan Lee (postech.ac.kr) et.al.|[2510.23090](http://arxiv.org/abs/2510.23090)|null|
 |**2025-10-27**|**Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning**|Ran Xu (google.com) et.al.|[2510.23038](http://arxiv.org/abs/2510.23038)|null|
-|**2025-10-27**|**From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports**|Qiuli Wang et.al.|[2510.23008](http://arxiv.org/abs/2510.23008)|null|
+|**2025-10-28**|**From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports**|Qiuli Wang et.al.|[2510.23008](http://arxiv.org/abs/2510.23008)|null|
 |**2025-10-27**|**The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination**|Chenlong Yin et.al.|[2510.22977](http://arxiv.org/abs/2510.22977)|null|
 |**2025-10-26**|**A Comprehensive Dataset for Human vs. AI Generated Text Detection**|Rajarshi Roy (gmail.com) et.al.|[2510.22874](http://arxiv.org/abs/2510.22874)|null|
 |**2025-10-26**|**Cross-Lingual Stability and Bias in Instruction-Tuned Language Models for Humanitarian NLP**|Poli Nemkova (unt.edu) et.al.|[2510.22823](http://arxiv.org/abs/2510.22823)|null|
