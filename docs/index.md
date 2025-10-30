@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|Yi Xu (alibaba-inc.com) et.al.|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
+|**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan (mail.ustc.edu.cn) et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
+|**2025-10-29**|**GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction**|Zhijie Lin (kuaishou.com) et.al.|[2510.25220](http://arxiv.org/abs/2510.25220)|null|
+|**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
+|**2025-10-28**|**WBT-BGRL: A Non-Contrastive Weighted Bipartite Link Prediction Model for Inductive Learning**|Joel Frank Huarayo Quispe (unifesp.br) et.al.|[2510.24927](http://arxiv.org/abs/2510.24927)|null|
 |**2025-10-28**|**Talk2Ref: A Dataset for Reference Prediction from Scientific Talks**|Frederik Broy (student.kit.edu) et.al.|[2510.24478](http://arxiv.org/abs/2510.24478)|null|
 |**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng (google.com) et.al.|[2510.24452](http://arxiv.org/abs/2510.24452)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
@@ -618,6 +623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
 |**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|Yejin Kim (comcast.com) et.al.|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
 |**2025-10-27**|**Think before Recommendation: Autonomous Reasoning-enhanced Recommender**|Xiaoyu Kong (alibaba-inc.com) et.al.|[2510.23077](http://arxiv.org/abs/2510.23077)|null|
@@ -913,6 +919,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Jiani Zheng (bytedance.com) et.al.|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni)**|
+|**2025-10-29**|**User Misconceptions of LLM-Based Conversational Programming Assistants**|Gabrielle O'Brien (umich.edu) et.al.|[2510.25662](http://arxiv.org/abs/2510.25662)|null|
+|**2025-10-29**|**EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic Health Record Analysis**|Yusheng Liao (sjtu.edu.cn) et.al.|[2510.25628](http://arxiv.org/abs/2510.25628)|null|
+|**2025-10-29**|**Standardization of Psychiatric Diagnoses -- Role of Fine-tuned LLM Consortium and OpenAI-gpt-oss Reasoning LLM Enabled Decision Support System**|Eranga Bandara (odu.edu) et.al.|[2510.25588](http://arxiv.org/abs/2510.25588)|null|
+|**2025-10-29**|**Reflections on the Reproducibility of Commercial LLM Performance in Empirical Software Engineering Studies**|Florian Angermeir (fortiss.org) et.al.|[2510.25506](http://arxiv.org/abs/2510.25506)|null|
+|**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[2510.25460](http://arxiv.org/abs/2510.25460)|null|
+|**2025-10-29**|**BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains**|Vijay Devane (tihiitb.org) et.al.|[2510.25409](http://arxiv.org/abs/2510.25409)|null|
+|**2025-10-29**|**Adapting Small Language Models to Low-Resource Domains: A Case Study in Hindi Tourism QA**|Sandipan Majhi (kgpian.iitkgp.ac.in) et.al.|[2510.25273](http://arxiv.org/abs/2510.25273)|null|
+|**2025-10-29**|**IBNorm: Information-Bottleneck Inspired Normalization for Representation Learning**|Xiandong Zou et.al.|[2510.25262](http://arxiv.org/abs/2510.25262)|null|
+|**2025-10-29**|**Testing Cross-Lingual Text Comprehension In LLMs Using Next Sentence Prediction**|Ritesh Sunil Chavan (stonybrook.edu) et.al.|[2510.25187](http://arxiv.org/abs/2510.25187)|null|
+|**2025-10-29**|**BioCoref: Benchmarking Biomedical Coreference Resolution with LLMs**|Nourah M Salem (cuanschutz.edu) et.al.|[2510.25087](http://arxiv.org/abs/2510.25087)|null|
+|**2025-10-29**|**GAPMAP: Mapping Scientific Knowledge Gaps in Biomedical Literature Using Large Language Models**|Nourah M Salem (cuanschutz.edu) et.al.|[2510.25055](http://arxiv.org/abs/2510.25055)|null|
+|**2025-10-28**|**FT-ARM: Fine-Tuned Agentic Reflection Multimodal Language Model for Pressure Ulcer Severity Classification with Reasoning**|Reza Saadati Fard (wpi.edu) et.al.|[2510.24980](http://arxiv.org/abs/2510.24980)|null|
+|**2025-10-28**|**RiddleBench: A New Generative Reasoning Benchmark for LLMs**|Deepon Halder (gmail.com) et.al.|[2510.24932](http://arxiv.org/abs/2510.24932)|null|
+|**2025-10-28**|**Towards a Method for Synthetic Generation of PWA Transcripts**|Jason M. Pittman et.al.|[2510.24817](http://arxiv.org/abs/2510.24817)|null|
 |**2025-10-28**|**ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality Games?**|Shuqing Li et.al.|[2510.24706](http://arxiv.org/abs/2510.24706)|null|
 |**2025-10-28**|**AgentFold: Long-Horizon Web Agents with Proactive Context Management**|Rui Ye (sjtu.edu.cn) et.al.|[2510.24699](http://arxiv.org/abs/2510.24699)|null|
 |**2025-10-28**|**Evolving Diagnostic Agents in a Virtual Clinical Environment**|Pengcheng Qiu (sjtu.edu.cn) et.al.|[2510.24654](http://arxiv.org/abs/2510.24654)|null|
@@ -923,7 +944,7 @@ layout: default
 |**2025-10-28**|**Human-Level Reasoning: A Comparative Study of Large Language Models on Logical and Abstract Reasoning**|Benjamin Grando Moreira (ufsc.br) et.al.|[2510.24435](http://arxiv.org/abs/2510.24435)|null|
 |**2025-10-28**|**LuxIT: A Luxembourgish Instruction Tuning Dataset from Monolingual Seed Data**|Julian Valline (list.lu) et.al.|[2510.24434](http://arxiv.org/abs/2510.24434)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
-|**2025-10-28**|**VDSAgents: A PCS-Guided Multi-Agent System for Veridical Data Science Automation**|Yunxuan Jiang (stu.xjtu.edu.cn) et.al.|[2510.24339](http://arxiv.org/abs/2510.24339)|**[link](https://github.com/fengzer/VDSAgents)**|
+|**2025-10-29**|**VDSAgents: A PCS-Guided Multi-Agent System for Veridical Data Science Automation**|Yunxuan Jiang (stu.xjtu.edu.cn) et.al.|[2510.24339](http://arxiv.org/abs/2510.24339)|**[link](https://github.com/fengzer/VDSAgents)**|
 |**2025-10-28**|**Generative Large Language Models (gLLMs) in Content Analysis: A Practical Guide for Communication Research**|Daria Kravets-Meinke et.al.|[2510.24337](http://arxiv.org/abs/2510.24337)|null|
 |**2025-10-28**|**ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model**|Juntian Zhang (ruc.edu.cn) et.al.|[2510.24285](http://arxiv.org/abs/2510.24285)|null|
 |**2025-10-28**|**SALS: Sparse Attention in Latent Space for KV cache Compression**|Junlin Mu (bjtu.edu.cn) et.al.|[2510.24273](http://arxiv.org/abs/2510.24273)|null|
