@@ -1,4 +1,4 @@
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-29**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|Yi Xu (alibaba-inc.com) et.al.|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
+|**2025-10-30**|**AdSum: Two-stream Audio-visual Summarization for Automated Video Advertisement Clipping**|Wen Xie (northeastern.edu) et.al.|[2510.26569](http://arxiv.org/abs/2510.26569)|null|
+|**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
+|**2025-10-30**|**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**|Zhaoqi Zhang (bytedance.com) et.al.|[2510.26104](http://arxiv.org/abs/2510.26104)|null|
+|**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He (andrew.cmu.edu) et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|
+|**2025-10-29**|**The Quest for Reliable Metrics of Responsible AI**|Theresia Veronika Rampisela (di.ku.dk) et.al.|[2510.26007](http://arxiv.org/abs/2510.26007)|null|
+|**2025-10-30**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|Yi Xu (alibaba-inc.com) et.al.|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
 |**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan (mail.ustc.edu.cn) et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
 |**2025-10-29**|**GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction**|Zhijie Lin (kuaishou.com) et.al.|[2510.25220](http://arxiv.org/abs/2510.25220)|null|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
@@ -624,12 +629,14 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
+|**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He (andrew.cmu.edu) et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
 |**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|Yejin Kim (comcast.com) et.al.|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
@@ -922,19 +929,36 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Jiani Zheng (bytedance.com) et.al.|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni)**|
+|**2025-10-30**|**LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits**|Amir Reza Mirzaei (gmail.com) et.al.|[2510.26690](http://arxiv.org/abs/2510.26690)|null|
+|**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|**[link](https://github.com/RedaElMakroum/agentic-ai-hems)**|
+|**2025-10-30**|**A Multi-agent Large Language Model Framework to Automatically Assess Performance of a Clinical AI Triage Tool**|Adam E. Flanders (jefferson.edu) et.al.|[2510.26498](http://arxiv.org/abs/2510.26498)|null|
+|**2025-10-30**|**Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration**|Linzhuang Sun (mails.ucas.ac.cn) et.al.|[2510.26495](http://arxiv.org/abs/2510.26495)|**[link](https://github.com/Aurora-slz/Real-World-SQL-Bench)**|
+|**2025-10-30**|**Who Has The Final Say? Conformity Dynamics in ChatGPT's Selections**|Clarissa Sabrina Arlinghaus et.al.|[2510.26481](http://arxiv.org/abs/2510.26481)|null|
+|**2025-10-30**|**ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems**|Qiaoling Chen et.al.|[2510.26475](http://arxiv.org/abs/2510.26475)|null|
+|**2025-10-30**|**1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models**|Zeliang Zong (hikvision.com) et.al.|[2510.26446](http://arxiv.org/abs/2510.26446)|null|
+|**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov (ukma.edu.ua) et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|**[link](https://github.com/mxpoliakov/MisSynth)**|
+|**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema (cerebras.net) et.al.|[2510.26336](http://arxiv.org/abs/2510.26336)|null|
+|**2025-10-30**|**SCRIBE: Structured Chain Reasoning for Interactive Behaviour Explanations using Tool Calling**|Fares Fawzi (epfl.ch) et.al.|[2510.26322](http://arxiv.org/abs/2510.26322)|null|
+|**2025-10-30**|**One Model to Critique Them All: Rewarding Agentic Tool-Use via Efficient Reasoning**|Renhao Li (connect.um.edu.mo) et.al.|[2510.26167](http://arxiv.org/abs/2510.26167)|null|
+|**2025-10-30**|**QCoder Benchmark: Bridging Language Generation and Quantum Hardware through Simulator-Based Feedback**|Taku Mikuriya et.al.|[2510.26101](http://arxiv.org/abs/2510.26101)|null|
+|**2025-10-30**|**SIRAJ: Diverse and Efficient Red-Teaming for LLM Agents via Distilled Structured Reasoning**|Kaiwen Zhou (ucsc.edu) et.al.|[2510.26037](http://arxiv.org/abs/2510.26037)|null|
+|**2025-10-29**|**From Queries to Insights: Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL**|Manu Redd (ku.edu) et.al.|[2510.25997](http://arxiv.org/abs/2510.25997)|null|
+|**2025-10-29**|**Humains-Junior: A 3.8B Language Model Achieving GPT-4o-Level Factual Accuracy by Directed Exoskeleton Reasoning**|Nissan Yaron (humains.com) et.al.|[2510.25933](http://arxiv.org/abs/2510.25933)|null|
+|**2025-10-29**|**SciTrust 2.0: A Comprehensive Framework for Evaluating Trustworthiness of Large Language Models in Scientific Applications**|Emily Herron (ornl.gov) et.al.|[2510.25908](http://arxiv.org/abs/2510.25908)|null|
+|**2025-10-29**|**Symbolically Scaffolded Play: Designing Role-Sensitive Prompts for Generative NPC Dialogue**|Vanessa Figueiredo (uregina.ca) et.al.|[2510.25820](http://arxiv.org/abs/2510.25820)|null|
+|**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Jiani Zheng (bytedance.com) et.al.|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni)**|
 |**2025-10-29**|**User Misconceptions of LLM-Based Conversational Programming Assistants**|Gabrielle O'Brien (umich.edu) et.al.|[2510.25662](http://arxiv.org/abs/2510.25662)|null|
 |**2025-10-29**|**EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic Health Record Analysis**|Yusheng Liao (sjtu.edu.cn) et.al.|[2510.25628](http://arxiv.org/abs/2510.25628)|null|
 |**2025-10-29**|**Standardization of Psychiatric Diagnoses -- Role of Fine-tuned LLM Consortium and OpenAI-gpt-oss Reasoning LLM Enabled Decision Support System**|Eranga Bandara (odu.edu) et.al.|[2510.25588](http://arxiv.org/abs/2510.25588)|null|
 |**2025-10-29**|**Reflections on the Reproducibility of Commercial LLM Performance in Empirical Software Engineering Studies**|Florian Angermeir (fortiss.org) et.al.|[2510.25506](http://arxiv.org/abs/2510.25506)|null|
 |**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[2510.25460](http://arxiv.org/abs/2510.25460)|null|
-|**2025-10-29**|**BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains**|Vijay Devane (tihiitb.org) et.al.|[2510.25409](http://arxiv.org/abs/2510.25409)|null|
+|**2025-10-30**|**BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains**|Vijay Devane (tihiitb.org) et.al.|[2510.25409](http://arxiv.org/abs/2510.25409)|null|
 |**2025-10-29**|**Adapting Small Language Models to Low-Resource Domains: A Case Study in Hindi Tourism QA**|Sandipan Majhi (kgpian.iitkgp.ac.in) et.al.|[2510.25273](http://arxiv.org/abs/2510.25273)|null|
 |**2025-10-29**|**IBNorm: Information-Bottleneck Inspired Normalization for Representation Learning**|Xiandong Zou et.al.|[2510.25262](http://arxiv.org/abs/2510.25262)|null|
 |**2025-10-29**|**Testing Cross-Lingual Text Comprehension In LLMs Using Next Sentence Prediction**|Ritesh Sunil Chavan (stonybrook.edu) et.al.|[2510.25187](http://arxiv.org/abs/2510.25187)|null|
@@ -2260,7 +2284,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
