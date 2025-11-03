@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**From the Rock Floor to the Cloud: A Systematic Survey of State-of-the-Art NLP in Battery Life Cycle**|Tosin Adewumi (ltu.se) et.al.|[2510.27369](http://arxiv.org/abs/2510.27369)|null|
+|**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|Alireza Gharahighehi et.al.|[2510.27342](http://arxiv.org/abs/2510.27342)|null|
+|**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
+|**2025-10-30**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
+|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**AdSum: Two-stream Audio-visual Summarization for Automated Video Advertisement Clipping**|Wen Xie (northeastern.edu) et.al.|[2510.26569](http://arxiv.org/abs/2510.26569)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
 |**2025-10-30**|**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**|Zhaoqi Zhang (bytedance.com) et.al.|[2510.26104](http://arxiv.org/abs/2510.26104)|null|
@@ -628,6 +633,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
+|**2025-10-30**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
+|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
 |**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He (andrew.cmu.edu) et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
@@ -926,6 +934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Culture Cartography: Mapping the Landscape of Cultural Knowledge**|Caleb Ziems (stanford.edu) et.al.|[2510.27672](http://arxiv.org/abs/2510.27672)|null|
+|**2025-10-31**|**ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling**|Zhuohan Wang et.al.|[2510.27610](http://arxiv.org/abs/2510.27610)|null|
+|**2025-10-31**|**InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**|Yunze Wu et.al.|[2510.27598](http://arxiv.org/abs/2510.27598)|null|
+|**2025-10-31**|**Patient-Centered Summarization Framework for AI Clinical Summarization: A Mixed-Methods Design**|Maria Lizarazo Jimenez (mayo.edu) et.al.|[2510.27535](http://arxiv.org/abs/2510.27535)|null|
+|**2025-10-31**|**GeoFM: Enhancing Geometric Reasoning of MLLMs via Synthetic Data Generation through Formal Language**|Yuhao Zhang (tencent.com) et.al.|[2510.27448](http://arxiv.org/abs/2510.27448)|null|
+|**2025-10-31**|**Reasoning Models Sometimes Output Illegible Chains of Thought**|Arun Jose (gmail.com) et.al.|[2510.27338](http://arxiv.org/abs/2510.27338)|null|
+|**2025-10-31**|**Can MLLMs Read the Room? A Multimodal Benchmark for Verifying Truthfulness in Multi-Party Social Interactions**|Caixin Kang (iis.u-tokyo.ac.jp) et.al.|[2510.27195](http://arxiv.org/abs/2510.27195)|null|
+|**2025-10-31**|**CombiGraph-Vis: A Curated Multimodal Olympiad Benchmark for Discrete Mathematical Reasoning**|Hamed Mahdavi et.al.|[2510.27094](http://arxiv.org/abs/2510.27094)|**[link](https://github.com/ref-grader/ref-grader)**|
+|**2025-10-31**|**Consistency Training Helps Stop Sycophancy and Jailbreaks**|Alex Irpan (google.com) et.al.|[2510.27062](http://arxiv.org/abs/2510.27062)|null|
+|**2025-10-30**|**LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks**|Seif Ikbarieh (tntech.edu) et.al.|[2510.26941](http://arxiv.org/abs/2510.26941)|null|
 |**2025-10-30**|**LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits**|Amir Reza Mirzaei (gmail.com) et.al.|[2510.26690](http://arxiv.org/abs/2510.26690)|null|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|**[link](https://github.com/RedaElMakroum/agentic-ai-hems)**|
 |**2025-10-30**|**A Multi-agent Large Language Model Framework to Automatically Assess Performance of a Clinical AI Triage Tool**|Adam E. Flanders (jefferson.edu) et.al.|[2510.26498](http://arxiv.org/abs/2510.26498)|null|
