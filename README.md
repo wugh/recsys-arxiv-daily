@@ -1,4 +1,4 @@
-## Updated on 2025.11.03
+## Updated on 2025.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,10 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Average Precision at Cutoff k under Random Rankings: Expectation and Variance**|Tetiana Manzhos et.al.|[2511.02571](http://arxiv.org/abs/2511.02571)|null|
+|**2025-11-03**|**Solving cold start in news recommendations: a RippleNet-based system for large scale media outlet**|Karol Radziszewski (pw.edu.pl) et.al.|[2511.02052](http://arxiv.org/abs/2511.02052)|null|
+|**2025-11-02**|**Controlling Gender Bias in Retrieval via a Backpack Architecture**|Amirabbas Afzali (ee.sharif.edu) et.al.|[2511.00875](http://arxiv.org/abs/2511.00875)|null|
+|**2025-11-02**|**GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents**|Jie JW Wu (mtu.edu) et.al.|[2511.00802](http://arxiv.org/abs/2511.00802)|null|
+|**2025-11-01**|**Structurally Refined Graph Transformer for Multimodal Recommendation**|Ke Shi et.al.|[2511.00584](http://arxiv.org/abs/2511.00584)|null|
+|**2025-11-01**|**PolyRecommender: A Multimodal Recommendation System for Polymer Discovery**|Xin Wang (vt.edu) et.al.|[2511.00375](http://arxiv.org/abs/2511.00375)|null|
+|**2025-10-31**|**Effectiveness of LLMs in Temporal User Profiling for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2511.00176](http://arxiv.org/abs/2511.00176)|null|
 |**2025-10-31**|**From the Rock Floor to the Cloud: A Systematic Survey of State-of-the-Art NLP in Battery Life Cycle**|Tosin Adewumi (ltu.se) et.al.|[2510.27369](http://arxiv.org/abs/2510.27369)|null|
 |**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|Alireza Gharahighehi et.al.|[2510.27342](http://arxiv.org/abs/2510.27342)|null|
 |**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
-|**2025-10-30**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
+|**2025-11-03**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
 |**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**AdSum: Two-stream Audio-visual Summarization for Automated Video Advertisement Clipping**|Wen Xie (northeastern.edu) et.al.|[2510.26569](http://arxiv.org/abs/2510.26569)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
@@ -634,14 +641,17 @@
 |**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang (bupt.edu.cn) et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
 |**2025-07-05**|**Agent Exchange: Shaping the Future of AI Agent Economics**|Yingxuan Yang (cs.ucl.ac.uk) et.al.|[2507.03904](http://arxiv.org/abs/2507.03904)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-02**|**Controlling Gender Bias in Retrieval via a Backpack Architecture**|Amirabbas Afzali (ee.sharif.edu) et.al.|[2511.00875](http://arxiv.org/abs/2511.00875)|null|
+|**2025-11-02**|**GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents**|Jie JW Wu (mtu.edu) et.al.|[2511.00802](http://arxiv.org/abs/2511.00802)|null|
+|**2025-10-31**|**Effectiveness of LLMs in Temporal User Profiling for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2511.00176](http://arxiv.org/abs/2511.00176)|null|
 |**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
-|**2025-10-30**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
+|**2025-11-03**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
 |**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
 |**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He (andrew.cmu.edu) et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|
@@ -937,12 +947,42 @@
 |**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris (ukhsa.gov.uk) et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary (poliba.it) et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**In Good GRACEs: Principled Teacher Selection for Knowledge Distillation**|Abhishek Panigrahi (princeton.edu) et.al.|[2511.02833](http://arxiv.org/abs/2511.02833)|null|
+|**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg (g.harvard.edu) et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
+|**2025-11-04**|**The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models**|Claudia Herambourg (omnicalculator.com) et.al.|[2511.02589](http://arxiv.org/abs/2511.02589)|null|
+|**2025-11-04**|**Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas**|Giulia Iadisernia (bancaditalia.it) et.al.|[2511.02458](http://arxiv.org/abs/2511.02458)|null|
+|**2025-11-04**|**ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning**|Jae-Woo Choi (etri.re.kr) et.al.|[2511.02424](http://arxiv.org/abs/2511.02424)|null|
+|**2025-11-04**|**EvoDev: An Iterative Feature-Driven Framework for End-to-End Software Development with LLM-based Agents**|Junwei Liu (m.fudan.edu.cn) et.al.|[2511.02399](http://arxiv.org/abs/2511.02399)|null|
+|**2025-11-04**|**AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models**|Aashray Reddy (student.palomar.edu) et.al.|[2511.02376](http://arxiv.org/abs/2511.02376)|null|
+|**2025-11-04**|**SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL Tuning**|Fangxun Shu et.al.|[2511.02280](http://arxiv.org/abs/2511.02280)|**[link](https://github.com/BytedanceDouyinContent/SAIL-RL)**|
+|**2025-11-04**|**Open the Oyster: Empirical Evaluation and Improvement of Code Reasoning Confidence in LLMs**|Shufan Wang (zju.edu.cn) et.al.|[2511.02197](http://arxiv.org/abs/2511.02197)|null|
+|**2025-11-03**|**Vibe Learning: Education in the age of AI**|Marcos Florencio (sou.inteli.edu.br) et.al.|[2511.01956](http://arxiv.org/abs/2511.01956)|null|
+|**2025-11-03**|**Simulating Environments with Reasoning Models for Agent Training**|Yuetai Li (uw.edu) et.al.|[2511.01824](http://arxiv.org/abs/2511.01824)|null|
+|**2025-11-03**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski (nvidia.com) et.al.|[2511.01815](http://arxiv.org/abs/2511.01815)|null|
+|**2025-11-03**|**Scam Shield: Multi-Model Voting and Fine-Tuned LLMs Against Adversarial Attacks**|Chen-Wei Chang et.al.|[2511.01746](http://arxiv.org/abs/2511.01746)|null|
+|**2025-11-03**|**SemBench: A Benchmark for Semantic Query Processing Engines**|Jiale Lao (cs.cornell.edu) et.al.|[2511.01716](http://arxiv.org/abs/2511.01716)|null|
+|**2025-11-03**|**Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models**|Daniyal Ganiuly (astanait.edu.kz) et.al.|[2511.01634](http://arxiv.org/abs/2511.01634)|null|
+|**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan (vldb.org) et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|null|
+|**2025-11-03**|**Imperfect Language, Artificial Intelligence, and the Human Mind: An Interdisciplinary Approach to Linguistic Errors in Native Spanish Speakers**|Francisco Portillo López et.al.|[2511.01615](http://arxiv.org/abs/2511.01615)|null|
+|**2025-11-03**|**Math anxiety and associative knowledge structure are entwined in psychology students but not in Large Language Models like GPT-3.5 and GPT-4o**|Luciana Ciringione (unitn.it) et.al.|[2511.01558](http://arxiv.org/abs/2511.01558)|null|
+|**2025-11-03**|**TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks**|Hanwen Xu (sjtu.edu.cn) et.al.|[2511.01527](http://arxiv.org/abs/2511.01527)|**[link](https://github.com/hanwenxu1/mcp-agent)**|
+|**2025-11-03**|**Privacy Preserving Ordinal-Meta Learning with VLMs for Fine-Grained Fruit Quality Prediction**|Riddhi Jain (tcs.com) et.al.|[2511.01449](http://arxiv.org/abs/2511.01449)|null|
+|**2025-11-03**|**The Ouroboros of Benchmarking: Reasoning Evaluation in an Era of Saturation**|İbrahim Ethem Deveci (metu.edu.tr) et.al.|[2511.01365](http://arxiv.org/abs/2511.01365)|null|
+|**2025-11-03**|**Exploringand Unleashing the Power of Large Language Models in CI/CD Configuration Translation**|Chong Wang (stu.suda.edu.cn) et.al.|[2511.01316](http://arxiv.org/abs/2511.01316)|null|
+|**2025-11-03**|**FirstAidQA: A Synthetic Dataset for First Aid and Emergency Response in Low-Connectivity Settings**|Saiyma Sittul Muna (iut-dhaka.edu) et.al.|[2511.01289](http://arxiv.org/abs/2511.01289)|null|
+|**2025-11-03**|**Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems**|Minseok Kim (g.skku.edu) et.al.|[2511.01268](http://arxiv.org/abs/2511.01268)|null|
+|**2025-11-03**|**Surfacing Subtle Stereotypes: A Multilingual, Debate-Oriented Evaluation of Modern LLMs**|Muhammed Saeed (mbzuai.ac.ae) et.al.|[2511.01187](http://arxiv.org/abs/2511.01187)|null|
+|**2025-11-03**|**DART: Difficulty-Adaptive Reasoning Truncation for Efficient Large Language Models**|Ruofan Zhang (gmail.com) et.al.|[2511.01170](http://arxiv.org/abs/2511.01170)|null|
+|**2025-11-03**|**AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence**|Md Tanvirul Alam (rit.edu) et.al.|[2511.01144](http://arxiv.org/abs/2511.01144)|null|
+|**2025-11-02**|**HPLT~3.0: Very Large-Scale Multilingual Resources for LLM and MT. Mono- and Bi-lingual Data, Multilingual Evaluation, and Pre-Trained Models**|Stephan Oepen (ifi.uio.no) et.al.|[2511.01066](http://arxiv.org/abs/2511.01066)|null|
+|**2025-11-02**|**Building a Silver-Standard Dataset from NICE Guidelines for Clinical LLMs**|Qing Ding (ucl.ac.uk) et.al.|[2511.01053](http://arxiv.org/abs/2511.01053)|null|
+|**2025-11-02**|**AI for pRedicting Exacerbations in KIDs with aSthma (AIRE-KIDS)**|Hui-Lee Ooi (cheo.on.ca) et.al.|[2511.01018](http://arxiv.org/abs/2511.01018)|null|
 |**2025-10-31**|**Culture Cartography: Mapping the Landscape of Cultural Knowledge**|Caleb Ziems (stanford.edu) et.al.|[2510.27672](http://arxiv.org/abs/2510.27672)|null|
 |**2025-10-31**|**ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling**|Zhuohan Wang et.al.|[2510.27610](http://arxiv.org/abs/2510.27610)|null|
 |**2025-10-31**|**InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**|Yunze Wu et.al.|[2510.27598](http://arxiv.org/abs/2510.27598)|null|
@@ -2302,7 +2342,7 @@
 |**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries (manchester.ac.uk) et.al.|[2507.08310](http://arxiv.org/abs/2507.08310)|null|
 |**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
