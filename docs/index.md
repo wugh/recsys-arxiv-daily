@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng**|Oleg Senkevich (huawei.com) et.al.|[2511.03298](http://arxiv.org/abs/2511.03298)|null|
+|**2025-11-05**|**Generative Sequential Recommendation via Hierarchical Behavior Modeling**|Zhefan Wang (mails.tsinghua.edu.cn) et.al.|[2511.03155](http://arxiv.org/abs/2511.03155)|null|
+|**2025-11-04**|**Stochastic Deep Graph Clustering for Practical Group Formation**|Junhyung Park (inha.edu) et.al.|[2511.02879](http://arxiv.org/abs/2511.02879)|null|
 |**2025-11-04**|**Average Precision at Cutoff k under Random Rankings: Expectation and Variance**|Tetiana Manzhos et.al.|[2511.02571](http://arxiv.org/abs/2511.02571)|null|
 |**2025-11-03**|**Solving cold start in news recommendations: a RippleNet-based system for large scale media outlet**|Karol Radziszewski (pw.edu.pl) et.al.|[2511.02052](http://arxiv.org/abs/2511.02052)|null|
 |**2025-11-02**|**Controlling Gender Bias in Retrieval via a Backpack Architecture**|Amirabbas Afzali (ee.sharif.edu) et.al.|[2511.00875](http://arxiv.org/abs/2511.00875)|null|
@@ -652,7 +655,7 @@ layout: default
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong (mail.ustc.edu.com) et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
 |**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|Yejin Kim (comcast.com) et.al.|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
 |**2025-10-27**|**Think before Recommendation: Autonomous Reasoning-enhanced Recommender**|Xiaoyu Kong (alibaba-inc.com) et.al.|[2510.23077](http://arxiv.org/abs/2510.23077)|null|
-|**2025-10-26**|**Agentic Meta-Orchestrator for Multi-task Copilots**|Xiaofeng Zhu (microsoft.com) et.al.|[2510.22781](http://arxiv.org/abs/2510.22781)|null|
+|**2025-11-05**|**Agentic Meta-Orchestrator for Multi-task Copilots**|Xiaofeng Zhu (microsoft.com) et.al.|[2510.22781](http://arxiv.org/abs/2510.22781)|null|
 |**2025-10-24**|**Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders**|Zhimin Chen (meta.com) et.al.|[2510.22049](http://arxiv.org/abs/2510.22049)|null|
 |**2025-10-23**|**Language Ranker: A Lightweight Ranking framework for LLM Decoding**|Chenheng Zhang (pku.edu.cn) et.al.|[2510.21883](http://arxiv.org/abs/2510.21883)|null|
 |**2025-10-24**|**SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation**|Mariam Arustashvili (uis.no) et.al.|[2510.21352](http://arxiv.org/abs/2510.21352)|null|
@@ -944,9 +947,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents**|Xingyao Wang (openhands.dev) et.al.|[2511.03690](http://arxiv.org/abs/2511.03690)|null|
+|**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan (stepfun.com) et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
+|**2025-11-05**|**MultiZebraLogic: A Multilingual Logical Reasoning Benchmark**|Sofie Helene Bruun (alexandra.dk) et.al.|[2511.03553](http://arxiv.org/abs/2511.03553)|null|
+|**2025-11-05**|**ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications**|Lei Fu (zhaw.ch) et.al.|[2511.03497](http://arxiv.org/abs/2511.03497)|**[link](https://github.com/binabik-ai/mcp-rosbags)**|
+|**2025-11-05**|**Inter-Agent Trust Models: A Comparative Study of Brief, Claim, Proof, Stake, Reputation and Constraint in Agentic Web Protocol Design-A2A, AP2, ERC-8004, and Beyond**|Botao 'Amber' Hu (cs.ox.ac.uk) et.al.|[2511.03434](http://arxiv.org/abs/2511.03434)|null|
+|**2025-11-05**|**Computational Imaging Meets LLMs: Zero-Shot IDH Mutation Prediction in Brain Gliomas**|Syed Muqeem Mahmood et.al.|[2511.03376](http://arxiv.org/abs/2511.03376)|**[link](https://github.com/ATPLab-LUMS/CIM-LLM)**|
+|**2025-11-05**|**Comparing the Performance of LLMs in RAG-based Question-Answering: A Case Study in Computer Science Literature**|Ranul Dayarathne (uom.lk) et.al.|[2511.03261](http://arxiv.org/abs/2511.03261)|null|
+|**2025-11-05**|**Death by a Thousand Prompts: Open Model Vulnerability Analysis**|Amy Chang et.al.|[2511.03247](http://arxiv.org/abs/2511.03247)|null|
+|**2025-11-05**|**Understanding Robustness of Model Editing in Code LLMs: An Empirical Study**|Vinaik Chhetri (lsu.edu) et.al.|[2511.03182](http://arxiv.org/abs/2511.03182)|null|
+|**2025-11-05**|**BengaliMoralBench: A Benchmark for Auditing Moral Reasoning in Large Language Models within Bengali Language and Culture**|Shahriyar Zaman Ridoy (northsouth.edu) et.al.|[2511.03180](http://arxiv.org/abs/2511.03180)|null|
+|**2025-11-05**|**SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators**|Jonathan Li (sambanovasystems.com) et.al.|[2511.03092](http://arxiv.org/abs/2511.03092)|null|
+|**2025-11-04**|**No-Human in the Loop: Agentic Evaluation at Scale for Recommendation**|Tao Zhang (walmart.com) et.al.|[2511.03051](http://arxiv.org/abs/2511.03051)|null|
+|**2025-11-04**|**Targeted Error Correction in Knowledge Distillation: Small Language Models Surpass GPT**|Hee-Jin Lee (ebay.com) et.al.|[2511.03005](http://arxiv.org/abs/2511.03005)|null|
+|**2025-11-04**|**Zero-shot data citation function classification using transformer-based large language models (LLMs)**|Neil Byers (lbl.gov) et.al.|[2511.02936](http://arxiv.org/abs/2511.02936)|null|
 |**2025-11-04**|**In Good GRACEs: Principled Teacher Selection for Knowledge Distillation**|Abhishek Panigrahi (princeton.edu) et.al.|[2511.02833](http://arxiv.org/abs/2511.02833)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg (g.harvard.edu) et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
-|**2025-11-04**|**The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models**|Claudia Herambourg (omnicalculator.com) et.al.|[2511.02589](http://arxiv.org/abs/2511.02589)|null|
+|**2025-11-05**|**The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models**|Claudia Herambourg (omnicalculator.com) et.al.|[2511.02589](http://arxiv.org/abs/2511.02589)|null|
 |**2025-11-04**|**Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas**|Giulia Iadisernia (bancaditalia.it) et.al.|[2511.02458](http://arxiv.org/abs/2511.02458)|null|
 |**2025-11-04**|**ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning**|Jae-Woo Choi (etri.re.kr) et.al.|[2511.02424](http://arxiv.org/abs/2511.02424)|null|
 |**2025-11-04**|**EvoDev: An Iterative Feature-Driven Framework for End-to-End Software Development with LLM-based Agents**|Junwei Liu (m.fudan.edu.cn) et.al.|[2511.02399](http://arxiv.org/abs/2511.02399)|null|
