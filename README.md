@@ -32,7 +32,7 @@
 |**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|Alireza Gharahighehi et.al.|[2510.27342](http://arxiv.org/abs/2510.27342)|null|
 |**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
 |**2025-11-03**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
-|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
+|**2025-11-07**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**AdSum: Two-stream Audio-visual Summarization for Automated Video Advertisement Clipping**|Wen Xie (northeastern.edu) et.al.|[2510.26569](http://arxiv.org/abs/2510.26569)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
 |**2025-10-30**|**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**|Zhaoqi Zhang (bytedance.com) et.al.|[2510.26104](http://arxiv.org/abs/2510.26104)|null|
@@ -661,7 +661,7 @@
 |**2025-10-31**|**Effectiveness of LLMs in Temporal User Profiling for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2511.00176](http://arxiv.org/abs/2511.00176)|null|
 |**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|Min Hou (gmail.com) et.al.|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
 |**2025-11-03**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|Zheng Nie (gmail.com) et.al.|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
-|**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
+|**2025-11-07**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|Yu Li et.al.|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering**|Danial Ebrat (uwindsor.ca) et.al.|[2510.26461](http://arxiv.org/abs/2510.26461)|null|
 |**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He (andrew.cmu.edu) et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo (illinois.edu) et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
@@ -962,10 +962,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models**|Jingxuan Xu (kuaishou.com) et.al.|[2511.05459](http://arxiv.org/abs/2511.05459)|null|
+|**2025-11-07**|**What Are the Facts? Automated Extraction of Court-Established Facts from Criminal-Court Opinions**|Klára Bendová (prf.cuni.cz) et.al.|[2511.05320](http://arxiv.org/abs/2511.05320)|null|
+|**2025-11-07**|**Effectiveness of Chain-of-Thought in Distilling Reasoning Capability from Large Language Models**|Cong-Thanh Do (toshiba.eu) et.al.|[2511.05184](http://arxiv.org/abs/2511.05184)|null|
+|**2025-11-07**|**Usando LLMs para Programar Jogos de Tabuleiro e Variações**|Álvaro Guglielmin Becker (inf.ufrgs.br) et.al.|[2511.05114](http://arxiv.org/abs/2511.05114)|null|
+|**2025-11-07**|**On Text Simplification Metrics and General-Purpose LLMs for Accessible Health Information, and A Potential Architectural Advantage of The Instruction-Tuned LLM class**|P. Bilha Githinji et.al.|[2511.05080](http://arxiv.org/abs/2511.05080)|null|
+|**2025-11-07**|**UA-Code-Bench: A Competitive Programming Benchmark for Evaluating LLM Code Generation in Ukrainian**|Mykyta Syromiatnikov (gmail.com) et.al.|[2511.05040](http://arxiv.org/abs/2511.05040)|null|
+|**2025-11-07**|**8bit-GPT: Exploring Human-AI Interaction on Obsolete Macintosh Operating Systems**|Hala Sheta (uwaterloo.ca) et.al.|[2511.05025](http://arxiv.org/abs/2511.05025)|null|
+|**2025-11-07**|**Enhancing Public Speaking Skills in Engineering Students Through AI**|Amol Harsh (plaksha.edu.in) et.al.|[2511.04995](http://arxiv.org/abs/2511.04995)|null|
+|**2025-11-07**|**A benchmark multimodal oro-dental dataset for large vision-language models**|Haoxin Lv (sjtu.edu.cn) et.al.|[2511.04948](http://arxiv.org/abs/2511.04948)|null|
+|**2025-11-06**|**Learning to reason about rare diseases through retrieval-augmented agents**|Ha Young Kim et.al.|[2511.04720](http://arxiv.org/abs/2511.04720)|null|
 |**2025-11-06**|**ARETE: an R package for Automated REtrieval from TExt with large language models**|Vasco V. Branco et.al.|[2511.04573](http://arxiv.org/abs/2511.04573)|null|
 |**2025-11-06**|**Large language models replicate and predict human cooperation across experiments in game theory**|Andrea Cera Palatsi (bsc.es) et.al.|[2511.04500](http://arxiv.org/abs/2511.04500)|null|
 |**2025-11-06**|**Promoting Sustainable Web Agents: Benchmarking and Estimating Energy Consumption through Empirical and Theoretical Analysis**|Lars Krupp (dfki.de) et.al.|[2511.04481](http://arxiv.org/abs/2511.04481)|null|
-|**2025-11-06**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|Surapon Nonesung (scb10x.com) et.al.|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
+|**2025-11-07**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|Surapon Nonesung (scb10x.com) et.al.|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
 |**2025-11-06**|**If I Could Turn Back Time: Temporal Reframing as a Historical Reasoning Task for LLMs**|Lars Bungum (ntnu.no) et.al.|[2511.04432](http://arxiv.org/abs/2511.04432)|null|
 |**2025-11-06**|**Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach**|Chanwoo Park et.al.|[2511.04393](http://arxiv.org/abs/2511.04393)|null|
 |**2025-11-06**|**Reusing Pre-Training Data at Test Time is a Compute Multiplier**|Alex Fang et.al.|[2511.04234](http://arxiv.org/abs/2511.04234)|null|
