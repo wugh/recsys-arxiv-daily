@@ -1,4 +1,4 @@
-## Updated on 2025.11.13
+## Updated on 2025.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana (hyderabad.bits-pilani.ac.in) et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang (berkeley.edu) et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
+|**2025-11-13**|**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**|Jun Zhang (acm.org) et.al.|[2511.10138](http://arxiv.org/abs/2511.10138)|null|
+|**2025-11-13**|**MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys**|Yanchen Deng (ntu.edu.sg) et.al.|[2511.10108](http://arxiv.org/abs/2511.10108)|null|
+|**2025-11-13**|**MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data**|Dimitrios Sinodinos (mail.mcgill.ca) et.al.|[2511.09970](http://arxiv.org/abs/2511.09970)|**[link](https://github.com/Armanfard-Lab/MultiTab)**|
+|**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas (purdue.edu) et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
+|**2025-11-13**|**AI-Integrated Decision Support System for Real-Time Market Growth Forecasting and Multi-Source Content Diffusion Analytics**|Ziqing Yin (qq.com) et.al.|[2511.09962](http://arxiv.org/abs/2511.09962)|null|
+|**2025-11-12**|**Improving Graduate Outcomes by Identifying Skills Gaps and Recommending Courses Based on Career Interests**|Rahul Soni (unsw.edu.au) et.al.|[2511.09819](http://arxiv.org/abs/2511.09819)|null|
+|**2025-11-12**|**AutoSynth: Automated Workflow Optimization for High-Quality Synthetic Dataset Generation via Monte Carlo Tree Search**|Shuzhen Bi (mail.ustc.edu.cn) et.al.|[2511.09488](http://arxiv.org/abs/2511.09488)|**[link](https://github.com/bisz9918-maker/AutoSynth)**|
+|**2025-11-12**|**Algorithmic Advice as a Strategic Signal on Competitive Markets**|Tobias R. Rebholz et.al.|[2511.09454](http://arxiv.org/abs/2511.09454)|null|
+|**2025-11-12**|**From Decision Trees to Boolean Logic: A Fast and Unified SHAP Algorithm**|Alexander Nadel (technion.ac.il) et.al.|[2511.09376](http://arxiv.org/abs/2511.09376)|null|
+|**2025-11-12**|**Sim4IA-Bench: A User Simulation Benchmark Suite for Next Query and Utterance Prediction**|Andreas Konstantin Kruff (th-koeln.de) et.al.|[2511.09329](http://arxiv.org/abs/2511.09329)|**[link](https://github.com/irgroup/Sim4IA-Bench)**|
+|**2025-11-12**|**MARBLE: Multi-Armed Restless Bandits in Latent Markovian Environment**|Mohsen Amiri et.al.|[2511.09324](http://arxiv.org/abs/2511.09324)|null|
+|**2025-11-12**|**Differentially Private Rankings via Outranking Methods and Performance Data Aggregation**|Luis Del Vasto-Terrientes (fundacio.urv.cat) et.al.|[2511.09120](http://arxiv.org/abs/2511.09120)|null|
+|**2025-11-13**|**Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning**|Wenda Wei (ict.ac.cn) et.al.|[2511.09109](http://arxiv.org/abs/2511.09109)|null|
+|**2025-11-12**|**Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback**|Shengbo Wang (foxmail.com) et.al.|[2511.09047](http://arxiv.org/abs/2511.09047)|null|
+|**2025-11-11**|**Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents**|Xiao Wang (std.uestc.edu.cn) et.al.|[2511.08378](http://arxiv.org/abs/2511.08378)|null|
+|**2025-11-11**|**JobSphere: An AI-Powered Multilingual Career Copilot for Government Employment Platforms**|Srihari R (ieee.org) et.al.|[2511.08343](http://arxiv.org/abs/2511.08343)|null|
+|**2025-11-11**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho (hayang.ac.kr) et.al.|[2511.08181](http://arxiv.org/abs/2511.08181)|**[link](https://github.com/diddbwls/cocktail_rec_agentrag)**|
+|**2025-11-11**|**Combining LLM Semantic Reasoning with GNN Structural Modeling for Multi-view Multi-Label Feature Selection**|Zhiqi Chen (mails.jlu.edu.cn) et.al.|[2511.08008](http://arxiv.org/abs/2511.08008)|null|
 |**2025-11-06**|**LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems**|Baptiste Bonin (ulaval.ca) et.al.|[2511.04541](http://arxiv.org/abs/2511.04541)|null|
 |**2025-11-06**|**Denoised Recommendation Model with Collaborative Signal Decoupling**|Zefeng Li (gmail.com) et.al.|[2511.04237](http://arxiv.org/abs/2511.04237)|null|
 |**2025-11-06**|**ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads**|Xiaokai Wang (tju.edu.cn) et.al.|[2511.04162](http://arxiv.org/abs/2511.04162)|null|
@@ -667,14 +687,32 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang (berkeley.edu) et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
+|**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas (purdue.edu) et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
+|**2025-11-12**|**AutoSynth: Automated Workflow Optimization for High-Quality Synthetic Dataset Generation via Monte Carlo Tree Search**|Shuzhen Bi (mail.ustc.edu.cn) et.al.|[2511.09488](http://arxiv.org/abs/2511.09488)|**[link](https://github.com/bisz9918-maker/AutoSynth)**|
+|**2025-11-13**|**Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning**|Wenda Wei (ict.ac.cn) et.al.|[2511.09109](http://arxiv.org/abs/2511.09109)|null|
+|**2025-11-12**|**Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback**|Shengbo Wang (foxmail.com) et.al.|[2511.09047](http://arxiv.org/abs/2511.09047)|null|
+|**2025-11-11**|**MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System**|Seung Hwan Cho (hayang.ac.kr) et.al.|[2511.08181](http://arxiv.org/abs/2511.08181)|**[link](https://github.com/diddbwls/cocktail_rec_agentrag)**|
+|**2025-11-11**|**Combining LLM Semantic Reasoning with GNN Structural Modeling for Multi-view Multi-Label Feature Selection**|Zhiqi Chen (mails.jlu.edu.cn) et.al.|[2511.08008](http://arxiv.org/abs/2511.08008)|null|
+|**2025-11-10**|**AIA Forecaster: Technical Report**|Rohan Alur (bwater.com) et.al.|[2511.07678](http://arxiv.org/abs/2511.07678)|null|
+|**2025-11-10**|**Cortex AISQL: A Production SQL Engine for Unstructured Data**|Paritosh Aggarwal (snowflake.com) et.al.|[2511.07663](http://arxiv.org/abs/2511.07663)|null|
+|**2025-11-11**|**Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models**|Tianrui Song (connect.hkust-gz.edu.cn) et.al.|[2511.07295](http://arxiv.org/abs/2511.07295)|null|
+|**2025-11-09**|**Overview of CHIP 2025 Shared Task 2: Discharge Medication Recommendation for Metabolic Diseases Based on Chinese Electronic Health Records**|Juntao Li (dlut.edu.cn) et.al.|[2511.06230](http://arxiv.org/abs/2511.06230)|null|
+|**2025-11-09**|**RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework**|Seif Ikbarieh (tntech.edu) et.al.|[2511.06212](http://arxiv.org/abs/2511.06212)|null|
+|**2025-11-08**|**Make It Long, Keep It Fast: End-to-End 10k-Sequence Modeling at Billion Scale on Douyin**|Lin Guan (bytedance.com) et.al.|[2511.06077](http://arxiv.org/abs/2511.06077)|null|
 |**2025-11-06**|**LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems**|Baptiste Bonin (ulaval.ca) et.al.|[2511.04541](http://arxiv.org/abs/2511.04541)|null|
+|**2025-11-06**|**RxSafeBench: Identifying Medication Safety Issues of Large Language Models in Simulated Consultation**|Jiahao Zhao (mails.neu.edu.cn) et.al.|[2511.04328](http://arxiv.org/abs/2511.04328)|null|
 |**2025-11-06**|**Caption Injection for Optimization in Generative Search Engine**|Xiaolu Chen (mail.ustc.edu.cn) et.al.|[2511.04080](http://arxiv.org/abs/2511.04080)|null|
+|**2025-11-06**|**An LLM-based Framework for Human-Swarm Teaming Cognition in Disaster Search and Rescue**|Kailun Ji (nwpu.edu.cn) et.al.|[2511.04042](http://arxiv.org/abs/2511.04042)|null|
+|**2025-11-06**|**ArchPilot: A Proxy-Guided Multi-Agent Approach for Machine Learning Engineering**|Zhuowen Yuan (illinois.edu) et.al.|[2511.03985](http://arxiv.org/abs/2511.03985)|null|
+|**2025-11-05**|**Death by a Thousand Prompts: Open Model Vulnerability Analysis**|Amy Chang et.al.|[2511.03247](http://arxiv.org/abs/2511.03247)|null|
+|**2025-11-05**|**RefAgent: A Multi-agent LLM-based Framework for Automatic Software Refactoring**|Khouloud Oueslati (polymtl.ca) et.al.|[2511.03153](http://arxiv.org/abs/2511.03153)|null|
 |**2025-11-02**|**Controlling Gender Bias in Retrieval via a Backpack Architecture**|Amirabbas Afzali (ee.sharif.edu) et.al.|[2511.00875](http://arxiv.org/abs/2511.00875)|null|
 |**2025-11-02**|**GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents**|Jie JW Wu (mtu.edu) et.al.|[2511.00802](http://arxiv.org/abs/2511.00802)|null|
 |**2025-10-31**|**Effectiveness of LLMs in Temporal User Profiling for Recommendation**|Milad Sabouri (depaul.edu) et.al.|[2511.00176](http://arxiv.org/abs/2511.00176)|null|
@@ -993,12 +1031,42 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Black-Box On-Policy Distillation of Large Language Models**|Tianzhu Ye (microsoft.com) et.al.|[2511.10643](http://arxiv.org/abs/2511.10643)|null|
+|**2025-11-13**|**LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning**|Zihan Gao (wisc.edu) et.al.|[2511.10459](http://arxiv.org/abs/2511.10459)|null|
+|**2025-11-13**|**Exploring State Tracking Capabilities of Large Language Models**|Kiamehr Rezaee (cardiff.ac.uk) et.al.|[2511.10457](http://arxiv.org/abs/2511.10457)|null|
+|**2025-11-13**|**Analogical Structure, Minimal Contextual Cues and Contrastive Distractors: Input Design for Sample-Efficient Linguistic Rule Induction**|Chunyang Jiang (unige.ch) et.al.|[2511.10441](http://arxiv.org/abs/2511.10441)|null|
+|**2025-11-13**|**Knowledge Graphs Generation from Cultural Heritage Texts: Combining LLMs and Ontological Engineering for Scholarly Debates**|Andrea Schimmenti (unibo.it) et.al.|[2511.10354](http://arxiv.org/abs/2511.10354)|null|
+|**2025-11-13**|**Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware**|Martin Braas (ece.au.dk) et.al.|[2511.10277](http://arxiv.org/abs/2511.10277)|null|
+|**2025-11-13**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang (cam.ac.uk) et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
+|**2025-11-13**|**On the Military Applications of Large Language Models**|Satu Johansson (tuni.fi) et.al.|[2511.10093](http://arxiv.org/abs/2511.10093)|null|
+|**2025-11-13**|**PustakAI: Curriculum-Aligned and Interactive Textbooks Using Large Language Models**|Shivam Sharma (goa.bits-pilani.ac.in) et.al.|[2511.10002](http://arxiv.org/abs/2511.10002)|null|
+|**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas (purdue.edu) et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
+|**2025-11-13**|**Leveraging Large Language Models for Identifying Knowledge Components**|Canwen Wang (andrew.cmu.edu) et.al.|[2511.09935](http://arxiv.org/abs/2511.09935)|null|
+|**2025-11-12**|**AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics**|Bakhtawar Ahtisham (cornell.edu) et.al.|[2511.09785](http://arxiv.org/abs/2511.09785)|null|
+|**2025-11-12**|**How Small Can You Go? Compact Language Models for On-Device Critical Error Detection in Machine Translation**|Muskaan Chopra et.al.|[2511.09748](http://arxiv.org/abs/2511.09748)|null|
+|**2025-11-12**|**TawPipe: Topology-Aware Weight Pipeline Parallelism for Accelerating Long-Context Large Models Training**|Houming Wu (cs.zju.edu.cn) et.al.|[2511.09741](http://arxiv.org/abs/2511.09741)|null|
+|**2025-11-12**|**Order Matters: Rethinking Prompt Construction in In-Context Learning**|Warren Li (ucsd.edu) et.al.|[2511.09700](http://arxiv.org/abs/2511.09700)|null|
+|**2025-11-13**|**LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication**|Prajwal Singhania (umd.edu) et.al.|[2511.09557](http://arxiv.org/abs/2511.09557)|null|
+|**2025-11-12**|**Multimodal Large Language Models for Low-Resource Languages: A Case Study for Basque**|Lukas Arana (ehu.eus) et.al.|[2511.09396](http://arxiv.org/abs/2511.09396)|null|
+|**2025-11-12**|**The 2025 Planning Performance of Frontier Large Language Models**|Augusto B. Corrêa et.al.|[2511.09378](http://arxiv.org/abs/2511.09378)|null|
+|**2025-11-12**|**mmJEE-Eval: A Bilingual Multimodal Benchmark for Evaluating Scientific Reasoning in Vision-Language Models**|Arka Mukherjee (gmail.com) et.al.|[2511.09339](http://arxiv.org/abs/2511.09339)|**[link](https://mmjee-eval.github.io)**|
+|**2025-11-12**|**Not Everything That Counts Can Be Counted: A Case for Safe Qualitative AI**|Stine Beltoft (imada.sdu.dk) et.al.|[2511.09325](http://arxiv.org/abs/2511.09325)|null|
+|**2025-11-12**|**Towards Explainable Khmer Polarity Classification**|Marry Kong (techostartup.center) et.al.|[2511.09313](http://arxiv.org/abs/2511.09313)|null|
+|**2025-11-12**|**Sure! Here's a short and concise title for your paper: "Contamination in Generated Text Detection Benchmarks"**|Philipp Dingfelder (fau.de) et.al.|[2511.09200](http://arxiv.org/abs/2511.09200)|null|
+|**2025-11-12**|**A Hybrid Search for Complex Table Question Answering in Securities Report**|Daiki Shirafuji et.al.|[2511.09179](http://arxiv.org/abs/2511.09179)|null|
+|**2025-11-12**|**Efficient Reasoning via Reward Model**|Yuhao Wang (my.cityu.edu.hk) et.al.|[2511.09158](http://arxiv.org/abs/2511.09158)|null|
+|**2025-11-12**|**MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique**|Gailun Zeng (u.nus.edu) et.al.|[2511.09067](http://arxiv.org/abs/2511.09067)|**[link](https://github.com/MichealZeng0420/MM-Critic)**|
+|**2025-11-12**|**Bayesian Mixture of Experts For Large Language Models**|Maryam Dialameh (uwaterloo.ca) et.al.|[2511.08968](http://arxiv.org/abs/2511.08968)|null|
+|**2025-11-12**|**Hallucinate or Memorize? The Two Sides of Probabilistic Learning in Large Language Models**|Junichiro Niimi et.al.|[2511.08877](http://arxiv.org/abs/2511.08877)|null|
+|**2025-11-11**|**Toward Automated Cognitive Assessment in Parkinson's Disease Using Pretrained Language Models**|Varada Khanna (yale.edu) et.al.|[2511.08806](http://arxiv.org/abs/2511.08806)|null|
+|**2025-11-11**|**Convergence dynamics of Agent-to-Agent Interactions with Misaligned objectives**|Romain Cosentino (salesforce.com) et.al.|[2511.08710](http://arxiv.org/abs/2511.08710)|null|
+|**2025-11-11**|**Moral Susceptibility and Robustness under Persona Role-Play in Large Language Models**|Davi Bastos Costa (usp.br) et.al.|[2511.08565](http://arxiv.org/abs/2511.08565)|null|
 |**2025-11-07**|**SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models**|Jingxuan Xu (kuaishou.com) et.al.|[2511.05459](http://arxiv.org/abs/2511.05459)|null|
 |**2025-11-07**|**What Are the Facts? Automated Extraction of Court-Established Facts from Criminal-Court Opinions**|Klára Bendová (prf.cuni.cz) et.al.|[2511.05320](http://arxiv.org/abs/2511.05320)|null|
 |**2025-11-07**|**Effectiveness of Chain-of-Thought in Distilling Reasoning Capability from Large Language Models**|Cong-Thanh Do (toshiba.eu) et.al.|[2511.05184](http://arxiv.org/abs/2511.05184)|null|
@@ -2452,7 +2520,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
