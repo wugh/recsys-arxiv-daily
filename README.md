@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**SRLF: An Agent-Driven Set-Wise Reflective Learning Framework for Sequential Recommendation**|Jiahao Wang (gmail.com) et.al.|[2511.11370](http://arxiv.org/abs/2511.11370)|null|
+|**2025-11-14**|**MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising**|Chenghan Fu (taobao.com) et.al.|[2511.11305](http://arxiv.org/abs/2511.11305)|null|
+|**2025-11-14**|**Align $^3$ GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation**|Wencai Ye (kuaishou.com) et.al.|[2511.11255](http://arxiv.org/abs/2511.11255)|null|
+|**2025-11-14**|**Enhancing Group Recommendation using Soft Impute Singular Value Decomposition**|Mubaraka Sani Ibrahim (aust.edu.ng) et.al.|[2511.11172](http://arxiv.org/abs/2511.11172)|null|
+|**2025-11-14**|**Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis**|Farhad Abtahi (ki.se) et.al.|[2511.11020](http://arxiv.org/abs/2511.11020)|null|
+|**2025-11-14**|**AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce**|Dimitar Peshevski (finki.ukim.mk) et.al.|[2511.11017](http://arxiv.org/abs/2511.11017)|null|
+|**2025-11-14**|**LEMUR: Large scale End-to-end MUltimodal Recommendation**|Xintian Han (bytedance.com) et.al.|[2511.10962](http://arxiv.org/abs/2511.10962)|null|
 |**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana (hyderabad.bits-pilani.ac.in) et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
 |**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang (berkeley.edu) et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
 |**2025-11-13**|**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**|Jun Zhang (acm.org) et.al.|[2511.10138](http://arxiv.org/abs/2511.10138)|null|
@@ -693,6 +700,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**SRLF: An Agent-Driven Set-Wise Reflective Learning Framework for Sequential Recommendation**|Jiahao Wang (gmail.com) et.al.|[2511.11370](http://arxiv.org/abs/2511.11370)|null|
+|**2025-11-14**|**Align $^3$ GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation**|Wencai Ye (kuaishou.com) et.al.|[2511.11255](http://arxiv.org/abs/2511.11255)|null|
+|**2025-11-14**|**Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis**|Farhad Abtahi (ki.se) et.al.|[2511.11020](http://arxiv.org/abs/2511.11020)|null|
+|**2025-11-14**|**AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce**|Dimitar Peshevski (finki.ukim.mk) et.al.|[2511.11017](http://arxiv.org/abs/2511.11017)|null|
 |**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang (berkeley.edu) et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
 |**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas (purdue.edu) et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
 |**2025-11-12**|**AutoSynth: Automated Workflow Optimization for High-Quality Synthetic Dataset Generation via Monte Carlo Tree Search**|Shuzhen Bi (mail.ustc.edu.cn) et.al.|[2511.09488](http://arxiv.org/abs/2511.09488)|**[link](https://github.com/bisz9918-maker/AutoSynth)**|
@@ -1037,15 +1048,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Dawei Zhu (pku.edu.cn) et.al.|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
+|**2025-11-14**|**MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism**|Shulin Liu (tencent.com) et.al.|[2511.11373](http://arxiv.org/abs/2511.11373)|null|
+|**2025-11-14**|**M-DAIGT: A Shared Task on Multi-Domain Detection of AI-Generated Text**|Salima Lamsiyah et.al.|[2511.11340](http://arxiv.org/abs/2511.11340)|null|
+|**2025-11-14**|**LAET: A Layer-wise Adaptive Ensemble Tuning Framework for Pretrained Language Models**|Jawad Ibn Ahad (robotbulls.com) et.al.|[2511.11315](http://arxiv.org/abs/2511.11315)|null|
+|**2025-11-14**|**UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios**|Mohamed Amine Ferrag (uaeu.ac.ae) et.al.|[2511.11252](http://arxiv.org/abs/2511.11252)|**[link](https://github.com/maferrag/UAVBench)**|
+|**2025-11-14**|**Questioning the Stability of Visual Question Answering**|Amir Rosenfeld (biu.ac.il) et.al.|[2511.11206](http://arxiv.org/abs/2511.11206)|null|
+|**2025-11-14**|**Can LLMs Detect Their Own Hallucinations?**|Sora Kadotani (ntt.com) et.al.|[2511.11087](http://arxiv.org/abs/2511.11087)|null|
+|**2025-11-14**|**Key Decision-Makers in Multi-Agent Debates: Who Holds the Power?**|Qian Zhang (tju.edu.cn) et.al.|[2511.11040](http://arxiv.org/abs/2511.11040)|null|
+|**2025-11-14**|**Evaluating Large Language Models on Rare Disease Diagnosis: A Case Study using House M.D**|Arsh Gupta (psu.edu) et.al.|[2511.10912](http://arxiv.org/abs/2511.10912)|null|
+|**2025-11-14**|**Automated Analysis of Learning Outcomes and Exam Questions Based on Bloom's Taxonomy**|Ramya Kumar (unsw.edu.au) et.al.|[2511.10903](http://arxiv.org/abs/2511.10903)|null|
+|**2025-11-14**|**From Fact to Judgment: Investigating the Impact of Task Framing on LLM Conviction in Dialogue Systems**|Parisa Rabbani (illinois.edu) et.al.|[2511.10871](http://arxiv.org/abs/2511.10871)|null|
+|**2025-11-13**|**LLM-as-a-Grader: Practical Insights from Large Language Model for Short-Answer and Report Evaluation**|Grace Byun (emory.edu) et.al.|[2511.10819](http://arxiv.org/abs/2511.10819)|null|
+|**2025-11-13**|**Sabiá: Um Chatbot de Inteligência Artificial Generativa para Suporte no Dia a Dia do Ensino Superior**|Guilherme Biava Rodrigues (alunos.utfpr.edu.br) et.al.|[2511.10787](http://arxiv.org/abs/2511.10787)|null|
+|**2025-11-13**|**Faithful Summarization of Consumer Health Queries: A Cross-Lingual Framework with LLMs**|Ajwad Abrar (iut-dhaka.edu) et.al.|[2511.10768](http://arxiv.org/abs/2511.10768)|null|
 |**2025-11-13**|**Black-Box On-Policy Distillation of Large Language Models**|Tianzhu Ye (microsoft.com) et.al.|[2511.10643](http://arxiv.org/abs/2511.10643)|null|
 |**2025-11-13**|**LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning**|Zihan Gao (wisc.edu) et.al.|[2511.10459](http://arxiv.org/abs/2511.10459)|null|
 |**2025-11-13**|**Exploring State Tracking Capabilities of Large Language Models**|Kiamehr Rezaee (cardiff.ac.uk) et.al.|[2511.10457](http://arxiv.org/abs/2511.10457)|null|
 |**2025-11-13**|**Analogical Structure, Minimal Contextual Cues and Contrastive Distractors: Input Design for Sample-Efficient Linguistic Rule Induction**|Chunyang Jiang (unige.ch) et.al.|[2511.10441](http://arxiv.org/abs/2511.10441)|null|
 |**2025-11-13**|**Knowledge Graphs Generation from Cultural Heritage Texts: Combining LLMs and Ontological Engineering for Scholarly Debates**|Andrea Schimmenti (unibo.it) et.al.|[2511.10354](http://arxiv.org/abs/2511.10354)|null|
 |**2025-11-13**|**Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware**|Martin Braas (ece.au.dk) et.al.|[2511.10277](http://arxiv.org/abs/2511.10277)|null|
-|**2025-11-13**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang (cam.ac.uk) et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
+|**2025-11-14**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang (cam.ac.uk) et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
 |**2025-11-13**|**On the Military Applications of Large Language Models**|Satu Johansson (tuni.fi) et.al.|[2511.10093](http://arxiv.org/abs/2511.10093)|null|
-|**2025-11-13**|**PustakAI: Curriculum-Aligned and Interactive Textbooks Using Large Language Models**|Shivam Sharma (goa.bits-pilani.ac.in) et.al.|[2511.10002](http://arxiv.org/abs/2511.10002)|null|
+|**2025-11-14**|**PustakAI: Curriculum-Aligned and Interactive Textbooks Using Large Language Models**|Shivam Sharma (goa.bits-pilani.ac.in) et.al.|[2511.10002](http://arxiv.org/abs/2511.10002)|null|
 |**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas (purdue.edu) et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
 |**2025-11-13**|**Leveraging Large Language Models for Identifying Knowledge Components**|Canwen Wang (andrew.cmu.edu) et.al.|[2511.09935](http://arxiv.org/abs/2511.09935)|null|
 |**2025-11-12**|**AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics**|Bakhtawar Ahtisham (cornell.edu) et.al.|[2511.09785](http://arxiv.org/abs/2511.09785)|null|
