@@ -1,4 +1,4 @@
-## Updated on 2025.11.18
+## Updated on 2025.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,13 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges**|Soham Ghosh (ieee.org) et.al.|[2511.14478](http://arxiv.org/abs/2511.14478)|null|
+|**2025-11-18**|**Effective Diversification of Multi-Carousel Book Recommendation**|Daniël Wilten et.al.|[2511.14461](http://arxiv.org/abs/2511.14461)|null|
+|**2025-11-18**|**WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web**|Zihuai Zhao (connect.polyu.hk) et.al.|[2511.14182](http://arxiv.org/abs/2511.14182)|null|
+|**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen (uga.edu) et.al.|[2511.14120](http://arxiv.org/abs/2511.14120)|null|
+|**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin (tamu.edu) et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
+|**2025-11-18**|**CafeMed: Causal Attention Fusion Enhanced Medication Recommendation**|Kelin Ren (hanyang.ac.kr) et.al.|[2511.14064](http://arxiv.org/abs/2511.14064)|**[link](https://github.com/rkl71/CafeMed)**|
+|**2025-11-18**|**AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance**|Chandrachur Bhattacharya (anl.gov) et.al.|[2511.14043](http://arxiv.org/abs/2511.14043)|null|
+|**2025-11-18**|**ALEX:A Light Editing-knowledge Extractor**|Minghu Wang et.al.|[2511.14018](http://arxiv.org/abs/2511.14018)|null|
+|**2025-11-17**|**LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering**|Jielin Qiu et.al.|[2511.13998](http://arxiv.org/abs/2511.13998)|null|
+|**2025-11-17**|**TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search**|Xingxian Liu (alibaba-inc.com) et.al.|[2511.13885](http://arxiv.org/abs/2511.13885)|null|
 |**2025-11-17**|**Person-AI Bidirectional Fit - A Proof-Of-Concept Case Study Of Augmented Human-Ai Symbiosis In Management Decision-Making Process**|Agnieszka Bieńkowska et.al.|[2511.13670](http://arxiv.org/abs/2511.13670)|null|
 |**2025-11-17**|**KForge: Program Synthesis for Diverse AI Hardware Accelerators**|Taras Sereda (gimletlabs.ai) et.al.|[2511.13274](http://arxiv.org/abs/2511.13274)|null|
 |**2025-11-17**|**Local Collaborative Filtering: A Collaborative Filtering Method that Utilizes Local Similarities among Users**|Zhaoxin Shen (qq.com) et.al.|[2511.13166](http://arxiv.org/abs/2511.13166)|null|
 |**2025-11-17**|**SoK: The Last Line of Defense: On Backdoor Defense Evaluation**|Gorka Abad et.al.|[2511.13143](http://arxiv.org/abs/2511.13143)|null|
 |**2025-11-17**|**Generalization Bounds for Semi-supervised Matrix Completion with Distributional Side Information**|Antoine Ledent (smu.edu.sg) et.al.|[2511.13049](http://arxiv.org/abs/2511.13049)|null|
 |**2025-11-17**|**Mitigating Recommendation Biases via Group-Alignment and Global-Uniformity in Representation Learning**|Miaomiao Cai (gmail.com) et.al.|[2511.13041](http://arxiv.org/abs/2511.13041)|null|
-|**2025-11-17**|**Personalized Federated Recommendation With Knowledge Guidance**|Jaehyung Lim (postech.ac.kr) et.al.|[2511.12959](http://arxiv.org/abs/2511.12959)|**[link](https://github.com/Jaehyung-Lim/fedrkg)**|
+|**2025-11-18**|**Personalized Federated Recommendation With Knowledge Guidance**|Jaehyung Lim (postech.ac.kr) et.al.|[2511.12959](http://arxiv.org/abs/2511.12959)|**[link](https://github.com/Jaehyung-Lim/fedrkg)**|
 |**2025-11-17**|**Can We Predict the Next Question? A Collaborative Filtering Approach to Modeling User Behavior**|Bokang Fu (gmail.com) et.al.|[2511.12949](http://arxiv.org/abs/2511.12949)|null|
 |**2025-11-17**|**AIF: Asynchronous Inference Framework for Cost-Effective Pre-Ranking**|Zhi Kou (alibaba-inc.com) et.al.|[2511.12934](http://arxiv.org/abs/2511.12934)|null|
 |**2025-11-17**|**Tokenize Once, Recommend Anywhere: Unified Item Tokenization for Multi-domain LLM-based Recommendation**|Yu Hou (yonsei.ac.kr) et.al.|[2511.12922](http://arxiv.org/abs/2511.12922)|null|
@@ -713,17 +723,23 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web**|Zihuai Zhao (connect.polyu.hk) et.al.|[2511.14182](http://arxiv.org/abs/2511.14182)|null|
+|**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen (uga.edu) et.al.|[2511.14120](http://arxiv.org/abs/2511.14120)|null|
+|**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin (tamu.edu) et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
+|**2025-11-18**|**ALEX:A Light Editing-knowledge Extractor**|Minghu Wang et.al.|[2511.14018](http://arxiv.org/abs/2511.14018)|null|
+|**2025-11-17**|**LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering**|Jielin Qiu et.al.|[2511.13998](http://arxiv.org/abs/2511.13998)|null|
+|**2025-11-17**|**TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search**|Xingxian Liu (alibaba-inc.com) et.al.|[2511.13885](http://arxiv.org/abs/2511.13885)|null|
 |**2025-11-17**|**Person-AI Bidirectional Fit - A Proof-Of-Concept Case Study Of Augmented Human-Ai Symbiosis In Management Decision-Making Process**|Agnieszka Bieńkowska et.al.|[2511.13670](http://arxiv.org/abs/2511.13670)|null|
 |**2025-11-17**|**KForge: Program Synthesis for Diverse AI Hardware Accelerators**|Taras Sereda (gimletlabs.ai) et.al.|[2511.13274](http://arxiv.org/abs/2511.13274)|null|
 |**2025-11-17**|**Can We Predict the Next Question? A Collaborative Filtering Approach to Modeling User Behavior**|Bokang Fu (gmail.com) et.al.|[2511.12949](http://arxiv.org/abs/2511.12949)|null|
 |**2025-11-17**|**Tokenize Once, Recommend Anywhere: Unified Item Tokenization for Multi-domain LLM-based Recommendation**|Yu Hou (yonsei.ac.kr) et.al.|[2511.12922](http://arxiv.org/abs/2511.12922)|null|
-|**2025-11-16**|**MindRec: Mind-inspired Coarse-to-fine Decoding for Generative Recommendation**|Mengyao Gao (mail.ustc.edu.cn) et.al.|[2511.12597](http://arxiv.org/abs/2511.12597)|**[link](https://github.com/Mr-Peach0301/MindRec)**|
+|**2025-11-18**|**MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation**|Mengyao Gao (mail.ustc.edu.cn) et.al.|[2511.12597](http://arxiv.org/abs/2511.12597)|**[link](https://github.com/Mr-Peach0301/MindRec)**|
 |**2025-11-16**|**Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models**|Yongwen Ren (mail.ustc.edu.cn) et.al.|[2511.12579](http://arxiv.org/abs/2511.12579)|null|
 |**2025-11-16**|**Multi-agent Self-triage System with Medical Flowcharts**|Yujia Liu et.al.|[2511.12439](http://arxiv.org/abs/2511.12439)|null|
 |**2025-11-15**|**CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic**|Yaocheng Zhang (ia.ac.cn) et.al.|[2511.12159](http://arxiv.org/abs/2511.12159)|null|
@@ -1070,12 +1086,24 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**AdamHD: Decoupled Huber Decay Regularization for Language Model Pre-Training**|Fu-Ming Guo (stanford.edu) et.al.|[2511.14721](http://arxiv.org/abs/2511.14721)|null|
+|**2025-11-18**|**Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer**|Kallol Mondal (nt.iitr.ac.in) et.al.|[2511.14691](http://arxiv.org/abs/2511.14691)|null|
+|**2025-11-18**|**Bridging Human and Model Perspectives: A Comparative Analysis of Political Bias Detection in News Media Using Large Language Models**|Shreya Adrita Banik (g.bracu.ac.bd) et.al.|[2511.14606](http://arxiv.org/abs/2511.14606)|null|
+|**2025-11-18**|**MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents**|Jinru Ding (pjlab.org.cn) et.al.|[2511.14439](http://arxiv.org/abs/2511.14439)|null|
+|**2025-11-18**|**ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions**|Xingwei He (gmail.com) et.al.|[2511.14342](http://arxiv.org/abs/2511.14342)|null|
+|**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac (intron.io) et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
+|**2025-11-18**|**Do Large Language Models (LLMs) Understand Chronology?**|Pattaraphon Kenny Wongchamcharoen (berkeley.edu) et.al.|[2511.14214](http://arxiv.org/abs/2511.14214)|null|
+|**2025-11-18**|**A Comprehensive Study of Implicit and Explicit Biases in Large Language Models**|Fatima Kazi (ucdavis.edu) et.al.|[2511.14153](http://arxiv.org/abs/2511.14153)|null|
+|**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin (tamu.edu) et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
+|**2025-11-18**|**Based on Data Balancing and Model Improvement for Multi-Label Sentiment Classification Performance Enhancement**|Zijin Su (qq.com) et.al.|[2511.14073](http://arxiv.org/abs/2511.14073)|null|
+|**2025-11-18**|**From Narrow Unlearning to Emergent Misalignment: Causes, Consequences, and Containment in LLMs**|Erum Mushtaq et.al.|[2511.14017](http://arxiv.org/abs/2511.14017)|null|
+|**2025-11-17**|**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**|Badhan Chandra Das (fiu.edu) et.al.|[2511.13892](http://arxiv.org/abs/2511.13892)|null|
 |**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Kaiwen Xue (bupt.edu.cn) et.al.|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
 |**2025-11-17**|**Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation**|Zhipeng Ma (mmmi.sdu.dk) et.al.|[2511.13476](http://arxiv.org/abs/2511.13476)|null|
 |**2025-11-17**|**Can Large Language Models Function as Qualified Pediatricians? A Systematic Evaluation in Real-World Clinical Contexts**|Siyu Zhu (shchildren.com.cn) et.al.|[2511.13381](http://arxiv.org/abs/2511.13381)|null|
@@ -1083,7 +1111,7 @@
 |**2025-11-17**|**Cognitive Maps in Language Models: A Mechanistic Analysis of Spatial Planning**|Caroline Baumgartner (ucl.ac.uk) et.al.|[2511.13371](http://arxiv.org/abs/2511.13371)|null|
 |**2025-11-17**|**KForge: Program Synthesis for Diverse AI Hardware Accelerators**|Taras Sereda (gimletlabs.ai) et.al.|[2511.13274](http://arxiv.org/abs/2511.13274)|null|
 |**2025-11-17**|**TokenSqueeze: Performance-Preserving Compression for Reasoning LLMs**|Yuxiang Zhang et.al.|[2511.13223](http://arxiv.org/abs/2511.13223)|**[link](https://github.com/zhangyx1122/TokenSqueeze)**|
-|**2025-11-17**|**Evaluating Large Language Models for Diacritic Restoration in Romanian Texts: A Comparative Study**|Mihai Dan Nadas (ubbcluj.ro) et.al.|[2511.13182](http://arxiv.org/abs/2511.13182)|null|
+|**2025-11-18**|**Evaluating Large Language Models for Diacritic Restoration in Romanian Texts: A Comparative Study**|Mihai Dan Nadas et.al.|[2511.13182](http://arxiv.org/abs/2511.13182)|null|
 |**2025-11-17**|**TCM-5CEval: Extended Deep Evaluation Benchmark for LLM's Comprehensive Clinical Research Competence in Traditional Chinese Medicine**|Tianai Huang (pjlab.org.cn) et.al.|[2511.13169](http://arxiv.org/abs/2511.13169)|null|
 |**2025-11-17**|**Evaluating the Ability of Large Language Models to Identify Adherence to CONSORT Reporting Guidelines in Randomized Controlled Trials: A Methodological Evaluation Study**|Zhichao He (mail.sysu.edu.cn) et.al.|[2511.13107](http://arxiv.org/abs/2511.13107)|null|
 |**2025-11-17**|**BeDiscovER: The Benchmark of Discourse Understanding in the Era of Reasoning Language Models**|Chuyuan Li (ubc.ca) et.al.|[2511.13095](http://arxiv.org/abs/2511.13095)|null|
@@ -2603,7 +2631,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
