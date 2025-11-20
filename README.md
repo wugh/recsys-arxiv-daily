@@ -1,4 +1,4 @@
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-18**|**Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges**|Soham Ghosh (ieee.org) et.al.|[2511.14478](http://arxiv.org/abs/2511.14478)|null|
+|**2025-11-19**|**CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search**|Ao Xie (kuaishou.com) et.al.|[2511.15443](http://arxiv.org/abs/2511.15443)|null|
+|**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou (tongji.edu.cn) et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
+|**2025-11-19**|**Opinion Dynamics Models for Sentiment Evolution in Weibo Blogs**|Yulong He (student.spbu.ru) et.al.|[2511.15303](http://arxiv.org/abs/2511.15303)|null|
+|**2025-11-19**|**ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation**|Sunwoo Kim (kaist.ac.kr) et.al.|[2511.15141](http://arxiv.org/abs/2511.15141)|null|
+|**2025-11-19**|**Multi-Aspect Cross-modal Quantization for Generative Recommendation**|Fuwei Zhang (buaa.edu.cn) et.al.|[2511.15122](http://arxiv.org/abs/2511.15122)|null|
+|**2025-11-18**|**Harmful Traits of AI Companions**|W. Bradley Knox (cs.utexas.edu) et.al.|[2511.14972](http://arxiv.org/abs/2511.14972)|null|
+|**2025-11-18**|**Fifty Shades of Greenwashing: The Political Economy of Climate Change Advertising on Social Media**|Robert Kubinec (kspp.edu.sa) et.al.|[2511.14930](http://arxiv.org/abs/2511.14930)|null|
+|**2025-11-18**|**SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs**|Bi Xue (meta.com) et.al.|[2511.14881](http://arxiv.org/abs/2511.14881)|null|
+|**2025-11-18**|**FinTRec: Transformer Based Unified Contextual Ads Targeting and Personalization for Financial Applications**|Dwipam Katariya (capitalone.com) et.al.|[2511.14865](http://arxiv.org/abs/2511.14865)|null|
+|**2025-11-19**|**Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges**|Soham Ghosh (ieee.org) et.al.|[2511.14478](http://arxiv.org/abs/2511.14478)|null|
 |**2025-11-18**|**Effective Diversification of Multi-Carousel Book Recommendation**|Daniël Wilten et.al.|[2511.14461](http://arxiv.org/abs/2511.14461)|null|
 |**2025-11-18**|**WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web**|Zihuai Zhao (connect.polyu.hk) et.al.|[2511.14182](http://arxiv.org/abs/2511.14182)|null|
 |**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen (uga.edu) et.al.|[2511.14120](http://arxiv.org/abs/2511.14120)|null|
@@ -723,12 +732,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search**|Ao Xie (kuaishou.com) et.al.|[2511.15443](http://arxiv.org/abs/2511.15443)|null|
+|**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou (tongji.edu.cn) et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
+|**2025-11-19**|**ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation**|Sunwoo Kim (kaist.ac.kr) et.al.|[2511.15141](http://arxiv.org/abs/2511.15141)|null|
+|**2025-11-18**|**Harmful Traits of AI Companions**|W. Bradley Knox (cs.utexas.edu) et.al.|[2511.14972](http://arxiv.org/abs/2511.14972)|null|
+|**2025-11-18**|**Fifty Shades of Greenwashing: The Political Economy of Climate Change Advertising on Social Media**|Robert Kubinec (kspp.edu.sa) et.al.|[2511.14930](http://arxiv.org/abs/2511.14930)|null|
 |**2025-11-18**|**WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web**|Zihuai Zhao (connect.polyu.hk) et.al.|[2511.14182](http://arxiv.org/abs/2511.14182)|null|
 |**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen (uga.edu) et.al.|[2511.14120](http://arxiv.org/abs/2511.14120)|null|
 |**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin (tamu.edu) et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
@@ -1086,22 +1100,33 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang (pjlab.org.cn) et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**A Tensor Compiler for Processing-In-Memory Architectures**|Peiming Yang et.al.|[2511.15503](http://arxiv.org/abs/2511.15503)|null|
+|**2025-11-19**|**GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning**|Yanchen Xu (gmail.com) et.al.|[2511.15256](http://arxiv.org/abs/2511.15256)|null|
+|**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|**[link](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)**|
+|**2025-11-19**|**As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files**|Haodong Li (hust.edu.cn) et.al.|[2511.15192](http://arxiv.org/abs/2511.15192)|null|
+|**2025-11-19**|**Finetuning LLMs for Automatic Form Interaction on Web-Browser in Selenium Testing Framework**|Nguyen-Khang Le (jaist.ac.jp) et.al.|[2511.15168](http://arxiv.org/abs/2511.15168)|null|
+|**2025-11-19**|**Effective Code Membership Inference for Code Completion Models via Adversarial Prompts**|Yuan Jiang (hit.edu.cn) et.al.|[2511.15107](http://arxiv.org/abs/2511.15107)|null|
+|**2025-11-19**|**BBox DocVQA: A Large Scale Bounding Box Grounded Dataset for Enhancing Reasoning in Document Visual Question Answer**|Wenhan Yu (buaa.edu.cn) et.al.|[2511.15090](http://arxiv.org/abs/2511.15090)|null|
+|**2025-11-19**|**Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering**|Haodong Chen (student.uq.edu.au) et.al.|[2511.15061](http://arxiv.org/abs/2511.15061)|**[link](https://github.com/ielab/OpenBioLLM)**|
+|**2025-11-18**|**SVBRD-LLM: Self-Verifying Behavioral Rule Discovery for Autonomous Vehicle Identification**|Xiangyu Li (utexas.edu) et.al.|[2511.14977](http://arxiv.org/abs/2511.14977)|null|
+|**2025-11-18**|**DEVAL: A Framework for Evaluating and Improving the Derivation Capability of Large Language Models**|Yifan Li (sei.ecnu.edu.cn) et.al.|[2511.14813](http://arxiv.org/abs/2511.14813)|null|
 |**2025-11-18**|**AdamHD: Decoupled Huber Decay Regularization for Language Model Pre-Training**|Fu-Ming Guo (stanford.edu) et.al.|[2511.14721](http://arxiv.org/abs/2511.14721)|null|
 |**2025-11-18**|**Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer**|Kallol Mondal (nt.iitr.ac.in) et.al.|[2511.14691](http://arxiv.org/abs/2511.14691)|null|
 |**2025-11-18**|**Bridging Human and Model Perspectives: A Comparative Analysis of Political Bias Detection in News Media Using Large Language Models**|Shreya Adrita Banik (g.bracu.ac.bd) et.al.|[2511.14606](http://arxiv.org/abs/2511.14606)|null|
-|**2025-11-18**|**MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents**|Jinru Ding (pjlab.org.cn) et.al.|[2511.14439](http://arxiv.org/abs/2511.14439)|null|
-|**2025-11-18**|**ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions**|Xingwei He (gmail.com) et.al.|[2511.14342](http://arxiv.org/abs/2511.14342)|null|
+|**2025-11-19**|**MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents**|Jinru Ding (pjlab.org.cn) et.al.|[2511.14439](http://arxiv.org/abs/2511.14439)|null|
+|**2025-11-19**|**ConInstruct: Evaluating Large Language Models on Conflict Detection and Resolution in Instructions**|Xingwei He (gmail.com) et.al.|[2511.14342](http://arxiv.org/abs/2511.14342)|null|
 |**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac (intron.io) et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
-|**2025-11-18**|**Do Large Language Models (LLMs) Understand Chronology?**|Pattaraphon Kenny Wongchamcharoen (berkeley.edu) et.al.|[2511.14214](http://arxiv.org/abs/2511.14214)|null|
+|**2025-11-19**|**Do Large Language Models (LLMs) Understand Chronology?**|Pattaraphon Kenny Wongchamcharoen (berkeley.edu) et.al.|[2511.14214](http://arxiv.org/abs/2511.14214)|null|
 |**2025-11-18**|**A Comprehensive Study of Implicit and Explicit Biases in Large Language Models**|Fatima Kazi (ucdavis.edu) et.al.|[2511.14153](http://arxiv.org/abs/2511.14153)|null|
 |**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin (tamu.edu) et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
-|**2025-11-18**|**Based on Data Balancing and Model Improvement for Multi-Label Sentiment Classification Performance Enhancement**|Zijin Su (qq.com) et.al.|[2511.14073](http://arxiv.org/abs/2511.14073)|null|
+|**2025-11-19**|**Based on Data Balancing and Model Improvement for Multi-Label Sentiment Classification Performance Enhancement**|Zijin Su (qq.com) et.al.|[2511.14073](http://arxiv.org/abs/2511.14073)|null|
 |**2025-11-18**|**From Narrow Unlearning to Emergent Misalignment: Causes, Consequences, and Containment in LLMs**|Erum Mushtaq et.al.|[2511.14017](http://arxiv.org/abs/2511.14017)|null|
 |**2025-11-17**|**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**|Badhan Chandra Das (fiu.edu) et.al.|[2511.13892](http://arxiv.org/abs/2511.13892)|null|
 |**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Kaiwen Xue (bupt.edu.cn) et.al.|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
@@ -2631,7 +2656,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
