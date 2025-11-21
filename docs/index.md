@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang (mail2.sysu.edu.cn) et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation**|Elena V. Epure (deezer.com) et.al.|[2511.16478](http://arxiv.org/abs/2511.16478)|null|
+|**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu (gmail.com) et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
+|**2025-11-20**|**Distributed Agent Reasoning Across Independent Systems With Strict Data Locality**|Daniel Vaughan et.al.|[2511.16292](http://arxiv.org/abs/2511.16292)|null|
+|**2025-11-20**|**ELPO: Ensemble Learning Based Prompt Optimization for Large Language Models**|Qing Zhang (bytedance.com) et.al.|[2511.16122](http://arxiv.org/abs/2511.16122)|null|
+|**2025-11-20**|**SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent**|Shiyi Cao et.al.|[2511.16108](http://arxiv.org/abs/2511.16108)|null|
+|**2025-11-19**|**Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response**|Philip Drammeh (gmail.com) et.al.|[2511.15755](http://arxiv.org/abs/2511.15755)|null|
 |**2025-11-19**|**CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search**|Ao Xie (kuaishou.com) et.al.|[2511.15443](http://arxiv.org/abs/2511.15443)|null|
 |**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou (tongji.edu.cn) et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
 |**2025-11-19**|**Opinion Dynamics Models for Sentiment Evolution in Weibo Blogs**|Yulong He (student.spbu.ru) et.al.|[2511.15303](http://arxiv.org/abs/2511.15303)|null|
@@ -731,6 +738,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang (mail2.sysu.edu.cn) et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation**|Elena V. Epure (deezer.com) et.al.|[2511.16478](http://arxiv.org/abs/2511.16478)|null|
+|**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu (gmail.com) et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
+|**2025-11-20**|**ELPO: Ensemble Learning Based Prompt Optimization for Large Language Models**|Qing Zhang (bytedance.com) et.al.|[2511.16122](http://arxiv.org/abs/2511.16122)|null|
+|**2025-11-20**|**SkyRL-Agent: Efficient RL Training for Multi-turn LLM Agent**|Shiyi Cao et.al.|[2511.16108](http://arxiv.org/abs/2511.16108)|null|
+|**2025-11-19**|**Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response**|Philip Drammeh (gmail.com) et.al.|[2511.15755](http://arxiv.org/abs/2511.15755)|null|
+|**2025-11-18**|**Just Asking Questions: Doing Our Own Research on Conspiratorial Ideation by Generative AI Chatbots**|Katherine M. FitzGerald et.al.|[2511.15732](http://arxiv.org/abs/2511.15732)|null|
 |**2025-11-19**|**CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search**|Ao Xie (kuaishou.com) et.al.|[2511.15443](http://arxiv.org/abs/2511.15443)|null|
 |**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou (tongji.edu.cn) et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
 |**2025-11-19**|**ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation**|Sunwoo Kim (kaist.ac.kr) et.al.|[2511.15141](http://arxiv.org/abs/2511.15141)|null|
@@ -1097,12 +1111,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue**|Zachary Ellis (ufonia.com) et.al.|[2511.16544](http://arxiv.org/abs/2511.16544)|null|
+|**2025-11-20**|**Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks**|Éloïse Benito-Rodriguez (laposte.net) et.al.|[2511.16540](http://arxiv.org/abs/2511.16540)|null|
+|**2025-11-20**|**Are Foundation Models Useful for Bankruptcy Prediction?**|Marcin Kostrzewa (pwr.edu.pl) et.al.|[2511.16375](http://arxiv.org/abs/2511.16375)|null|
+|**2025-11-20**|**"To Survive, I Must Defect": Jailbreaking LLMs via the Game-Theory Scenarios**|Zhen Sun (hkust-gz.edu.cn) et.al.|[2511.16278](http://arxiv.org/abs/2511.16278)|null|
+|**2025-11-20**|**Can MLLMs Read the Room? A Multimodal Benchmark for Assessing Deception in Multi-Party Social Interactions**|Caixin Kang (iis.u-tokyo.ac.jp) et.al.|[2511.16221](http://arxiv.org/abs/2511.16221)|null|
+|**2025-11-20**|**Multidimensional Rubric-oriented Reward Model Learning via Geometric Projection Reference Constraints**|Yongnan Jin et.al.|[2511.16139](http://arxiv.org/abs/2511.16139)|null|
+|**2025-11-20**|**AskDB: An LLM Agent for Natural Language Interaction with Relational Databases**|Xuan-Quang Phan (alumni.epfl.ch) et.al.|[2511.16131](http://arxiv.org/abs/2511.16131)|null|
+|**2025-11-20**|**InfCode: Adversarial Iterative Refinement of Tests and Patches for Reliable Software Issue Resolution**|KeFan Li (acm.org) et.al.|[2511.16004](http://arxiv.org/abs/2511.16004)|**[link](https://github.com/Tokfinity/InfCode)**|
+|**2025-11-20**|**TOD-ProcBench: Benchmarking Complex Instruction-Following in Task-Oriented Dialogues**|Sarik Ghazarian (amazon.com) et.al.|[2511.15976](http://arxiv.org/abs/2511.15976)|null|
+|**2025-11-19**|**AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization**|Genghan Zhang (stanford.edu) et.al.|[2511.15915](http://arxiv.org/abs/2511.15915)|null|
+|**2025-11-19**|**A Crowdsourced Study of ChatBot Influence in Value-Driven Decision Making Scenarios**|Anthony Wise (cs.washington.edu) et.al.|[2511.15857](http://arxiv.org/abs/2511.15857)|null|
+|**2025-11-19**|**Step-Audio-R1 Technical Report**|Fei Tian et.al.|[2511.15848](http://arxiv.org/abs/2511.15848)|null|
+|**2025-11-19**|**Build AI Assistants using Large Language Models and Agents to Enhance the Engineering Education of Biomechanics**|Hanzhi Yan (uga.edu) et.al.|[2511.15752](http://arxiv.org/abs/2511.15752)|null|
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang (pjlab.org.cn) et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
 |**2025-11-19**|**A Tensor Compiler for Processing-In-Memory Architectures**|Peiming Yang et.al.|[2511.15503](http://arxiv.org/abs/2511.15503)|null|
 |**2025-11-19**|**GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning**|Yanchen Xu (gmail.com) et.al.|[2511.15256](http://arxiv.org/abs/2511.15256)|null|
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|**[link](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)**|
-|**2025-11-19**|**As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files**|Haodong Li (hust.edu.cn) et.al.|[2511.15192](http://arxiv.org/abs/2511.15192)|null|
-|**2025-11-19**|**Finetuning LLMs for Automatic Form Interaction on Web-Browser in Selenium Testing Framework**|Nguyen-Khang Le (jaist.ac.jp) et.al.|[2511.15168](http://arxiv.org/abs/2511.15168)|null|
+|**2025-11-20**|**As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files**|Haodong Li (hust.edu.cn) et.al.|[2511.15192](http://arxiv.org/abs/2511.15192)|null|
+|**2025-11-20**|**Finetuning LLMs for Automatic Form Interaction on Web-Browser in Selenium Testing Framework**|Nguyen-Khang Le (jaist.ac.jp) et.al.|[2511.15168](http://arxiv.org/abs/2511.15168)|null|
 |**2025-11-19**|**Effective Code Membership Inference for Code Completion Models via Adversarial Prompts**|Yuan Jiang (hit.edu.cn) et.al.|[2511.15107](http://arxiv.org/abs/2511.15107)|null|
 |**2025-11-19**|**BBox DocVQA: A Large Scale Bounding Box Grounded Dataset for Enhancing Reasoning in Document Visual Question Answer**|Wenhan Yu (buaa.edu.cn) et.al.|[2511.15090](http://arxiv.org/abs/2511.15090)|null|
 |**2025-11-19**|**Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering**|Haodong Chen (student.uq.edu.au) et.al.|[2511.15061](http://arxiv.org/abs/2511.15061)|**[link](https://github.com/ielab/OpenBioLLM)**|
