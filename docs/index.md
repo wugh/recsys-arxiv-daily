@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky**|Benjamin White (orange.com) et.al.|[2511.17241](http://arxiv.org/abs/2511.17241)|null|
+|**2025-11-21**|**MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists**|Qingbin Zeng (tsinghua.edu.cn) et.al.|[2511.16997](http://arxiv.org/abs/2511.16997)|null|
+|**2025-11-21**|**RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers**|Tianyu Zhan (zju.edu.cn) et.al.|[2511.16943](http://arxiv.org/abs/2511.16943)|**[link](https://github.com/Yuzt-zju/RASTP)**|
+|**2025-11-21**|**δ-EMG: A Monotonic Graph Index for Approximate Nearest Neighbor Search**|Liming Xiang (bit.edu.cn) et.al.|[2511.16921](http://arxiv.org/abs/2511.16921)|null|
+|**2025-11-21**|**Predicting Talent Breakout Rate using Twitter and TV data**|Bilguun Batsaikhan (dentsu.co.jp) et.al.|[2511.16905](http://arxiv.org/abs/2511.16905)|null|
 |**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang (mail2.sysu.edu.cn) et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
 |**2025-11-20**|**Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation**|Elena V. Epure (deezer.com) et.al.|[2511.16478](http://arxiv.org/abs/2511.16478)|null|
 |**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu (gmail.com) et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
@@ -738,6 +743,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky**|Benjamin White (orange.com) et.al.|[2511.17241](http://arxiv.org/abs/2511.17241)|null|
+|**2025-11-21**|**MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists**|Qingbin Zeng (tsinghua.edu.cn) et.al.|[2511.16997](http://arxiv.org/abs/2511.16997)|null|
+|**2025-11-21**|**Predicting Talent Breakout Rate using Twitter and TV data**|Bilguun Batsaikhan (dentsu.co.jp) et.al.|[2511.16905](http://arxiv.org/abs/2511.16905)|null|
+|**2025-11-18**|**RAG-Driven Data Quality Governance for Enterprise ERP Systems**|Sedat Bin Vedat (hagiaproject.com) et.al.|[2511.16700](http://arxiv.org/abs/2511.16700)|null|
 |**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang (mail2.sysu.edu.cn) et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
 |**2025-11-20**|**Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation**|Elena V. Epure (deezer.com) et.al.|[2511.16478](http://arxiv.org/abs/2511.16478)|null|
 |**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu (gmail.com) et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
@@ -1111,7 +1120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue**|Zachary Ellis (ufonia.com) et.al.|[2511.16544](http://arxiv.org/abs/2511.16544)|null|
+|**2025-11-21**|**Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards**|Zhen Wang (dp.tech) et.al.|[2511.17473](http://arxiv.org/abs/2511.17473)|null|
+|**2025-11-21**|**Large Language Models for Sentiment Analysis to Detect Social Challenges: A Use Case with South African Languages**|Koena Ronny Mabokela (gmail.com) et.al.|[2511.17301](http://arxiv.org/abs/2511.17301)|null|
+|**2025-11-21**|**Cross-cultural value alignment frameworks for responsible AI governance: Evidence from China-West comparative analysis**|Haijiang Liu (ontoweb.wust.edu.cn) et.al.|[2511.17256](http://arxiv.org/abs/2511.17256)|null|
+|**2025-11-21**|**Parrot: Persuasion and Agreement Robustness Rating of Output Truth -- A Sycophancy Robustness Benchmark for LLMs**|Yusuf Çelebi (newmind.ai) et.al.|[2511.17220](http://arxiv.org/abs/2511.17220)|null|
+|**2025-11-21**|**Supervised Fine Tuning of Large Language Models for Domain Specific Knowledge Graph Construction:A Case Study on Hunan's Historical Celebrities**|Junjie Hao (hunnu.edu.cn) et.al.|[2511.17012](http://arxiv.org/abs/2511.17012)|null|
+|**2025-11-20**|**AutoBackdoor: Automating Backdoor Attacks via LLM Agents**|Yige Li et.al.|[2511.16709](http://arxiv.org/abs/2511.16709)|**[link](https://github.com/bboylyg/BackdoorLLM)**|
+|**2025-11-20**|**Multi-Agent Code Verification with Compound Vulnerability Detection**|Shreshth Rajan (college.harvard.edu) et.al.|[2511.16708](http://arxiv.org/abs/2511.16708)|null|
+|**2025-11-21**|**WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue**|Zachary Ellis (ufonia.com) et.al.|[2511.16544](http://arxiv.org/abs/2511.16544)|null|
 |**2025-11-20**|**Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks**|Éloïse Benito-Rodriguez (laposte.net) et.al.|[2511.16540](http://arxiv.org/abs/2511.16540)|null|
 |**2025-11-20**|**Are Foundation Models Useful for Bankruptcy Prediction?**|Marcin Kostrzewa (pwr.edu.pl) et.al.|[2511.16375](http://arxiv.org/abs/2511.16375)|null|
 |**2025-11-20**|**"To Survive, I Must Defect": Jailbreaking LLMs via the Game-Theory Scenarios**|Zhen Sun (hkust-gz.edu.cn) et.al.|[2511.16278](http://arxiv.org/abs/2511.16278)|null|
