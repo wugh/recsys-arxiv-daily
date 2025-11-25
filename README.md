@@ -1,4 +1,4 @@
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Neural surrogates for designing gravitational wave detectors**|Carlos Ruiz-Gonzalez (proton.me) et.al.|[2511.19364](http://arxiv.org/abs/2511.19364)|null|
+|**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
+|**2025-11-24**|**Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation**|Chenhao Zhai (mails.tsinghua.edu.cn) et.al.|[2511.18997](http://arxiv.org/abs/2511.18997)|null|
+|**2025-11-24**|**STORE: Semantic Tokenization, Orthogonal Rotation and Efficient Attention for Scaling Up Ranking Models**|Yi Xu (alibaba-inc.com) et.al.|[2511.18805](http://arxiv.org/abs/2511.18805)|null|
+|**2025-11-24**|**NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations**|Yejing Wang (acm.org) et.al.|[2511.18793](http://arxiv.org/abs/2511.18793)|null|
+|**2025-11-24**|**When and What to Recommend: Joint Modeling of Timing and Content for Active Sequential Recommendation**|Jin Chai (hdr.mq.edu.au) et.al.|[2511.18717](http://arxiv.org/abs/2511.18717)|null|
+|**2025-11-23**|**A Recommender System Based on Binary Matrix Representations for Cognitive Disorders**|Raoul H. Kutil (plus.ac.at) et.al.|[2511.18645](http://arxiv.org/abs/2511.18645)|null|
+|**2025-11-23**|**Real-Time Personalized Content Adaptation through Matrix Factorization and Context-Aware Federated Learning**|Sai Puppala (miners.utep.edu) et.al.|[2511.18489](http://arxiv.org/abs/2511.18489)|null|
+|**2025-11-23**|**Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations**|Yu Xia (ucsd.edu) et.al.|[2511.18413](http://arxiv.org/abs/2511.18413)|null|
+|**2025-11-23**|**UFO: Unfair-to-Fair Evolving Mitigates Unfairness in LLM-based Recommender Systems via Self-Play Fine-tuning**|Jiaming Zhang (zju.edu.cn) et.al.|[2511.18342](http://arxiv.org/abs/2511.18342)|null|
+|**2025-11-23**|**DynamiX: Dynamic Resource eXploration for Personalized Ad-Recommendations**|Sohini Roychowdhury et.al.|[2511.18331](http://arxiv.org/abs/2511.18331)|null|
+|**2025-11-23**|**Deep Learning Decision Support System for Open-Pit Mining Optimisation: GPU-Accelerated Planning Under Geological Uncertainty**|Iman Rahimi et.al.|[2511.18296](http://arxiv.org/abs/2511.18296)|null|
+|**2025-11-23**|**Large Language Model Enhanced Graph Invariant Contrastive Learning for Out-of-Distribution Recommendation**|Jiahao Liang (mail.scut.edu.cn) et.al.|[2511.18282](http://arxiv.org/abs/2511.18282)|null|
+|**2025-11-23**|**Democratic Recommendation with User and Item Representatives Produced by Graph Condensation**|Jiahao Liang (mail.scut.edu.cn) et.al.|[2511.18279](http://arxiv.org/abs/2511.18279)|null|
+|**2025-11-23**|**LLM Reasoning for Cold-Start Item Recommendation**|Shijun Li (utexas.edu) et.al.|[2511.18261](http://arxiv.org/abs/2511.18261)|null|
+|**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani (sc.edu) et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|null|
+|**2025-11-22**|**Accelerating Time Series Foundation Models with Speculative Decoding**|Pranav Subbaraman (ucla.edu) et.al.|[2511.18191](http://arxiv.org/abs/2511.18191)|**[link](https://github.com/PranavSubbaraman/STRIDE)**|
+|**2025-11-22**|**Fidelity-Aware Recommendation Explanations via Stochastic Path Integration**|Oren Barkan et.al.|[2511.18047](http://arxiv.org/abs/2511.18047)|**[link](https://github.com/DeltaLabTLV/SPINRec)**|
+|**2025-11-22**|**Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems**|Dor Arviv et.al.|[2511.18024](http://arxiv.org/abs/2511.18024)|**[link](https://github.com/DeltaLabTLV/Monosemanticity4Rec)**|
+|**2025-11-22**|**Save, Revisit, Retain: A Scalable Framework for Enhancing User Retention in Large-Scale Recommender Systems**|Weijie Jiang (pinterest.com) et.al.|[2511.18013](http://arxiv.org/abs/2511.18013)|null|
 |**2025-11-21**|**Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky**|Benjamin White (orange.com) et.al.|[2511.17241](http://arxiv.org/abs/2511.17241)|null|
 |**2025-11-21**|**MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists**|Qingbin Zeng (tsinghua.edu.cn) et.al.|[2511.16997](http://arxiv.org/abs/2511.16997)|null|
 |**2025-11-21**|**RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers**|Tianyu Zhan (zju.edu.cn) et.al.|[2511.16943](http://arxiv.org/abs/2511.16943)|**[link](https://github.com/Yuzt-zju/RASTP)**|
@@ -744,12 +764,23 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
+|**2025-11-24**|**NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations**|Yejing Wang (acm.org) et.al.|[2511.18793](http://arxiv.org/abs/2511.18793)|null|
+|**2025-11-23**|**Real-Time Personalized Content Adaptation through Matrix Factorization and Context-Aware Federated Learning**|Sai Puppala (miners.utep.edu) et.al.|[2511.18489](http://arxiv.org/abs/2511.18489)|null|
+|**2025-11-23**|**Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations**|Yu Xia (ucsd.edu) et.al.|[2511.18413](http://arxiv.org/abs/2511.18413)|null|
+|**2025-11-23**|**UFO: Unfair-to-Fair Evolving Mitigates Unfairness in LLM-based Recommender Systems via Self-Play Fine-tuning**|Jiaming Zhang (zju.edu.cn) et.al.|[2511.18342](http://arxiv.org/abs/2511.18342)|null|
+|**2025-11-23**|**Large Language Model Enhanced Graph Invariant Contrastive Learning for Out-of-Distribution Recommendation**|Jiahao Liang (mail.scut.edu.cn) et.al.|[2511.18282](http://arxiv.org/abs/2511.18282)|null|
+|**2025-11-23**|**LLM Reasoning for Cold-Start Item Recommendation**|Shijun Li (utexas.edu) et.al.|[2511.18261](http://arxiv.org/abs/2511.18261)|null|
+|**2025-11-23**|**Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing**|Mojtaba A. Farahani (sc.edu) et.al.|[2511.18258](http://arxiv.org/abs/2511.18258)|null|
+|**2025-11-22**|**Accelerating Time Series Foundation Models with Speculative Decoding**|Pranav Subbaraman (ucla.edu) et.al.|[2511.18191](http://arxiv.org/abs/2511.18191)|**[link](https://github.com/PranavSubbaraman/STRIDE)**|
+|**2025-11-22**|**Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems**|Dor Arviv et.al.|[2511.18024](http://arxiv.org/abs/2511.18024)|**[link](https://github.com/DeltaLabTLV/Monosemanticity4Rec)**|
+|**2025-11-22**|**Token-Controlled Re-ranking for Sequential Recommendation via LLMs**|Wenxi Dai (scarletmail.rutgers.edu) et.al.|[2511.17913](http://arxiv.org/abs/2511.17913)|null|
 |**2025-11-21**|**Social-Media Based Personas Challenge: Hybrid Prediction of Common and Rare User Actions on Bluesky**|Benjamin White (orange.com) et.al.|[2511.17241](http://arxiv.org/abs/2511.17241)|null|
 |**2025-11-21**|**MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists**|Qingbin Zeng (tsinghua.edu.cn) et.al.|[2511.16997](http://arxiv.org/abs/2511.16997)|null|
 |**2025-11-21**|**Predicting Talent Breakout Rate using Twitter and TV data**|Bilguun Batsaikhan (dentsu.co.jp) et.al.|[2511.16905](http://arxiv.org/abs/2511.16905)|null|
@@ -1123,12 +1154,42 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang (usc.edu) et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
+|**2025-11-24**|**Learning to Reason: Training LLMs with GPT-OSS or DeepSeek R1 Reasoning Traces**|Shaltiel Shmidman (dicta.org.il) et.al.|[2511.19333](http://arxiv.org/abs/2511.19333)|null|
+|**2025-11-24**|**Open-weight genome language model safeguards: Assessing robustness via adversarial fine-tuning**|James R. M. Black (jhu.edu) et.al.|[2511.19299](http://arxiv.org/abs/2511.19299)|null|
+|**2025-11-24**|**Are Large Vision Language Models Truly Grounded in Medical Images? Evidence from Italian Clinical Visual Question Answering**|Federico Felizzi (gmail.com) et.al.|[2511.19220](http://arxiv.org/abs/2511.19220)|null|
+|**2025-11-24**|**Introducing Visual Scenes and Reasoning: A More Realistic Benchmark for Spoken Language Understanding**|Di Wu et.al.|[2511.19005](http://arxiv.org/abs/2511.19005)|null|
+|**2025-11-24**|**FastForward Pruning: Efficient LLM Pruning via Single-Step Reinforcement Learning**|Xin Yuan (zju.edu.cn) et.al.|[2511.18977](http://arxiv.org/abs/2511.18977)|null|
+|**2025-11-24**|**Look It Up: Analysing Internal Web Search Capabilities of Modern LLMs**|Sahil Kale (k-v.ai) et.al.|[2511.18931](http://arxiv.org/abs/2511.18931)|null|
+|**2025-11-24**|**Reproducibility Study of Large Language Model Bayesian Optimization**|Adam Rychert (student.uni-lj.si) et.al.|[2511.18891](http://arxiv.org/abs/2511.18891)|**[link](https://github.com/spagnoloG/llambo-reproducibility)**|
+|**2025-11-24**|**Think Before You Prune: Selective Self-Generated Calibration for Pruning Large Reasoning Models**|Yang Xiang (gmail.com) et.al.|[2511.18864](http://arxiv.org/abs/2511.18864)|null|
+|**2025-11-24**|**Large Language Models for the Summarization of Czech Documents: From History to the Present**|Václav Tran (kiv.zcu.cz) et.al.|[2511.18848](http://arxiv.org/abs/2511.18848)|null|
+|**2025-11-24**|**Solving a Research Problem in Mathematical Statistics with AI Assistance**|Edgar Dobriban (wharton.upenn.edu) et.al.|[2511.18828](http://arxiv.org/abs/2511.18828)|null|
+|**2025-11-24**|**Large Language Models Require Curated Context for Reliable Political Fact-Checking -- Even with Reasoning and Web Search**|Matthew R. DeVerna et.al.|[2511.18749](http://arxiv.org/abs/2511.18749)|null|
+|**2025-11-24**|**Any4D: Open-Prompt 4D Generation from Natural Language and Images**|Hao Li (163.com) et.al.|[2511.18746](http://arxiv.org/abs/2511.18746)|null|
+|**2025-11-24**|**HuggingR $^{4}$ : A Progressive Reasoning Framework for Discovering Optimal Model Companions**|Shaoyin Ma (zju.edu.cn) et.al.|[2511.18715](http://arxiv.org/abs/2511.18715)|null|
+|**2025-11-24**|**MAGMA-Edu: Multi-Agent Generative Multimodal Framework for Text-Diagram Educational Question Generation**|Zhenyu Wu (mail.bnu.edu.cn) et.al.|[2511.18714](http://arxiv.org/abs/2511.18714)|null|
+|**2025-11-24**|**Empathetic Cascading Networks: A Multi-Stage Prompting Technique for Reducing Social Biases in Large Language Models**|Wangjiaxuan Xin (scu.stu.cn) et.al.|[2511.18696](http://arxiv.org/abs/2511.18696)|null|
+|**2025-11-23**|**Evaluating Large Language Models on the 2026 Korean CSAT Mathematics Exam: Measuring Mathematical Ability in a Zero-Data-Leakage Setting**|Goun Pyeon (gmail.com) et.al.|[2511.18649](http://arxiv.org/abs/2511.18649)|null|
+|**2025-11-23**|**Health system learning achieves generalist neuroimaging models**|Akhil Kondepudi et.al.|[2511.18640](http://arxiv.org/abs/2511.18640)|null|
+|**2025-11-23**|**Toward Trustworthy Difficulty Assessments: Large Language Models as Judges in Programming and Synthetic Tasks**|H. M. Shadman Tabib (gmail.com) et.al.|[2511.18597](http://arxiv.org/abs/2511.18597)|null|
+|**2025-11-23**|**From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence**|Jian Yang et.al.|[2511.18538](http://arxiv.org/abs/2511.18538)|null|
+|**2025-11-23**|**Real-Time Personalized Content Adaptation through Matrix Factorization and Context-Aware Federated Learning**|Sai Puppala (miners.utep.edu) et.al.|[2511.18489](http://arxiv.org/abs/2511.18489)|null|
+|**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad (itmo.ru) et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
+|**2025-11-23**|**Natural Emergent Misalignment from Reward Hacking in Production RL**|Monte MacDiarmid (anthropic.com) et.al.|[2511.18397](http://arxiv.org/abs/2511.18397)|null|
+|**2025-11-23**|**Progressive Localisation in Localist LLMs**|Joachim Diederich (psychologynetwork.com.au) et.al.|[2511.18375](http://arxiv.org/abs/2511.18375)|null|
+|**2025-11-23**|**OmniStruct: Universal Text-to-Structure Generation across Diverse Schemas**|James Y. Huang (usc.edu) et.al.|[2511.18335](http://arxiv.org/abs/2511.18335)|null|
+|**2025-11-23**|**Hierarchical Deep Research with Local-Web RAG: Toward Automated System-Level Materials Discovery**|Rui Ding (uchicago.edu) et.al.|[2511.18303](http://arxiv.org/abs/2511.18303)|null|
+|**2025-11-23**|**The Catastrophic Paradox of Human Cognitive Frameworks in Large Language Model Evaluation: A Comprehensive Empirical Analysis of the CHC-LLM Incompatibility**|Mohan Reddy (stanford.edu) et.al.|[2511.18302](http://arxiv.org/abs/2511.18302)|null|
+|**2025-11-23**|**Cross-Disciplinary Knowledge Retrieval and Synthesis: A Compound AI Architecture for Scientific Discovery**|Svitlana Volkova et.al.|[2511.18298](http://arxiv.org/abs/2511.18298)|null|
+|**2025-11-23**|**Can LLMs Help Allocate Public Health Resources? A Case Study on Childhood Lead Testing**|Mohamed Afane (fordham.edu) et.al.|[2511.18239](http://arxiv.org/abs/2511.18239)|null|
+|**2025-11-22**|**Enhancing Large Language Models for Automated Homework Assessment in Undergraduate Circuit Analysis**|Liangliang Chen (gatech.edu) et.al.|[2511.18221](http://arxiv.org/abs/2511.18221)|null|
 |**2025-11-21**|**Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards**|Zhen Wang (dp.tech) et.al.|[2511.17473](http://arxiv.org/abs/2511.17473)|null|
 |**2025-11-21**|**Large Language Models for Sentiment Analysis to Detect Social Challenges: A Use Case with South African Languages**|Koena Ronny Mabokela (gmail.com) et.al.|[2511.17301](http://arxiv.org/abs/2511.17301)|null|
 |**2025-11-21**|**Cross-cultural value alignment frameworks for responsible AI governance: Evidence from China-West comparative analysis**|Haijiang Liu (ontoweb.wust.edu.cn) et.al.|[2511.17256](http://arxiv.org/abs/2511.17256)|null|
@@ -2699,7 +2760,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
