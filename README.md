@@ -1,4 +1,4 @@
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|Rui Xue (ncsu.edu) et.al.|[2511.20564](http://arxiv.org/abs/2511.20564)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**HHFT: Hierarchical Heterogeneous Feature Transformer for Recommendation Systems**|Liren Yu (taobao.com) et.al.|[2511.20235](http://arxiv.org/abs/2511.20235)|null|
+|**2025-11-25**|**Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation**|Lian Shen (stu.xmu.edu.cn) et.al.|[2511.20222](http://arxiv.org/abs/2511.20222)|null|
+|**2025-11-25**|**Enhancing Sequential Recommendation with World Knowledge from Large Language Models**|Tianjie Dai (sjtu.edu.cn) et.al.|[2511.20177](http://arxiv.org/abs/2511.20177)|null|
+|**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|null|
+|**2025-11-25**|**Invisible in Search? Auditing Aesthetic Bias in the Visual Representation of Holocaust Victims on Google**|Mykola Makhortykh et.al.|[2511.20036](http://arxiv.org/abs/2511.20036)|null|
+|**2025-11-25**|**The 2nd Workshop on Human-Centered Recommender Systems**|Kaike Zhang (gmail.com) et.al.|[2511.19979](http://arxiv.org/abs/2511.19979)|null|
+|**2025-11-24**|**Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**|Farzan Karimi-Malekabadi (usc.edu) et.al.|[2511.19749](http://arxiv.org/abs/2511.19749)|null|
+|**2025-11-24**|**Training-Free Active Learning Framework in Materials Science with Large Language Models**|Hongchen Wang (mail.utoronto.ca) et.al.|[2511.19730](http://arxiv.org/abs/2511.19730)|null|
+|**2025-11-24**|**TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding**|Chin-Chia Michael Yeh (visa.com) et.al.|[2511.19693](http://arxiv.org/abs/2511.19693)|null|
+|**2025-11-24**|**SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation**|Yang Wu (tencent.com) et.al.|[2511.19514](http://arxiv.org/abs/2511.19514)|null|
 |**2025-11-24**|**Neural surrogates for designing gravitational wave detectors**|Carlos Ruiz-Gonzalez (proton.me) et.al.|[2511.19364](http://arxiv.org/abs/2511.19364)|null|
 |**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
 |**2025-11-24**|**Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation**|Chenhao Zhai (mails.tsinghua.edu.cn) et.al.|[2511.18997](http://arxiv.org/abs/2511.18997)|null|
@@ -764,12 +776,19 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**Enhancing Sequential Recommendation with World Knowledge from Large Language Models**|Tianjie Dai (sjtu.edu.cn) et.al.|[2511.20177](http://arxiv.org/abs/2511.20177)|null|
+|**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|null|
+|**2025-11-25**|**The 2nd Workshop on Human-Centered Recommender Systems**|Kaike Zhang (gmail.com) et.al.|[2511.19979](http://arxiv.org/abs/2511.19979)|null|
+|**2025-11-24**|**Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**|Farzan Karimi-Malekabadi (usc.edu) et.al.|[2511.19749](http://arxiv.org/abs/2511.19749)|null|
+|**2025-11-24**|**Training-Free Active Learning Framework in Materials Science with Large Language Models**|Hongchen Wang (mail.utoronto.ca) et.al.|[2511.19730](http://arxiv.org/abs/2511.19730)|null|
+|**2025-11-24**|**SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation**|Yang Wu (tencent.com) et.al.|[2511.19514](http://arxiv.org/abs/2511.19514)|null|
 |**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
 |**2025-11-24**|**NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations**|Yejing Wang (acm.org) et.al.|[2511.18793](http://arxiv.org/abs/2511.18793)|null|
 |**2025-11-23**|**Real-Time Personalized Content Adaptation through Matrix Factorization and Context-Aware Federated Learning**|Sai Puppala (miners.utep.edu) et.al.|[2511.18489](http://arxiv.org/abs/2511.18489)|null|
@@ -1154,12 +1173,29 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**From Words to Wisdom: Discourse Annotation and Baseline Models for Student Dialogue Understanding**|Farjana Sultana Mim (gmail.com) et.al.|[2511.20547](http://arxiv.org/abs/2511.20547)|null|
+|**2025-11-25**|**Beyond Generation: Multi-Hop Reasoning for Factual Accuracy in Vision-Language Models**|Shamima Hossain (g.bracu.ac.bd) et.al.|[2511.20531](http://arxiv.org/abs/2511.20531)|null|
+|**2025-11-25**|**Assessing LLMs' Performance: Insights from the Chinese Pharmacist Exam**|Xinran Wang (163.com) et.al.|[2511.20526](http://arxiv.org/abs/2511.20526)|null|
+|**2025-11-25**|**The Text Aphasia Battery (TAB): A Clinically-Grounded Benchmark for Aphasia-Like Deficits in Language Models**|Nathan Roll et.al.|[2511.20507](http://arxiv.org/abs/2511.20507)|null|
+|**2025-11-25**|**Adversarial Confusion Attack: Disrupting Multimodal Large Language Models**|Jakub Hoscilowicz et.al.|[2511.20494](http://arxiv.org/abs/2511.20494)|null|
+|**2025-11-25**|**"When Data is Scarce, Prompt Smarter"... Approaches to Grammatical Error Correction in Low-Resource Settings**|Somsubhra De et.al.|[2511.20120](http://arxiv.org/abs/2511.20120)|null|
+|**2025-11-25**|**CLIMATEAGENT: Multi-Agent Orchestration for Complex Climate Data Science Workflows**|Hyeonjae Kim et.al.|[2511.20109](http://arxiv.org/abs/2511.20109)|null|
+|**2025-11-25**|**The Devil in the Details: Emergent Misalignment, Format and Coherence in Open-Weights LLMs**|Craig Dickson (bliss.berlin) et.al.|[2511.20104](http://arxiv.org/abs/2511.20104)|null|
+|**2025-11-25**|**Directional Optimization Asymmetry in Transformers: A Synthetic Stress Test**|Mihir Sahasrabudhe (illinois.edu) et.al.|[2511.19997](http://arxiv.org/abs/2511.19997)|**[link](https://github.com/mihirs-0/synass)**|
+|**2025-11-25**|**CodeFuse-CommitEval: Towards Benchmarking LLM's Power on Commit Message and Code Change Inconsistency Detection**|Qingyu Zhang et.al.|[2511.19875](http://arxiv.org/abs/2511.19875)|null|
+|**2025-11-25**|**Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains**|Arun Chowdary Sanna (outlook.com) et.al.|[2511.19874](http://arxiv.org/abs/2511.19874)|null|
+|**2025-11-25**|**A Systematic Analysis of Large Language Models with RAG-enabled Dynamic Prompting for Medical Error Detection and Correction**|Farzad Ahmed et.al.|[2511.19858](http://arxiv.org/abs/2511.19858)|null|
+|**2025-11-24**|**NOEM $^{3}$ A: A Neuro-Symbolic Ontology-Enhanced Method for Multi-Intent Understanding in Mobile Agents**|Ioannis Tzachristas (huawei.com) et.al.|[2511.19780](http://arxiv.org/abs/2511.19780)|null|
+|**2025-11-24**|**Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**|Farzan Karimi-Malekabadi (usc.edu) et.al.|[2511.19749](http://arxiv.org/abs/2511.19749)|null|
+|**2025-11-24**|**FISCAL: Financial Synthetic Claim-document Augmented Learning for Efficient Fact-Checking**|Rishab Sharma (charli.ai) et.al.|[2511.19671](http://arxiv.org/abs/2511.19671)|null|
+|**2025-11-24**|**AttackPilot: Autonomous Inference Attacks Against ML Services With LLM-Based Agents**|Yixin Wu et.al.|[2511.19536](http://arxiv.org/abs/2511.19536)|null|
 |**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang (usc.edu) et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
 |**2025-11-24**|**Learning to Reason: Training LLMs with GPT-OSS or DeepSeek R1 Reasoning Traces**|Shaltiel Shmidman (dicta.org.il) et.al.|[2511.19333](http://arxiv.org/abs/2511.19333)|null|
 |**2025-11-24**|**Open-weight genome language model safeguards: Assessing robustness via adversarial fine-tuning**|James R. M. Black (jhu.edu) et.al.|[2511.19299](http://arxiv.org/abs/2511.19299)|null|
@@ -2760,7 +2796,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
