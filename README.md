@@ -1,4 +1,4 @@
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction**|Guoxiao Zhang (meituan.com) et.al.|[2511.21394](http://arxiv.org/abs/2511.21394)|null|
+|**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang (meituan.com) et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
+|**2025-11-26**|**CAHS-Attack: CLIP-Aware Heuristic Search Attack Method for Stable Diffusion**|Shuhan Xia (bupt.edu.cn) et.al.|[2511.21180](http://arxiv.org/abs/2511.21180)|null|
+|**2025-11-26**|**Generative Early Stage Ranking**|Juhee Hong (meta.com) et.al.|[2511.21095](http://arxiv.org/abs/2511.21095)|null|
+|**2025-11-26**|**A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems**|Yuxuan Zhu (gmail.com) et.al.|[2511.21032](http://arxiv.org/abs/2511.21032)|**[link](https://github.com/FuCongResearchSquad/ELBO4TDS)**|
+|**2025-11-26**|**Resilient Charging Infrastructure via Decentralized Coordination of Electric Vehicles at Scale**|Chuhao Qin et.al.|[2511.20943](http://arxiv.org/abs/2511.20943)|null|
+|**2025-11-25**|**Probabilistic Hash Embeddings for Online Learning of Categorical Features**|Aodong Li (amazon.com) et.al.|[2511.20893](http://arxiv.org/abs/2511.20893)|**[link](https://github.com/aodongli/probabilistic-hash-embeddings)**|
+|**2025-11-25**|**Representation Integrity in Temporal Graph Learning Methods**|Elahe Kooshafar et.al.|[2511.20873](http://arxiv.org/abs/2511.20873)|null|
+|**2025-11-25**|**E-GEO: A Testbed for Generative Engine Optimization in E-Commerce**|Puneet S. Bagga et.al.|[2511.20867](http://arxiv.org/abs/2511.20867)|**[link](https://github.com/psbagga17/E-GEO)**|
+|**2025-11-25**|**Accelerating Sparse Convolutions in Voxel-Based Point Cloud Networks**|Dionysios Adamopoulos (mpi-sws.org) et.al.|[2511.20834](http://arxiv.org/abs/2511.20834)|null|
+|**2025-11-25**|**Data-Driven Methods and AI in Engineering Design: A Systematic Literature Review Focusing on Challenges and Opportunities**|Nehal Afifi et.al.|[2511.20730](http://arxiv.org/abs/2511.20730)|null|
 |**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|Rui Xue (ncsu.edu) et.al.|[2511.20564](http://arxiv.org/abs/2511.20564)|null|
 |**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
 |**2025-11-25**|**HHFT: Hierarchical Heterogeneous Feature Transformer for Recommendation Systems**|Liren Yu (taobao.com) et.al.|[2511.20235](http://arxiv.org/abs/2511.20235)|null|
@@ -776,12 +787,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang (meituan.com) et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
+|**2025-11-25**|**E-GEO: A Testbed for Generative Engine Optimization in E-Commerce**|Puneet S. Bagga et.al.|[2511.20867](http://arxiv.org/abs/2511.20867)|**[link](https://github.com/psbagga17/E-GEO)**|
 |**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
 |**2025-11-25**|**Enhancing Sequential Recommendation with World Knowledge from Large Language Models**|Tianjie Dai (sjtu.edu.cn) et.al.|[2511.20177](http://arxiv.org/abs/2511.20177)|null|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|null|
@@ -1173,12 +1186,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
+|**2025-11-26**|**EvilGenie: A Reward Hacking Benchmark**|Jonathan Gabor (gmail.com) et.al.|[2511.21654](http://arxiv.org/abs/2511.21654)|**[link](https://github.com/JonathanGabor/EvilGenie)**|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
+|**2025-11-26**|**Visualizing LLM Latent Space Geometry Through Dimensionality Reduction**|Alex Ning (virginia.edu) et.al.|[2511.21594](http://arxiv.org/abs/2511.21594)|**[link](https://github.com/Vainateya/Feature_Geometry_Visualization)**|
+|**2025-11-26**|**Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**|Alex Ning (virginia.edu) et.al.|[2511.21581](http://arxiv.org/abs/2511.21581)|**[link](https://github.com/apning/adaptive-latent-reasoning)**|
+|**2025-11-26**|**Can LLMs extract human-like fine-grained evidence for evidence-based fact-checking?**|Antonín Jarolím (fit.vut.cz) et.al.|[2511.21401](http://arxiv.org/abs/2511.21401)|null|
+|**2025-11-26**|**MortgageLLM: Domain-Adaptive Pretraining with Residual Instruction Transfer, Alignment Tuning, and Task-Specific Routing**|Manish Jain (firstsource.com) et.al.|[2511.21101](http://arxiv.org/abs/2511.21101)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov (wallarm.com) et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|**[link](https://gist.github.com/iwallarm/fc2ef1eddf226ca7814f9e5e2ae9bad1)**|
+|**2025-11-26**|**Orthographic Constraint Satisfaction and Human Difficulty Alignment in Large Language Models**|Bryan E. Tuck (uh.edu) et.al.|[2511.21086](http://arxiv.org/abs/2511.21086)|null|
+|**2025-11-26**|**Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning**|Linze Chen et.al.|[2511.21033](http://arxiv.org/abs/2511.21033)|null|
+|**2025-11-26**|**TrafficLens: Multi-Camera Traffic Video Analysis Using LLMs**|Md Adnan Arefeen (nec-labs.com) et.al.|[2511.20965](http://arxiv.org/abs/2511.20965)|null|
+|**2025-11-26**|**Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture**|Rahul Dass (gatech.edu) et.al.|[2511.20942](http://arxiv.org/abs/2511.20942)|null|
+|**2025-11-26**|**Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs**|Reham Omar et.al.|[2511.20940](http://arxiv.org/abs/2511.20940)|null|
+|**2025-11-25**|**Representation Interventions Enable Lifelong Unstructured Knowledge Control**|Xuyuan Liu et.al.|[2511.20892](http://arxiv.org/abs/2511.20892)|null|
+|**2025-11-25**|**Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries**|Sree Bhattacharyya (psu.edu) et.al.|[2511.20854](http://arxiv.org/abs/2511.20854)|null|
+|**2025-11-25**|**Length-MAX Tokenizer for Language Models**|Dong Dong et.al.|[2511.20849](http://arxiv.org/abs/2511.20849)|null|
+|**2025-11-25**|**SPHINX: A Synthetic Environment for Visual Perception and Reasoning**|Md Tanvirul Alam (rit.edu) et.al.|[2511.20814](http://arxiv.org/abs/2511.20814)|null|
+|**2025-11-25**|**Large Language Models' Complicit Responses to Illicit Instructions across Socio-Legal Contexts**|Xing Wang (std.uestc.edu.cn) et.al.|[2511.20736](http://arxiv.org/abs/2511.20736)|null|
 |**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**From Words to Wisdom: Discourse Annotation and Baseline Models for Student Dialogue Understanding**|Farjana Sultana Mim (gmail.com) et.al.|[2511.20547](http://arxiv.org/abs/2511.20547)|null|
 |**2025-11-25**|**Beyond Generation: Multi-Hop Reasoning for Factual Accuracy in Vision-Language Models**|Shamima Hossain (g.bracu.ac.bd) et.al.|[2511.20531](http://arxiv.org/abs/2511.20531)|null|
@@ -2796,7 +2827,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
