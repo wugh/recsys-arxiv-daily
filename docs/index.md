@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?**|Gustavo Penha (spotify.com) et.al.|[2511.23312](http://arxiv.org/abs/2511.23312)|null|
+|**2025-11-28**|**Standard Occupation Classifier -- A Natural Language Processing Approach**|Sidharth Rony (gmail.com) et.al.|[2511.23057](http://arxiv.org/abs/2511.23057)|null|
+|**2025-11-28**|**FedAU2: Attribute Unlearning for User-Level Federated Recommender Systems with Adaptive and Robust Adversarial Training**|Yuyuan Li (zju.edu.cn) et.al.|[2511.22872](http://arxiv.org/abs/2511.22872)|null|
+|**2025-11-27**|**Privacy-Utility-Bias Trade-offs for Privacy-Preserving Recommender Systems**|Shiva Parsarad (unibas.ch) et.al.|[2511.22515](http://arxiv.org/abs/2511.22515)|null|
+|**2025-11-27**|**An Efficient Embedding Based Ad Retrieval with GPU-Powered Feature Interaction**|Yifan Lei (tencent.com) et.al.|[2511.22460](http://arxiv.org/abs/2511.22460)|null|
+|**2025-11-27**|**TreeCoder: Systematic Exploration and Optimisation of Decoding and Constraints for LLM Code Generation**|Henrijs Princis (bristol.ac.uk) et.al.|[2511.22277](http://arxiv.org/abs/2511.22277)|null|
+|**2025-11-27**|**RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**|Mengfan Li (hust.edu.cn) et.al.|[2511.22275](http://arxiv.org/abs/2511.22275)|null|
+|**2025-11-27**|**Efficiency and Effectiveness of SPLADE Models on Billion-Scale Web Document Title**|Taeryun Won (navercorp.com) et.al.|[2511.22263](http://arxiv.org/abs/2511.22263)|null|
+|**2025-11-27**|**Benchmarking In-context Experiential Learning Through Repeated Product Recommendations**|Gilbert Yang (columbia.edu) et.al.|[2511.22130](http://arxiv.org/abs/2511.22130)|null|
+|**2025-11-27**|**Representative Action Selection for Large Action Space: From Bandits to MDPs**|Quan Zhou (campus.technion.ac.il) et.al.|[2511.22104](http://arxiv.org/abs/2511.22104)|null|
+|**2025-11-27**|**Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation**|Nachiket Subbaraman (ucdavis.edu) et.al.|[2511.21989](http://arxiv.org/abs/2511.21989)|null|
+|**2025-11-26**|**CTR Prediction on Alibaba's Taobao Advertising Dataset Using Traditional and Deep Learning Models**|Hongyu Yang et.al.|[2511.21963](http://arxiv.org/abs/2511.21963)|null|
+|**2025-11-26**|**Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction Using Face Image and GSR Bio Signals**|Hamid Shamszare (mix.wvu.edu) et.al.|[2511.21908](http://arxiv.org/abs/2511.21908)|null|
 |**2025-11-26**|**RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction**|Guoxiao Zhang (meituan.com) et.al.|[2511.21394](http://arxiv.org/abs/2511.21394)|null|
 |**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang (meituan.com) et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
 |**2025-11-26**|**CAHS-Attack: CLIP-Aware Heuristic Search Attack Method for Stable Diffusion**|Shuhan Xia (bupt.edu.cn) et.al.|[2511.21180](http://arxiv.org/abs/2511.21180)|null|
@@ -786,6 +799,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?**|Gustavo Penha (spotify.com) et.al.|[2511.23312](http://arxiv.org/abs/2511.23312)|null|
+|**2025-11-28**|**Standard Occupation Classifier -- A Natural Language Processing Approach**|Sidharth Rony (gmail.com) et.al.|[2511.23057](http://arxiv.org/abs/2511.23057)|null|
+|**2025-11-27**|**TreeCoder: Systematic Exploration and Optimisation of Decoding and Constraints for LLM Code Generation**|Henrijs Princis (bristol.ac.uk) et.al.|[2511.22277](http://arxiv.org/abs/2511.22277)|null|
+|**2025-11-27**|**RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**|Mengfan Li (hust.edu.cn) et.al.|[2511.22275](http://arxiv.org/abs/2511.22275)|null|
+|**2025-11-27**|**Benchmarking In-context Experiential Learning Through Repeated Product Recommendations**|Gilbert Yang (columbia.edu) et.al.|[2511.22130](http://arxiv.org/abs/2511.22130)|null|
+|**2025-11-27**|**Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation**|Nachiket Subbaraman (ucdavis.edu) et.al.|[2511.21989](http://arxiv.org/abs/2511.21989)|null|
 |**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang (meituan.com) et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
 |**2025-11-25**|**E-GEO: A Testbed for Generative Engine Optimization in E-Commerce**|Puneet S. Bagga et.al.|[2511.20867](http://arxiv.org/abs/2511.20867)|**[link](https://github.com/psbagga17/E-GEO)**|
 |**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
@@ -1183,6 +1202,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang (cs.washington.edu) et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|**[link](https://github.com/ypwang61/ThetaEvolve)**|
+|**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg (list.lu) et.al.|[2511.23408](http://arxiv.org/abs/2511.23408)|null|
+|**2025-11-28**|**MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation**|Mahdi Rahmani (MegaChat.ir) et.al.|[2511.23397](http://arxiv.org/abs/2511.23397)|**[link](https://github.com/MegaChat-Tech/MegaChat-DataSet)**|
+|**2025-11-28**|**MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)**|Aaron Steiner (uni-mannheim.de) et.al.|[2511.23281](http://arxiv.org/abs/2511.23281)|null|
+|**2025-11-28**|**Tourism Question Answer System in Indian Language using Domain-Adapted Foundation Models**|Praveen Gatla (bhu.ac.in) et.al.|[2511.23235](http://arxiv.org/abs/2511.23235)|null|
+|**2025-11-28**|**MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?**|Yuandong Wang (mail.tsinghua.edu.cn) et.al.|[2511.23112](http://arxiv.org/abs/2511.23112)|**[link](https://cnu-bot-group.github.io/MathSight/)**|
+|**2025-11-28**|**Mind Reading or Misreading? LLMs on the Big Five Personality Test**|Francesco Di Cursi (iit.cnr.it) et.al.|[2511.23101](http://arxiv.org/abs/2511.23101)|null|
+|**2025-11-28**|**Evaluating the Clinical Impact of Generative Inpainting on Bone Age Estimation**|Felipe Akio Matsuoka (dasa.com.br) et.al.|[2511.23066](http://arxiv.org/abs/2511.23066)|null|
+|**2025-11-28**|**Conveying Imagistic Thinking in TCM Translation: A Prompt Engineering and LLM-Based Evaluation Framework**|Jiatong Han (gmail.com) et.al.|[2511.23059](http://arxiv.org/abs/2511.23059)|null|
+|**2025-11-28**|**Standard Occupation Classifier -- A Natural Language Processing Approach**|Sidharth Rony (gmail.com) et.al.|[2511.23057](http://arxiv.org/abs/2511.23057)|null|
+|**2025-11-28**|**MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents**|Ruoxuan Zhang (jlu.edu.cn) et.al.|[2511.23055](http://arxiv.org/abs/2511.23055)|null|
+|**2025-11-28**|**ShoppingComp: Are LLMs Really Ready for Your Shopping Cart?**|Huaixiao Tou (bytedance.com) et.al.|[2511.22978](http://arxiv.org/abs/2511.22978)|null|
+|**2025-11-28**|**Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match**|Jinze Li (connect.hku.hk) et.al.|[2511.22972](http://arxiv.org/abs/2511.22972)|null|
+|**2025-11-28**|**Visual Puns from Idioms: An Iterative LLM-T2IM-MLLM Framework**|Kelaiti Xiao et.al.|[2511.22943](http://arxiv.org/abs/2511.22943)|null|
+|**2025-11-28**|**Artwork Interpretation with Vision Language Models: A Case Study on Emotions and Emotion Symbols**|Sebastian Padó et.al.|[2511.22929](http://arxiv.org/abs/2511.22929)|null|
+|**2025-11-28**|**ORION: Teaching Language Models to Reason Efficiently in the Language of Thought**|Kumar Tanmay (fas.harvard.edu) et.al.|[2511.22891](http://arxiv.org/abs/2511.22891)|null|
+|**2025-11-28**|**CRAwDAD: Causal Reasoning Augmentation with Dual-Agent Debate**|Finn G. Vamosi (ucalgary.ca) et.al.|[2511.22854](http://arxiv.org/abs/2511.22854)|**[link](https://github.com/finnvamosi/CRAwDAD)**|
+|**2025-11-27**|**LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system**|Huanyu Li (mail.nankai.edu.cn) et.al.|[2511.22598](http://arxiv.org/abs/2511.22598)|**[link](https://github.com/puleya1277/CaveEnv)**|
+|**2025-11-27**|**Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing**|Chao Feng (ifi.uzh.ch) et.al.|[2511.22584](http://arxiv.org/abs/2511.22584)|null|
+|**2025-11-27**|**Asking like Socrates: Socrates helps VLMs understand remote sensing images**|Run Shao et.al.|[2511.22396](http://arxiv.org/abs/2511.22396)|**[link](https://geox-lab.github.io/Asking_like_Socrates)**|
+|**2025-11-27**|**SingleQuant: Efficient Quantization of Large Language Models in a Single Pass**|Jinying Xiao (nudt.edu.cn) et.al.|[2511.22316](http://arxiv.org/abs/2511.22316)|null|
+|**2025-11-27**|**Token-Level Marginalization for Multi-Label LLM Classifiers**|Anjaneya Praharaj et.al.|[2511.22312](http://arxiv.org/abs/2511.22312)|null|
+|**2025-11-27**|**TreeCoder: Systematic Exploration and Optimisation of Decoding and Constraints for LLM Code Generation**|Henrijs Princis (bristol.ac.uk) et.al.|[2511.22277](http://arxiv.org/abs/2511.22277)|null|
+|**2025-11-27**|**Evaluating Embedding Models and Pipeline Optimization for AI Search Quality**|Philip Zhong (cisco.com) et.al.|[2511.22240](http://arxiv.org/abs/2511.22240)|null|
+|**2025-11-27**|**RefineBench: Evaluating Refinement Capability of Language Models via Checklists**|Young-Jun Lee et.al.|[2511.22173](http://arxiv.org/abs/2511.22173)|**[link](https://passing2961.github.io/refinebench-page/)**|
+|**2025-11-27**|**A Theoretically Grounded Hybrid Ensemble for Reliable Detection of LLM-Generated Text**|Sepyan Purnama Kristanto et.al.|[2511.22153](http://arxiv.org/abs/2511.22153)|null|
+|**2025-11-27**|**TinyLLM: Evaluation and Optimization of Small Language Models for Agentic Tasks on Edge Devices**|Mohd Ariful Haque (students.cau.edu) et.al.|[2511.22138](http://arxiv.org/abs/2511.22138)|null|
+|**2025-11-26**|**WalkCLIP: Multimodal Learning for Urban Walkability Prediction**|Shilong Xiang (umn.edu) et.al.|[2511.21947](http://arxiv.org/abs/2511.21947)|null|
+|**2025-11-26**|**A Comparative Study of LLM Prompting and Fine-Tuning for Cross-genre Authorship Attribution on Chinese Lyrics**|Yuxin Li (columbia.edu) et.al.|[2511.21930](http://arxiv.org/abs/2511.21930)|null|
+|**2025-11-26**|**FLAWS: A Benchmark for Error Identification and Localization in Scientific Papers**|Sarina Xi (cs.cmu.edu) et.al.|[2511.21843](http://arxiv.org/abs/2511.21843)|null|
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
 |**2025-11-26**|**EvilGenie: A Reward Hacking Benchmark**|Jonathan Gabor (gmail.com) et.al.|[2511.21654](http://arxiv.org/abs/2511.21654)|**[link](https://github.com/JonathanGabor/EvilGenie)**|
 |**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
