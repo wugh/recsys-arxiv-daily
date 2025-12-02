@@ -2,13 +2,24 @@
 layout: default
 ---
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
+|**2025-12-01**|**Efficient Hyperparameter Search for Non-Stationary Model Training**|Berivan Isik (google.com) et.al.|[2512.01258](http://arxiv.org/abs/2512.01258)|null|
+|**2025-12-01**|**Conversion rate prediction in online advertising: modeling techniques, performance evaluation and future directions**|Tao Xue (gmail.com) et.al.|[2512.01171](http://arxiv.org/abs/2512.01171)|null|
+|**2025-11-30**|**Integrating Causal Foundation Model in Prescriptive Maintenance Framework for Optimizing Production Line OEE**|Felix Saretzky (uni.lu) et.al.|[2512.00969](http://arxiv.org/abs/2512.00969)|null|
+|**2025-11-30**|**Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search**|Ziyang Zeng (bupt.edu.cn) et.al.|[2512.00968](http://arxiv.org/abs/2512.00968)|null|
+|**2025-11-30**|**On the Regulatory Potential of User Interfaces for AI Agent Governance**|K. J. Kevin Feng (uw.edu) et.al.|[2512.00742](http://arxiv.org/abs/2512.00742)|null|
+|**2025-11-30**|**Exploiting Function-Family Structure in Analog Circuit Optimization**|Zhuohua Liu (buaa.edu.cn) et.al.|[2512.00712](http://arxiv.org/abs/2512.00712)|null|
+|**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
+|**2025-11-29**|**DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems**|Jiahao Tian (gatech.edu) et.al.|[2512.00596](http://arxiv.org/abs/2512.00596)|null|
+|**2025-11-29**|**Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System**|Zhitong Guan et.al.|[2512.00313](http://arxiv.org/abs/2512.00313)|null|
+|**2025-11-28**|**RadDiff: Retrieval-Augmented Denoising Diffusion for Protein Inverse Folding**|Jin Han (smail.nju.edu.cn) et.al.|[2512.00126](http://arxiv.org/abs/2512.00126)|null|
 |**2025-11-28**|**Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?**|Gustavo Penha (spotify.com) et.al.|[2511.23312](http://arxiv.org/abs/2511.23312)|null|
 |**2025-11-28**|**Standard Occupation Classifier -- A Natural Language Processing Approach**|Sidharth Rony (gmail.com) et.al.|[2511.23057](http://arxiv.org/abs/2511.23057)|null|
 |**2025-11-28**|**FedAU2: Attribute Unlearning for User-Level Federated Recommender Systems with Adaptive and Robust Adversarial Training**|Yuyuan Li (zju.edu.cn) et.al.|[2511.22872](http://arxiv.org/abs/2511.22872)|null|
@@ -799,6 +810,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
+|**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
+|**2025-11-29**|**DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems**|Jiahao Tian (gatech.edu) et.al.|[2512.00596](http://arxiv.org/abs/2512.00596)|null|
+|**2025-11-29**|**Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System**|Zhitong Guan et.al.|[2512.00313](http://arxiv.org/abs/2512.00313)|null|
+|**2025-11-28**|**RadDiff: Retrieval-Augmented Denoising Diffusion for Protein Inverse Folding**|Jin Han (smail.nju.edu.cn) et.al.|[2512.00126](http://arxiv.org/abs/2512.00126)|null|
 |**2025-11-28**|**Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?**|Gustavo Penha (spotify.com) et.al.|[2511.23312](http://arxiv.org/abs/2511.23312)|null|
 |**2025-11-28**|**Standard Occupation Classifier -- A Natural Language Processing Approach**|Sidharth Rony (gmail.com) et.al.|[2511.23057](http://arxiv.org/abs/2511.23057)|null|
 |**2025-11-27**|**TreeCoder: Systematic Exploration and Optimisation of Decoding and Constraints for LLM Code Generation**|Henrijs Princis (bristol.ac.uk) et.al.|[2511.22277](http://arxiv.org/abs/2511.22277)|null|
@@ -1202,6 +1218,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference**|Sai Gokhale et.al.|[2512.01953](http://arxiv.org/abs/2512.01953)|null|
+|**2025-12-01**|**Testing Transformer Learnability on the Arithmetic Sequence of Rooted Trees**|Alessandro Breccia (unibo.it) et.al.|[2512.01870](http://arxiv.org/abs/2512.01870)|null|
+|**2025-12-01**|**Cross-Lingual Interleaving for Speech Language Models**|Adel Moumen (cam.ac.uk) et.al.|[2512.01865](http://arxiv.org/abs/2512.01865)|null|
+|**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
+|**2025-12-01**|**PromptBridge: Cross-Model Prompt Transfer for Large Language Models**|Yaxuan Wang (accenture.com) et.al.|[2512.01420](http://arxiv.org/abs/2512.01420)|null|
+|**2025-12-01**|**Benchmarking Overton Pluralism in LLMs**|Elinor Poole-Dayan (mit.edu) et.al.|[2512.01351](http://arxiv.org/abs/2512.01351)|null|
+|**2025-12-01**|**Securing Large Language Models (LLMs) from Prompt Injection Attacks**|Omar Farooq Khan Suri et.al.|[2512.01326](http://arxiv.org/abs/2512.01326)|null|
+|**2025-12-01**|**SUPERChem: A Multimodal Reasoning Benchmark in Chemistry**|Zehua Zhao (pku.edu.cn) et.al.|[2512.01274](http://arxiv.org/abs/2512.01274)|null|
+|**2025-12-01**|**Efficient Training of Diffusion Mixture-of-Experts Models: A Practical Recipe**|Yahui Liu (kuaishou.com) et.al.|[2512.01252](http://arxiv.org/abs/2512.01252)|**[link](https://github.com/yhlleo/EfficientMoE)**|
+|**2025-12-01**|**LLM-as-a-Judge for Scalable Test Coverage Evaluation: Accuracy, Operational Reliability, and Cost**|Donghao Huang (smu.edu.sg) et.al.|[2512.01232](http://arxiv.org/abs/2512.01232)|null|
+|**2025-12-01**|**Unsupervised decoding of encoded reasoning using language model interpretability**|Ching Fang (gmail.com) et.al.|[2512.01222](http://arxiv.org/abs/2512.01222)|null|
+|**2025-12-01**|**Knowledge Graph Augmented Large Language Models for Next-Visit Disease Prediction**|Ruiyu Wang et.al.|[2512.01210](http://arxiv.org/abs/2512.01210)|null|
+|**2025-12-01**|**Conveying Imagistic Thinking in Traditional Chinese Medicine Translation: A Prompt Engineering and LLM-Based Evaluation Framework**|Jiatong Han (gmail.com) et.al.|[2512.01198](http://arxiv.org/abs/2512.01198)|null|
+|**2025-12-01**|**Generalist Large Language Models Outperform Clinical Tools on Medical Benchmarks**|Krithik Vishwanath et.al.|[2512.01191](http://arxiv.org/abs/2512.01191)|null|
+|**2025-12-01**|**DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks**|Hyunjun Kim (kaist.ac.kr) et.al.|[2512.01174](http://arxiv.org/abs/2512.01174)|**[link](https://github.com/hyunjun1121/DrawingBench)**|
+|**2025-11-30**|**Neural Variable Name Repair: Learning to Rename Identifiers for Readability**|Muhammad Yousuf (gatech.edu) et.al.|[2512.01141](http://arxiv.org/abs/2512.01141)|null|
+|**2025-11-30**|**SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds**|Jiawei Ren et.al.|[2512.01078](http://arxiv.org/abs/2512.01078)|null|
+|**2025-11-30**|**Advancing Academic Chatbots: Evaluation of Non Traditional Outputs**|Nicole Favero (student.cbs.dk) et.al.|[2512.00991](http://arxiv.org/abs/2512.00991)|null|
+|**2025-11-30**|**Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis**|Mintong Kang et.al.|[2512.00966](http://arxiv.org/abs/2512.00966)|null|
+|**2025-11-30**|**Table as a Modality for Large Language Models**|Liyao Li (zju.edu.cn) et.al.|[2512.00947](http://arxiv.org/abs/2512.00947)|null|
+|**2025-11-30**|**Fine-tuning of lightweight large language models for sentiment classification on heterogeneous financial textual data**|Alvaro Paredes Amorin et.al.|[2512.00946](http://arxiv.org/abs/2512.00946)|null|
+|**2025-11-30**|**Look, Recite, Then Answer: Enhancing VLM Performance via Self-Generated Knowledge Hints**|Xisheng Feng et.al.|[2512.00882](http://arxiv.org/abs/2512.00882)|null|
+|**2025-11-30**|**HBLLM: Wavelet-Enhanced High-Fidelity 1-Bit Quantization for LLMs**|Ningning Chen (mail2.sysu.edu.cn) et.al.|[2512.00862](http://arxiv.org/abs/2512.00862)|**[link](https://github.com/Yeyke/HBLLM)**|
+|**2025-11-30**|**Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation**|Chengzhi Yu (ustc.edu.cn) et.al.|[2512.00706](http://arxiv.org/abs/2512.00706)|null|
+|**2025-11-29**|**A Comparison of Human and ChatGPT Classification Performance on Complex Social Media Data**|Breanna E. Green et.al.|[2512.00673](http://arxiv.org/abs/2512.00673)|null|
+|**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
+|**2025-11-29**|**Clinical-R1: Empowering Large Language Models for Faithful and Comprehensive Reasoning with Clinical Objective Relative Policy Optimization**|Boyang Gu (imperial.ac.uk) et.al.|[2512.00601](http://arxiv.org/abs/2512.00601)|null|
+|**2025-11-29**|**RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards**|Junyan Ye et.al.|[2512.00473](http://arxiv.org/abs/2512.00473)|**[link](https://github.com/yejy53/RealGen)**|
+|**2025-11-29**|**A Taxonomy of Errors in English as she is spoke: Toward an AI-Based Method of Error Analysis for EFL Writing Instruction**|Damian Heywood et.al.|[2512.00392](http://arxiv.org/abs/2512.00392)|null|
+|**2025-11-29**|**Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models**|Sitong Fang (stu.pku.edu.cn) et.al.|[2512.00349](http://arxiv.org/abs/2512.00349)|null|
 |**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang (cs.washington.edu) et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|**[link](https://github.com/ypwang61/ThetaEvolve)**|
 |**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg (list.lu) et.al.|[2511.23408](http://arxiv.org/abs/2511.23408)|null|
 |**2025-11-28**|**MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation**|Mahdi Rahmani (MegaChat.ir) et.al.|[2511.23397](http://arxiv.org/abs/2511.23397)|**[link](https://github.com/MegaChat-Tech/MegaChat-DataSet)**|
