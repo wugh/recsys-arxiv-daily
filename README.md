@@ -1,4 +1,4 @@
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu (stu.pku.edu.cn) et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|null|
+|**2025-12-02**|**Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation**|Haofeng Huang (st.usst.edu.cn) et.al.|[2512.02474](http://arxiv.org/abs/2512.02474)|null|
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
 |**2025-12-01**|**Efficient Hyperparameter Search for Non-Stationary Model Training**|Berivan Isik (google.com) et.al.|[2512.01258](http://arxiv.org/abs/2512.01258)|null|
 |**2025-12-01**|**Conversion rate prediction in online advertising: modeling techniques, performance evaluation and future directions**|Tao Xue (gmail.com) et.al.|[2512.01171](http://arxiv.org/abs/2512.01171)|null|
@@ -811,12 +813,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu (stu.pku.edu.cn) et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|null|
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
 |**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
 |**2025-11-29**|**DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems**|Jiahao Tian (gatech.edu) et.al.|[2512.00596](http://arxiv.org/abs/2512.00596)|null|
@@ -1221,12 +1224,34 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models**|Saeid Jamshidi (concordia.ca) et.al.|[2512.03026](http://arxiv.org/abs/2512.03026)|null|
+|**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu (ttu.edu) et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
+|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong (pjlab.org.cn) et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
+|**2025-12-02**|**Lumos: Let there be Language Model System Certification**|Isha Chaudhary (illinois.edu) et.al.|[2512.02966](http://arxiv.org/abs/2512.02966)|null|
+|**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang (pku.edu.cn) et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
+|**2025-12-02**|**PEFT-Factory: Unified Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models**|Robert Belanec (kinit.sk) et.al.|[2512.02764](http://arxiv.org/abs/2512.02764)|**[link](https://github.com/kinit-sk/PEFT-Factory)**|
+|**2025-12-02**|**AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping**|Md Abdul Kadir (dfki.de) et.al.|[2512.02726](http://arxiv.org/abs/2512.02726)|null|
+|**2025-12-02**|**Emergent Bayesian Behaviour and Optimal Cue Combination in LLMs**|Julian Ma (ucl.ac.uk) et.al.|[2512.02719](http://arxiv.org/abs/2512.02719)|**[link](https://bayes-bench.github.io)**|
+|**2025-12-02**|**An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation**|Daiki Shirafuji (res.otaru-uc.ac.jp) et.al.|[2512.02689](http://arxiv.org/abs/2512.02689)|null|
+|**2025-12-02**|**Input Order Shapes LLM Semantic Alignment in Multi-Document Summarization**|Jing Ma et.al.|[2512.02665](http://arxiv.org/abs/2512.02665)|null|
+|**2025-12-02**|**SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization**|Zhengcheng Wang (tencent.com) et.al.|[2512.02631](http://arxiv.org/abs/2512.02631)|null|
+|**2025-12-02**|**DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models**|DeepSeek-AI (deepseek.com) et.al.|[2512.02556](http://arxiv.org/abs/2512.02556)|null|
+|**2025-12-02**|**What Signals Really Matter for Misinformation Tasks? Evaluating Fake-News Detection and Virality Prediction under Real-World Constraints**|Francesco Paolo Savatteri (chartes.psl.edu) et.al.|[2512.02552](http://arxiv.org/abs/2512.02552)|null|
+|**2025-12-02**|**COPE: Chain-Of-Thought Prediction Engine for Open-Source Large Language Model Based Stroke Outcome Prediction from Clinical Notes**|Yongkai Liu et.al.|[2512.02499](http://arxiv.org/abs/2512.02499)|null|
+|**2025-12-02**|**When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents**|Tsimur Hadeliya (gmail.com) et.al.|[2512.02445](http://arxiv.org/abs/2512.02445)|null|
+|**2025-12-02**|**TaleFrame: An Interactive Story Generation System with Fine-Grained Control and Large Language Models**|Yunchao Wang (gmail.com) et.al.|[2512.02402](http://arxiv.org/abs/2512.02402)|null|
+|**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan (stu.xjtu.edu.cn) et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|null|
+|**2025-12-01**|**Progressive Image Restoration via Text-Conditioned Video Generation**|Peng Kang (uis.edu) et.al.|[2512.02273](http://arxiv.org/abs/2512.02273)|null|
+|**2025-12-01**|**DETAIL Matters: Measuring the Impact of Prompt Specificity on Reasoning in Large Language Models**|Olivia Kim (emory.edu) et.al.|[2512.02246](http://arxiv.org/abs/2512.02246)|null|
+|**2025-12-01**|**See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models**|Le Thien Phuc Nguyen et.al.|[2512.02231](http://arxiv.org/abs/2512.02231)|null|
+|**2025-12-01**|**Think Before You Prune: Self-Reflective Structured Pruning for Reasoning Language Models**|Ziyan Wang (charlotte.edu) et.al.|[2512.02185](http://arxiv.org/abs/2512.02185)|null|
+|**2025-12-01**|**Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI**|Aaron Sandoval (gmail.com) et.al.|[2512.02157](http://arxiv.org/abs/2512.02157)|null|
 |**2025-12-01**|**KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference**|Sai Gokhale et.al.|[2512.01953](http://arxiv.org/abs/2512.01953)|null|
 |**2025-12-01**|**Testing Transformer Learnability on the Arithmetic Sequence of Rooted Trees**|Alessandro Breccia (unibo.it) et.al.|[2512.01870](http://arxiv.org/abs/2512.01870)|null|
 |**2025-12-01**|**Cross-Lingual Interleaving for Speech Language Models**|Adel Moumen (cam.ac.uk) et.al.|[2512.01865](http://arxiv.org/abs/2512.01865)|null|
@@ -2922,7 +2947,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
