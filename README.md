@@ -1,4 +1,4 @@
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Eval Factsheets: A Structured Framework for Documenting AI Evaluations**|Florian Bordes et.al.|[2512.04062](http://arxiv.org/abs/2512.04062)|null|
+|**2025-12-03**|**Learning to Comparison-Shop**|Jie Tang (airbnb.com) et.al.|[2512.04009](http://arxiv.org/abs/2512.04009)|null|
+|**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar (google.com) et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
+|**2025-12-03**|**DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization**|Yusen Wu et.al.|[2512.03607](http://arxiv.org/abs/2512.03607)|null|
+|**2025-12-03**|**PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks**|Yuki Orimo et.al.|[2512.03549](http://arxiv.org/abs/2512.03549)|null|
+|**2025-12-03**|**LLM as Explainable Re-Ranker for Recommendation System**|Yaqi Wang (andrew.cmu.edu) et.al.|[2512.03439](http://arxiv.org/abs/2512.03439)|null|
+|**2025-12-03**|**LLM-Generated Ads: From Personalization Parity to Persuasion Superiority**|Elyas Meguellati (uq.edu.au) et.al.|[2512.03373](http://arxiv.org/abs/2512.03373)|null|
+|**2025-12-03**|**Breaking Determinism: Stochastic Modeling for Reliable Off-Policy Evaluation in Ad Auctions**|Hongseon Yeom (navercorp.com) et.al.|[2512.03354](http://arxiv.org/abs/2512.03354)|null|
+|**2025-12-01**|**QGShap: Quantum Acceleration for Faithful GNN Explanations**|Haribandhu Jena (niser.ac.in) et.al.|[2512.03099](http://arxiv.org/abs/2512.03099)|**[link](https://github.com/smlab-niser/qgshap)**|
+|**2025-12-01**|**Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare**|Adeela Bashir (tees.ac.uk) et.al.|[2512.03097](http://arxiv.org/abs/2512.03097)|null|
 |**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu (stu.pku.edu.cn) et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|null|
 |**2025-12-02**|**Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation**|Haofeng Huang (st.usst.edu.cn) et.al.|[2512.02474](http://arxiv.org/abs/2512.02474)|null|
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
@@ -813,12 +823,18 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Eval Factsheets: A Structured Framework for Documenting AI Evaluations**|Florian Bordes et.al.|[2512.04062](http://arxiv.org/abs/2512.04062)|null|
+|**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar (google.com) et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
+|**2025-12-03**|**DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization**|Yusen Wu et.al.|[2512.03607](http://arxiv.org/abs/2512.03607)|null|
+|**2025-12-03**|**LLM as Explainable Re-Ranker for Recommendation System**|Yaqi Wang (andrew.cmu.edu) et.al.|[2512.03439](http://arxiv.org/abs/2512.03439)|null|
+|**2025-12-03**|**LLM-Generated Ads: From Personalization Parity to Persuasion Superiority**|Elyas Meguellati (uq.edu.au) et.al.|[2512.03373](http://arxiv.org/abs/2512.03373)|null|
+|**2025-12-01**|**Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare**|Adeela Bashir (tees.ac.uk) et.al.|[2512.03097](http://arxiv.org/abs/2512.03097)|null|
 |**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu (stu.pku.edu.cn) et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|null|
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
 |**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
@@ -1224,17 +1240,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin (cuhk.edu.cn) et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
+|**2025-12-03**|**A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)**|Saurav Prateek (google.com) et.al.|[2512.03887](http://arxiv.org/abs/2512.03887)|**[link](https://github.com/SauravP97/Static-Deep-Research/)**|
+|**2025-12-03**|**In-Context Representation Hijacking**|Itay Yona (mentaleap.ai) et.al.|[2512.03771](http://arxiv.org/abs/2512.03771)|null|
+|**2025-12-03**|**Thinking with Programming Vision: Towards a Unified View for Thinking with Images**|Zirun Guo (gmail.com) et.al.|[2512.03746](http://arxiv.org/abs/2512.03746)|**[link](https://github.com/ByteDance-BandAI/CodeVision)**|
+|**2025-12-03**|**Optical Context Compression Is Just (Bad) Autoencoding**|Ivan Yee Lee (ucsd.edu) et.al.|[2512.03643](http://arxiv.org/abs/2512.03643)|**[link](https://github.com/ivnle/bad-autoencoding)**|
+|**2025-12-03**|**A Preliminary Study on the Promises and Challenges of Native Top- $k$ Sparse Attention**|Di Xiu (meituan.com) et.al.|[2512.03494](http://arxiv.org/abs/2512.03494)|null|
+|**2025-12-03**|**AsymPuzl: An Asymmetric Puzzle for multi-agent cooperation**|Xavier Cadet (dartmouth.edu) et.al.|[2512.03466](http://arxiv.org/abs/2512.03466)|null|
+|**2025-12-03**|**Dual LoRA: Enhancing LoRA with Magnitude and Direction Updates**|Yixing Xu (amd.com) et.al.|[2512.03402](http://arxiv.org/abs/2512.03402)|null|
+|**2025-12-03**|**Idea-Gated Transformers: Enforcing Semantic Coherence via Differentiable Vocabulary Pruning**|Darshan Fofadiya et.al.|[2512.03343](http://arxiv.org/abs/2512.03343)|**[link](https://github.com/DarshanFofadiya/idea-gated-transformers/tree/main)**|
+|**2025-12-02**|**When Do Symbolic Solvers Enhance Reasoning in Large Language Models?**|Zhiyuan He (ucl.ac.uk) et.al.|[2512.03272](http://arxiv.org/abs/2512.03272)|null|
+|**2025-12-02**|**Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks**|Songwen Zhao (cs.cmu.edu) et.al.|[2512.03262](http://arxiv.org/abs/2512.03262)|null|
+|**2025-12-02**|**Lost in Modality: Evaluating the Effectiveness of Text-Based Membership Inference Attacks on Large Multimodal Models**|Ziyi Tong et.al.|[2512.03121](http://arxiv.org/abs/2512.03121)|null|
+|**2025-12-02**|**Detecting AI Hallucinations in Finance: An Information-Theoretic Method Cuts Hallucination Rate by 92%**|Mainak Singha (nasa.gov) et.al.|[2512.03107](http://arxiv.org/abs/2512.03107)|null|
 |**2025-12-02**|**The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models**|Saeid Jamshidi (concordia.ca) et.al.|[2512.03026](http://arxiv.org/abs/2512.03026)|null|
 |**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu (ttu.edu) et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
 |**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong (pjlab.org.cn) et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
 |**2025-12-02**|**Lumos: Let there be Language Model System Certification**|Isha Chaudhary (illinois.edu) et.al.|[2512.02966](http://arxiv.org/abs/2512.02966)|null|
-|**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang (pku.edu.cn) et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
+|**2025-12-03**|**Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in $\{\pm 1, \pm i\}$**|Feiyu Wang (pku.edu.cn) et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
 |**2025-12-02**|**PEFT-Factory: Unified Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models**|Robert Belanec (kinit.sk) et.al.|[2512.02764](http://arxiv.org/abs/2512.02764)|**[link](https://github.com/kinit-sk/PEFT-Factory)**|
 |**2025-12-02**|**AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping**|Md Abdul Kadir (dfki.de) et.al.|[2512.02726](http://arxiv.org/abs/2512.02726)|null|
 |**2025-12-02**|**Emergent Bayesian Behaviour and Optimal Cue Combination in LLMs**|Julian Ma (ucl.ac.uk) et.al.|[2512.02719](http://arxiv.org/abs/2512.02719)|**[link](https://bayes-bench.github.io)**|
@@ -2947,7 +2976,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
