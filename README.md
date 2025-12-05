@@ -1,4 +1,4 @@
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
+|**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
+|**2025-12-04**|**Adversarial Limits of Quantum Certification: When Eve Defeats Detection**|Davut Emre Tasar (gmail.com) et.al.|[2512.04391](http://arxiv.org/abs/2512.04391)|null|
+|**2025-12-03**|**DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle**|Fangyu Lei (nlpr.ia.ac.cn) et.al.|[2512.04324](http://arxiv.org/abs/2512.04324)|**[link](https://da-comp.github.io)**|
+|**2025-12-03**|**On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral**|Wenlong Deng et.al.|[2512.04220](http://arxiv.org/abs/2512.04220)|null|
+|**2025-12-01**|**MindFuse: Towards GenAI Explainability in Marketing Strategy Co-Creation**|Aleksandr Farseev (itmo.ru) et.al.|[2512.04112](http://arxiv.org/abs/2512.04112)|null|
 |**2025-12-03**|**Eval Factsheets: A Structured Framework for Documenting AI Evaluations**|Florian Bordes et.al.|[2512.04062](http://arxiv.org/abs/2512.04062)|null|
 |**2025-12-03**|**Learning to Comparison-Shop**|Jie Tang (airbnb.com) et.al.|[2512.04009](http://arxiv.org/abs/2512.04009)|null|
 |**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar (google.com) et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
@@ -823,12 +829,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
+|**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
+|**2025-12-03**|**DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle**|Fangyu Lei (nlpr.ia.ac.cn) et.al.|[2512.04324](http://arxiv.org/abs/2512.04324)|**[link](https://da-comp.github.io)**|
+|**2025-12-03**|**On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral**|Wenlong Deng et.al.|[2512.04220](http://arxiv.org/abs/2512.04220)|null|
+|**2025-12-01**|**MindFuse: Towards GenAI Explainability in Marketing Strategy Co-Creation**|Aleksandr Farseev (itmo.ru) et.al.|[2512.04112](http://arxiv.org/abs/2512.04112)|null|
 |**2025-12-03**|**Eval Factsheets: A Structured Framework for Documenting AI Evaluations**|Florian Bordes et.al.|[2512.04062](http://arxiv.org/abs/2512.04062)|null|
 |**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar (google.com) et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
 |**2025-12-03**|**DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization**|Yusen Wu et.al.|[2512.03607](http://arxiv.org/abs/2512.03607)|null|
@@ -1240,15 +1251,29 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models**|NaHyeon Park (kaist.ac.kr) et.al.|[2512.04981](http://arxiv.org/abs/2512.04981)|**[link](https://fairpro-t2i.github.io)**|
+|**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan (nu.edu.pk) et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
+|**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team (google.com) et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara (odu.edu) et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**ADAPT: Learning Task Mixtures for Budget-Constrained Instruction Tuning**|Pritam Kadasi (iitgn.ac.in) et.al.|[2512.04555](http://arxiv.org/abs/2512.04555)|null|
+|**2025-12-04**|**RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning**|Guoshenghui Zhao (rit.edu) et.al.|[2512.04457](http://arxiv.org/abs/2512.04457)|**[link](https://github.com/eyerf/RapidUn)**|
+|**2025-12-03**|**Evaluating Long-Context Reasoning in LLM-Based WebAgents**|Andy Chung et.al.|[2512.04307](http://arxiv.org/abs/2512.04307)|null|
+|**2025-12-03**|**Quantitative Analysis of Technical Debt and Pattern Violation in Large Language Model Architectures**|Tyler Slater (gatech.edu) et.al.|[2512.04273](http://arxiv.org/abs/2512.04273)|null|
+|**2025-12-03**|**Catching UX Flaws in Code: Leveraging LLMs to Identify Usability Flaws at the Development Stage**|Nolan Platt (vt.edu) et.al.|[2512.04262](http://arxiv.org/abs/2512.04262)|null|
+|**2025-12-03**|**Hey GPT-OSS, Looks Like You Got It -- Now Walk Me Through It! An Assessment of the Reasoning Language Models Chain of Thought Mechanism for Digital Forensics**|Gaëtan Michelet (uni-a.de) et.al.|[2512.04254](http://arxiv.org/abs/2512.04254)|null|
+|**2025-12-03**|**Balancing Safety and Helpfulness in Healthcare AI Assistants through Iterative Preference Alignment**|Huy Nghiem (umd.edu) et.al.|[2512.04210](http://arxiv.org/abs/2512.04210)|null|
+|**2025-12-03**|**Orchestrator Multi-Agent Clinical Decision Support System for Secondary Headache Diagnosis in Primary Care**|Xizhi Wu et.al.|[2512.04207](http://arxiv.org/abs/2512.04207)|null|
+|**2025-12-02**|**When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models**|Afshin Khadangi (uni.lu) et.al.|[2512.04124](http://arxiv.org/abs/2512.04124)|null|
 |**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin (cuhk.edu.cn) et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
-|**2025-12-03**|**A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)**|Saurav Prateek (google.com) et.al.|[2512.03887](http://arxiv.org/abs/2512.03887)|**[link](https://github.com/SauravP97/Static-Deep-Research/)**|
-|**2025-12-03**|**In-Context Representation Hijacking**|Itay Yona (mentaleap.ai) et.al.|[2512.03771](http://arxiv.org/abs/2512.03771)|null|
+|**2025-12-04**|**A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)**|Saurav Prateek et.al.|[2512.03887](http://arxiv.org/abs/2512.03887)|**[link](https://github.com/SauravP97/Static-Deep-Research/)**|
+|**2025-12-04**|**In-Context Representation Hijacking**|Itay Yona (mentaleap.ai) et.al.|[2512.03771](http://arxiv.org/abs/2512.03771)|null|
 |**2025-12-03**|**Thinking with Programming Vision: Towards a Unified View for Thinking with Images**|Zirun Guo (gmail.com) et.al.|[2512.03746](http://arxiv.org/abs/2512.03746)|**[link](https://github.com/ByteDance-BandAI/CodeVision)**|
 |**2025-12-03**|**Optical Context Compression Is Just (Bad) Autoencoding**|Ivan Yee Lee (ucsd.edu) et.al.|[2512.03643](http://arxiv.org/abs/2512.03643)|**[link](https://github.com/ivnle/bad-autoencoding)**|
 |**2025-12-03**|**A Preliminary Study on the Promises and Challenges of Native Top- $k$ Sparse Attention**|Di Xiu (meituan.com) et.al.|[2512.03494](http://arxiv.org/abs/2512.03494)|null|
@@ -2976,7 +3001,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
