@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel (acm.org) et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
 |**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
 |**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
 |**2025-12-04**|**Adversarial Limits of Quantum Certification: When Eve Defeats Detection**|Davut Emre Tasar (gmail.com) et.al.|[2512.04391](http://arxiv.org/abs/2512.04391)|null|
@@ -835,6 +836,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel (acm.org) et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
 |**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
 |**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
 |**2025-12-03**|**DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle**|Fangyu Lei (nlpr.ia.ac.cn) et.al.|[2512.04324](http://arxiv.org/abs/2512.04324)|**[link](https://da-comp.github.io)**|
@@ -847,6 +849,7 @@
 |**2025-12-03**|**LLM-Generated Ads: From Personalization Parity to Persuasion Superiority**|Elyas Meguellati (uq.edu.au) et.al.|[2512.03373](http://arxiv.org/abs/2512.03373)|null|
 |**2025-12-01**|**Many-to-One Adversarial Consensus: Exposing Multi-Agent Collusion Risks in AI-Based Healthcare**|Adeela Bashir (tees.ac.uk) et.al.|[2512.03097](http://arxiv.org/abs/2512.03097)|null|
 |**2025-12-02**|**AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations**|Luyao Niu (stu.pku.edu.cn) et.al.|[2512.02502](http://arxiv.org/abs/2512.02502)|null|
+|**2025-11-24**|**Deep Research: A Systematic Survey**|Zhengliang Shi (gmail.com) et.al.|[2512.02038](http://arxiv.org/abs/2512.02038)|null|
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li (massey.ac.nz) et.al.|[2512.01452](http://arxiv.org/abs/2512.01452)|null|
 |**2025-11-29**|**ML-Tool-Bench: Tool-Augmented Planning for ML Tasks**|Yaswanth Chittepu (umass.edu) et.al.|[2512.00672](http://arxiv.org/abs/2512.00672)|null|
 |**2025-11-29**|**DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems**|Jiahao Tian (gatech.edu) et.al.|[2512.00596](http://arxiv.org/abs/2512.00596)|null|
@@ -866,7 +869,7 @@
 |**2025-11-25**|**The 2nd Workshop on Human-Centered Recommender Systems**|Kaike Zhang (gmail.com) et.al.|[2511.19979](http://arxiv.org/abs/2511.19979)|null|
 |**2025-11-24**|**Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**|Farzan Karimi-Malekabadi (usc.edu) et.al.|[2511.19749](http://arxiv.org/abs/2511.19749)|null|
 |**2025-11-24**|**Training-Free Active Learning Framework in Materials Science with Large Language Models**|Hongchen Wang (mail.utoronto.ca) et.al.|[2511.19730](http://arxiv.org/abs/2511.19730)|null|
-|**2025-11-24**|**SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation**|Yang Wu (tencent.com) et.al.|[2511.19514](http://arxiv.org/abs/2511.19514)|null|
+|**2025-12-02**|**SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation**|Yang Wu et.al.|[2511.19514](http://arxiv.org/abs/2511.19514)|null|
 |**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji (tencent.com) et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
 |**2025-11-24**|**NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations**|Yejing Wang (acm.org) et.al.|[2511.18793](http://arxiv.org/abs/2511.18793)|null|
 |**2025-11-23**|**Real-Time Personalized Content Adaptation through Matrix Factorization and Context-Aware Federated Learning**|Sai Puppala (miners.utep.edu) et.al.|[2511.18489](http://arxiv.org/abs/2511.18489)|null|
@@ -1257,6 +1260,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis**|Federico Bianchi et.al.|[2512.05925](http://arxiv.org/abs/2512.05925)|null|
+|**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
+|**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan (rockets.utoledo.edu) et.al.|[2512.05863](http://arxiv.org/abs/2512.05863)|null|
+|**2025-12-05**|**Evolutionary System 2 Reasoning: An Empirical Proof**|Zeyuan Ma (gmail.com) et.al.|[2512.05760](http://arxiv.org/abs/2512.05760)|**[link](https://github.com/MetaEvo/ERO)**|
+|**2025-12-05**|**Capturing Classic Authorial Style in Long-Form Story Generation with GRPO Fine-Tuning**|Jinlong Liu (student.bham.ac.uk) et.al.|[2512.05747](http://arxiv.org/abs/2512.05747)|null|
+|**2025-12-05**|**Hyperparameter Transfer Enables Consistent Gains of Matrix-Preconditioned Optimizers Across Scales**|Shikai Qiu (nyu.edu) et.al.|[2512.05620](http://arxiv.org/abs/2512.05620)|**[link](https://github.com/charliezchen/scaling-matrix-preconditioning)**|
+|**2025-12-05**|**Structured Reasoning with Tree-of-Thoughts for Bengali Math Word Problems**|Aurprita Mahmood (gmail.com) et.al.|[2512.05580](http://arxiv.org/abs/2512.05580)|null|
+|**2025-12-05**|**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**|Weijue Bu (cumt.edu.cn) et.al.|[2512.05546](http://arxiv.org/abs/2512.05546)|null|
+|**2025-12-05**|**Automated Identification of Incidentalomas Requiring Follow-Up: A Multi-Anatomy Evaluation of LLM-Based and Supervised Approaches**|Namu Park et.al.|[2512.05537](http://arxiv.org/abs/2512.05537)|null|
+|**2025-12-05**|**Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models**|Mahesh Kumar Nandwana (roblox.com) et.al.|[2512.05339](http://arxiv.org/abs/2512.05339)|null|
+|**2025-12-04**|**Enhancing Clinical Note Generation with ICD-10, Clinical Ontology Knowledge Graphs, and Chain-of-Thought Prompting Using GPT-4**|Ivan Makohon (cs.odu.edu) et.al.|[2512.05256](http://arxiv.org/abs/2512.05256)|null|
 |**2025-12-04**|**Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models**|NaHyeon Park (kaist.ac.kr) et.al.|[2512.04981](http://arxiv.org/abs/2512.04981)|**[link](https://fairpro-t2i.github.io)**|
 |**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan (nu.edu.pk) et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
 |**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team (google.com) et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
