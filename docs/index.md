@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
+|**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
+|**2025-12-08**|**On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective**|Daniele Malitesta (centralesupelec.fr) et.al.|[2512.07384](http://arxiv.org/abs/2512.07384)|null|
+|**2025-12-08**|**MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling**|Bin Wu (whu.edu.cn) et.al.|[2512.07216](http://arxiv.org/abs/2512.07216)|**[link](https://taobao-mm.github.io)**|
+|**2025-12-07**|**Benchmarking Deep Neural Networks for Modern Recommendation Systems**|Abderaouf Bahi (univ-eltarf.dz) et.al.|[2512.07000](http://arxiv.org/abs/2512.07000)|null|
+|**2025-12-07**|**Deep Reinforcement Learning for Phishing Detection with Transformer-Based Semantic Features**|Aseer Al Faisal et.al.|[2512.06925](http://arxiv.org/abs/2512.06925)|null|
+|**2025-12-07**|**WisPaper: Your AI Scholar Search Engine**|Li Ju (fudan.edu.cn) et.al.|[2512.06879](http://arxiv.org/abs/2512.06879)|null|
+|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande (mail.dcu.ie) et.al.|[2512.06590](http://arxiv.org/abs/2512.06590)|null|
+|**2025-12-06**|**Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework**|Tao Wang (taobao.com) et.al.|[2512.06381](http://arxiv.org/abs/2512.06381)|null|
 |**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel (acm.org) et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
 |**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
 |**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
@@ -829,6 +838,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
+|**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
+|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande (mail.dcu.ie) et.al.|[2512.06590](http://arxiv.org/abs/2512.06590)|null|
 |**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel (acm.org) et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
 |**2025-12-04**|**Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**|Maddalena Amendola (acm.org) et.al.|[2512.04790](http://arxiv.org/abs/2512.04790)|null|
 |**2025-12-04**|**UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems**|Nolwenn Bernard (th-koeln.de) et.al.|[2512.04588](http://arxiv.org/abs/2512.04588)|null|
@@ -1251,6 +1263,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|**[link](https://thaoshibe.github.io/relsim)**|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali (gmail.com) et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
+|**2025-12-08**|**Depth-Wise Activation Steering for Honest Language Models**|Gracjan Góral (uw.edu.pl) et.al.|[2512.07667](http://arxiv.org/abs/2512.07667)|**[link](https://github.com/marysia/gaussian-activation-steering)**|
+|**2025-12-08**|**An AI-Powered Autonomous Underwater System for Sea Exploration and Scientific Research**|Hamad Almazrouei (zu.ae.ac) et.al.|[2512.07652](http://arxiv.org/abs/2512.07652)|null|
+|**2025-12-08**|**How Do LLMs Fail In Agentic Scenarios? A Qualitative Analysis of Success and Failure Scenarios of Various LLMs in Agentic Simulations**|JV Roig (kamiwaza.ai) et.al.|[2512.07497](http://arxiv.org/abs/2512.07497)|null|
+|**2025-12-08**|**Living the Novel: A System for Generating Self-Training Timeline-Aware Conversational Agents from Novels**|Yifei Huang et.al.|[2512.07474](http://arxiv.org/abs/2512.07474)|null|
+|**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
+|**2025-12-08**|**ContextualSHAP : Enhancing SHAP Explanations Through Contextual Language Generation**|Latifa Dwiyanti (stu.kanazawa-u.ac.id) et.al.|[2512.07178](http://arxiv.org/abs/2512.07178)|null|
+|**2025-12-08**|**The Geometry of Persona: Disentangling Personality from Reasoning in Large Language Models**|Zhixiang Wang et.al.|[2512.07092](http://arxiv.org/abs/2512.07092)|null|
+|**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee (g.skku.edu) et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|null|
+|**2025-12-07**|**Block Sparse Flash Attention**|Daniel Ohayon (gmail.com) et.al.|[2512.07011](http://arxiv.org/abs/2512.07011)|**[link](https://github.com/Danielohayon/Block-Sparse-Flash-Attention)**|
+|**2025-12-07**|**Prompting-in-a-Series: Psychology-Informed Contents and Embeddings for Personality Recognition With Decoder-Only Models**|Jing Jie Tan (1utar.my) et.al.|[2512.06991](http://arxiv.org/abs/2512.06991)|null|
+|**2025-12-07**|**Leveraging LLMs to support co-evolution between definitions and instances of textual DSLs**|Weixing Zhang (gu.se) et.al.|[2512.06836](http://arxiv.org/abs/2512.06836)|null|
+|**2025-12-07**|**Large Language Model-Based Generation of Discharge Summaries**|Tiago Rodrigues (edu.fe.up.pt) et.al.|[2512.06812](http://arxiv.org/abs/2512.06812)|null|
+|**2025-12-07**|**From Description to Score: Can LLMs Quantify Vulnerabilities?**|Sima Jafarikhah (uncw.edu) et.al.|[2512.06781](http://arxiv.org/abs/2512.06781)|null|
+|**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana (gmail.com) et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
+|**2025-12-07**|**"The Dentist is an involved parent, the bartender is not": Revealing Implicit Biases in QA with Implicit BBQ**|Aarushi Wagh (gatech.edu) et.al.|[2512.06732](http://arxiv.org/abs/2512.06732)|null|
+|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|null|
+|**2025-12-07**|**PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory**|Bowen Jiang (seas.upenn.edu) et.al.|[2512.06688](http://arxiv.org/abs/2512.06688)|null|
+|**2025-12-07**|**Mechanistic Interpretability of GPT-2: Lexical and Contextual Layers in Sentiment Analysis**|Amartya Hatua (gmail.com) et.al.|[2512.06681](http://arxiv.org/abs/2512.06681)|null|
+|**2025-12-07**|**Towards Small Language Models for Security Query Generation in SOC Workflows**|Saleha Muzammil (virginia.edu) et.al.|[2512.06660](http://arxiv.org/abs/2512.06660)|null|
+|**2025-12-07**|**GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering**|Jehyeok Yeon (illinois.edu) et.al.|[2512.06655](http://arxiv.org/abs/2512.06655)|null|
+|**2025-12-06**|**Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks**|Saeid Jamshidi (polymtl.ca) et.al.|[2512.06556](http://arxiv.org/abs/2512.06556)|null|
+|**2025-12-06**|**Optimizing LLMs Using Quantization for Mobile Execution**|Agatsya Yadav et.al.|[2512.06490](http://arxiv.org/abs/2512.06490)|null|
+|**2025-12-06**|**Classifying German Language Proficiency Levels Using Large Language Models**|Elias-Leander Ahlers (uni-muenster.de) et.al.|[2512.06483](http://arxiv.org/abs/2512.06483)|null|
+|**2025-12-06**|**AgenticCyber: A GenAI-Powered Multi-Agent System for Multimodal Threat Detection and Adaptive Response in Cybersecurity**|Shovan Roy (tntech.edu) et.al.|[2512.06396](http://arxiv.org/abs/2512.06396)|null|
+|**2025-12-06**|**Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression**|Qiming Bao (gmail.com) et.al.|[2512.06393](http://arxiv.org/abs/2512.06393)|null|
+|**2025-12-06**|**Protecting Bystander Privacy via Selective Hearing in LALMs**|Xiao Zhan (cam.ac.uk) et.al.|[2512.06380](http://arxiv.org/abs/2512.06380)|null|
+|**2025-12-06**|**Chemistry Integrated Language Model using Hierarchical Molecular Representation for Polymer Informatics**|Jihun Ahn (gmail.com) et.al.|[2512.06301](http://arxiv.org/abs/2512.06301)|null|
+|**2025-12-06**|**Convergence of Outputs When Two Large Language Models Interact in a Multi-Agentic Setup**|Aniruddha Maiti (wvstateu.edu) et.al.|[2512.06256](http://arxiv.org/abs/2512.06256)|null|
 |**2025-12-05**|**To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis**|Federico Bianchi et.al.|[2512.05925](http://arxiv.org/abs/2512.05925)|null|
 |**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
 |**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan (rockets.utoledo.edu) et.al.|[2512.05863](http://arxiv.org/abs/2512.05863)|null|
