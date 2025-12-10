@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
 |**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
 |**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
 |**2025-12-08**|**On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective**|Daniele Malitesta (centralesupelec.fr) et.al.|[2512.07384](http://arxiv.org/abs/2512.07384)|null|
@@ -838,6 +839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
 |**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
 |**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
 |**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande (mail.dcu.ie) et.al.|[2512.06590](http://arxiv.org/abs/2512.06590)|null|
@@ -1263,11 +1265,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Multicalibration for LLM-based Code Generation**|Viola Campos (hs-rm.de) et.al.|[2512.08810](http://arxiv.org/abs/2512.08810)|null|
+|**2025-12-09**|**Reasoning Models Ace the CFA Exams**|Jaisal Patel (columbia.edu) et.al.|[2512.08270](http://arxiv.org/abs/2512.08270)|null|
+|**2025-12-09**|**MobileFineTuner: A Unified End-to-End Framework for Fine-Tuning LLMs on Mobile Phones**|Jiaxiang Geng (duke.edu) et.al.|[2512.08211](http://arxiv.org/abs/2512.08211)|null|
+|**2025-12-09**|**ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access**|Jiwoo Park (osu.edu) et.al.|[2512.08193](http://arxiv.org/abs/2512.08193)|null|
+|**2025-12-08**|**Training LLMs for Honesty via Confessions**|Manas Joglekar (openai.com) et.al.|[2512.08093](http://arxiv.org/abs/2512.08093)|null|
+|**2025-12-08**|**Large Language Models for Education and Research: An Empirical and User Survey-based Analysis**|Md Mostafizer Rahman (tulane.edu) et.al.|[2512.08057](http://arxiv.org/abs/2512.08057)|null|
+|**2025-12-08**|**FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models**|Jiyoon Pyo et.al.|[2512.08016](http://arxiv.org/abs/2512.08016)|null|
+|**2025-12-08**|**DeepCode: Open Agentic Coding**|Zongwei Li (gmail.com) et.al.|[2512.07921](http://arxiv.org/abs/2512.07921)|**[link](https://github.com/HKUDS/DeepCode)**|
 |**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|**[link](https://thaoshibe.github.io/relsim)**|
+|**2025-12-08**|**Automating High Energy Physics Data Analysis with LLM-Powered Agents**|Eli Gendreau-Distler (berkeley.edu) et.al.|[2512.07785](http://arxiv.org/abs/2512.07785)|null|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali (gmail.com) et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
 |**2025-12-08**|**Depth-Wise Activation Steering for Honest Language Models**|Gracjan Góral (uw.edu.pl) et.al.|[2512.07667](http://arxiv.org/abs/2512.07667)|**[link](https://github.com/marysia/gaussian-activation-steering)**|
 |**2025-12-08**|**An AI-Powered Autonomous Underwater System for Sea Exploration and Scientific Research**|Hamad Almazrouei (zu.ae.ac) et.al.|[2512.07652](http://arxiv.org/abs/2512.07652)|null|
-|**2025-12-08**|**How Do LLMs Fail In Agentic Scenarios? A Qualitative Analysis of Success and Failure Scenarios of Various LLMs in Agentic Simulations**|JV Roig (kamiwaza.ai) et.al.|[2512.07497](http://arxiv.org/abs/2512.07497)|null|
+|**2025-12-09**|**How Do LLMs Fail In Agentic Scenarios? A Qualitative Analysis of Success and Failure Scenarios of Various LLMs in Agentic Simulations**|JV Roig (kamiwaza.ai) et.al.|[2512.07497](http://arxiv.org/abs/2512.07497)|null|
 |**2025-12-08**|**Living the Novel: A System for Generating Self-Training Timeline-Aware Conversational Agents from Novels**|Yifei Huang et.al.|[2512.07474](http://arxiv.org/abs/2512.07474)|null|
 |**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
 |**2025-12-08**|**ContextualSHAP : Enhancing SHAP Explanations Through Contextual Language Generation**|Latifa Dwiyanti (stu.kanazawa-u.ac.id) et.al.|[2512.07178](http://arxiv.org/abs/2512.07178)|null|
