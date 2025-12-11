@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
+|**2025-12-10**|**Passing the Baton: High Throughput Distributed Disk-Based Vector Search with BatANN**|Nam Anh Dang (cornell.edu) et.al.|[2512.09331](http://arxiv.org/abs/2512.09331)|null|
 |**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
 |**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
 |**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
@@ -840,12 +842,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
 |**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
 |**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
 |**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao (gmail.com) et.al.|[2512.07424](http://arxiv.org/abs/2512.07424)|null|
@@ -1268,12 +1271,25 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension**|Mengren (mit.edu) et.al.|[2512.09894](http://arxiv.org/abs/2512.09894)|null|
+|**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil (missouri.edu) et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
+|**2025-12-10**|**Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement**|Muneeb Ur Raheem Khan (lums.edu.pk) et.al.|[2512.09854](http://arxiv.org/abs/2512.09854)|null|
+|**2025-12-10**|**DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting**|James Luther (virginia.edu) et.al.|[2512.09772](http://arxiv.org/abs/2512.09772)|null|
+|**2025-12-10**|**Creation of the Estonian Subjectivity Dataset: Assessing the Degree of Subjectivity on a Scale**|Karl Gustav Gailit (ut.ee) et.al.|[2512.09634](http://arxiv.org/abs/2512.09634)|null|
+|**2025-12-10**|**An End-to-end Planning Framework with Agentic LLMs and PDDL**|Emanuele La Malfa (cs.ox.ac.uk) et.al.|[2512.09629](http://arxiv.org/abs/2512.09629)|**[link](https://github.com/EmanueleLM/MultiAgentPlanning)**|
+|**2025-12-10**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy (research.iiit.ac.in) et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
+|**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
+|**2025-12-10**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou (mails.ucas.ac.cn) et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|null|
+|**2025-12-09**|**LLMs for Analog Circuit Design Continuum (ACDC)**|Yasaman Esfandiari (hrl.com) et.al.|[2512.09199](http://arxiv.org/abs/2512.09199)|null|
+|**2025-12-09**|**Knowledge-Guided Large Language Model for Automatic Pediatric Dental Record Understanding and Safe Antibiotic Recommendation**|Zihan Han (qq.com) et.al.|[2512.09127](http://arxiv.org/abs/2512.09127)|null|
+|**2025-12-09**|**Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning**|Dyna Soumhane Ouchebara (umons.ac.be) et.al.|[2512.09006](http://arxiv.org/abs/2512.09006)|**[link](https://github.com/DynaSoumhaneOuchebara/Llama-based-vulnerability-detection)**|
+|**2025-12-09**|**DermETAS-SNA LLM: A Dermatology Focused Evolutionary Transformer Architecture Search with StackNet Augmented LLM Assistant**|Nitya Phani Santosh Oruganty et.al.|[2512.08998](http://arxiv.org/abs/2512.08998)|null|
 |**2025-12-09**|**Multicalibration for LLM-based Code Generation**|Viola Campos (hs-rm.de) et.al.|[2512.08810](http://arxiv.org/abs/2512.08810)|null|
 |**2025-12-09**|**Reasoning Models Ace the CFA Exams**|Jaisal Patel (columbia.edu) et.al.|[2512.08270](http://arxiv.org/abs/2512.08270)|null|
 |**2025-12-09**|**MobileFineTuner: A Unified End-to-End Framework for Fine-Tuning LLMs on Mobile Phones**|Jiaxiang Geng (duke.edu) et.al.|[2512.08211](http://arxiv.org/abs/2512.08211)|null|
@@ -3068,7 +3084,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
