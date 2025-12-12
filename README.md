@@ -1,4 +1,4 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao (alibaba-inc.com) et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
+|**2025-12-11**|**The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation**|Ziwei Liu (my.cityu.edu.hk) et.al.|[2512.10388](http://arxiv.org/abs/2512.10388)|**[link](https://github.com/ziwliu8/H2Rec)**|
+|**2025-12-10**|**STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale**|Han Chen (gopuff.com) et.al.|[2512.10149](http://arxiv.org/abs/2512.10149)|null|
 |**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
 |**2025-12-10**|**Passing the Baton: High Throughput Distributed Disk-Based Vector Search with BatANN**|Nam Anh Dang (cornell.edu) et.al.|[2512.09331](http://arxiv.org/abs/2512.09331)|null|
 |**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
@@ -842,12 +845,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao (alibaba-inc.com) et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
+|**2025-12-10**|**STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale**|Han Chen (gopuff.com) et.al.|[2512.10149](http://arxiv.org/abs/2512.10149)|null|
 |**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
 |**2025-12-02**|**CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models**|Ryan Feng Lin (uw.edu) et.al.|[2512.07890](http://arxiv.org/abs/2512.07890)|null|
 |**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu (mail.mcgill.ca) et.al.|[2512.07650](http://arxiv.org/abs/2512.07650)|null|
@@ -1271,19 +1276,41 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang (bu.edu) et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
+|**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer (zib.de) et.al.|[2512.10922](http://arxiv.org/abs/2512.10922)|null|
+|**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](http://arxiv.org/abs/2512.10793)|null|
+|**2025-12-11**|**The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality**|Aileen Cheng (google.com) et.al.|[2512.10791](http://arxiv.org/abs/2512.10791)|null|
+|**2025-12-11**|**OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification**|Zijian Wu (pjlab.org.cn) et.al.|[2512.10756](http://arxiv.org/abs/2512.10756)|null|
+|**2025-12-11**|**Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving**|Songyang Gao (pjlab.org.cn) et.al.|[2512.10739](http://arxiv.org/abs/2512.10739)|null|
+|**2025-12-11**|**COMPARE: Clinical Optimization with Modular Planning and Assessment via RAG-Enhanced AI-OCT: Superior Decision Support for Percutaneous Coronary Intervention Compared to ChatGPT-5 and Junior Operators**|Wei Fang (163.com) et.al.|[2512.10702](http://arxiv.org/abs/2512.10702)|null|
+|**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann (kempermann.email) et.al.|[2512.10687](http://arxiv.org/abs/2512.10687)|null|
+|**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma (bupt.edu.cn) et.al.|[2512.10547](http://arxiv.org/abs/2512.10547)|null|
+|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu (kuleuven.be) et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
+|**2025-12-11**|**Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs**|Lars G. B. Johnsen (nb.no) et.al.|[2512.10453](http://arxiv.org/abs/2512.10453)|null|
+|**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo (pilani.bits-pilani.ac.in) et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
+|**2025-12-11**|**Enhancing Next-Generation Language Models with Knowledge Graphs: Extending Claude, Mistral IA, and GPT-4 via KG-BERT**|Nour El Houda Ben Chaabene (sorbonne-universite.fr) et.al.|[2512.10440](http://arxiv.org/abs/2512.10440)|null|
+|**2025-12-11**|**Towards Fine-Grained Recognition with Large Visual Language Models: Benchmark and Optimization Strategies**|Cong Pang (shanghaitech.edu.cn) et.al.|[2512.10384](http://arxiv.org/abs/2512.10384)|**[link](https://github.com/pc-inno/FROW)**|
+|**2025-12-11**|**Watermarks for Language Models via Probabilistic Automata**|Yangkun Wang (ucsd.edu) et.al.|[2512.10185](http://arxiv.org/abs/2512.10185)|null|
+|**2025-12-10**|**Enhancing Large Language Models for End-to-End Circuit Analysis Problem Solving**|Liangliang Chen (gatech.edu) et.al.|[2512.10159](http://arxiv.org/abs/2512.10159)|null|
+|**2025-12-10**|**Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning**|Lama Alssum (kaust.edu.sa) et.al.|[2512.10150](http://arxiv.org/abs/2512.10150)|null|
+|**2025-12-10**|**Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing**|Zhongjie Jiang (163.com) et.al.|[2512.10121](http://arxiv.org/abs/2512.10121)|null|
+|**2025-12-10**|**LLM-PEA: Leveraging Large Language Models Against Phishing Email Attacks**|Najmul Hassan et.al.|[2512.10104](http://arxiv.org/abs/2512.10104)|null|
+|**2025-12-10**|**Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit**|Nick Jiang (berkeley.edu) et.al.|[2512.10092](http://arxiv.org/abs/2512.10092)|**[link](https://github.com/nickjiang2378/interp_embed)**|
+|**2025-12-10**|**Linear socio-demographic representations emerge in Large Language Models from indirect cues**|Paul Bouchaud (cnrs.fr) et.al.|[2512.10065](http://arxiv.org/abs/2512.10065)|null|
+|**2025-12-10**|**Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs**|Skyler Wu (stanford.edu) et.al.|[2512.10040](http://arxiv.org/abs/2512.10040)|null|
 |**2025-12-10**|**Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension**|Mengren (mit.edu) et.al.|[2512.09894](http://arxiv.org/abs/2512.09894)|null|
 |**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil (missouri.edu) et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
 |**2025-12-10**|**Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement**|Muneeb Ur Raheem Khan (lums.edu.pk) et.al.|[2512.09854](http://arxiv.org/abs/2512.09854)|null|
 |**2025-12-10**|**DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting**|James Luther (virginia.edu) et.al.|[2512.09772](http://arxiv.org/abs/2512.09772)|null|
 |**2025-12-10**|**Creation of the Estonian Subjectivity Dataset: Assessing the Degree of Subjectivity on a Scale**|Karl Gustav Gailit (ut.ee) et.al.|[2512.09634](http://arxiv.org/abs/2512.09634)|null|
 |**2025-12-10**|**An End-to-end Planning Framework with Agentic LLMs and PDDL**|Emanuele La Malfa (cs.ox.ac.uk) et.al.|[2512.09629](http://arxiv.org/abs/2512.09629)|**[link](https://github.com/EmanueleLM/MultiAgentPlanning)**|
-|**2025-12-10**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy (research.iiit.ac.in) et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
+|**2025-12-11**|**SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs**|Arihant Tripathy (research.iiit.ac.in) et.al.|[2512.09543](http://arxiv.org/abs/2512.09543)|null|
 |**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
 |**2025-12-10**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou (mails.ucas.ac.cn) et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|null|
 |**2025-12-09**|**LLMs for Analog Circuit Design Continuum (ACDC)**|Yasaman Esfandiari (hrl.com) et.al.|[2512.09199](http://arxiv.org/abs/2512.09199)|null|
@@ -3084,7 +3111,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
