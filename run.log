@@ -1,94 +1,3 @@
-[10/26/2025 23:33:22 INFO] Got first page: 100 of 9961 total results
-[10/26/2025 23:33:23 INFO] Time = 2025-10-23 title = Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations author = Lorenzo Stacchio (unimc.it) repo_url = None
-[10/26/2025 23:33:23 INFO] Time = 2025-10-23 title = Fusing Narrative Semantics for Financial Volatility Forecasting author = Yaxuan Kong (eng.ox.ac.uk) repo_url = None
-[10/26/2025 23:33:24 INFO] Time = 2025-10-23 title = Finding the Sweet Spot: Trading Quality, Cost, and Speed During Inference-Time LLM Reflection author = Jack Butler (amazon.co.uk) repo_url = https://github.com/aws-samples/sample-genai-reflection-for-bedrock
-[10/26/2025 23:33:24 INFO] Time = 2025-10-23 title = ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature author = Aritra Roy (lsbu.ac.uk) repo_url = None
-[10/26/2025 23:33:24 INFO] Time = 2025-10-23 title = Teaching Language Models to Reason with Tools author = Chengpeng Li (mail.ustc.edu.cn) repo_url = https://github.com/ChengpengLi1003/CoRT
-[10/26/2025 23:33:25 INFO] Time = 2025-10-23 title = ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows author = Penghao Wang repo_url = None
-[10/26/2025 23:33:25 INFO] Time = 2025-10-23 title = Using Large Language Models for Abstraction of Planning Domains - Extended Version author = Bita Banihashemi (igdore.org) repo_url = None
-[10/26/2025 23:33:25 INFO] Time = 2025-10-23 title = TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning author = Morris Yu-Chao Huang (cs.unc.edu) repo_url = None
-[10/26/2025 23:33:26 INFO] Time = 2025-10-23 title = Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding author = Yuhang Zhou (meta.com) repo_url = None
-[10/26/2025 23:33:26 INFO] Time = 2025-10-22 title = Learning from Supervision with Semantic and Episodic Memory: A Reflective Approach to Agent Adaptation author = Jackson Hassell (megagon.ai) repo_url = None
-[10/26/2025 23:33:26 INFO] Time = 2025-10-22 title = Large Language Model enabled Mathematical Modeling author = Guoyun Zhang repo_url = None
-[10/26/2025 23:33:26 INFO] Time = 2025-10-22 title = On Controlled Change: Generative AI's Impact on Professional Authority in Journalism author = Tomás Dodds repo_url = None
-[10/26/2025 23:33:27 INFO] Time = 2025-10-22 title = Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents author = Gil Pasternak repo_url = None
-[10/26/2025 23:33:27 INFO] Time = 2025-10-22 title = ELUTQ: Efficient LUT-Aware Quantization for Deploying Large Language Models on Edge Devices author = Xin Nie (nankai.edu.cn) repo_url = None
-[10/26/2025 23:33:27 INFO] Time = 2025-10-22 title = LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts author = Siyuan Wang (microsoft.com) repo_url = None
-[10/26/2025 23:33:28 INFO] Time = 2025-10-22 title = From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph author = Junfeng Gong (ict.ac.cn) repo_url = None
-[10/26/2025 23:33:28 INFO] Time = 2025-10-22 title = Local Obfuscation by GLINER for Impartial Context Aware Lineage: Development and evaluation of PII Removal system author = Prakrithi Shivaprakash (gmail.com) repo_url = None
-[10/26/2025 23:33:28 INFO] Time = 2025-10-22 title = Algorithmic Fairness in NLP: Persona-Infused LLMs for Human-Centric Hate Speech Detection author = Ewelina Gajewska (pw.edu.pl) repo_url = None
-[10/26/2025 23:33:29 INFO] Time = 2025-10-22 title = SORA-ATMAS: Adaptive Trust Management and Multi-LLM Aligned Governance for Future Smart Cities author = Usama Antuley (nu.edu.pk) repo_url = None
-[10/26/2025 23:33:30 INFO] Time = 2025-10-22 title = QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation author = Yang Zhang (ict.ac.cn) repo_url = https://github.com/zy1xxx/SALV
-[10/26/2025 23:33:30 INFO] Time = 2025-10-22 title = LAPRAD: LLM-Assisted PRotocol Attack Discovery author = R. Can Aygun (cs.ucla.edu) repo_url = None
-[10/26/2025 23:33:30 INFO] Time = 2025-10-22 title = An Evaluation of the Pedagogical Soundness and Usability of AI-Generated Lesson Plans Across Different Models and Prompt Frameworks in High-School Physics author = Xincheng Liu (gmail.com) repo_url = None
-[10/26/2025 23:33:31 INFO] Time = 2025-10-22 title = SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations author = Amila Indika (hawaii.edu) repo_url = None
-[10/26/2025 23:33:31 INFO] Time = 2025-10-21 title = A Graph Signal Processing Framework for Hallucination Detection in Large Language Models author = Valentin Noël (devoteam.com) repo_url = None
-[10/26/2025 23:33:31 INFO] Time = 2025-10-21 title = What Makes a Good Curriculum? Disentangling the Effects of Data Ordering on LLM Mathematical Reasoning author = Yaning Jia (dartmouth.edu) repo_url = None
-[10/26/2025 23:33:32 INFO] Time = 2025-10-21 title = The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS author = Brandon James Carone repo_url = None
-[10/26/2025 23:33:32 INFO] Time = 2025-10-21 title = From Memorization to Generalization: Fine-Tuning Large Language Models for Biomedical Term-to-Identifier Normalization author = Suswitha Pericharla (missouristate.edu) repo_url = None
-[10/26/2025 23:33:33 INFO] Time = 2025-10-21 title = XGen-Q: An Explainable Domain-Adaptive LLM Framework with Retrieval-Augmented Generation for Software Security author = Hamed Jelodar (unb.ca) repo_url = None
-[10/26/2025 23:33:33 INFO] Time = 2025-10-21 title = Test-time Verification via Optimal Transport: Coverage, ROC, & Sub-optimality author = Arpan Mukherjee (imperial.ac.uk) repo_url = None
-[10/26/2025 23:33:33 INFO] Time = 2025-10-21 title = Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting author = Howard Chen (cs.princeton.edu) repo_url = None
-[10/26/2025 23:33:33 INFO] GET daily papers end
-[10/26/2025 23:33:33 INFO] Update Readme finished
-[10/26/2025 23:33:33 INFO] Update GitPage finished
-[10/27/2025 08:19:40 INFO] config = {'base_url': 'https://arxiv.paperswithcode.com/api/v0/papers/', 'user_name': 'Vincentqyw', 'repo_name': 'cv-arxiv-daily', 'show_authors': True, 'show_links': True, 'show_badge': True, 'max_results': 10, 'publish_readme': True, 'publish_gitpage': True, 'publish_wechat': False, 'json_readme_path': './docs/cv-arxiv-daily.json', 'json_gitpage_path': './docs/cv-arxiv-daily-web.json', 'json_wechat_path': './docs/cv-arxiv-daily-wechat.json', 'md_readme_path': 'README.md', 'md_gitpage_path': './docs/index.md', 'md_wechat_path': './docs/wechat.md', 'logging_path': 'run.log', 'update_code_link_num': 200, 'keywords': {'Recsys': {'description': '推荐系统', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}, 'Recsys LLM': {'description': '推荐系统&大模型', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine") AND (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}, 'LLM': {'description': '大模型论文', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model") AND (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")\n', 'max_results': 30, 'sort_by': 'submitted_date', 'sort_order': 'descending'}}}
-[10/27/2025 08:19:40 INFO] Update Paper Link = True
-[10/27/2025 08:19:40 INFO] keywords = Recsys
-[10/27/2025 08:19:40 INFO] paper_id = 2507.15826, contents = |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre (criteo.com) et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
-
-[10/27/2025 08:19:41 INFO] paper_id = 2507.15551, contents = |**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu (bytedance.com) et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
-
-[10/27/2025 08:19:41 INFO] paper_id = 2507.15460, contents = |**2025-07-22**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj (usask.ca) et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
-
-[10/27/2025 08:19:41 INFO] paper_id = 2507.15233, contents = |**2025-07-21**|**An ML-Driven Participant Selection Technique for Federated Recommendation System in Edge-Cloud Computing**|Jintao Liu et.al.|[2507.15233](http://arxiv.org/abs/2507.15233)|null|
-
-[10/27/2025 08:19:42 INFO] paper_id = 2507.14874, contents = |**2025-07-20**|**The Tsetlin Machine Goes Deep: Logical Learning and Reasoning With Graphs**|Ole-Christoffer Granmo (uia.no) et.al.|[2507.14874](http://arxiv.org/abs/2507.14874)|null|
-
-[10/27/2025 08:19:42 INFO] paper_id = 2507.14758, contents = |**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma (walmart.com) et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
-
-[10/27/2025 08:19:42 INFO] paper_id = 2507.14352, contents = |**2025-07-18**|**A Reproducibility Study of Product-side Fairness in Bundle Recommendation**|Huy-Son Nguyen (tudelft.nl) et.al.|[2507.14352](http://arxiv.org/abs/2507.14352)|null|
-
-[10/27/2025 08:19:42 INFO] paper_id = 2507.13957, contents = |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li (student.uva.nl) et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
-
-[10/27/2025 08:19:42 INFO] paper_id = 2507.13910, contents = |**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela (unimib.it) et.al.|[2507.13910](http://arxiv.org/abs/2507.13910)|null|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.13825, contents = |**2025-07-18**|**When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**|Haoyang Li (polyu.edu.hk) et.al.|[2507.13825](http://arxiv.org/abs/2507.13825)|null|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.15113, contents = |**2025-07-20**|**Click A, Buy B: Rethinking Conversion Attribution in E- Commerce Recommendations**|Xiangyu Zeng (meta.com) et.al.|[2507.15113](http://arxiv.org/abs/2507.15113)|null|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.14792, contents = |**2025-07-20**|**SenseSeek Dataset: Multimodal Sensing to Study Information Seeking Behaviors**|Kaixin Ji (student.rmit.edu.au) et.al.|[2507.14792](http://arxiv.org/abs/2507.14792)|null|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.14681, contents = |**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida (alumni.usp.br) et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|**[link](https://github.com/almeidava93/llm-as-code-selectors-paper)**|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.14444, contents = |**2025-07-19**|**Statistical and Algorithmic Foundations of Reinforcement Learning**|Yuejie Chi (yale.edu) et.al.|[2507.14444](http://arxiv.org/abs/2507.14444)|null|
-
-[10/27/2025 08:19:43 INFO] paper_id = 2507.14314, contents = |**2025-07-18**|**What Makes You CLIC: Detection of Croatian Clickbait Headlines**|Marija Anđedelić (fer.hr) et.al.|[2507.14314](http://arxiv.org/abs/2507.14314)|null|
-
-[10/27/2025 08:19:44 INFO] paper_id = 2507.13933, contents = |**2025-07-18**|**Preprint: Did I Just Browse A Website Written by LLMs?**|Sichang "Steven" He et.al.|[2507.13933](http://arxiv.org/abs/2507.13933)|null|
-
-[10/27/2025 08:19:44 INFO] paper_id = 2507.13705, contents = |**2025-07-18**|**Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations**|Cedric Waterschoot (maastrichtuniversity.nl) et.al.|[2507.13705](http://arxiv.org/abs/2507.13705)|null|
-
-[10/27/2025 08:19:44 INFO] paper_id = 2507.13686, contents = |**2025-07-18**|**TopicAttack: An Indirect Prompt Injection Attack via Topic Transition**|Yulin Chen (u.nus.edu) et.al.|[2507.13686](http://arxiv.org/abs/2507.13686)|null|
-
-[10/27/2025 08:19:44 INFO] paper_id = 2507.13622, contents = |**2025-07-18**|**IP2: Entity-Guided Interest Probing for Personalized News Recommendation**|Youlin Wu (mail.dlut.edu.cn) et.al.|[2507.13622](http://arxiv.org/abs/2507.13622)|null|
-
-[10/27/2025 08:19:44 INFO] paper_id = 2507.13608, contents = |**2025-07-18**|**Off-Policy Evaluation and Learning for Matching Markets**|Yudai Hayashi (wantedly.com) et.al.|[2507.13608](http://arxiv.org/abs/2507.13608)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.13477, contents = |**2025-07-17**|**Linking Multi-Site Sex Ad Data at the Individual Level to Aid Counter-Trafficking Efforts**|Nickolas K. Freeman (ua.edu) et.al.|[2507.13477](http://arxiv.org/abs/2507.13477)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.13336, contents = |**2025-07-17**|**SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation**|Weizhi Zhang (salesforce.com.) et.al.|[2507.13336](http://arxiv.org/abs/2507.13336)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.13325, contents = |**2025-07-17**|**Social and Political Framing in Search Engine Results**|Amrit Poudel et.al.|[2507.13325](http://arxiv.org/abs/2507.13325)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.12844, contents = |**2025-07-17**|**Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements**|Joel Nitu (fh-hagenberg.at) et.al.|[2507.12844](http://arxiv.org/abs/2507.12844)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.12758, contents = |**2025-07-17**|**HairShifter: Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation**|Wangzheng Shi (stu.xmu.edu.cn) et.al.|[2507.12758](http://arxiv.org/abs/2507.12758)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.12704, contents = |**2025-07-17**|**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**|Xiangyi Chen (pinterest.com) et.al.|[2507.12704](http://arxiv.org/abs/2507.12704)|null|
-
-[10/27/2025 08:19:45 INFO] paper_id = 2507.12561, contents = |**2025-07-20**|**ROSE: Transformer-Based Refactoring Recommendation for Architectural Smells**|Samal Nursapa (mdu.se) et.al.|[2507.12561](http://arxiv.org/abs/2507.12561)|null|
-
 [10/27/2025 08:19:45 INFO] paper_id = 2507.12372, contents = |**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
 
 [10/27/2025 08:19:46 INFO] paper_id = 2507.12242, contents = |**2025-07-16**|**Looking for Fairness in Recommender Systems**|Cécile Logé (stanford.edu) et.al.|[2507.12242](http://arxiv.org/abs/2507.12242)|null|
@@ -10089,3 +9998,94 @@
 [12/12/2025 23:36:40 INFO] GET daily papers end
 [12/12/2025 23:36:40 INFO] Update Readme finished
 [12/12/2025 23:36:40 INFO] Update GitPage finished
+[12/13/2025 23:35:00 INFO] config = {'base_url': 'https://arxiv.paperswithcode.com/api/v0/papers/', 'user_name': 'Vincentqyw', 'repo_name': 'cv-arxiv-daily', 'show_authors': True, 'show_links': True, 'show_badge': True, 'max_results': 10, 'publish_readme': True, 'publish_gitpage': True, 'publish_wechat': False, 'json_readme_path': './docs/cv-arxiv-daily.json', 'json_gitpage_path': './docs/cv-arxiv-daily-web.json', 'json_wechat_path': './docs/cv-arxiv-daily-wechat.json', 'md_readme_path': 'README.md', 'md_gitpage_path': './docs/index.md', 'md_wechat_path': './docs/wechat.md', 'logging_path': 'run.log', 'update_code_link_num': 200, 'keywords': {'Recsys': {'description': '推荐系统', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}, 'Recsys LLM': {'description': '推荐系统&大模型', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine") AND (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}, 'LLM': {'description': '大模型论文', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model") AND (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")\n', 'max_results': 30, 'sort_by': 'submitted_date', 'sort_order': 'descending'}}}
+[12/13/2025 23:35:00 INFO] Update Paper Link = False
+[12/13/2025 23:35:00 INFO] GET daily papers begin
+[12/13/2025 23:35:00 INFO] Download Topic: Recsys
+[12/13/2025 23:35:00 INFO] Query: {'description': '推荐系统', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}
+[12/13/2025 23:35:00 INFO] Final Query: (cat:cs.CL OR cat:cs.IR OR cat:cs.LG OR cat:cs.AI) AND (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
+[12/13/2025 23:35:00 INFO] Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=%28cat%3Acs.CL+OR+cat%3Acs.IR+OR+cat%3Acs.LG+OR+cat%3Acs.AI%29+AND+%28ti%3A%22recommendation+system%22+OR+abs%3A%22recommendation+system%22+OR+abs%3A%22recsys%22+OR+abs%3A%22Recommender+system%22+OR+ti%3A%22advertising+system%22+OR+abs%3A%22advertising+system%22+OR+abs%3A%22advertising%22+OR+abs%3A%22search+engine%22%29&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+[12/13/2025 23:35:00 INFO] Got first page: 100 of 9591 total results
+[12/13/2025 23:35:01 INFO] Time = 2025-12-11 title = LLM-Auction: Generative Auction towards LLM-Native Advertising author = Chujie Zhao (alibaba-inc.com) repo_url = None
+[12/13/2025 23:35:02 INFO] Time = 2025-12-11 title = The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation author = Ziwei Liu (my.cityu.edu.hk) repo_url = https://github.com/ziwliu8/H2Rec
+[12/13/2025 23:35:02 INFO] Time = 2025-12-10 title = STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale author = Han Chen (gopuff.com) repo_url = None
+[12/13/2025 23:35:03 INFO] Time = 2025-12-10 title = Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines author = Peixian Zhang (connect.hkust-gz.edu.cn) repo_url = None
+[12/13/2025 23:35:04 INFO] Time = 2025-12-10 title = Passing the Baton: High Throughput Distributed Disk-Based Vector Search with BatANN author = Nam Anh Dang (cornell.edu) repo_url = None
+[12/13/2025 23:35:04 INFO] Time = 2025-12-08 title = Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation author = Fuyuan Lyu (mail.mcgill.ca) repo_url = None
+[12/13/2025 23:35:04 INFO] Time = 2025-12-08 title = OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition author = Jiangxia Cao (gmail.com) repo_url = None
+[12/13/2025 23:35:05 INFO] Time = 2025-12-08 title = On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective author = Daniele Malitesta (centralesupelec.fr) repo_url = None
+[12/13/2025 23:35:06 INFO] Time = 2025-12-08 title = MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling author = Bin Wu (whu.edu.cn) repo_url = https://taobao-mm.github.io
+[12/13/2025 23:35:06 INFO] Time = 2025-12-07 title = Benchmarking Deep Neural Networks for Modern Recommendation Systems author = Abderaouf Bahi (univ-eltarf.dz) repo_url = None
+[12/13/2025 23:35:06 INFO] Time = 2025-12-07 title = Deep Reinforcement Learning for Phishing Detection with Transformer-Based Semantic Features author = Aseer Al Faisal repo_url = None
+[12/13/2025 23:35:06 INFO] Time = 2025-12-07 title = WisPaper: Your AI Scholar Search Engine author = Li Ju (fudan.edu.cn) repo_url = None
+[12/13/2025 23:35:07 INFO] Time = 2025-12-06 title = Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems author = Tendai Mukande (mail.dcu.ie) repo_url = None
+[12/13/2025 23:35:08 INFO] Time = 2025-12-06 title = Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework author = Tao Wang (taobao.com) repo_url = None
+[12/13/2025 23:35:09 INFO] Time = 2025-12-05 title = MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution author = Sara Patel (acm.org) repo_url = None
+[12/13/2025 23:35:09 INFO] Time = 2025-12-04 title = UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems author = Nolwenn Bernard (th-koeln.de) repo_url = None
+[12/13/2025 23:35:10 INFO] Time = 2025-12-03 title = On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral author = Wenlong Deng repo_url = None
+[12/13/2025 23:35:10 INFO] Time = 2025-12-03 title = Learning to Comparison-Shop author = Jie Tang (airbnb.com) repo_url = None
+[12/13/2025 23:35:10 INFO] Time = 2025-12-03 title = Sponsored Questions and How to Auction Them author = Kshipra Bhawalkar (google.com) repo_url = None
+[12/13/2025 23:35:10 INFO] Time = 2025-12-03 title = LLM as Explainable Re-Ranker for Recommendation System author = Yaqi Wang (andrew.cmu.edu) repo_url = None
+[12/13/2025 23:35:10 INFO] Download Topic: Recsys LLM
+[12/13/2025 23:35:10 INFO] Query: {'description': '推荐系统&大模型', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine") AND (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")\n', 'max_results': 20, 'sort_by': 'submitted_date', 'sort_order': 'descending'}
+[12/13/2025 23:35:10 INFO] Final Query: (cat:cs.CL OR cat:cs.IR OR cat:cs.LG OR cat:cs.AI) AND (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine") AND (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
+[12/13/2025 23:35:10 INFO] Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=%28cat%3Acs.CL+OR+cat%3Acs.IR+OR+cat%3Acs.LG+OR+cat%3Acs.AI%29+AND+%28ti%3A%22recommendation+system%22+OR+abs%3A%22recommendation+system%22+OR+abs%3A%22recsys%22+OR+abs%3A%22Recommender+system%22+OR+ti%3A%22advertising+system%22+OR+abs%3A%22advertising+system%22+OR+abs%3A%22advertising%22+OR+abs%3A%22search+engine%22%29+AND+%28ti%3A%22large+language+model%22+OR+abs%3A%22large+language+model%22+OR+ti%3ALLM+OR+abs%3ALLM+OR+ti%3A%22language+model%22+OR+abs%3A%22language+model%22%29&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+[12/13/2025 23:35:11 INFO] Got first page: 100 of 1375 total results
+[12/13/2025 23:35:11 INFO] Time = 2025-12-11 title = LLM-Auction: Generative Auction towards LLM-Native Advertising author = Chujie Zhao (alibaba-inc.com) repo_url = None
+[12/13/2025 23:35:12 INFO] Time = 2025-12-10 title = STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale author = Han Chen (gopuff.com) repo_url = None
+[12/13/2025 23:35:12 INFO] Time = 2025-12-10 title = Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines author = Peixian Zhang (connect.hkust-gz.edu.cn) repo_url = None
+[12/13/2025 23:35:12 INFO] Time = 2025-12-08 title = Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation author = Fuyuan Lyu (mail.mcgill.ca) repo_url = None
+[12/13/2025 23:35:12 INFO] Time = 2025-12-08 title = OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition author = Jiangxia Cao (gmail.com) repo_url = None
+[12/13/2025 23:35:12 INFO] Time = 2025-12-06 title = Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems author = Tendai Mukande (mail.dcu.ie) repo_url = None
+[12/13/2025 23:35:13 INFO] Time = 2025-12-05 title = MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution author = Sara Patel (acm.org) repo_url = None
+[12/13/2025 23:35:13 INFO] Time = 2025-12-04 title = UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems author = Nolwenn Bernard (th-koeln.de) repo_url = None
+[12/13/2025 23:35:13 INFO] Time = 2025-12-03 title = On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral author = Wenlong Deng repo_url = None
+[12/13/2025 23:35:13 INFO] Time = 2025-12-03 title = Sponsored Questions and How to Auction Them author = Kshipra Bhawalkar (google.com) repo_url = None
+[12/13/2025 23:35:13 INFO] Time = 2025-12-03 title = LLM as Explainable Re-Ranker for Recommendation System author = Yaqi Wang (andrew.cmu.edu) repo_url = None
+[12/13/2025 23:35:14 INFO] Time = 2025-12-03 title = LLM-Generated Ads: From Personalization Parity to Persuasion Superiority author = Elyas Meguellati (uq.edu.au) repo_url = None
+[12/13/2025 23:35:17 INFO] Time = 2025-12-02 title = CrowdLLM: Building LLM-Based Digital Populations Augmented with Generative Models author = Ryan Feng Lin (uw.edu) repo_url = None
+[12/13/2025 23:35:20 INFO] Time = 2025-12-01 title = MindFuse: Towards GenAI Explainability in Marketing Strategy Co-Creation author = Aleksandr Farseev (itmo.ru) repo_url = None
+[12/13/2025 23:35:21 INFO] Time = 2025-11-29 title = DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems author = Jiahao Tian (gatech.edu) repo_url = None
+[12/13/2025 23:35:22 INFO] Time = 2025-11-29 title = Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System author = Zhitong Guan repo_url = None
+[12/13/2025 23:35:22 INFO] Time = 2025-11-28 title = Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation? author = Gustavo Penha (spotify.com) repo_url = None
+[12/13/2025 23:35:22 INFO] Time = 2025-11-28 title = Standard Occupation Classifier -- A Natural Language Processing Approach author = Sidharth Rony (gmail.com) repo_url = None
+[12/13/2025 23:35:23 INFO] Time = 2025-11-27 title = RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems author = Mengfan Li (hust.edu.cn) repo_url = None
+[12/13/2025 23:35:23 INFO] Time = 2025-11-27 title = Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation author = Nachiket Subbaraman (ucdavis.edu) repo_url = None
+[12/13/2025 23:35:23 INFO] Download Topic: LLM
+[12/13/2025 23:35:23 INFO] Query: {'description': '大模型论文', 'categories': ['cs.CL', 'cs.IR', 'cs.LG', 'cs.AI'], 'query': '(ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model") AND (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")\n', 'max_results': 30, 'sort_by': 'submitted_date', 'sort_order': 'descending'}
+[12/13/2025 23:35:23 INFO] Final Query: (cat:cs.CL OR cat:cs.IR OR cat:cs.LG OR cat:cs.AI) AND (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model") AND (abs:"chatgpt" OR abs:"openai" OR abs:"gpt" OR abs:"claude" OR abs:"gemini" OR abs:"llama" OR abs:"mistral" OR abs:"deepseek" OR abs:"moonshot" OR abs:"kimi" OR abs:"internlm" OR abs:"qwen" OR abs:"baichuan" OR abs:"glm" OR abs:"pangu" OR abs:"minimax" OR abs:"minimaxgpt" OR abs:"doubao" OR abs:"bytedance" OR abs:"google" OR abs:"apple" OR abs:"deepmind")
+[12/13/2025 23:35:23 INFO] Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=%28cat%3Acs.CL+OR+cat%3Acs.IR+OR+cat%3Acs.LG+OR+cat%3Acs.AI%29+AND+%28ti%3A%22large+language+model%22+OR+abs%3A%22large+language+model%22+OR+ti%3ALLM+OR+abs%3ALLM+OR+ti%3A%22language+model%22+OR+abs%3A%22language+model%22%29+AND+%28abs%3A%22chatgpt%22+OR+abs%3A%22openai%22+OR+abs%3A%22gpt%22+OR+abs%3A%22claude%22+OR+abs%3A%22gemini%22+OR+abs%3A%22llama%22+OR+abs%3A%22mistral%22+OR+abs%3A%22deepseek%22+OR+abs%3A%22moonshot%22+OR+abs%3A%22kimi%22+OR+abs%3A%22internlm%22+OR+abs%3A%22qwen%22+OR+abs%3A%22baichuan%22+OR+abs%3A%22glm%22+OR+abs%3A%22pangu%22+OR+abs%3A%22minimax%22+OR+abs%3A%22minimaxgpt%22+OR+abs%3A%22doubao%22+OR+abs%3A%22bytedance%22+OR+abs%3A%22google%22+OR+abs%3A%22apple%22+OR+abs%3A%22deepmind%22%29&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+[12/13/2025 23:35:24 INFO] Got first page: 100 of 14699 total results
+[12/13/2025 23:35:26 INFO] Time = 2025-12-11 title = BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models author = Shengao Wang (bu.edu) repo_url = None
+[12/13/2025 23:35:26 INFO] Time = 2025-12-11 title = SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale author = Max Zimmer (zib.de) repo_url = None
+[12/13/2025 23:35:26 INFO] Time = 2025-12-11 title = LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification author = Michael Schlee repo_url = None
+[12/13/2025 23:35:27 INFO] Time = 2025-12-11 title = The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality author = Aileen Cheng (google.com) repo_url = None
+[12/13/2025 23:35:27 INFO] Time = 2025-12-11 title = OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification author = Zijian Wu (pjlab.org.cn) repo_url = None
+[12/13/2025 23:35:28 INFO] Time = 2025-12-11 title = Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving author = Songyang Gao (pjlab.org.cn) repo_url = None
+[12/13/2025 23:35:28 INFO] Time = 2025-12-11 title = COMPARE: Clinical Optimization with Modular Planning and Assessment via RAG-Enhanced AI-OCT: Superior Decision Support for Percutaneous Coronary Intervention Compared to ChatGPT-5 and Junior Operators author = Wei Fang (163.com) repo_url = None
+[12/13/2025 23:35:28 INFO] Time = 2025-12-11 title = Challenges of Evaluating LLM Safety for User Welfare author = Manon Kempermann (kempermann.email) repo_url = None
+[12/13/2025 23:35:29 INFO] Time = 2025-12-11 title = Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders author = Qingsen Ma (bupt.edu.cn) repo_url = None
+[12/13/2025 23:35:29 INFO] Time = 2025-12-11 title = From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection author = Chaomeng Lu (kuleuven.be) repo_url = None
+[12/13/2025 23:35:29 INFO] Time = 2025-12-11 title = Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs author = Lars G. B. Johnsen (nb.no) repo_url = None
+[12/13/2025 23:35:30 INFO] Time = 2025-12-11 title = When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection author = Devanshu Sahoo (pilani.bits-pilani.ac.in) repo_url = None
+[12/13/2025 23:35:30 INFO] Time = 2025-12-11 title = Enhancing Next-Generation Language Models with Knowledge Graphs: Extending Claude, Mistral IA, and GPT-4 via KG-BERT author = Nour El Houda Ben Chaabene (sorbonne-universite.fr) repo_url = None
+[12/13/2025 23:35:30 INFO] Time = 2025-12-11 title = Towards Fine-Grained Recognition with Large Visual Language Models: Benchmark and Optimization Strategies author = Cong Pang (shanghaitech.edu.cn) repo_url = https://github.com/pc-inno/FROW
+[12/13/2025 23:35:30 INFO] Time = 2025-12-11 title = Watermarks for Language Models via Probabilistic Automata author = Yangkun Wang (ucsd.edu) repo_url = None
+[12/13/2025 23:35:31 INFO] Time = 2025-12-10 title = Enhancing Large Language Models for End-to-End Circuit Analysis Problem Solving author = Liangliang Chen (gatech.edu) repo_url = None
+[12/13/2025 23:35:31 INFO] Time = 2025-12-10 title = Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning author = Lama Alssum (kaust.edu.sa) repo_url = None
+[12/13/2025 23:35:34 INFO] Time = 2025-12-10 title = Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing author = Zhongjie Jiang (163.com) repo_url = None
+[12/13/2025 23:35:34 INFO] Time = 2025-12-10 title = LLM-PEA: Leveraging Large Language Models Against Phishing Email Attacks author = Najmul Hassan repo_url = None
+[12/13/2025 23:35:35 INFO] Time = 2025-12-10 title = Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit author = Nick Jiang (berkeley.edu) repo_url = https://github.com/nickjiang2378/interp_embed
+[12/13/2025 23:35:35 INFO] Time = 2025-12-10 title = Linear socio-demographic representations emerge in Large Language Models from indirect cues author = Paul Bouchaud (cnrs.fr) repo_url = None
+[12/13/2025 23:35:35 INFO] Time = 2025-12-10 title = Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs author = Skyler Wu (stanford.edu) repo_url = None
+[12/13/2025 23:35:36 INFO] Time = 2025-12-10 title = Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension author = Mengren (mit.edu) repo_url = None
+[12/13/2025 23:35:36 INFO] Time = 2025-12-10 title = FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning author = Khurram Khalil (missouri.edu) repo_url = None
+[12/13/2025 23:35:37 INFO] Time = 2025-12-10 title = Mitigating Social Bias in English and Urdu Language Models Using PRM-Guided Candidate Selection and Sequential Refinement author = Muneeb Ur Raheem Khan (lums.edu.pk) repo_url = None
+[12/13/2025 23:35:37 INFO] Time = 2025-12-10 title = DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting author = James Luther (virginia.edu) repo_url = None
+[12/13/2025 23:35:37 INFO] Time = 2025-12-10 title = Creation of the Estonian Subjectivity Dataset: Assessing the Degree of Subjectivity on a Scale author = Karl Gustav Gailit (ut.ee) repo_url = None
+[12/13/2025 23:35:37 INFO] Time = 2025-12-10 title = An End-to-end Planning Framework with Agentic LLMs and PDDL author = Emanuele La Malfa (cs.ox.ac.uk) repo_url = https://github.com/EmanueleLM/MultiAgentPlanning
+[12/13/2025 23:35:37 INFO] Time = 2025-12-11 title = SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs author = Arihant Tripathy (research.iiit.ac.in) repo_url = None
+[12/13/2025 23:35:38 INFO] Time = 2025-12-10 title = Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines author = Peixian Zhang (connect.hkust-gz.edu.cn) repo_url = None
+[12/13/2025 23:35:38 INFO] GET daily papers end
+[12/13/2025 23:35:38 INFO] Update Readme finished
+[12/13/2025 23:35:38 INFO] Update GitPage finished
