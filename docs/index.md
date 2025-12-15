@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
 |**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao (alibaba-inc.com) et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
 |**2025-12-11**|**The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation**|Ziwei Liu (my.cityu.edu.hk) et.al.|[2512.10388](http://arxiv.org/abs/2512.10388)|**[link](https://github.com/ziwliu8/H2Rec)**|
 |**2025-12-10**|**STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale**|Han Chen (gopuff.com) et.al.|[2512.10149](http://arxiv.org/abs/2512.10149)|null|
@@ -844,6 +845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
 |**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao (alibaba-inc.com) et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
 |**2025-12-10**|**STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale**|Han Chen (gopuff.com) et.al.|[2512.10149](http://arxiv.org/abs/2512.10149)|null|
 |**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
@@ -1273,6 +1275,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously**|Andrew Adiletta (mitre.org) et.al.|[2512.11783](http://arxiv.org/abs/2512.11783)|null|
+|**2025-12-12**|**Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks**|Sergey Pankratov et.al.|[2512.11718](http://arxiv.org/abs/2512.11718)|null|
+|**2025-12-12**|**AI-MASLD Metabolic Dysfunction and Information Steatosis of Large Language Models in Unstructured Clinical Narratives**|Yuan Shen (zuaa.zju.edu.cn) et.al.|[2512.11544](http://arxiv.org/abs/2512.11544)|null|
+|**2025-12-12**|**Does Less Hallucination Mean Less Creativity? An Empirical Investigation in LLMs**|Mohor Banerjee (e.ntu.edu.sg) et.al.|[2512.11509](http://arxiv.org/abs/2512.11509)|null|
+|**2025-12-12**|**General-purpose AI models can generate actionable knowledge on agroecological crop protection**|Kris A. G. Wyckhuys (uq.edu.au) et.al.|[2512.11474](http://arxiv.org/abs/2512.11474)|null|
+|**2025-12-12**|**REMODEL-LLM: Transforming C code to Java using LLMs**|Aryan Gupta (research.iiit.ac.in) et.al.|[2512.11402](http://arxiv.org/abs/2512.11402)|null|
+|**2025-12-12**|**Mining Legal Arguments to Study Judicial Formalism**|Tomáš Koref (c3s.uni-frankfurt.de) et.al.|[2512.11374](http://arxiv.org/abs/2512.11374)|**[link](https://github.com/trusthlt/madon)**|
+|**2025-12-12**|**qa-FLoRA: Data-free query-adaptive Fusion of LoRAs for LLMs**|Shreya Shukla (mercedes-benz.com) et.al.|[2512.11366](http://arxiv.org/abs/2512.11366)|null|
+|**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh (iitk.ac.in) et.al.|[2512.11350](http://arxiv.org/abs/2512.11350)|null|
+|**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad et.al.|[2512.11315](http://arxiv.org/abs/2512.11315)|null|
+|**2025-12-12**|**LegalRikai: Open Benchmark -- A Benchmark for Complex Japanese Corporate Legal Tasks**|Shogo Fujita (legalontech.jp) et.al.|[2512.11297](http://arxiv.org/abs/2512.11297)|null|
+|**2025-12-12**|**CIP: A Plug-and-Play Causal Prompting Framework for Mitigating Hallucinations under Long-Context Noise**|Qingsen Ma (bupt.edu.cn) et.al.|[2512.11282](http://arxiv.org/abs/2512.11282)|null|
+|**2025-12-12**|**Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language**|Yunkai Zhang (berkeley.edu) et.al.|[2512.11251](http://arxiv.org/abs/2512.11251)|null|
+|**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov (kstu.kg) et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|null|
+|**2025-12-11**|**MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents**|Jinhao Zhu et.al.|[2512.11147](http://arxiv.org/abs/2512.11147)|null|
+|**2025-12-11**|**FIBER: A Multilingual Evaluation Resource for Factual Inference Bias**|Evren Ayberk Munis (studenti.polito.it) et.al.|[2512.11110](http://arxiv.org/abs/2512.11110)|null|
 |**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang (bu.edu) et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
 |**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer (zib.de) et.al.|[2512.10922](http://arxiv.org/abs/2512.10922)|null|
 |**2025-12-11**|**LabelFusion: Learning to Fuse LLMs and Transformer Classifiers for Robust Text Classification**|Michael Schlee et.al.|[2512.10793](http://arxiv.org/abs/2512.10793)|null|
