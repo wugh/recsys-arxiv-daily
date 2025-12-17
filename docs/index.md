@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
+|**2025-12-16**|**AsarRec: Adaptive Sequential Augmentation for Robust Self-supervised Sequential Recommendation**|Kaike Zhang (ict.ac.cn) et.al.|[2512.14047](http://arxiv.org/abs/2512.14047)|null|
+|**2025-12-16**|**From Feature Interaction to Feature Generation: A Generative Paradigm of CTR Prediction Models**|Mingjia Yin (ustc.edu.cn) et.al.|[2512.14041](http://arxiv.org/abs/2512.14041)|**[link](https://github.com/USTC-StarTeam/GE4Rec)**|
+|**2025-12-16**|**Intent-Guided Reasoning for Sequential Recommendation**|Yifan Shao (gmail.com) et.al.|[2512.14034](http://arxiv.org/abs/2512.14034)|null|
+|**2025-12-13**|**Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce**|Sayak Chakrabarty (u.northwestern.edu) et.al.|[2512.13726](http://arxiv.org/abs/2512.13726)|null|
 |**2025-12-15**|**BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations**|Mengyang Ma (acm.org) et.al.|[2512.13368](http://arxiv.org/abs/2512.13368)|**[link](https://github.com/ronineume/BlossomRec)**|
 |**2025-12-15**|**No One Left Behind: How to Exploit the Incomplete and Skewed Multi-Label Data for Conversion Rate Prediction**|Qinglin Jia (pku.edu.com) et.al.|[2512.13300](http://arxiv.org/abs/2512.13300)|null|
 |**2025-12-15**|**Know Your Users! Estimating User Domain Knowledge in Conversational Recommenders**|Ivica Kostric (uis.no) et.al.|[2512.13173](http://arxiv.org/abs/2512.13173)|null|
@@ -859,6 +864,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
 |**2025-12-15**|**Are Large Language Models Really Effective for Training-Free Cold-Start Recommendation?**|Genki Kusano (nec.com) et.al.|[2512.13001](http://arxiv.org/abs/2512.13001)|null|
 |**2025-12-15**|**Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views**|Tingyang Chen (zju.edu.cn) et.al.|[2512.12980](http://arxiv.org/abs/2512.12980)|null|
 |**2025-12-15**|**Do Reviews Matter for Recommendations in the Era of Large Language Models?**|Chee Heng Tan et.al.|[2512.12978](http://arxiv.org/abs/2512.12978)|**[link](https://github.com/zhytk/RAREval-data-processing)**|
@@ -1294,6 +1300,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|**[link](https://timelens-arc-lab.github.io/)**|
+|**2025-12-16**|**Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer**|Adarsha Shrestha (khwopa.edu.np) et.al.|[2512.14585](http://arxiv.org/abs/2512.14585)|null|
+|**2025-12-16**|**From YOLO to VLMs: Advancing Zero-Shot and Few-Shot Detection of Wastewater Treatment Plants Using Satellite Imagery in MENA Region**|Akila Premarathna (cgiar.org) et.al.|[2512.14312](http://arxiv.org/abs/2512.14312)|null|
+|**2025-12-16**|**Inflation Attitudes of Large Language Models**|Nikoleta Anesti (bankofengland.co.uk) et.al.|[2512.14306](http://arxiv.org/abs/2512.14306)|null|
+|**2025-12-16**|**Leveraging LLMs for Collaborative Ontology Engineering in Parkinson Disease Monitoring and Alerting**|Georgios Bouchouras (aegean.gr) et.al.|[2512.14288](http://arxiv.org/abs/2512.14288)|null|
+|**2025-12-16**|**A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs**|K. M. Jubair Sami (g.bracu.ac.bd) et.al.|[2512.14179](http://arxiv.org/abs/2512.14179)|null|
+|**2025-12-16**|**What Affects the Effective Depth of Large Language Models?**|Yi Hu et.al.|[2512.14064](http://arxiv.org/abs/2512.14064)|**[link](https://github.com/AheadOFpotato/what_affects_effective_depth)**|
+|**2025-12-16**|**OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value**|Mengzhang Cai (pjlab.org.cn) et.al.|[2512.14051](http://arxiv.org/abs/2512.14051)|null|
+|**2025-12-16**|**Evaluating Small Language Models for Agentic On-Farm Decision Support Systems**|Enhong Liu (cornell.edu) et.al.|[2512.14043](http://arxiv.org/abs/2512.14043)|null|
+|**2025-12-16**|**PerfCoder: Large Language Models for Interpretable Code Performance Optimization**|Jiuding Yang (ualberta.ca) et.al.|[2512.14018](http://arxiv.org/abs/2512.14018)|null|
+|**2025-12-16**|**Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms**|Yang Cao (gmail.com) et.al.|[2512.13978](http://arxiv.org/abs/2512.13978)|**[link](https://github.com/magiclinux/math_benchmark_probability)**|
+|**2025-12-14**|**Low-Rank Compression of Language Models via Differentiable Rank Selection**|Sidhant Sundrani (outlook.com) et.al.|[2512.13733](http://arxiv.org/abs/2512.13733)|null|
 |**2025-12-15**|**Large-Language Memorization During the Classification of United States Supreme Court Cases**|John E. Ortega (pace.edu) et.al.|[2512.13654](http://arxiv.org/abs/2512.13654)|null|
 |**2025-12-15**|**Async Control: Stress-testing Asynchronous Control Measures for LLM Agents**|Asa Cooper Stickland (dsit.gov.uk) et.al.|[2512.13526](http://arxiv.org/abs/2512.13526)|**[link](https://github.com/UKGovernmentBEIS/async-control)**|
 |**2025-12-15**|**neuralFOMO: Can LLMs Handle Being Second Best? Measuring Envy-Like Preferences in Multi-Agent Settings**|Ojas Pungalia (pilani.bits-pilani.ac.in) et.al.|[2512.13481](http://arxiv.org/abs/2512.13481)|null|
