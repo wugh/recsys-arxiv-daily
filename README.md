@@ -1,4 +1,4 @@
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning**|Tzu-Han Lin (ntu.edu.tw) et.al.|[2512.16883](http://arxiv.org/abs/2512.16883)|**[link](https://github.com/hank0316/AdaSearch)**|
+|**2025-12-18**|**Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification**|Natnael Tilahun Sinshaw (uh.edu) et.al.|[2512.16687](http://arxiv.org/abs/2512.16687)|null|
+|**2025-12-18**|**Abacus: Self-Supervised Event Counting-Aligned Distributional Pretraining for Sequential User Modeling**|Sullivan Castro (gmail.com) et.al.|[2512.16581](http://arxiv.org/abs/2512.16581)|null|
+|**2025-12-18**|**InfoDCL: Informative Noise Enhanced Diffusion Based Contrastive Learning**|Xufeng Liang (bit.edu.cn) et.al.|[2512.16576](http://arxiv.org/abs/2512.16576)|null|
+|**2025-12-18**|**WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning**|Wendong Bi (tencent.com) et.al.|[2512.16108](http://arxiv.org/abs/2512.16108)|null|
 |**2025-12-17**|**BERT and CNN integrated Neural Collaborative Filtering for Recommender Systems**|Abdullah Al Munem (gmail.com) et.al.|[2512.15526](http://arxiv.org/abs/2512.15526)|null|
 |**2025-12-17**|**ArcBERT: An LLM-based Search Engine for Exploring Integrated Multi-Omics Metadata**|Gajendra Doniparthi (cs.rptu.de) et.al.|[2512.15365](http://arxiv.org/abs/2512.15365)|null|
 |**2025-12-14**|**Cyberswarm: a novel swarm intelligence algorithm inspired by cyber community dynamics**|Abdelsadeq Elfergany et.al.|[2512.14752](http://arxiv.org/abs/2512.14752)|null|
@@ -868,12 +873,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning**|Tzu-Han Lin (ntu.edu.tw) et.al.|[2512.16883](http://arxiv.org/abs/2512.16883)|**[link](https://github.com/hank0316/AdaSearch)**|
+|**2025-12-18**|**WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning**|Wendong Bi (tencent.com) et.al.|[2512.16108](http://arxiv.org/abs/2512.16108)|null|
 |**2025-12-17**|**ArcBERT: An LLM-based Search Engine for Exploring Integrated Multi-Omics Metadata**|Gajendra Doniparthi (cs.rptu.de) et.al.|[2512.15365](http://arxiv.org/abs/2512.15365)|null|
 |**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
 |**2025-12-15**|**Are Large Language Models Really Effective for Training-Free Cold-Start Recommendation?**|Genki Kusano (nec.com) et.al.|[2512.13001](http://arxiv.org/abs/2512.13001)|null|
@@ -1307,12 +1314,37 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu (jhu.edu) et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
+|**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu (meta.com) et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|**[link](https://github.com/facebookresearch/MMRB2)**|
+|**2025-12-18**|**TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge**|Khurram Khalil (missouri.edu) et.al.|[2512.16855](http://arxiv.org/abs/2512.16855)|null|
+|**2025-12-18**|**LLMCache: Layer-Wise Caching Strategies for Accelerated Reuse in Transformer Inference**|Harsh Vardhan Bansal et.al.|[2512.16843](http://arxiv.org/abs/2512.16843)|null|
+|**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra (pilani.bits-pilani.ac.in) et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
+|**2025-12-18**|**NRGPT: An Energy-based Alternative for GPT**|Nima Dehmamy (ibm.com) et.al.|[2512.16762](http://arxiv.org/abs/2512.16762)|null|
+|**2025-12-18**|**Do Multi-Agents Solve Better Than Single? Evaluating Agentic Frameworks for Diagram-Grounded Geometry Problem Solving and Reasoning**|Mahbub E Sobhani (bracu.ac.bd) et.al.|[2512.16698](http://arxiv.org/abs/2512.16698)|**[link](https://github.com/faiyazabdullah/Interpreter-Solver)**|
+|**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li (nju.edu.cn) et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
+|**2025-12-18**|**Plain language adaptations of biomedical text using LLMs: Comparision of evaluation metrics**|Primoz Kocbek (um.si) et.al.|[2512.16530](http://arxiv.org/abs/2512.16530)|null|
+|**2025-12-18**|**Design and Evaluation of Cost-Aware PoQ for Decentralized LLM Inference**|Arther Tian (dgrid.ai) et.al.|[2512.16317](http://arxiv.org/abs/2512.16317)|null|
+|**2025-12-18**|**Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks**|Safwan Shaheer (g.bracu.ac.bd) et.al.|[2512.16307](http://arxiv.org/abs/2512.16307)|null|
+|**2025-12-18**|**PixelArena: A benchmark for Pixel-Precision Visual Intelligence**|Feng Liang (e.ntu.edu.sg) et.al.|[2512.16303](http://arxiv.org/abs/2512.16303)|null|
+|**2025-12-18**|**Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures**|Yehor Tereshchenko (metropolia.fi) et.al.|[2512.16287](http://arxiv.org/abs/2512.16287)|null|
+|**2025-12-18**|**CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity**|Jinhao Zhang et.al.|[2512.16282](http://arxiv.org/abs/2512.16282)|null|
+|**2025-12-18**|**AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding**|Sanjoy Chowdhury (umd.edu) et.al.|[2512.16250](http://arxiv.org/abs/2512.16250)|null|
+|**2025-12-18**|**AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints**|Aniruddha Roy et.al.|[2512.16245](http://arxiv.org/abs/2512.16245)|null|
+|**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|**[link](https://github.com/Buycar-arb/ToolForge)**|
+|**2025-12-18**|**Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference**|Jian Tian (baidu.com) et.al.|[2512.16134](http://arxiv.org/abs/2512.16134)|null|
+|**2025-12-18**|**Scaling Text2SQL via LLM-efficient Schema Filtering with Functional Dependency Graph Rerankers**|Thanh Dat Hoang et.al.|[2512.16083](http://arxiv.org/abs/2512.16083)|**[link](https://github.com/thanhdath/grast-sql)**|
+|**2025-12-17**|**Are We on the Right Way to Assessing LLM-as-a-Judge?**|Yuanning Feng (hust.edu.cn) et.al.|[2512.16041](http://arxiv.org/abs/2512.16041)|null|
+|**2025-12-17**|**Topic Discovery and Classification for Responsible Generative AI Adaptation in Higher Education**|Diane Myung-kyung Woodbridge (studystudio.ai) et.al.|[2512.16036](http://arxiv.org/abs/2512.16036)|null|
+|**2025-12-17**|**Do Large Language Models Know What They Don't Know? Kalshibench: A New Benchmark for Evaluating Epistemic Calibration via Prediction Markets**|Lukas Nel (lotus.ai) et.al.|[2512.16030](http://arxiv.org/abs/2512.16030)|null|
+|**2025-12-17**|**BRAID: Bounded Reasoning for Autonomous Inference and Decisions**|Armağan Amcalar (openserv.ai) et.al.|[2512.15959](http://arxiv.org/abs/2512.15959)|null|
+|**2025-12-17**|**Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning**|Polaris Jhandi et.al.|[2512.15943](http://arxiv.org/abs/2512.15943)|null|
+|**2025-12-17**|**PediatricAnxietyBench: Evaluating Large Language Model Safety Under Parental Anxiety and Pressure in Pediatric Consultations**|Vahideh Zolfaghari (gmail.com) et.al.|[2512.15894](http://arxiv.org/abs/2512.15894)|null|
 |**2025-12-17**|**BashArena: A Control Setting for Highly Privileged AI Agents**|Adam Kaufman et.al.|[2512.15688](http://arxiv.org/abs/2512.15688)|**[link](https://github.com/redwoodresearch/basharena_public)**|
 |**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao et.al.|[2512.15649](http://arxiv.org/abs/2512.15649)|null|
 |**2025-12-17**|**CTkvr: KV Cache Retrieval for Long-Context LLMs via Centroid then Token Indexing**|Kuan Lu (acm.org) et.al.|[2512.15550](http://arxiv.org/abs/2512.15550)|null|
@@ -3218,7 +3250,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
