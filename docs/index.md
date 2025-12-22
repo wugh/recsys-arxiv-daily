@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Alternating Direction Method of Multipliers for Nonlinear Matrix Decompositions**|Atharva Awari (umons.ac.be) et.al.|[2512.17473](http://arxiv.org/abs/2512.17473)|**[link](https://gitlab.com/Atharva05/admm-for-nmd)**|
+|**2025-12-19**|**The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability**|Guangneng Hu (gmail.com) et.al.|[2512.17389](http://arxiv.org/abs/2512.17389)|null|
+|**2025-12-19**|**Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest**|Saeed Ebrahimi (pinterest.com) et.al.|[2512.17277](http://arxiv.org/abs/2512.17277)|null|
+|**2025-12-18**|**Unexpected Knowledge: Auditing Wikipedia and Grokipedia Search Recommendations**|Erica Coppolillo (unical.it) et.al.|[2512.17027](http://arxiv.org/abs/2512.17027)|null|
+|**2025-12-18**|**A Reproducible and Fair Evaluation of Partition-aware Collaborative Filtering**|Domenico De Gioia (poliba.it) et.al.|[2512.17015](http://arxiv.org/abs/2512.17015)|null|
 |**2025-12-18**|**AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning**|Tzu-Han Lin (ntu.edu.tw) et.al.|[2512.16883](http://arxiv.org/abs/2512.16883)|**[link](https://github.com/hank0316/AdaSearch)**|
 |**2025-12-18**|**Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification**|Natnael Tilahun Sinshaw (uh.edu) et.al.|[2512.16687](http://arxiv.org/abs/2512.16687)|null|
 |**2025-12-18**|**Abacus: Self-Supervised Event Counting-Aligned Distributional Pretraining for Sequential User Modeling**|Sullivan Castro (gmail.com) et.al.|[2512.16581](http://arxiv.org/abs/2512.16581)|null|
@@ -872,6 +877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability**|Guangneng Hu (gmail.com) et.al.|[2512.17389](http://arxiv.org/abs/2512.17389)|null|
 |**2025-12-18**|**AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning**|Tzu-Han Lin (ntu.edu.tw) et.al.|[2512.16883](http://arxiv.org/abs/2512.16883)|**[link](https://github.com/hank0316/AdaSearch)**|
 |**2025-12-18**|**WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning**|Wendong Bi (tencent.com) et.al.|[2512.16108](http://arxiv.org/abs/2512.16108)|null|
 |**2025-12-17**|**ArcBERT: An LLM-based Search Engine for Exploring Integrated Multi-Omics Metadata**|Gajendra Doniparthi (cs.rptu.de) et.al.|[2512.15365](http://arxiv.org/abs/2512.15365)|null|
@@ -881,7 +887,7 @@ layout: default
 |**2025-12-15**|**Do Reviews Matter for Recommendations in the Era of Large Language Models?**|Chee Heng Tan et.al.|[2512.12978](http://arxiv.org/abs/2512.12978)|**[link](https://github.com/zhytk/RAREval-data-processing)**|
 |**2025-12-14**|**Content-Aware Ad Banner Layout Generation with Two-Stage Chain-of-Thought in Vision Language Models**|Kei Yoshitake (m.isct.ac.jp) et.al.|[2512.12596](http://arxiv.org/abs/2512.12596)|null|
 |**2025-12-12**|**Semantic search for 100M+ galaxy images using AI-generated captions**|Nolan Koblischke (mail.utoronto.ca) et.al.|[2512.11982](http://arxiv.org/abs/2512.11982)|**[link](https://github.com/NolanKoblischke/AION-Search)**|
-|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
+|**2025-12-19**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
 |**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao (alibaba-inc.com) et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
 |**2025-12-13**|**STARS: Semantic Tokens with Augmented Representations for Recommendation at Scale**|Han Chen et.al.|[2512.10149](http://arxiv.org/abs/2512.10149)|null|
 |**2025-12-10**|**Source Coverage and Citation Bias in LLM-based vs. Traditional Search Engines**|Peixian Zhang (connect.hkust-gz.edu.cn) et.al.|[2512.09483](http://arxiv.org/abs/2512.09483)|null|
@@ -1311,6 +1317,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**ShareChat: A Dataset of Chatbot Conversations in the Wild**|Yueru Yan (iu.edu) et.al.|[2512.17843](http://arxiv.org/abs/2512.17843)|null|
+|**2025-12-19**|**Linear Personality Probing and Steering in LLMs: A Big Five Study**|Michel Frising (gmail.com) et.al.|[2512.17639](http://arxiv.org/abs/2512.17639)|null|
+|**2025-12-19**|**Confidence-Credibility Aware Weighted Ensembles of Small LLMs Outperform Large LLMs in Emotion Detection**|Menna Elgabry (msa.edu.eg) et.al.|[2512.17630](http://arxiv.org/abs/2512.17630)|null|
+|**2025-12-19**|**GreedySnake: Accelerating SSD-Offloaded LLM Training with Efficient Scheduling and Optimizer Step Overlapping**|Yikang Yue et.al.|[2512.17570](http://arxiv.org/abs/2512.17570)|**[link](https://github.com/npz7yyk/GreedySnake)**|
+|**2025-12-19**|**Towards Explainable Conversational AI for Early Diagnosis with Large Language Models**|Maliha Tabassum (student.bup.edu.bd) et.al.|[2512.17559](http://arxiv.org/abs/2512.17559)|null|
+|**2025-12-19**|**Key-Conditioned Orthonormal Transform Gating (K-OTG): Multi-Key Access Control with Hidden-State Scrambling for LoRA-Tuned Models**|Muhammad Haris Khan (di.ku.dk) et.al.|[2512.17519](http://arxiv.org/abs/2512.17519)|null|
+|**2025-12-19**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang (ntu.edu.tw) et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|**[link](https://github.com/EMCLab-Sinica/WG-KV)**|
+|**2025-12-19**|**SWE-Bench++: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories**|Lilin Wang et.al.|[2512.17419](http://arxiv.org/abs/2512.17419)|null|
+|**2025-12-19**|**Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition**|Zahra Rahmani (gmail.com) et.al.|[2512.17247](http://arxiv.org/abs/2512.17247)|null|
+|**2025-12-18**|**Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs**|Aaron Defazio (meta.com) et.al.|[2512.17131](http://arxiv.org/abs/2512.17131)|null|
+|**2025-12-18**|**Data Augmentation Supporting a Conversational Agent Designed for Smoking Cessation Support Groups**|Salar Hashemitaheri (uci.edu) et.al.|[2512.17092](http://arxiv.org/abs/2512.17092)|null|
+|**2025-12-18**|**A Women's Health Benchmark for Large Language Models**|Victoria-Elisabeth Gruber (thelumos.ai) et.al.|[2512.17028](http://arxiv.org/abs/2512.17028)|null|
+|**2025-12-18**|**MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval**|Saksham Sahai Srivastava (uga.edu) et.al.|[2512.16962](http://arxiv.org/abs/2512.16962)|**[link](https://github.com/Jacobhhy/Agent-Memory-Poisoning)**|
 |**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu (jhu.edu) et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
 |**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu (meta.com) et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|**[link](https://github.com/facebookresearch/MMRB2)**|
 |**2025-12-18**|**TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge**|Khurram Khalil (missouri.edu) et.al.|[2512.16855](http://arxiv.org/abs/2512.16855)|null|
