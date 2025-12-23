@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-19**|**Alternating Direction Method of Multipliers for Nonlinear Matrix Decompositions**|Atharva Awari (umons.ac.be) et.al.|[2512.17473](http://arxiv.org/abs/2512.17473)|**[link](https://gitlab.com/Atharva05/admm-for-nmd)**|
+|**2025-12-22**|**Faster Distributed Inference-Only Recommender Systems via Bounded Lag Synchronous Collectives**|Kiril Dichev et.al.|[2512.19342](http://arxiv.org/abs/2512.19342)|null|
+|**2025-12-22**|**DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems**|Sarwan Ali (cumc.columbia.edu) et.al.|[2512.18932](http://arxiv.org/abs/2512.18932)|null|
+|**2025-12-21**|**CIRR: Causal-Invariant Retrieval-Augmented Recommendation with Faithful Explanations under Distribution Shift**|Sebastian Sun (wisc.edu) et.al.|[2512.18683](http://arxiv.org/abs/2512.18683)|null|
+|**2025-12-20**|**InstructNet: A Novel Approach for Multi-Label Instruction Classification through Advanced Deep Learning**|Tanjim Taharat Aurpa et.al.|[2512.18301](http://arxiv.org/abs/2512.18301)|null|
+|**2025-12-20**|**FairExpand: Individual Fairness on Graphs with Partial Similarity Information**|Rebecca Salganik (ur.rochester.edu) et.al.|[2512.18180](http://arxiv.org/abs/2512.18180)|null|
+|**2025-12-19**|**MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements**|Ruichen Tan (purdue.edu) et.al.|[2512.17985](http://arxiv.org/abs/2512.17985)|null|
+|**2025-12-22**|**Alternating Direction Method of Multipliers for Nonlinear Matrix Decompositions**|Atharva Awari (umons.ac.be) et.al.|[2512.17473](http://arxiv.org/abs/2512.17473)|**[link](https://gitlab.com/Atharva05/admm-for-nmd)**|
 |**2025-12-19**|**The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability**|Guangneng Hu (gmail.com) et.al.|[2512.17389](http://arxiv.org/abs/2512.17389)|null|
 |**2025-12-19**|**Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest**|Saeed Ebrahimi (pinterest.com) et.al.|[2512.17277](http://arxiv.org/abs/2512.17277)|null|
 |**2025-12-18**|**Unexpected Knowledge: Auditing Wikipedia and Grokipedia Search Recommendations**|Erica Coppolillo (unical.it) et.al.|[2512.17027](http://arxiv.org/abs/2512.17027)|null|
@@ -878,7 +884,7 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -1320,12 +1326,40 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|**[link](https://github.com/Gen-Verse/GenEnv)**|
+|**2025-12-22**|**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**|Yuqiao Tan (ia.ac.cn) et.al.|[2512.19673](http://arxiv.org/abs/2512.19673)|**[link](https://github.com/Trae1ounG/BuPO)**|
+|**2025-12-22**|**Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**|Filippos Ventirozos (mmu.ac.uk) et.al.|[2512.19651](http://arxiv.org/abs/2512.19651)|null|
+|**2025-12-22**|**Exploring the features used for summary evaluation by Human and GPT**|Zahra Sadeghi (dal.ca) et.al.|[2512.19620](http://arxiv.org/abs/2512.19620)|null|
+|**2025-12-22**|**Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement**|Hongsheng Xing (gmail.com) et.al.|[2512.19530](http://arxiv.org/abs/2512.19530)|null|
+|**2025-12-22**|**A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis**|Katharina Stengg (aau.at) et.al.|[2512.19481](http://arxiv.org/abs/2512.19481)|null|
+|**2025-12-22**|**Brain-Grounded Axes for Reading and Steering LLM States**|Sandro Andric (nyu.edu) et.al.|[2512.19399](http://arxiv.org/abs/2512.19399)|**[link](https://github.com/sandroandric/Brain-Grounded-Axes-for-Reading-and-Steering-LLM-States)**|
+|**2025-12-22**|**HATS: High-Accuracy Triple-Set Watermarking for Large Language Models**|Zhiqing Hu (gscaep.ac.cn) et.al.|[2512.19378](http://arxiv.org/abs/2512.19378)|null|
+|**2025-12-22**|**Auto-Prompting with Retrieval Guidance for Frame Detection in Logistics**|Do Minh Duc (vnu.edu.vn) et.al.|[2512.19247](http://arxiv.org/abs/2512.19247)|null|
+|**2025-12-22**|**Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation**|Anna-Maria Gueorguieva (uw.edu) et.al.|[2512.19238](http://arxiv.org/abs/2512.19238)|null|
+|**2025-12-22**|**DeliveryBench: Can Agents Earn Profit in Real World?**|Lingjun Mao (ucsd.edu) et.al.|[2512.19234](http://arxiv.org/abs/2512.19234)|**[link](https://deliverybench.github.io)**|
+|**2025-12-22**|**Generation of Programmatic Rules for Document Forgery Detection Using Large Language Models**|Valentin Schmidberger (hdm-stuttgart.de) et.al.|[2512.19228](http://arxiv.org/abs/2512.19228)|null|
+|**2025-12-22**|**QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation**|Dehai Min (uic.edu) et.al.|[2512.19134](http://arxiv.org/abs/2512.19134)|**[link](https://github.com/ZhishanQ/QuCo-RAG)**|
+|**2025-12-22**|**Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving**|Peiqing Lu (bu.edu) et.al.|[2512.19093](http://arxiv.org/abs/2512.19093)|null|
+|**2025-12-22**|**Can abstract concepts from LLM improve SLM performance?**|Siddharth Tandon et.al.|[2512.19069](http://arxiv.org/abs/2512.19069)|null|
+|**2025-12-22**|**The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation**|Hengrui Jia et.al.|[2512.19025](http://arxiv.org/abs/2512.19025)|null|
+|**2025-12-22**|**FASTRIC: Prompt Specification Language for Verifiable LLM Interactions**|Wen-Long Jin (uci.edu) et.al.|[2512.18940](http://arxiv.org/abs/2512.18940)|null|
+|**2025-12-21**|**Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations**|Shaomu Tan (uva.nl) et.al.|[2512.18906](http://arxiv.org/abs/2512.18906)|null|
+|**2025-12-21**|**MDToC: Metacognitive Dynamic Tree of Concepts for Boosting Mathematical Problem-Solving of Large Language Models**|Tung Duong Ta (umbc.edu) et.al.|[2512.18841](http://arxiv.org/abs/2512.18841)|null|
+|**2025-12-21**|**MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking**|Jianyi Zhang (besti.edu.cn) et.al.|[2512.18755](http://arxiv.org/abs/2512.18755)|**[link](https://github.com/Carney-lsz/MEEA)**|
+|**2025-12-21**|**InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search**|Kaican Li (cse.ust.hk) et.al.|[2512.18745](http://arxiv.org/abs/2512.18745)|**[link](https://github.com/m-Just/InSight-o3)**|
+|**2025-12-21**|**A Comparative Study of Light-weight Language Models for PII Masking and their Deployment for Real Conversational Texts**|Prabigya Acharya (pcampus.edu.np) et.al.|[2512.18608](http://arxiv.org/abs/2512.18608)|null|
+|**2025-12-21**|**On Finding Inconsistencies in Documents**|Charles J. Lovering (kensho.com) et.al.|[2512.18601](http://arxiv.org/abs/2512.18601)|null|
+|**2025-12-21**|**LLMs on Drugs: Language Models Are Few-Shot Consumers**|Alexander Doudkin (hfbk-hamburg.de) et.al.|[2512.18546](http://arxiv.org/abs/2512.18546)|**[link](https://github.com/lexdoudkin/llms-on-drugs)**|
+|**2025-12-20**|**VeruSAGE: A Study of Agent-Based Verification for Rust Systems**|Chenyuan Yang et.al.|[2512.18436](http://arxiv.org/abs/2512.18436)|null|
+|**2025-12-20**|**Breaking Minds, Breaking Systems: Jailbreaking Large Language Models via Human-like Psychological Manipulation**|Zehao Liu et.al.|[2512.18244](http://arxiv.org/abs/2512.18244)|null|
+|**2025-12-20**|**Training LLMs with LogicReward for Faithful and Rigorous Reasoning**|Jundong Xu et.al.|[2512.18196](http://arxiv.org/abs/2512.18196)|**[link](https://llm-symbol.github.io/LogicReward)**|
+|**2025-12-19**|**Holistic Evaluation of State-of-the-Art LLMs for Code Generation**|Le Zhang (iastate.edu) et.al.|[2512.18131](http://arxiv.org/abs/2512.18131)|null|
 |**2025-12-19**|**ShareChat: A Dataset of Chatbot Conversations in the Wild**|Yueru Yan (iu.edu) et.al.|[2512.17843](http://arxiv.org/abs/2512.17843)|null|
 |**2025-12-19**|**Linear Personality Probing and Steering in LLMs: A Big Five Study**|Michel Frising (gmail.com) et.al.|[2512.17639](http://arxiv.org/abs/2512.17639)|null|
 |**2025-12-19**|**Confidence-Credibility Aware Weighted Ensembles of Small LLMs Outperform Large LLMs in Emotion Detection**|Menna Elgabry (msa.edu.eg) et.al.|[2512.17630](http://arxiv.org/abs/2512.17630)|null|
@@ -3269,7 +3303,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
