@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Collaborative Group-Aware Hashing for Fast Recommender Systems**|Yan Zhang (cdu.edu.au) et.al.|[2512.20172](http://arxiv.org/abs/2512.20172)|null|
+|**2025-12-23**|**IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation**|Ziyuan Guo (stu.xidian.edu.cn) et.al.|[2512.19983](http://arxiv.org/abs/2512.19983)|null|
 |**2025-12-22**|**Faster Distributed Inference-Only Recommender Systems via Bounded Lag Synchronous Collectives**|Kiril Dichev et.al.|[2512.19342](http://arxiv.org/abs/2512.19342)|null|
 |**2025-12-22**|**DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems**|Sarwan Ali (cumc.columbia.edu) et.al.|[2512.18932](http://arxiv.org/abs/2512.18932)|null|
 |**2025-12-21**|**CIRR: Causal-Invariant Retrieval-Augmented Recommendation with Faithful Explanations under Distribution Shift**|Sebastian Sun (wisc.edu) et.al.|[2512.18683](http://arxiv.org/abs/2512.18683)|null|
@@ -1323,7 +1325,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-22**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|**[link](https://github.com/Gen-Verse/GenEnv)**|
+|**2025-12-23**|**Benchmarking LLMs for Predictive Applications in the Intensive Care Units**|Chehak Malhotra (iiitd.ac.in) et.al.|[2512.20520](http://arxiv.org/abs/2512.20520)|null|
+|**2025-12-23**|**Step-DeepResearch Technical Report**|Chen Hu et.al.|[2512.20491](http://arxiv.org/abs/2512.20491)|null|
+|**2025-12-23**|**Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation**|Nilesh Jain et.al.|[2512.20352](http://arxiv.org/abs/2512.20352)|null|
+|**2025-12-23**|**A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice**|Yaowei Bai et.al.|[2512.20344](http://arxiv.org/abs/2512.20344)|null|
+|**2025-12-23**|**Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives**|Karolina Drożdż (ideas.edu.pl) et.al.|[2512.20298](http://arxiv.org/abs/2512.20298)|null|
+|**2025-12-23**|**AprielGuard**|Jaykumar Kasundra et.al.|[2512.20293](http://arxiv.org/abs/2512.20293)|null|
+|**2025-12-23**|**MemR $^3$ : Memory Retrieval via Reflective Reasoning for LLM Agents**|Xingbo Du (mbzuai.ac.ae) et.al.|[2512.20237](http://arxiv.org/abs/2512.20237)|null|
+|**2025-12-23**|**Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings**|Marko Čechovič (matfyz.cuni.cz) et.al.|[2512.20204](http://arxiv.org/abs/2512.20204)|null|
+|**2025-12-23**|**FaithLens: Detecting and Explaining Faithfulness Hallucination**|Shuzheng Si (mails.tsinghua.edu.cn) et.al.|[2512.20182](http://arxiv.org/abs/2512.20182)|null|
+|**2025-12-23**|**Learning to Reason in LLMs by Expectation Maximization**|Junghyun Lee (kaist.ac.kr) et.al.|[2512.20169](http://arxiv.org/abs/2512.20169)|null|
+|**2025-12-23**|**MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization**|Zhuo Yang et.al.|[2512.20135](http://arxiv.org/abs/2512.20135)|null|
+|**2025-12-23**|**Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches**|Chaithra (nitk.edu.in) et.al.|[2512.20082](http://arxiv.org/abs/2512.20082)|null|
+|**2025-12-23**|**Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?**|Zhe Yin (sjtu.edu.cn) et.al.|[2512.19980](http://arxiv.org/abs/2512.19980)|null|
+|**2025-12-22**|**Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning**|Jiayun Wu (cmu.edu) et.al.|[2512.19920](http://arxiv.org/abs/2512.19920)|null|
+|**2025-12-23**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|**[link](https://github.com/Gen-Verse/GenEnv)**|
 |**2025-12-22**|**Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**|Yuqiao Tan (ia.ac.cn) et.al.|[2512.19673](http://arxiv.org/abs/2512.19673)|**[link](https://github.com/Trae1ounG/BuPO)**|
 |**2025-12-22**|**Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**|Filippos Ventirozos (mmu.ac.uk) et.al.|[2512.19651](http://arxiv.org/abs/2512.19651)|null|
 |**2025-12-22**|**Exploring the features used for summary evaluation by Human and GPT**|Zahra Sadeghi (dal.ca) et.al.|[2512.19620](http://arxiv.org/abs/2512.19620)|null|
@@ -1338,7 +1354,7 @@ layout: default
 |**2025-12-22**|**QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation**|Dehai Min (uic.edu) et.al.|[2512.19134](http://arxiv.org/abs/2512.19134)|**[link](https://github.com/ZhishanQ/QuCo-RAG)**|
 |**2025-12-22**|**Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving**|Peiqing Lu (bu.edu) et.al.|[2512.19093](http://arxiv.org/abs/2512.19093)|null|
 |**2025-12-22**|**Can abstract concepts from LLM improve SLM performance?**|Siddharth Tandon et.al.|[2512.19069](http://arxiv.org/abs/2512.19069)|null|
-|**2025-12-22**|**The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation**|Hengrui Jia et.al.|[2512.19025](http://arxiv.org/abs/2512.19025)|null|
+|**2025-12-23**|**The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation**|Hengrui Jia et.al.|[2512.19025](http://arxiv.org/abs/2512.19025)|null|
 |**2025-12-22**|**FASTRIC: Prompt Specification Language for Verifiable LLM Interactions**|Wen-Long Jin (uci.edu) et.al.|[2512.18940](http://arxiv.org/abs/2512.18940)|null|
 |**2025-12-21**|**Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations**|Shaomu Tan (uva.nl) et.al.|[2512.18906](http://arxiv.org/abs/2512.18906)|null|
 |**2025-12-21**|**MDToC: Metacognitive Dynamic Tree of Concepts for Boosting Mathematical Problem-Solving of Large Language Models**|Tung Duong Ta (umbc.edu) et.al.|[2512.18841](http://arxiv.org/abs/2512.18841)|null|
