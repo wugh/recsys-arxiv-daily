@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Huatuan Sun (njust.edu.cn) et.al.|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
+|**2025-12-25**|**LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model**|Yinfu Feng (gmail.com) et.al.|[2512.21595](http://arxiv.org/abs/2512.21595)|null|
+|**2025-12-25**|**Dynamic Cooperative Strategies in Search Engine Advertising Market: With and Without Retail Competition**|Huiran Li et.al.|[2512.21501](http://arxiv.org/abs/2512.21501)|null|
 |**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh (student.hcmus.edu.vn) et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|**[link](https://github.com/PhamPhuHoa-23/Event-Based-Image-Retrieval)**|
 |**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi (f.gifu-u.ac.jp) et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|null|
@@ -890,6 +893,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Huatuan Sun (njust.edu.cn) et.al.|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
+|**2025-12-25**|**LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model**|Yinfu Feng (gmail.com) et.al.|[2512.21595](http://arxiv.org/abs/2512.21595)|null|
 |**2025-12-24**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Chuan Wang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh (student.hcmus.edu.vn) et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|**[link](https://github.com/PhamPhuHoa-23/Event-Based-Image-Retrieval)**|
 |**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi (f.gifu-u.ac.jp) et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|null|
@@ -1334,13 +1339,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Broken Words, Broken Performance: Effect of Tokenization on Performance of LLMs**|Sachin Pawar (tcs.com) et.al.|[2512.21933](http://arxiv.org/abs/2512.21933)|null|
+|**2025-12-26**|**MASFIN: A Multi-Agent System for Decomposed Financial Reasoning and Forecasting**|Marc S. Montalvo (rit.edu) et.al.|[2512.21878](http://arxiv.org/abs/2512.21878)|null|
+|**2025-12-26**|**CricBench: A Multilingual Benchmark for Evaluating LLMs in Cricket Analytics**|Vaibhav Devraj (pilani.bits-pilani.ac.in) et.al.|[2512.21877](http://arxiv.org/abs/2512.21877)|null|
+|**2025-12-26**|**A Comedy of Estimators: On KL Regularization in RL Training of LLMs**|Vedant Shah (llnl.gov) et.al.|[2512.21852](http://arxiv.org/abs/2512.21852)|null|
+|**2025-12-25**|**An Information Theoretic Perspective on Agentic System Design**|Shizhe He (stanford.edu) et.al.|[2512.21720](http://arxiv.org/abs/2512.21720)|null|
+|**2025-12-25**|**Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model**|Yanhao Li (stu.pku.edu.cn) et.al.|[2512.21540](http://arxiv.org/abs/2512.21540)|null|
 |**2025-12-24**|**C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling**|Jin Qin (antgroup.com) et.al.|[2512.21332](http://arxiv.org/abs/2512.21332)|null|
 |**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja (in.abb.com) et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
 |**2025-12-24**|**Assessing the Software Security Comprehension of Large Language Models**|Mohammed Latif Siddiq (nd.edu) et.al.|[2512.21238](http://arxiv.org/abs/2512.21238)|null|
 |**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang (e.ntu.edu.sg) et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|null|
 |**2025-12-24**|**Beyond Context: Large Language Models Failure to Grasp Users Intent**|Ahmed M. Hussain (ieee.org) et.al.|[2512.21110](http://arxiv.org/abs/2512.21110)|null|
 |**2025-12-24**|**Automatic Replication of LLM Mistakes in Medical Conversations**|Oleksii Proniakin (thelumos.ai) et.al.|[2512.20983](http://arxiv.org/abs/2512.20983)|null|
-|**2025-12-24**|**One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**|Zhaoxi Zhang et.al.|[2512.20957](http://arxiv.org/abs/2512.20957)|null|
+|**2025-12-25**|**One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents**|Zhaoxi Zhang (zgci.ac.cn) et.al.|[2512.20957](http://arxiv.org/abs/2512.20957)|null|
 |**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Shengguang Wu et.al.|[2512.20934](http://arxiv.org/abs/2512.20934)|**[link](https://transductive-visualprogram.github.io/)**|
 |**2025-12-23**|**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2512.20848](http://arxiv.org/abs/2512.20848)|null|
 |**2025-12-23**|**A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents**|Miles Q. Li (mcgill.ca) et.al.|[2512.20798](http://arxiv.org/abs/2512.20798)|null|
@@ -1348,7 +1359,7 @@ layout: default
 |**2025-12-23**|**AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent**|Haipeng Luo (tencent.com) et.al.|[2512.20745](http://arxiv.org/abs/2512.20745)|null|
 |**2025-12-23**|**FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs**|Saeed Mohammadzadeh (bu.edu) et.al.|[2512.20732](http://arxiv.org/abs/2512.20732)|null|
 |**2025-12-23**|**Benchmarking LLMs for Predictive Applications in the Intensive Care Units**|Chehak Malhotra (iiitd.ac.in) et.al.|[2512.20520](http://arxiv.org/abs/2512.20520)|null|
-|**2025-12-24**|**Step-DeepResearch Technical Report**|Chen Hu et.al.|[2512.20491](http://arxiv.org/abs/2512.20491)|null|
+|**2025-12-25**|**Step-DeepResearch Technical Report**|Chen Hu et.al.|[2512.20491](http://arxiv.org/abs/2512.20491)|null|
 |**2025-12-23**|**Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation**|Nilesh Jain et.al.|[2512.20352](http://arxiv.org/abs/2512.20352)|null|
 |**2025-12-23**|**A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice**|Yaowei Bai et.al.|[2512.20344](http://arxiv.org/abs/2512.20344)|null|
 |**2025-12-23**|**Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives**|Karolina Drożdż (ideas.edu.pl) et.al.|[2512.20298](http://arxiv.org/abs/2512.20298)|null|
