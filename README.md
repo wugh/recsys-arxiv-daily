@@ -1,4 +1,4 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao (rutgers.edu) et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
+|**2025-12-31**|**OpenOneRec Technical Report**|Guorui Zhou et.al.|[2512.24762](http://arxiv.org/abs/2512.24762)|null|
+|**2025-12-30**|**MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems**|Wan Jiang (jd.com) et.al.|[2512.24325](http://arxiv.org/abs/2512.24325)|null|
+|**2025-12-30**|**CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation**|Jiaxin Hu (mail2.sysu.edu.cn) et.al.|[2512.24113](http://arxiv.org/abs/2512.24113)|null|
+|**2025-12-30**|**An Comparative Analysis about KYC on a Recommendation System Toward Agentic Recommendation System**|Junjie H. Xu (acm.org) et.al.|[2512.23961](http://arxiv.org/abs/2512.23961)|null|
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du (huawei.com) et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
 |**2025-12-29**|**RobustMask: Certified Robustness against Adversarial Neural Ranking Attack via Randomized Masking**|Jiawei Liu et.al.|[2512.23307](http://arxiv.org/abs/2512.23307)|null|
 |**2025-12-29**|**Chinese Morph Resolution in E-commerce Live Streaming Scenarios**|Jiahao Zhu (stu.yzu.edu.cn) et.al.|[2512.23280](http://arxiv.org/abs/2512.23280)|null|
 |**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu (wisc.edu) et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
-|**2025-12-26**|**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**|Xuegang Hao (jd.com) et.al.|[2512.22386](http://arxiv.org/abs/2512.22386)|null|
+|**2025-12-31**|**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**|Xuegang Hao (jd.com) et.al.|[2512.22386](http://arxiv.org/abs/2512.22386)|null|
 |**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Huatuan Sun (njust.edu.cn) et.al.|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
 |**2025-12-25**|**LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model**|Yinfu Feng (gmail.com) et.al.|[2512.21595](http://arxiv.org/abs/2512.21595)|null|
 |**2025-12-25**|**Dynamic Cooperative Strategies in Search Engine Advertising Market: With and Without Retail Competition**|Huiran Li et.al.|[2512.21501](http://arxiv.org/abs/2512.21501)|null|
@@ -899,16 +904,18 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao (rutgers.edu) et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
+|**2025-12-30**|**CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation**|Jiaxin Hu (mail2.sysu.edu.cn) et.al.|[2512.24113](http://arxiv.org/abs/2512.24113)|null|
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du (huawei.com) et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
 |**2025-12-29**|**RobustMask: Certified Robustness against Adversarial Neural Ranking Attack via Randomized Masking**|Jiawei Liu et.al.|[2512.23307](http://arxiv.org/abs/2512.23307)|null|
 |**2025-12-29**|**Chinese Morph Resolution in E-commerce Live Streaming Scenarios**|Jiahao Zhu (stu.yzu.edu.cn) et.al.|[2512.23280](http://arxiv.org/abs/2512.23280)|null|
-|**2025-12-26**|**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**|Xuegang Hao (jd.com) et.al.|[2512.22386](http://arxiv.org/abs/2512.22386)|null|
+|**2025-12-31**|**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**|Xuegang Hao (jd.com) et.al.|[2512.22386](http://arxiv.org/abs/2512.22386)|null|
 |**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Huatuan Sun (njust.edu.cn) et.al.|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
 |**2025-12-25**|**LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model**|Yinfu Feng (gmail.com) et.al.|[2512.21595](http://arxiv.org/abs/2512.21595)|null|
 |**2025-12-29**|**ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling**|Jiakai Tang et.al.|[2512.21257](http://arxiv.org/abs/2512.21257)|null|
@@ -921,7 +928,7 @@
 |**2025-12-17**|**ArcBERT: An LLM-based Search Engine for Exploring Integrated Multi-Omics Metadata**|Gajendra Doniparthi (cs.rptu.de) et.al.|[2512.15365](http://arxiv.org/abs/2512.15365)|null|
 |**2025-12-16**|**RecGPT-V2 Technical Report**|Chao Yi et.al.|[2512.14503](http://arxiv.org/abs/2512.14503)|null|
 |**2025-12-15**|**Are Large Language Models Really Effective for Training-Free Cold-Start Recommendation?**|Genki Kusano (nec.com) et.al.|[2512.13001](http://arxiv.org/abs/2512.13001)|null|
-|**2025-12-15**|**Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views**|Tingyang Chen (zju.edu.cn) et.al.|[2512.12980](http://arxiv.org/abs/2512.12980)|null|
+|**2025-12-31**|**Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views**|Tingyang Chen (zju.edu.cn) et.al.|[2512.12980](http://arxiv.org/abs/2512.12980)|null|
 |**2025-12-15**|**Do Reviews Matter for Recommendations in the Era of Large Language Models?**|Chee Heng Tan et.al.|[2512.12978](http://arxiv.org/abs/2512.12978)|**[link](https://github.com/zhytk/RAREval-data-processing)**|
 |**2025-12-14**|**Content-Aware Ad Banner Layout Generation with Two-Stage Chain-of-Thought in Vision Language Models**|Kei Yoshitake (m.isct.ac.jp) et.al.|[2512.12596](http://arxiv.org/abs/2512.12596)|null|
 |**2025-12-12**|**Semantic search for 100M+ galaxy images using AI-generated captions**|Nolan Koblischke (mail.utoronto.ca) et.al.|[2512.11982](http://arxiv.org/abs/2512.11982)|**[link](https://github.com/NolanKoblischke/AION-Search)**|
@@ -1351,12 +1358,34 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh (gmail.com) et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
+|**2025-12-31**|**ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning**|Timo Kaufmann (ifi.lmu.de) et.al.|[2512.25023](http://arxiv.org/abs/2512.25023)|null|
+|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang (mmc.edu.mo) et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|**[link](https://github.com/CPJ-Agricultural/CPJ-Agricultural-Diagnosis)**|
+|**2025-12-31**|**RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment**|Chenji Lu (alibaba-inc.com) et.al.|[2512.24943](http://arxiv.org/abs/2512.24943)|null|
+|**2025-12-31**|**Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements**|Yiming Liang (bytedance.com) et.al.|[2512.24867](http://arxiv.org/abs/2512.24867)|null|
+|**2025-12-31**|**GenZ: Foundational models as latent variable generators within traditional statistical models**|Marko Jojic et.al.|[2512.24834](http://arxiv.org/abs/2512.24834)|null|
+|**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh (as.edu.tw) et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
+|**2025-12-31**|**Do Large Language Models Know What They Are Capable Of?**|Casey O. Barkan (rand.org) et.al.|[2512.24661](http://arxiv.org/abs/2512.24661)|null|
+|**2025-12-31**|**SynRAG: A Large Language Model Framework for Executable Query Generation in Heterogeneous SIEM System**|Md Hasan Saju (ontariotechu.ca) et.al.|[2512.24571](http://arxiv.org/abs/2512.24571)|null|
+|**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said (aims.ac.za) et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
+|**2025-12-31**|**More Than Bits: Multi-Envelope Double Binary Factorization for Extreme Quantization**|Yuma Ichikawa (fujitsu.com) et.al.|[2512.24545](http://arxiv.org/abs/2512.24545)|null|
+|**2025-12-31**|**Generative AI-enhanced Sector-based Investment Portfolio Construction**|Alina Voronina (ucu.edu.ua) et.al.|[2512.24526](http://arxiv.org/abs/2512.24526)|null|
+|**2025-12-30**|**Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems**|Samuel Golladay (umkc.edu) et.al.|[2512.24505](http://arxiv.org/abs/2512.24505)|null|
+|**2025-12-30**|**Towards mechanistic understanding in a data-driven weather model: internal activations reveal interpretable physical features**|Theodore MacMillan (stanford.edu) et.al.|[2512.24440](http://arxiv.org/abs/2512.24440)|null|
+|**2025-12-30**|**DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images**|Wen-wai Yim (microsoft.com) et.al.|[2512.24340](http://arxiv.org/abs/2512.24340)|null|
+|**2025-12-30**|**QianfanHuijin Technical Report: A Novel Multi-Stage Training Paradigm for Finance Industrial LLMs**|Shupeng Li et.al.|[2512.24314](http://arxiv.org/abs/2512.24314)|null|
+|**2025-12-30**|**Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models**|Rohit Kumar Salla (vt.edu) et.al.|[2512.24058](http://arxiv.org/abs/2512.24058)|null|
+|**2025-12-30**|**AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives**|Yanxi Chen (asu.edu) et.al.|[2512.24052](http://arxiv.org/abs/2512.24052)|null|
+|**2025-12-29**|**CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution**|Xu Huang (epfl.ch) et.al.|[2512.23880](http://arxiv.org/abs/2512.23880)|null|
+|**2025-12-29**|**Probing the Limits of Compressive Memory: A Study of Infini-Attention in Small-Scale Pretraining**|Ruizhe Huang et.al.|[2512.23862](http://arxiv.org/abs/2512.23862)|null|
+|**2025-12-29**|**Adversarial Lens: Exploiting Attention Layers to Generate Adversarial Examples for Evaluation**|Kaustubh Dhole (emory.edu) et.al.|[2512.23837](http://arxiv.org/abs/2512.23837)|null|
+|**2025-12-29**|**MiMo-Audio: Audio Language Models are Few-Shot Learners**|Xiaomi LLM-Core Team et.al.|[2512.23808](http://arxiv.org/abs/2512.23808)|**[link](https://github.com/XiaomiMiMo/MiMo-Audio)**|
 |**2025-12-29**|**PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech**|Deepak Babu Piskala (gmail.com) et.al.|[2512.23686](http://arxiv.org/abs/2512.23686)|**[link](https://github.com/prdeepakbabu/ProfASR-Bench)**|
 |**2025-12-29**|**BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization**|Iris Xu (mit.edu) et.al.|[2512.23631](http://arxiv.org/abs/2512.23631)|**[link](https://github.com/iamxjy/BOAD-SWE-Agent)**|
 |**2025-12-29**|**Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing**|Yuwen Li (stu.scu.edu.cn) et.al.|[2512.23611](http://arxiv.org/abs/2512.23611)|null|
@@ -3389,7 +3418,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
