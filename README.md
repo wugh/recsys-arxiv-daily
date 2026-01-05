@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business**|Swetha Varadarajan et.al.|[2601.00075](http://arxiv.org/abs/2601.00075)|null|
 |**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao (rutgers.edu) et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
 |**2025-12-31**|**OpenOneRec Technical Report**|Guorui Zhou et.al.|[2512.24762](http://arxiv.org/abs/2512.24762)|null|
 |**2025-12-30**|**MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems**|Wan Jiang (jd.com) et.al.|[2512.24325](http://arxiv.org/abs/2512.24325)|null|
@@ -1364,6 +1365,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël (devoteam.com) et.al.|[2601.00791](http://arxiv.org/abs/2601.00791)|null|
+|**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu (odu.edu) et.al.|[2601.00694](http://arxiv.org/abs/2601.00694)|null|
+|**2026-01-02**|**Do Chatbot LLMs Talk Too Much? The YapBench Benchmark**|Vadim Borisov (tabularis.ai) et.al.|[2601.00624](http://arxiv.org/abs/2601.00624)|null|
+|**2026-01-02**|**Beyond IVR: Benchmarking Customer Support LLM Agents for Business-Adherence**|Sumanth Balaji (observe.ai) et.al.|[2601.00596](http://arxiv.org/abs/2601.00596)|null|
+|**2026-01-02**|**Cracking IoT Security: Can LLMs Outsmart Static Analysis Tools?**|Jason Quantrill (torontomu.ca) et.al.|[2601.00559](http://arxiv.org/abs/2601.00559)|null|
+|**2026-01-01**|**Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback**|Vidyut Sriram (psu.edu) et.al.|[2601.00509](http://arxiv.org/abs/2601.00509)|null|
+|**2026-01-01**|**GRIT -- Geometry-Aware PEFT with K-FACPreconditioning, Fisher-Guided Reprojection, andDynamic Rank Adaptation**|Pritish Saha et.al.|[2601.00231](http://arxiv.org/abs/2601.00231)|null|
+|**2026-01-01**|**From Sight to Insight: Improving Visual Reasoning Capabilities of Multimodal Models via Reinforcement Learning**|Omar Sharif (dartmouth.edu) et.al.|[2601.00215](http://arxiv.org/abs/2601.00215)|null|
+|**2026-01-01**|**Overlooked Safety Vulnerability in LLMs: Malicious Intelligent Optimization Algorithm Request and its Jailbreak**|Haoran Gu (163.com) et.al.|[2601.00213](http://arxiv.org/abs/2601.00213)|null|
+|**2026-01-01**|**FCMBench: A Comprehensive Financial Credit Multimodal Benchmark for Real-world Applications**|Yehui Yang (gmail.com) et.al.|[2601.00150](http://arxiv.org/abs/2601.00150)|null|
+|**2025-12-31**|**Explicit Abstention Knobs for Predictable Reliability in Video Question Answering**|Jorge Ortiz (rutgers.edu) et.al.|[2601.00138](http://arxiv.org/abs/2601.00138)|null|
+|**2025-12-31**|**Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control**|Yaqi Duan (stern.nyu.edu) et.al.|[2601.00121](http://arxiv.org/abs/2601.00121)|null|
+|**2025-12-31**|**The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs**|Akash Kumar Panda (usc.edu) et.al.|[2601.00097](http://arxiv.org/abs/2601.00097)|null|
+|**2025-12-31**|**Large Empirical Case Study: Go-Explore adapted for AI Red Team Testing**|Manish Bhatt (gmail.com) et.al.|[2601.00042](http://arxiv.org/abs/2601.00042)|null|
 |**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh (gmail.com) et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
 |**2025-12-31**|**ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning**|Timo Kaufmann (ifi.lmu.de) et.al.|[2512.25023](http://arxiv.org/abs/2512.25023)|null|
 |**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang (mmc.edu.mo) et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|**[link](https://github.com/CPJ-Agricultural/CPJ-Agricultural-Diagnosis)**|
