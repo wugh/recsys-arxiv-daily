@@ -2,13 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify**|Shivam Verma et.al.|[2601.02306](http://arxiv.org/abs/2601.02306)|null|
+|**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco (studenti.poliba.it) et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
+|**2026-01-05**|**Exploring Diversity, Novelty, and Popularity Bias in ChatGPT's Recommendations**|Dario Di Palma (phd.poliba.it) et.al.|[2601.01997](http://arxiv.org/abs/2601.01997)|null|
+|**2026-01-05**|**MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation**|Hyunsoo Kim (skku.edu) et.al.|[2601.01753](http://arxiv.org/abs/2601.01753)|**[link](https://github.com/DIALLab-SKKU/MergeRec)**|
+|**2026-01-05**|**When Attention Becomes Exposure in Generative Search**|Shayan Alipour (torontomu.ca) et.al.|[2601.01750](http://arxiv.org/abs/2601.01750)|null|
+|**2026-01-05**|**RelayGR: Scaling Long-Sequence Generative Recommendation via Cross-Stage Relay-Race Inference**|Jiarui Wang (huawei.com) et.al.|[2601.01712](http://arxiv.org/abs/2601.01712)|null|
+|**2026-01-04**|**Learning Resilient Elections with Adversarial GNNs**|Hao Xiang Li (cst.cam.ac.uk) et.al.|[2601.01653](http://arxiv.org/abs/2601.01653)|null|
+|**2026-01-04**|**OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment**|Ming Zhang (m.fudan.edu.cn) et.al.|[2601.01576](http://arxiv.org/abs/2601.01576)|null|
+|**2026-01-04**|**Adaptive Diffusion-based Augmentation for Recommendation**|Na Li (stu.hit.edu.cn) et.al.|[2601.01448](http://arxiv.org/abs/2601.01448)|null|
+|**2026-01-03**|**ScienceDB AI: An LLM-Driven Agentic Recommender System for Large-Scale Scientific Data Sharing Services**|Qingqing Long (acm.org) et.al.|[2601.01118](http://arxiv.org/abs/2601.01118)|null|
+|**2026-01-03**|**A UCB Bandit Algorithm for General ML-Based Estimators**|Yajing Liu (gmail.com) et.al.|[2601.01061](http://arxiv.org/abs/2601.01061)|null|
+|**2026-01-02**|**AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**|Nicolas Bougie (woven.toyota) et.al.|[2601.00930](http://arxiv.org/abs/2601.00930)|null|
 |**2025-12-31**|**IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business**|Swetha Varadarajan et.al.|[2601.00075](http://arxiv.org/abs/2601.00075)|null|
 |**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao (rutgers.edu) et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
 |**2025-12-31**|**OpenOneRec Technical Report**|Guorui Zhou et.al.|[2512.24762](http://arxiv.org/abs/2512.24762)|null|
@@ -904,6 +916,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco (studenti.poliba.it) et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
+|**2026-01-04**|**OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment**|Ming Zhang (m.fudan.edu.cn) et.al.|[2601.01576](http://arxiv.org/abs/2601.01576)|null|
+|**2026-01-03**|**ScienceDB AI: An LLM-Driven Agentic Recommender System for Large-Scale Scientific Data Sharing Services**|Qingqing Long (acm.org) et.al.|[2601.01118](http://arxiv.org/abs/2601.01118)|null|
+|**2026-01-02**|**AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**|Nicolas Bougie (woven.toyota) et.al.|[2601.00930](http://arxiv.org/abs/2601.00930)|null|
+|**2025-12-25**|**A Knowledge Graph and Deep Learning-Based Semantic Recommendation Database System for Advertisement Retrieval and Personalization**|Tangtang Wang (qq.com) et.al.|[2601.00833](http://arxiv.org/abs/2601.00833)|null|
 |**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao (rutgers.edu) et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
 |**2025-12-30**|**CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation**|Jiaxin Hu (mail2.sysu.edu.cn) et.al.|[2512.24113](http://arxiv.org/abs/2512.24113)|null|
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du (huawei.com) et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
@@ -1356,6 +1373,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)**|Mahmoud Elgenedy (stanford.edu) et.al.|[2601.02298](http://arxiv.org/abs/2601.02298)|null|
+|**2026-01-05**|**From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality**|Fabian Lukassen (stud.uni-goettingen.de) et.al.|[2601.02224](http://arxiv.org/abs/2601.02224)|null|
+|**2026-01-05**|**FormationEval, an open multiple-choice benchmark for petroleum geoscience**|Almaz Ermilov (gmail.com) et.al.|[2601.02158](http://arxiv.org/abs/2601.02158)|**[link](https://github.com/AlmazErmilov/FormationEval-an-Open-Benchmark-for-Oil-Gas-Geoscience-MCQ-Evaluation)**|
+|**2026-01-05**|**DeCode: Decoupling Content and Delivery for Medical QA**|Po-Jen Ko (ntu.edu.tw) et.al.|[2601.02123](http://arxiv.org/abs/2601.02123)|null|
+|**2026-01-05**|**Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming**|Nguyet-Anh H. Lang (ieee.org) et.al.|[2601.02060](http://arxiv.org/abs/2601.02060)|null|
+|**2026-01-05**|**Not All Needles Are Found: How Fact Distribution and Don't Make It Up Prompts Shape Literal Extraction, Logical Inference, and Hallucination Risks in Long-Context LLMs**|Amirali Ebrahimzadeh (umich.edu) et.al.|[2601.02023](http://arxiv.org/abs/2601.02023)|null|
+|**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco (studenti.poliba.it) et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
+|**2026-01-05**|**ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems**|Noel Thomas (mbzuai.ac.ae) et.al.|[2601.01982](http://arxiv.org/abs/2601.01982)|null|
+|**2026-01-05**|**A Hybrid Architecture for Multi-Stage Claim Document Understanding: Combining Vision-Language Models and Machine Learning for Real-Time Processing**|Lilu Cheng (fullertonhealth.com) et.al.|[2601.01897](http://arxiv.org/abs/2601.01897)|null|
+|**2026-01-05**|**Emergent Introspective Awareness in Large Language Models**|Jack Lindsey (anthropic.com) et.al.|[2601.01828](http://arxiv.org/abs/2601.01828)|null|
+|**2026-01-05**|**Aspect Extraction from E-Commerce Product and Service Reviews**|Valiant Lance D. Dionela (dlsu.edu.ph) et.al.|[2601.01827](http://arxiv.org/abs/2601.01827)|null|
+|**2026-01-05**|**LIA: Supervised Fine-Tuning of Large Language Models for Automatic Issue Assignment**|Arsham Khosravani (bgsu.edu) et.al.|[2601.01780](http://arxiv.org/abs/2601.01780)|null|
+|**2026-01-05**|**Can Large Language Models Solve Engineering Equations? A Systematic Comparison of Direct Prediction and Solver-Assisted Approaches**|Sai Varun Kodathala (sportsvision.ai) et.al.|[2601.01774](http://arxiv.org/abs/2601.01774)|null|
+|**2026-01-04**|**LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum**|Zhichao Xu (utah.edu) et.al.|[2601.01684](http://arxiv.org/abs/2601.01684)|null|
+|**2026-01-04**|**Improving Behavioral Alignment in LLM Social Simulations via Context Formation and Navigation**|Letian Kong (link.cuhk.edu.hk) et.al.|[2601.01546](http://arxiv.org/abs/2601.01546)|null|
+|**2026-01-04**|**Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making**|Danial Amin (gmail.com) et.al.|[2601.01522](http://arxiv.org/abs/2601.01522)|null|
+|**2026-01-04**|**From Failure to Mastery: Generating Hard Samples for Tool-use Agents**|Bingguang Hao (gmail.com) et.al.|[2601.01498](http://arxiv.org/abs/2601.01498)|null|
+|**2026-01-04**|**Distortion Instead of Hallucination: The Effect of Reasoning Under Strict Constraints**|Junichiro Niimi et.al.|[2601.01490](http://arxiv.org/abs/2601.01490)|null|
+|**2026-01-04**|**Bayesian Subspace Gradient Estimation for Zeroth-Order Optimization of Large Language Models**|Jian Feng (mail.sysu.edu.cn) et.al.|[2601.01452](http://arxiv.org/abs/2601.01452)|null|
+|**2026-01-04**|**From Emotion Classification to Emotional Reasoning: Enhancing Emotional Intelligence in Large Language Models**|Arjhun Sreedar (umass.edu) et.al.|[2601.01407](http://arxiv.org/abs/2601.01407)|null|
+|**2026-01-04**|**Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale**|Shengji Tang (pjlab.org.cn) et.al.|[2601.01330](http://arxiv.org/abs/2601.01330)|null|
+|**2026-01-03**|**Racka: Efficient Hungarian LLM Adaptation on Academic Infrastructure**|Zsolt Csibi (btk.elte.hu) et.al.|[2601.01244](http://arxiv.org/abs/2601.01244)|null|
+|**2026-01-03**|**EmoLoom-2B: Fast Base-Model Screening for Emotion Classification and VAD with Lexicon-Weak Supervision and KV-Off Evaluation**|Zilin Li (gmail.com) et.al.|[2601.01112](http://arxiv.org/abs/2601.01112)|null|
+|**2026-01-03**|**SPoRC-VIST: A Benchmark for Evaluating Generative Natural Narrative in Vision-Language Models**|Yunlin Zeng (gatech.edu) et.al.|[2601.01062](http://arxiv.org/abs/2601.01062)|null|
+|**2026-01-03**|**KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs**|Yixuan Tang (connect.ust.hk) et.al.|[2601.01046](http://arxiv.org/abs/2601.01046)|null|
+|**2026-01-03**|**Multi-Dimensional Prompt Chaining to Improve Open-Domain Dialogue Generation**|Livia Leong Hui Teng (e.ntu.edu.sg) et.al.|[2601.01037](http://arxiv.org/abs/2601.01037)|null|
+|**2026-01-03**|**Intention Collapse: Intention-Level Metrics for Reasoning in Language Models**|Patricio Vera (gwu.edu) et.al.|[2601.01011](http://arxiv.org/abs/2601.01011)|**[link](https://github.com/patriciomvera/intention-collapse-experiments)**|
+|**2026-01-02**|**Adapting Feature Attenuation to NLP**|Tianshuo Yang (umich.edu) et.al.|[2601.00965](http://arxiv.org/abs/2601.00965)|null|
 |**2026-01-02**|**Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning**|Valentin Noël (devoteam.com) et.al.|[2601.00791](http://arxiv.org/abs/2601.00791)|null|
 |**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu (odu.edu) et.al.|[2601.00694](http://arxiv.org/abs/2601.00694)|null|
 |**2026-01-02**|**Do Chatbot LLMs Talk Too Much? The YapBench Benchmark**|Vadim Borisov (tabularis.ai) et.al.|[2601.00624](http://arxiv.org/abs/2601.00624)|null|
