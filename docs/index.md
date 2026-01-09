@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
+|**2026-01-08**|**Dynamics in Search Engine Query Suggestions for European Politicians**|Franziska Pradel (tum.de) et.al.|[2601.05081](http://arxiv.org/abs/2601.05081)|null|
+|**2026-01-08**|**Orion-RAG: Path-Aligned Hybrid Retrieval for Graphless Data**|Zhen Chen et.al.|[2601.04764](http://arxiv.org/abs/2601.04764)|null|
+|**2026-01-08**|**Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?**|Mir Rayat Imtiaz Hossain (borealisai.com) et.al.|[2601.04690](http://arxiv.org/abs/2601.04690)|null|
+|**2026-01-08**|**PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations**|Chengcheng Guo (kuaishou.com) et.al.|[2601.04674](http://arxiv.org/abs/2601.04674)|null|
+|**2026-01-08**|**Exploring Recommender System Evaluation: A Multi-Modal User Agent Framework for A/B Testing**|Wenlin Zhang (my.cityu.edu.hk) et.al.|[2601.04554](http://arxiv.org/abs/2601.04554)|**[link](https://github.com/Applied-Machine-Learning-Lab/ABAgent)**|
+|**2026-01-07**|**Learning Multinomial Logits in $O(n \log n)$ time**|Flavio Chierichetti (di.uniroma1.it) et.al.|[2601.04423](http://arxiv.org/abs/2601.04423)|null|
+|**2026-01-07**|**Graph Integrated Transformers for Community Detection in Social Networks**|Heba Zahran (cmail.carleton.ca) et.al.|[2601.04367](http://arxiv.org/abs/2601.04367)|null|
+|**2026-01-07**|**Correct and Weight: A Simple Yet Effective Loss for Implicit Feedback Recommendation**|Minglei Yin (albany.edu) et.al.|[2601.04291](http://arxiv.org/abs/2601.04291)|null|
+|**2026-01-06**|**Paper Skygest: Personalized Academic Recommendations on Bluesky**|Sophie Greenwood (cs.cornell.edu) et.al.|[2601.04253](http://arxiv.org/abs/2601.04253)|null|
 |**2026-01-07**|**SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks**|Yu Yan (ict.ac.cn) et.al.|[2601.04093](http://arxiv.org/abs/2601.04093)|null|
 |**2026-01-07**|**Modeling Behavioral Patterns in News Recommendations Using Fuzzy Neural Networks**|Kevin Innerebner et.al.|[2601.04019](http://arxiv.org/abs/2601.04019)|null|
 |**2026-01-07**|**Perception-Aware Bias Detection for Query Suggestions**|Fabian Haak (th-koeln.de) et.al.|[2601.03730](http://arxiv.org/abs/2601.03730)|null|
@@ -925,6 +935,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
+|**2026-01-08**|**Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?**|Mir Rayat Imtiaz Hossain (borealisai.com) et.al.|[2601.04690](http://arxiv.org/abs/2601.04690)|null|
+|**2026-01-08**|**PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations**|Chengcheng Guo (kuaishou.com) et.al.|[2601.04674](http://arxiv.org/abs/2601.04674)|null|
+|**2026-01-08**|**Exploring Recommender System Evaluation: A Multi-Modal User Agent Framework for A/B Testing**|Wenlin Zhang (my.cityu.edu.hk) et.al.|[2601.04554](http://arxiv.org/abs/2601.04554)|**[link](https://github.com/Applied-Machine-Learning-Lab/ABAgent)**|
 |**2026-01-07**|**SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks**|Yu Yan (ict.ac.cn) et.al.|[2601.04093](http://arxiv.org/abs/2601.04093)|null|
 |**2026-01-06**|**Adversarial Contrastive Learning for LLM Quantization Attacks**|Dinghong Song (gmail.com) et.al.|[2601.02680](http://arxiv.org/abs/2601.02680)|null|
 |**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco (studenti.poliba.it) et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
@@ -1384,6 +1398,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss (microsoft.com) et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
+|**2026-01-08**|**SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**|Yanchang Liang (warwick.ac.uk) et.al.|[2601.05187](http://arxiv.org/abs/2601.05187)|null|
+|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao (gmail.com) et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
+|**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Ignacio de Rodrigo (comillas.edu) et.al.|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
+|**2026-01-08**|**Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior**|Wajid Nasser et.al.|[2601.05114](http://arxiv.org/abs/2601.05114)|**[link](https://github.com/wajid-nasser/evaluative-fingerprints)**|
+|**2026-01-08**|**Token-Level LLM Collaboration via FusionRoute**|Nuoya Xiong (andrew.cmu.edu) et.al.|[2601.05106](http://arxiv.org/abs/2601.05106)|null|
+|**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
+|**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra (roche.com) et.al.|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
+|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao (gmail.com) et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|**[link](https://github.com/ZiqiZhao1/ROSE-rl)**|
+|**2026-01-08**|**Large language models can effectively convince people to believe conspiracies**|Thomas H. Costello et.al.|[2601.05050](http://arxiv.org/abs/2601.05050)|null|
+|**2026-01-08**|**An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions**|Avik Dutta (microsoft.com) et.al.|[2601.05009](http://arxiv.org/abs/2601.05009)|null|
+|**2026-01-08**|**Prototypicality Bias Reveals Blindspots in Multimodal Evaluation Metrics**|Subhadeep Roy (utn.de) et.al.|[2601.04946](http://arxiv.org/abs/2601.04946)|null|
+|**2026-01-08**|**Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition**|Nils Einecke (honda-ri.de) et.al.|[2601.04920](http://arxiv.org/abs/2601.04920)|null|
+|**2026-01-08**|**Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis**|Mingyue Cheng (ustc.edu.cn) et.al.|[2601.04879](http://arxiv.org/abs/2601.04879)|**[link](https://github.com/Melmaphother/Mind2Report)**|
+|**2026-01-08**|**Belief in Authority: Impact of Authority in Multi-Agent Evaluation Framework**|Junhyuk Choi (cau.ac.kr) et.al.|[2601.04790](http://arxiv.org/abs/2601.04790)|null|
+|**2026-01-08**|**Differential syntactic and semantic encoding in LLMs**|Santiago Acevedo (sissa.it) et.al.|[2601.04765](http://arxiv.org/abs/2601.04765)|null|
+|**2026-01-08**|**PILOT-Bench: A Benchmark for Legal Reasoning in the Patent Domain with IRAC-Aligned Classification Tasks**|Yehoon Jang (pukyong.ac.kr) et.al.|[2601.04758](http://arxiv.org/abs/2601.04758)|**[link](https://github.com/TeamLab/pilot-bench)**|
+|**2026-01-08**|**ThinkDrive: Chain-of-Thought Guided Progressive Reinforcement Learning Fine-Tuning for Autonomous Driving**|Chang Zhao et.al.|[2601.04714](http://arxiv.org/abs/2601.04714)|null|
+|**2026-01-08**|**A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models**|Huayi Liu (gmail.com) et.al.|[2601.04696](http://arxiv.org/abs/2601.04696)|null|
+|**2026-01-08**|**Vibe Coding an LLM-powered Theorem Prover**|Zhe Hou (griffith.edu.au) et.al.|[2601.04653](http://arxiv.org/abs/2601.04653)|**[link](https://github.com/zhehou/llm-isabelle)**|
+|**2026-01-08**|**Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election**|Etienne Casanova (caltech.edu) et.al.|[2601.04631](http://arxiv.org/abs/2601.04631)|null|
+|**2026-01-08**|**THaLLE-ThaiLLM: Domain-Specialized Small LLMs for Finance and Thai -- Technical Report**|KBTG Labs et.al.|[2601.04597](http://arxiv.org/abs/2601.04597)|null|
+|**2026-01-08**|**Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization**|Mizanur Rahman (yorku.ca) et.al.|[2601.04582](http://arxiv.org/abs/2601.04582)|**[link](https://github.com/vis-nlp/RL-Text2Vis)**|
+|**2026-01-08**|**BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents**|Yunhao Feng (fudan.edu.cn) et.al.|[2601.04566](http://arxiv.org/abs/2601.04566)|null|
+|**2026-01-08**|**When Models Manipulate Manifolds: The Geometry of a Counting Task**|Wes Gurnee (anthropic.com) et.al.|[2601.04480](http://arxiv.org/abs/2601.04480)|null|
+|**2026-01-07**|**Large Language Models for Detecting Cyberattacks on Smart Grid Protective Relays**|Ahmad Mohammad Saber (ieee.org) et.al.|[2601.04443](http://arxiv.org/abs/2601.04443)|null|
+|**2026-01-07**|**Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization**|Yao Dou (gatech.edu) et.al.|[2601.04424](http://arxiv.org/abs/2601.04424)|**[link](https://yao-dou.github.io/gavel/)**|
 |**2026-01-07**|**KDCM: Reducing Hallucination in LLMs through Explicit Reasoning Structures**|Jinbo Hao et.al.|[2601.04086](http://arxiv.org/abs/2601.04086)|null|
 |**2026-01-07**|**Modular Prompt Optimization: Optimizing Structured Prompts with Section-Local Textual Gradients**|Prith Sharma (andrew.cmu.edu) et.al.|[2601.04055](http://arxiv.org/abs/2601.04055)|null|
 |**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li (sjtu.edu.cn) et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
