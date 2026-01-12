@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**A Framework for Personalized Persuasiveness Prediction via Context-Aware User Profiling**|Sejun Park (snu.ac.kr) et.al.|[2601.05654](http://arxiv.org/abs/2601.05654)|null|
+|**2026-01-09**|**A Causal Information-Flow Framework for Unbiased Learning-to-Rank**|Haoming Gong et.al.|[2601.05590](http://arxiv.org/abs/2601.05590)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
 |**2026-01-08**|**Dynamics in Search Engine Query Suggestions for European Politicians**|Franziska Pradel (tum.de) et.al.|[2601.05081](http://arxiv.org/abs/2601.05081)|null|
 |**2026-01-08**|**Orion-RAG: Path-Aligned Hybrid Retrieval for Graphless Data**|Zhen Chen et.al.|[2601.04764](http://arxiv.org/abs/2601.04764)|null|
@@ -942,6 +944,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**A Framework for Personalized Persuasiveness Prediction via Context-Aware User Profiling**|Sejun Park (snu.ac.kr) et.al.|[2601.05654](http://arxiv.org/abs/2601.05654)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
 |**2026-01-08**|**Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?**|Mir Rayat Imtiaz Hossain (borealisai.com) et.al.|[2601.04690](http://arxiv.org/abs/2601.04690)|null|
 |**2026-01-08**|**PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations**|Chengcheng Guo (kuaishou.com) et.al.|[2601.04674](http://arxiv.org/abs/2601.04674)|null|
@@ -1407,22 +1410,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss (microsoft.com) et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
+|**2026-01-09**|**Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks**|Elias Lumer (pwc.com) et.al.|[2601.06007](http://arxiv.org/abs/2601.06007)|null|
+|**2026-01-09**|**Gender Bias in LLMs: Preliminary Evidence from Shared Parenting Scenario in Czech Family Law**|Jakub Harasta (muni.cz) et.al.|[2601.05879](http://arxiv.org/abs/2601.05879)|null|
+|**2026-01-09**|**Left, Right, or Center? Evaluating LLM Framing in News Classification and Generation**|Molly Kennedy (cis.uni-muenchen.de) et.al.|[2601.05835](http://arxiv.org/abs/2601.05835)|null|
+|**2026-01-09**|**PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning**|Jingcheng Hu et.al.|[2601.05593](http://arxiv.org/abs/2601.05593)|null|
+|**2026-01-09**|**Evaluating the Use of LLMs for Automated DOM-Level Resolution of Web Performance Issues**|Gideon Peters (mail.concordia.ca) et.al.|[2601.05502](http://arxiv.org/abs/2601.05502)|null|
+|**2026-01-09**|**Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models**|Songze Li (seu.edu.cn) et.al.|[2601.05445](http://arxiv.org/abs/2601.05445)|null|
+|**2026-01-09**|**Tracing Moral Foundations in Large Language Models**|Chenxiao Yu (usc.edu) et.al.|[2601.05437](http://arxiv.org/abs/2601.05437)|null|
+|**2026-01-08**|**Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**|Yuxiang Ji et.al.|[2601.05432](http://arxiv.org/abs/2601.05432)|null|
+|**2026-01-08**|**Effects of personality steering on cooperative behavior in Large Language Model agents**|Mizuki Sakai (shizuoka.ac.jp) et.al.|[2601.05302](http://arxiv.org/abs/2601.05302)|null|
+|**2026-01-09**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss (microsoft.com) et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
 |**2026-01-08**|**SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**|Yanchang Liang (warwick.ac.uk) et.al.|[2601.05187](http://arxiv.org/abs/2601.05187)|null|
-|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao (gmail.com) et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
+|**2026-01-09**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao (gmail.com) et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|**[link](https://github.com/ziplab/CoV)**|
 |**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Ignacio de Rodrigo (comillas.edu) et.al.|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
 |**2026-01-08**|**Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior**|Wajid Nasser et.al.|[2601.05114](http://arxiv.org/abs/2601.05114)|**[link](https://github.com/wajid-nasser/evaluative-fingerprints)**|
 |**2026-01-08**|**Token-Level LLM Collaboration via FusionRoute**|Nuoya Xiong (andrew.cmu.edu) et.al.|[2601.05106](http://arxiv.org/abs/2601.05106)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra (roche.com) et.al.|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
 |**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao (gmail.com) et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|**[link](https://github.com/ZiqiZhao1/ROSE-rl)**|
-|**2026-01-08**|**Large language models can effectively convince people to believe conspiracies**|Thomas H. Costello et.al.|[2601.05050](http://arxiv.org/abs/2601.05050)|null|
+|**2026-01-09**|**Large language models can effectively convince people to believe conspiracies**|Thomas H. Costello et.al.|[2601.05050](http://arxiv.org/abs/2601.05050)|null|
 |**2026-01-08**|**An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions**|Avik Dutta (microsoft.com) et.al.|[2601.05009](http://arxiv.org/abs/2601.05009)|null|
 |**2026-01-08**|**Prototypicality Bias Reveals Blindspots in Multimodal Evaluation Metrics**|Subhadeep Roy (utn.de) et.al.|[2601.04946](http://arxiv.org/abs/2601.04946)|null|
 |**2026-01-08**|**Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition**|Nils Einecke (honda-ri.de) et.al.|[2601.04920](http://arxiv.org/abs/2601.04920)|null|
 |**2026-01-08**|**Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis**|Mingyue Cheng (ustc.edu.cn) et.al.|[2601.04879](http://arxiv.org/abs/2601.04879)|**[link](https://github.com/Melmaphother/Mind2Report)**|
 |**2026-01-08**|**Belief in Authority: Impact of Authority in Multi-Agent Evaluation Framework**|Junhyuk Choi (cau.ac.kr) et.al.|[2601.04790](http://arxiv.org/abs/2601.04790)|null|
-|**2026-01-08**|**Differential syntactic and semantic encoding in LLMs**|Santiago Acevedo (sissa.it) et.al.|[2601.04765](http://arxiv.org/abs/2601.04765)|null|
+|**2026-01-09**|**Differential syntactic and semantic encoding in LLMs**|Santiago Acevedo (sissa.it) et.al.|[2601.04765](http://arxiv.org/abs/2601.04765)|null|
 |**2026-01-08**|**PILOT-Bench: A Benchmark for Legal Reasoning in the Patent Domain with IRAC-Aligned Classification Tasks**|Yehoon Jang (pukyong.ac.kr) et.al.|[2601.04758](http://arxiv.org/abs/2601.04758)|**[link](https://github.com/TeamLab/pilot-bench)**|
 |**2026-01-08**|**ThinkDrive: Chain-of-Thought Guided Progressive Reinforcement Learning Fine-Tuning for Autonomous Driving**|Chang Zhao et.al.|[2601.04714](http://arxiv.org/abs/2601.04714)|null|
 |**2026-01-08**|**A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models**|Huayi Liu (gmail.com) et.al.|[2601.04696](http://arxiv.org/abs/2601.04696)|null|
