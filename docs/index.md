@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Nonparametric Kernel Clustering with Bandit Feedback**|Victor Thuot (inrae.fr) et.al.|[2601.07535](http://arxiv.org/abs/2601.07535)|null|
+|**2026-01-11**|**Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers**|Zhiyang Zhang (kuaishou.com) et.al.|[2601.06798](http://arxiv.org/abs/2601.06798)|null|
+|**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
+|**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
+|**2026-01-10**|**Physics-Informed Tree Search for High-Dimensional Computational Design**|Suvo Banik (uic.edu) et.al.|[2601.06444](http://arxiv.org/abs/2601.06444)|null|
+|**2026-01-10**|**Towards Building efficient Routed systems for Retrieval**|Ramnath Kumar (gmail.com) et.al.|[2601.06389](http://arxiv.org/abs/2601.06389)|null|
 |**2026-01-09**|**A Framework for Personalized Persuasiveness Prediction via Context-Aware User Profiling**|Sejun Park (snu.ac.kr) et.al.|[2601.05654](http://arxiv.org/abs/2601.05654)|null|
 |**2026-01-09**|**A Causal Information-Flow Framework for Unbiased Learning-to-Rank**|Haoming Gong et.al.|[2601.05590](http://arxiv.org/abs/2601.05590)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
@@ -937,6 +943,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers**|Zhiyang Zhang (kuaishou.com) et.al.|[2601.06798](http://arxiv.org/abs/2601.06798)|null|
+|**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
+|**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
 |**2026-01-09**|**A Framework for Personalized Persuasiveness Prediction via Context-Aware User Profiling**|Sejun Park (snu.ac.kr) et.al.|[2601.05654](http://arxiv.org/abs/2601.05654)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
 |**2026-01-08**|**Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?**|Mir Rayat Imtiaz Hossain (borealisai.com) et.al.|[2601.04690](http://arxiv.org/abs/2601.04690)|null|
@@ -1401,6 +1410,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri (gmu.edu) et.al.|[2601.07790](http://arxiv.org/abs/2601.07790)|null|
+|**2026-01-12**|**Enhancing Self-Correction in Large Language Models through Multi-Perspective Reflection**|Mariana Costa et.al.|[2601.07780](http://arxiv.org/abs/2601.07780)|null|
+|**2026-01-12**|**Structure First, Reason Next: Enhancing a Large Language Model using Knowledge Graph for Numerical Reasoning in Financial Documents**|Aryan Mishra et.al.|[2601.07754](http://arxiv.org/abs/2601.07754)|null|
+|**2026-01-12**|**Towards Automating Blockchain Consensus Verification with IsabeLLM**|Elliot Jones (imperial.ac.uk) et.al.|[2601.07654](http://arxiv.org/abs/2601.07654)|null|
+|**2026-01-12**|**GRPO with State Mutations: Improving LLM-Based Hardware Test Plan Generation**|Dimple Vijay Kochar (mit.edu) et.al.|[2601.07593](http://arxiv.org/abs/2601.07593)|null|
+|**2026-01-12**|**VirtualEnv: A Platform for Embodied AI Research**|Kabir Swain (mit.edu) et.al.|[2601.07553](http://arxiv.org/abs/2601.07553)|null|
+|**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng (tju.edu.cn) et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|**[link](https://github.com/actypedef/ARCQuant)**|
+|**2026-01-12**|**Seeing Right but Saying Wrong: Inter- and Intra-Layer Refinement in MLLMs without Training**|Shezheng Song et.al.|[2601.07359](http://arxiv.org/abs/2601.07359)|null|
+|**2026-01-12**|**Semantic Compression of LLM Instructions via Symbolic Metalanguages**|Ernst van Gassen (gmail.com) et.al.|[2601.07354](http://arxiv.org/abs/2601.07354)|null|
+|**2026-01-12**|**Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics**|Ibne Farabi Shihab (iastate.edu) et.al.|[2601.07197](http://arxiv.org/abs/2601.07197)|null|
+|**2026-01-12**|**Active Context Compression: Autonomous Memory Management in LLM Agents**|Nikhil Verma (gmail.com) et.al.|[2601.07190](http://arxiv.org/abs/2601.07190)|null|
+|**2026-01-12**|**Rewarding Creativity: A Human-Aligned Generative Reward Model for Reinforcement Learning in Storytelling**|Zhaoyan Li (alibaba-inc.com) et.al.|[2601.07149](http://arxiv.org/abs/2601.07149)|null|
+|**2026-01-12**|**Measuring Iterative Temporal Reasoning with TimePuzzles**|Zhengxiang Wang (stonybrook.edu) et.al.|[2601.07148](http://arxiv.org/abs/2601.07148)|null|
+|**2026-01-11**|**Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems**|Hongyan Chang et.al.|[2601.07072](http://arxiv.org/abs/2601.07072)|null|
+|**2026-01-11**|**Engineering of Hallucination in Generative AI: It's not a Bug, it's a Feature**|Tim Fingscheidt et.al.|[2601.07046](http://arxiv.org/abs/2601.07046)|null|
+|**2026-01-11**|**Zer0n: An AI-Assisted Vulnerability Discovery and Blockchain-Backed Integrity Framework**|Harshil Parmar et.al.|[2601.07019](http://arxiv.org/abs/2601.07019)|null|
+|**2026-01-11**|**LLM Performance Predictors: Learning When to Escalate in Hybrid Human-AI Moderation Systems**|Or Bachar (zefr.com) et.al.|[2601.07006](http://arxiv.org/abs/2601.07006)|null|
+|**2026-01-11**|**MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning**|Jianbo Yu (seu.edu.cn) et.al.|[2601.07005](http://arxiv.org/abs/2601.07005)|null|
+|**2026-01-11**|**Distributional Clarity: The Hidden Driver of RL-Friendliness in Large Language Models**|Shaoning Sun (sz.tsinghua.edu.cn) et.al.|[2601.06911](http://arxiv.org/abs/2601.06911)|null|
+|**2026-01-11**|**TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**|Mingyue Huo (illinois.edu) et.al.|[2601.06896](http://arxiv.org/abs/2601.06896)|null|
+|**2026-01-11**|**MoE-DisCo:Low Economy Cost Training Mixture-of-Experts Models**|Xin Ye et.al.|[2601.06857](http://arxiv.org/abs/2601.06857)|null|
+|**2026-01-11**|**AgentHallu: Benchmarking Automated Hallucination Attribution of LLM-based Agents**|Xuannan Liu et.al.|[2601.06818](http://arxiv.org/abs/2601.06818)|**[link](https://liuxuannan.github.io/AgentHallu.github.io/)**|
+|**2026-01-11**|**Artificial Entanglement in the Fine-Tuning of Large Language Models**|Min Chen et.al.|[2601.06788](http://arxiv.org/abs/2601.06788)|null|
+|**2026-01-11**|**Garbage Attention in Large Language Models: BOS Sink Heads and Sink-aware Pruning**|Jaewon Sok et.al.|[2601.06787](http://arxiv.org/abs/2601.06787)|null|
+|**2026-01-11**|**EpiCaR: Knowing What You Don't Know Matters for Better Reasoning in LLMs**|Jewon Yeom et.al.|[2601.06786](http://arxiv.org/abs/2601.06786)|null|
+|**2026-01-11**|**FinForge: Semi-Synthetic Financial Benchmark Generation**|Glenn Matlin (gatech.edu) et.al.|[2601.06747](http://arxiv.org/abs/2601.06747)|**[link](https://github.com/gtfintechlab/FinForge)**|
+|**2026-01-10**|**Evaluating Accounting Reasoning Capabilities of Large Language Models**|Jie Zhou (jou.edu.cn) et.al.|[2601.06707](http://arxiv.org/abs/2601.06707)|null|
+|**2026-01-10**|**GRASP LoRA: GRPO Guided Adapter Sparsity Policy for Cross Lingual Transfer**|Besher Hassan (mbzuai.ac.ae) et.al.|[2601.06702](http://arxiv.org/abs/2601.06702)|null|
+|**2026-01-10**|**What makes for an enjoyable protagonist? An analysis of character warmth and competence**|Hannes Rosenbusch (uva.nl) et.al.|[2601.06658](http://arxiv.org/abs/2601.06658)|null|
+|**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
 |**2026-01-09**|**Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks**|Elias Lumer (pwc.com) et.al.|[2601.06007](http://arxiv.org/abs/2601.06007)|null|
 |**2026-01-09**|**Gender Bias in LLMs: Preliminary Evidence from Shared Parenting Scenario in Czech Family Law**|Jakub Harasta (muni.cz) et.al.|[2601.05879](http://arxiv.org/abs/2601.05879)|null|
 |**2026-01-09**|**Left, Right, or Center? Evaluating LLM Framing in News Classification and Generation**|Molly Kennedy (cis.uni-muenchen.de) et.al.|[2601.05835](http://arxiv.org/abs/2601.05835)|null|
