@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen (comp.hkbu.edu.hk) et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|**[link](https://github.com/rutgerswiselab/memrec)**|
+|**2026-01-13**|**FusID: Modality-Fused Semantic IDs for Generative Music Recommendation**|Haven Kim et.al.|[2601.08764](http://arxiv.org/abs/2601.08764)|null|
+|**2026-01-13**|**GraphFusionSBR: Denoising Multi-Channel Graphs for Session-Based Recommendation**|Jia-Xin He (gmail.com) et.al.|[2601.08497](http://arxiv.org/abs/2601.08497)|**[link](https://github.com/hohehohe0509/DSR-HK)**|
+|**2026-01-13**|**Scalable Sequential Recommendation under Latency and Memory Constraints**|Adithya Parthasarathy (nyu.edu) et.al.|[2601.08360](http://arxiv.org/abs/2601.08360)|null|
+|**2026-01-13**|**Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models**|Seokho Ahn (inha.edu) et.al.|[2601.08148](http://arxiv.org/abs/2601.08148)|null|
+|**2026-01-13**|**Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning**|Fabian Spaeh (celonis.com) et.al.|[2601.08105](http://arxiv.org/abs/2601.08105)|null|
+|**2026-01-12**|**From Tool to Teacher: Rethinking Search Systems as Instructive Interfaces**|David Elsweiler (ur.de) et.al.|[2601.08035](http://arxiv.org/abs/2601.08035)|null|
 |**2026-01-12**|**Nonparametric Kernel Clustering with Bandit Feedback**|Victor Thuot (inrae.fr) et.al.|[2601.07535](http://arxiv.org/abs/2601.07535)|null|
 |**2026-01-11**|**Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers**|Zhiyang Zhang (kuaishou.com) et.al.|[2601.06798](http://arxiv.org/abs/2601.06798)|null|
 |**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
@@ -943,6 +950,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models**|Seokho Ahn (inha.edu) et.al.|[2601.08148](http://arxiv.org/abs/2601.08148)|null|
+|**2026-01-13**|**Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning**|Fabian Spaeh (celonis.com) et.al.|[2601.08105](http://arxiv.org/abs/2601.08105)|null|
 |**2026-01-11**|**Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers**|Zhiyang Zhang (kuaishou.com) et.al.|[2601.06798](http://arxiv.org/abs/2601.06798)|null|
 |**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
 |**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
@@ -1410,6 +1419,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding**|Anmol Gulati et.al.|[2601.08741](http://arxiv.org/abs/2601.08741)|null|
+|**2026-01-13**|**PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation**|Xingyu Tan (unsw.edu.au) et.al.|[2601.08739](http://arxiv.org/abs/2601.08739)|null|
+|**2026-01-13**|**TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback**|Prithwish Jana (gatech.edu) et.al.|[2601.08734](http://arxiv.org/abs/2601.08734)|null|
+|**2026-01-13**|**Reducing Compute Waste in LLMs through Kernel-Level DVFS**|Jeffrey Spaan (utwente.nl) et.al.|[2601.08539](http://arxiv.org/abs/2601.08539)|null|
+|**2026-01-13**|**Coverage Improvement and Fast Convergence of On-policy Preference Learning**|Juno Kim (berkeley.edu) et.al.|[2601.08421](http://arxiv.org/abs/2601.08421)|null|
+|**2026-01-13**|**Regulatory gray areas of LLM Terms**|Brittany I. Davidson (bath.ac.uk) et.al.|[2601.08415](http://arxiv.org/abs/2601.08415)|null|
+|**2026-01-13**|**Hybrid Distillation with CoT Guidance for Edge-Drone Control Code Generation**|Yizhan Feng (utt.fr) et.al.|[2601.08412](http://arxiv.org/abs/2601.08412)|null|
+|**2026-01-13**|**Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques**|Marvin Schmitt (iu.org) et.al.|[2601.08302](http://arxiv.org/abs/2601.08302)|null|
+|**2026-01-13**|**T3: Benchmarking Sycophancy and Skepticism in Causal Judgment**|Edward Y. Chang (cs.stanford.edu) et.al.|[2601.08258](http://arxiv.org/abs/2601.08258)|null|
+|**2026-01-13**|**Knowledge-based learning in Text-RAG and Image-RAG**|Alexander Shim (fiu.edu) et.al.|[2601.08226](http://arxiv.org/abs/2601.08226)|null|
+|**2026-01-13**|**DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection**|Zhenhua Xu et.al.|[2601.08223](http://arxiv.org/abs/2601.08223)|null|
+|**2026-01-13**|**GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards**|Yan Zhu et.al.|[2601.08183](http://arxiv.org/abs/2601.08183)|**[link](https://roterdl.github.io/GIBench/)**|
+|**2026-01-13**|**Prompt-Based Clarity Evaluation and Topic Detection in Political Question Answering**|Lavanya Prahallad (researchsparkhub.com) et.al.|[2601.08176](http://arxiv.org/abs/2601.08176)|null|
+|**2026-01-13**|**Qalb: Largest State-of-the-Art Urdu Large Language Model for 230M Speakers with Systematic Continued Pre-training**|Muhammad Taimoor Hassan (auburn.edu) et.al.|[2601.08141](http://arxiv.org/abs/2601.08141)|null|
+|**2026-01-13**|**Embedded AI Companion System on Edge Devices**|Rahul Gupta (gmail.com) et.al.|[2601.08128](http://arxiv.org/abs/2601.08128)|null|
+|**2026-01-12**|**Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety**|Can Jin et.al.|[2601.08000](http://arxiv.org/abs/2601.08000)|null|
+|**2026-01-12**|**Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification**|Hong Huang et.al.|[2601.07892](http://arxiv.org/abs/2601.07892)|**[link](https://github.com/Tencent/AngelSlim)**|
+|**2026-01-12**|**KVzap: Fast, Adaptive, and Faithful KV Cache Pruning**|Simon Jegou (nvidia.com) et.al.|[2601.07891](http://arxiv.org/abs/2601.07891)|**[link](https://github.com/NVIDIA/kvpress)**|
 |**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri (gmu.edu) et.al.|[2601.07790](http://arxiv.org/abs/2601.07790)|null|
 |**2026-01-12**|**Enhancing Self-Correction in Large Language Models through Multi-Perspective Reflection**|Mariana Costa et.al.|[2601.07780](http://arxiv.org/abs/2601.07780)|null|
 |**2026-01-12**|**Structure First, Reason Next: Enhancing a Large Language Model using Knowledge Graph for Numerical Reasoning in Financial Documents**|Aryan Mishra et.al.|[2601.07754](http://arxiv.org/abs/2601.07754)|null|
