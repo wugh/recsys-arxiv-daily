@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
+|**2026-01-14**|**Why not Collaborative Filtering in Dual View? Bridging Sparse and Dense Models**|Hanze Guo (ruc.edu.cn) et.al.|[2601.09286](http://arxiv.org/abs/2601.09286)|**[link](https://github.com/harris26-G/SaD)**|
+|**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
 |**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen (comp.hkbu.edu.hk) et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|**[link](https://github.com/rutgerswiselab/memrec)**|
 |**2026-01-13**|**FusID: Modality-Fused Semantic IDs for Generative Music Recommendation**|Haven Kim et.al.|[2601.08764](http://arxiv.org/abs/2601.08764)|null|
 |**2026-01-13**|**GraphFusionSBR: Denoising Multi-Channel Graphs for Session-Based Recommendation**|Jia-Xin He (gmail.com) et.al.|[2601.08497](http://arxiv.org/abs/2601.08497)|**[link](https://github.com/hohehohe0509/DSR-HK)**|
@@ -21,7 +24,7 @@ layout: default
 |**2026-01-10**|**Pragya: An AI-Based Semantic Recommendation System for Sanskrit Subhasitas**|Tanisha Raorane (gmail.com) et.al.|[2601.06607](http://arxiv.org/abs/2601.06607)|null|
 |**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
 |**2026-01-10**|**Physics-Informed Tree Search for High-Dimensional Computational Design**|Suvo Banik (uic.edu) et.al.|[2601.06444](http://arxiv.org/abs/2601.06444)|null|
-|**2026-01-10**|**Towards Building efficient Routed systems for Retrieval**|Ramnath Kumar (gmail.com) et.al.|[2601.06389](http://arxiv.org/abs/2601.06389)|null|
+|**2026-01-13**|**FastLane: Efficient Routed Systems for Late-Interaction Retrieval**|Ramnath Kumar (gmail.com) et.al.|[2601.06389](http://arxiv.org/abs/2601.06389)|null|
 |**2026-01-09**|**A Framework for Personalized Persuasiveness Prediction via Context-Aware User Profiling**|Sejun Park (snu.ac.kr) et.al.|[2601.05654](http://arxiv.org/abs/2601.05654)|null|
 |**2026-01-09**|**A Causal Information-Flow Framework for Unbiased Learning-to-Rank**|Haoming Gong et.al.|[2601.05590](http://arxiv.org/abs/2601.05590)|null|
 |**2026-01-08**|**Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts**|Zhiyin Tan (l3s.de) et.al.|[2601.05099](http://arxiv.org/abs/2601.05099)|**[link](https://github.com/Fireblossom/citation-context-dataset-discovery)**|
@@ -950,6 +953,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
+|**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
 |**2026-01-13**|**Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models**|Seokho Ahn (inha.edu) et.al.|[2601.08148](http://arxiv.org/abs/2601.08148)|null|
 |**2026-01-13**|**Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning**|Fabian Spaeh (celonis.com) et.al.|[2601.08105](http://arxiv.org/abs/2601.08105)|null|
 |**2026-01-11**|**Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers**|Zhiyang Zhang (kuaishou.com) et.al.|[2601.06798](http://arxiv.org/abs/2601.06798)|null|
@@ -1419,18 +1424,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Empathy Applicability Modeling for General Health Queries**|Shan Randhawa (umich.edu) et.al.|[2601.09696](http://arxiv.org/abs/2601.09696)|null|
+|**2026-01-14**|**LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach**|Kuo Liang (gmail.com) et.al.|[2601.09635](http://arxiv.org/abs/2601.09635)|**[link](https://github.com/CoraLiang01/lean-llm-opt)**|
+|**2026-01-14**|**LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation**|Stergios Chatzikyriakidis (uoc.gr) et.al.|[2601.09631](http://arxiv.org/abs/2601.09631)|null|
+|**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop (student.ie.edu) et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
+|**2026-01-14**|**Relation Extraction Capabilities of LLMs on Clinical Text: A Bilingual Evaluation for English and Turkish**|Aidana Aidynkyzy (astanait.edu.kz) et.al.|[2601.09367](http://arxiv.org/abs/2601.09367)|null|
+|**2026-01-14**|**Enhancing Spatial Reasoning in Large Language Models for Metal-Organic Frameworks Structure Prediction**|Mianzhi Pan et.al.|[2601.09285](http://arxiv.org/abs/2601.09285)|null|
+|**2026-01-14**|**Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing**|Leszek Sliwko (gmail.com) et.al.|[2601.09282](http://arxiv.org/abs/2601.09282)|null|
+|**2026-01-14**|**SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL**|Lijun Liu (gmail.com) et.al.|[2601.09136](http://arxiv.org/abs/2601.09136)|null|
+|**2026-01-14**|**Programming over Thinking: Efficient and Robust Multi-Constraint Planning**|Derrick Goh Xin Deik (e.ntu.edu.sg) et.al.|[2601.09097](http://arxiv.org/abs/2601.09097)|**[link](https://github.com/DerrickGXD/SCOPE)**|
+|**2026-01-14**|**Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity**|Samhita Bollepally (tamu.edu) et.al.|[2601.09041](http://arxiv.org/abs/2601.09041)|null|
+|**2026-01-13**|**Proactively Detecting Threats: A Novel Approach Using LLMs**|Aniesh Chawla (gmail.com) et.al.|[2601.09029](http://arxiv.org/abs/2601.09029)|null|
+|**2026-01-13**|**ART: Action-based Reasoning Task Benchmarking for Medical AI Agents**|Ananya Mantravadi et.al.|[2601.08988](http://arxiv.org/abs/2601.08988)|null|
+|**2026-01-13**|**ConvoLearn: A Dataset of Constructivist Tutor-Student Dialogue**|Mayank Sharma (stanford.edu) et.al.|[2601.08950](http://arxiv.org/abs/2601.08950)|null|
+|**2026-01-12**|**Bridging the Gap: Empowering Small Models in Reliable OpenACC-based Parallelization via GEPA-Optimized Prompting**|Samyak Jhaveri (uci.edu) et.al.|[2601.08884](http://arxiv.org/abs/2601.08884)|null|
 |**2026-01-13**|**From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding**|Anmol Gulati et.al.|[2601.08741](http://arxiv.org/abs/2601.08741)|null|
 |**2026-01-13**|**PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation**|Xingyu Tan (unsw.edu.au) et.al.|[2601.08739](http://arxiv.org/abs/2601.08739)|null|
 |**2026-01-13**|**TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback**|Prithwish Jana (gatech.edu) et.al.|[2601.08734](http://arxiv.org/abs/2601.08734)|null|
 |**2026-01-13**|**Reducing Compute Waste in LLMs through Kernel-Level DVFS**|Jeffrey Spaan (utwente.nl) et.al.|[2601.08539](http://arxiv.org/abs/2601.08539)|null|
 |**2026-01-13**|**Coverage Improvement and Fast Convergence of On-policy Preference Learning**|Juno Kim (berkeley.edu) et.al.|[2601.08421](http://arxiv.org/abs/2601.08421)|null|
-|**2026-01-13**|**Regulatory gray areas of LLM Terms**|Brittany I. Davidson (bath.ac.uk) et.al.|[2601.08415](http://arxiv.org/abs/2601.08415)|null|
+|**2026-01-14**|**Regulatory gray areas of LLM Terms**|Brittany I. Davidson (bath.ac.uk) et.al.|[2601.08415](http://arxiv.org/abs/2601.08415)|null|
 |**2026-01-13**|**Hybrid Distillation with CoT Guidance for Edge-Drone Control Code Generation**|Yizhan Feng (utt.fr) et.al.|[2601.08412](http://arxiv.org/abs/2601.08412)|null|
 |**2026-01-13**|**Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques**|Marvin Schmitt (iu.org) et.al.|[2601.08302](http://arxiv.org/abs/2601.08302)|null|
 |**2026-01-13**|**T3: Benchmarking Sycophancy and Skepticism in Causal Judgment**|Edward Y. Chang (cs.stanford.edu) et.al.|[2601.08258](http://arxiv.org/abs/2601.08258)|null|
 |**2026-01-13**|**Knowledge-based learning in Text-RAG and Image-RAG**|Alexander Shim (fiu.edu) et.al.|[2601.08226](http://arxiv.org/abs/2601.08226)|null|
 |**2026-01-13**|**DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection**|Zhenhua Xu et.al.|[2601.08223](http://arxiv.org/abs/2601.08223)|null|
-|**2026-01-13**|**GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards**|Yan Zhu et.al.|[2601.08183](http://arxiv.org/abs/2601.08183)|**[link](https://roterdl.github.io/GIBench/)**|
+|**2026-01-14**|**GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards**|Yan Zhu et.al.|[2601.08183](http://arxiv.org/abs/2601.08183)|**[link](https://roterdl.github.io/GIBench/)**|
 |**2026-01-13**|**Prompt-Based Clarity Evaluation and Topic Detection in Political Question Answering**|Lavanya Prahallad (researchsparkhub.com) et.al.|[2601.08176](http://arxiv.org/abs/2601.08176)|null|
 |**2026-01-13**|**Qalb: Largest State-of-the-Art Urdu Large Language Model for 230M Speakers with Systematic Continued Pre-training**|Muhammad Taimoor Hassan (auburn.edu) et.al.|[2601.08141](http://arxiv.org/abs/2601.08141)|null|
 |**2026-01-13**|**Embedded AI Companion System on Edge Devices**|Rahul Gupta (gmail.com) et.al.|[2601.08128](http://arxiv.org/abs/2601.08128)|null|
