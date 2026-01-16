@@ -1,4 +1,4 @@
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-14**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
+|**2026-01-15**|**PADER: Paillier-based Secure Decentralized Social Recommendation**|Chaochao Chen (zju.edu.cn) et.al.|[2601.10212](http://arxiv.org/abs/2601.10212)|**[link](https://github.com/GarminQ/PADER)**|
+|**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv (ruc.edu.cn) et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
+|**2026-01-15**|**Efficient Content-based Recommendation Model Training via Noise-aware Coreset Selection**|Hung Vinh Tran (uq.edu.au) et.al.|[2601.10067](http://arxiv.org/abs/2601.10067)|**[link](https://github.com/chenxing1999/nacs)**|
+|**2026-01-15**|**STCRank: Spatio-temporal Collaborative Ranking for Interactive Recommender System at Kuaishou E-shop**|Boyang Xia (gmail.com) et.al.|[2601.10027](http://arxiv.org/abs/2601.10027)|**[link](https://hcrec.github.io/)**|
+|**2026-01-15**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
 |**2026-01-14**|**Why not Collaborative Filtering in Dual View? Bridging Sparse and Dense Models**|Hanze Guo (ruc.edu.cn) et.al.|[2601.09286](http://arxiv.org/abs/2601.09286)|**[link](https://github.com/harris26-G/SaD)**|
 |**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
 |**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen (comp.hkbu.edu.hk) et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|**[link](https://github.com/rutgerswiselab/memrec)**|
@@ -954,13 +958,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-14**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
+|**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv (ruc.edu.cn) et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
+|**2026-01-15**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
 |**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
 |**2026-01-13**|**Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models**|Seokho Ahn (inha.edu) et.al.|[2601.08148](http://arxiv.org/abs/2601.08148)|null|
 |**2026-01-13**|**Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning**|Fabian Spaeh (celonis.com) et.al.|[2601.08105](http://arxiv.org/abs/2601.08105)|null|
@@ -1427,12 +1432,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia (univie.ac.at) et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
+|**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark (allenai.org) et.al.|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
+|**2026-01-15**|**Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure**|Syed Naveed Mahmood et.al.|[2601.10566](http://arxiv.org/abs/2601.10566)|null|
+|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
+|**2026-01-15**|**Diagnosing Generalization Failures in Fine-Tuned LLMs: A Cross-Architectural Study on Phishing Detection**|Frank Bobe (us.navy.mil) et.al.|[2601.10524](http://arxiv.org/abs/2601.10524)|null|
+|**2026-01-15**|**TF3-RO-50M: Training Compact Romanian Language Models from Scratch on Synthetic Moral Microfiction**|Mihai Dan Nadas (ubbcluj.ro) et.al.|[2601.10410](http://arxiv.org/abs/2601.10410)|null|
+|**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu (sjtu.edu.cn) et.al.|[2601.10402](http://arxiv.org/abs/2601.10402)|null|
+|**2026-01-15**|**INDIC DIALECT: A Multi Task Benchmark to Evaluate and Translate in Indian Language Dialects**|Tarun Sharma (gmail.com) et.al.|[2601.10388](http://arxiv.org/abs/2601.10388)|null|
+|**2026-01-15**|**NoReGeo: Non-Reasoning Geometry Benchmark**|Irina Abdullaeva (fusionbrainlab.com) et.al.|[2601.10254](http://arxiv.org/abs/2601.10254)|null|
+|**2026-01-15**|**Credit C-GPT: A Domain-Specialized Large Language Model for Conversational Understanding in Vietnamese Debt Collection**|Nhung Nguyen Thi Hong (emandai.net) et.al.|[2601.10167](http://arxiv.org/abs/2601.10167)|null|
+|**2026-01-15**|**LOOKAT: Lookup-Optimized Key-Attention for Memory-Efficient Transformers**|Aryan Karmore (iiitn.ac.in) et.al.|[2601.10155](http://arxiv.org/abs/2601.10155)|null|
+|**2026-01-15**|**Repository Intelligence Graph: Deterministic Architectural Map for LLM Code Assistants**|Tsvi Cherny-Shahar et.al.|[2601.10112](http://arxiv.org/abs/2601.10112)|null|
+|**2026-01-15**|**SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature**|Yiming Ren (mails.tsinghua.edu.cn) et.al.|[2601.10108](http://arxiv.org/abs/2601.10108)|null|
+|**2026-01-15**|**Instruction Finetuning LLaMA-3-8B Model Using LoRA for Financial Named Entity Recognition**|Zhiming Lian (llfunds.com) et.al.|[2601.10043](http://arxiv.org/abs/2601.10043)|null|
+|**2026-01-15**|**Empowering Older Adults in Digital Technology Use with Foundation Models**|Hasti Sharifi (uic.edu) et.al.|[2601.10018](http://arxiv.org/abs/2601.10018)|null|
+|**2026-01-15**|**Performance of AI agents based on reasoning language models on ALD process optimization tasks**|Angel Yanguas-Gil (anl.gov) et.al.|[2601.09980](http://arxiv.org/abs/2601.09980)|null|
+|**2026-01-15**|**Chinese Labor Law Large Language Model Benchmark**|Zixun Lan et.al.|[2601.09972](http://arxiv.org/abs/2601.09972)|null|
+|**2026-01-15**|**Take Out Your Calculators: Estimating the Real Difficulty of Question Items with LLM Student Simulations**|Christabel Acquaye (umd.edu) et.al.|[2601.09953](http://arxiv.org/abs/2601.09953)|null|
 |**2026-01-14**|**Empathy Applicability Modeling for General Health Queries**|Shan Randhawa (umich.edu) et.al.|[2601.09696](http://arxiv.org/abs/2601.09696)|null|
 |**2026-01-14**|**LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach**|Kuo Liang (gmail.com) et.al.|[2601.09635](http://arxiv.org/abs/2601.09635)|**[link](https://github.com/CoraLiang01/lean-llm-opt)**|
 |**2026-01-14**|**LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation**|Stergios Chatzikyriakidis (uoc.gr) et.al.|[2601.09631](http://arxiv.org/abs/2601.09631)|null|
@@ -3657,7 +3680,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
