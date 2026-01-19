@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[2601.11427](http://arxiv.org/abs/2601.11427)|null|
+|**2026-01-16**|**Seek and You Shall Find: Design & Evaluation of a Context-Aware Interactive Search Companion**|Markus Bink (ur.de) et.al.|[2601.11287](http://arxiv.org/abs/2601.11287)|null|
+|**2026-01-16**|**From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics**|Junjie Wang (student.tudelft.nl) et.al.|[2601.11282](http://arxiv.org/abs/2601.11282)|null|
+|**2026-01-16**|**Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation**|Ji Dai (bupt.edu.cn) et.al.|[2601.11151](http://arxiv.org/abs/2601.11151)|null|
+|**2026-01-15**|**EncodeRec: An Embedding Backbone for Recommendation Systems**|Guy Hadad (post.bgu.ac.il) et.al.|[2601.10837](http://arxiv.org/abs/2601.10837)|null|
 |**2026-01-15**|**PADER: Paillier-based Secure Decentralized Social Recommendation**|Chaochao Chen (zju.edu.cn) et.al.|[2601.10212](http://arxiv.org/abs/2601.10212)|**[link](https://github.com/GarminQ/PADER)**|
 |**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv (ruc.edu.cn) et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
 |**2026-01-15**|**Efficient Content-based Recommendation Model Training via Noise-aware Coreset Selection**|Hung Vinh Tran (uq.edu.au) et.al.|[2601.10067](http://arxiv.org/abs/2601.10067)|**[link](https://github.com/chenxing1999/nacs)**|
@@ -957,6 +962,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Seek and You Shall Find: Design & Evaluation of a Context-Aware Interactive Search Companion**|Markus Bink (ur.de) et.al.|[2601.11287](http://arxiv.org/abs/2601.11287)|null|
+|**2026-01-15**|**EncodeRec: An Embedding Backbone for Recommendation Systems**|Guy Hadad (post.bgu.ac.il) et.al.|[2601.10837](http://arxiv.org/abs/2601.10837)|null|
 |**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv (ruc.edu.cn) et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
 |**2026-01-15**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
 |**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
@@ -1429,10 +1436,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár (google.com) et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
+|**2026-01-16**|**Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs**|Lecheng Yan (abdn.ac.uk) et.al.|[2601.11061](http://arxiv.org/abs/2601.11061)|**[link](https://github.com/idwts/How-RLVR-Activates-Memorization-Shortcuts)**|
+|**2026-01-16**|**Predicting Biased Human Decision-Making with Large Language Models in Conversational Settings**|Stephen Pilli (ucdconnect.ie) et.al.|[2601.11049](http://arxiv.org/abs/2601.11049)|null|
+|**2026-01-16**|**AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts**|Keyu Li et.al.|[2601.11044](http://arxiv.org/abs/2601.11044)|**[link](https://github.com/GAIR-NLP/AgencyBench)**|
+|**2026-01-16**|**Budget-Aware Anytime Reasoning with LLM-Synthesized Preference Data**|Xuanming Zhang (columbia.edu) et.al.|[2601.11038](http://arxiv.org/abs/2601.11038)|null|
+|**2026-01-16**|**From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models**|Youmi Ma et.al.|[2601.11020](http://arxiv.org/abs/2601.11020)|null|
+|**2026-01-16**|**AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing**|Zhenhua Xu (zju.edu.cn) et.al.|[2601.11007](http://arxiv.org/abs/2601.11007)|null|
+|**2026-01-15**|**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**|Hieu Bui (villanova.edu) et.al.|[2601.10835](http://arxiv.org/abs/2601.10835)|null|
+|**2026-01-15**|**Reasoning Models Generate Societies of Thought**|Junsol Kim (google.com) et.al.|[2601.10825](http://arxiv.org/abs/2601.10825)|null|
+|**2026-01-15**|**Digital Metabolism: Decoupling Logic from Facts via Regenerative Unlearning -- Towards a Pure Neural Logic Core**|Mengmeng Peng (mail.nwpu.edu.cn) et.al.|[2601.10810](http://arxiv.org/abs/2601.10810)|null|
 |**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia (univie.ac.at) et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark (allenai.org) et.al.|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
 |**2026-01-15**|**Representation-Aware Unlearning via Activation Signatures: From Suppression to Knowledge-Signature Erasure**|Syed Naveed Mahmood et.al.|[2601.10566](http://arxiv.org/abs/2601.10566)|null|
-|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
+|**2026-01-16**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
 |**2026-01-15**|**Diagnosing Generalization Failures in Fine-Tuned LLMs: A Cross-Architectural Study on Phishing Detection**|Frank Bobe (us.navy.mil) et.al.|[2601.10524](http://arxiv.org/abs/2601.10524)|null|
 |**2026-01-15**|**TF3-RO-50M: Training Compact Romanian Language Models from Scratch on Synthetic Moral Microfiction**|Mihai Dan Nadas (ubbcluj.ro) et.al.|[2601.10410](http://arxiv.org/abs/2601.10410)|null|
 |**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu (sjtu.edu.cn) et.al.|[2601.10402](http://arxiv.org/abs/2601.10402)|null|
