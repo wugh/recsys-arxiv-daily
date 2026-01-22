@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**From Insight to Intervention: Interpretable Neuron Steering for Controlling Popularity Bias in Recommender Systems**|Parviz Ahmadov (student.tudelft.nl) et.al.|[2601.15122](http://arxiv.org/abs/2601.15122)|null|
+|**2026-01-21**|**Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation**|Rui Qi (bjtu.edu.cn) et.al.|[2601.14896](http://arxiv.org/abs/2601.14896)|**[link](https://github.com/Cherry-qwq/LcRL-Open)**|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song (stu.pku.edu.cn) et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-20**|**Balancing Fairness and High Match Rates in Reciprocal Recommender Systems: A Nash Social Welfare Approach**|Yoji Tomita (cyberagent.co.jp) et.al.|[2601.13609](http://arxiv.org/abs/2601.13609)|null|
 |**2026-01-20**|**Integrating Vision-Centric Text Understanding for Conversational Recommender Systems**|Wei Yuan (uq.edu.au) et.al.|[2601.13505](http://arxiv.org/abs/2601.13505)|null|
 |**2026-01-19**|**Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse**|Samantha Sudhoff et.al.|[2601.13317](http://arxiv.org/abs/2601.13317)|null|
@@ -970,12 +973,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song (stu.pku.edu.cn) et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-20**|**Integrating Vision-Centric Text Understanding for Conversational Recommender Systems**|Wei Yuan (uq.edu.au) et.al.|[2601.13505](http://arxiv.org/abs/2601.13505)|null|
 |**2026-01-19**|**Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse**|Samantha Sudhoff et.al.|[2601.13317](http://arxiv.org/abs/2601.13317)|null|
 |**2026-01-19**|**OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models**|Shiyuan Li (griffithuni.edu.au) et.al.|[2601.12996](http://arxiv.org/abs/2601.12996)|**[link](https://github.com/Shiy-Li/OFA-MAS)**|
@@ -1450,12 +1454,32 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Metadata Conditioned Large Language Models for Localization**|Anjishnu Mukherjee (gmu.edu) et.al.|[2601.15236](http://arxiv.org/abs/2601.15236)|null|
+|**2026-01-21**|**Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems**|Yinzhu Chen (ucl.ac.uk) et.al.|[2601.15161](http://arxiv.org/abs/2601.15161)|null|
+|**2026-01-21**|**Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning**|Yuval Kansal (princeton.edu) et.al.|[2601.15160](http://arxiv.org/abs/2601.15160)|null|
+|**2026-01-21**|**RSNA Large Language Model Benchmark Dataset for Chest Radiographs of Cardiothoracic Disease: Radiologist Evaluation and Validation Enhanced by AI Labels (REVEAL-CXR)**|Yishu Wei (cornellradiology.org) et.al.|[2601.15129](http://arxiv.org/abs/2601.15129)|null|
+|**2026-01-21**|**SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles**|Srinath Srinivasan (ncsu.edu) et.al.|[2601.15074](http://arxiv.org/abs/2601.15074)|null|
+|**2026-01-21**|**\textsc{LogicScore}: Fine-grained Logic Evaluation of Conciseness, Completeness, and Determinateness in Attributed Question Answering**|Zhichao Yan (sxu.edu.cn) et.al.|[2601.15050](http://arxiv.org/abs/2601.15050)|**[link](https://github.com/zhichaoyan11/LogicScore)**|
+|**2026-01-21**|**Visual and Cognitive Demands of a Large Language Model-Powered In-vehicle Conversational Agent**|Chris Monk et.al.|[2601.15034](http://arxiv.org/abs/2601.15034)|null|
+|**2026-01-21**|**A Comprehensive Benchmark of Language Models on Unicode and Romanized Sinhala**|Minuri Rajapakse (iit.ac.lk) et.al.|[2601.14958](http://arxiv.org/abs/2601.14958)|null|
+|**2026-01-21**|**Vision-Language Models on the Edge for Real-Time Robotic Perception**|Sarat Ahmad (leeds.ac.uk) et.al.|[2601.14921](http://arxiv.org/abs/2601.14921)|null|
+|**2026-01-21**|**Comparative Study of Large Language Models on Chinese Film Script Continuation: An Empirical Analysis Based on GPT-5.2 and Qwen-Max**|Yuxuan Cao (whu.edu.cn) et.al.|[2601.14826](http://arxiv.org/abs/2601.14826)|null|
+|**2026-01-21**|**Reflecting in the Reflection: Integrating a Socratic Questioning Framework into Automated AI-Based Question Generation**|Ondřej Holub (cvut.cz) et.al.|[2601.14798](http://arxiv.org/abs/2601.14798)|null|
+|**2026-01-21**|**Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text**|Aisvarya Adeseye (utu.fi) et.al.|[2601.14683](http://arxiv.org/abs/2601.14683)|null|
+|**2026-01-21**|**Variance-Adaptive Muon: Accelerating LLM Pretraining with NSR-Modulated and Variance-Scaled Momentum**|Jingru Li (mail.nankai.edu.cn) et.al.|[2601.14603](http://arxiv.org/abs/2601.14603)|null|
+|**2026-01-21**|**HELIOS: Hierarchical Graph Abstraction for Structure-Aware LLM Decompilation**|Yonatan Gizachew Achamyeleh (uci.edu) et.al.|[2601.14598](http://arxiv.org/abs/2601.14598)|null|
+|**2026-01-21**|**IntelliSA: An Intelligent Static Analyzer for IaC Security Smell Detection Using Symbolic Rules and Neural Inference**|Qiyue Mei (student.unimelb.edu.au) et.al.|[2601.14595](http://arxiv.org/abs/2601.14595)|null|
+|**2026-01-21**|**Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation**|Shovito Barua Soumma (asu.edu) et.al.|[2601.14590](http://arxiv.org/abs/2601.14590)|null|
+|**2026-01-21**|**Constructing Multi-label Hierarchical Classification Models for MITRE ATT&CK Text Tagging**|Andrew Crossman et.al.|[2601.14556](http://arxiv.org/abs/2601.14556)|**[link](https://github.com/jpmorganchase/MITRE_models)**|
+|**2026-01-20**|**LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation**|Luis Lazo (unb.ca) et.al.|[2601.14528](http://arxiv.org/abs/2601.14528)|null|
+|**2026-01-20**|**Language, Caste, and Context: Demographic Disparities in AI-Generated Explanations Across Indian and American STEM Educational Systems**|Amogh Gupta (cs.unc.edu) et.al.|[2601.14506](http://arxiv.org/abs/2601.14506)|null|
+|**2026-01-20**|**Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering**|Mohamad Salim (live.concordia.ca) et.al.|[2601.14470](http://arxiv.org/abs/2601.14470)|null|
 |**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang (gmail.com) et.al.|[2601.14209](http://arxiv.org/abs/2601.14209)|null|
 |**2026-01-20**|**A model of errors in transformers**|Suvrat Raju (icts.res.in) et.al.|[2601.14175](http://arxiv.org/abs/2601.14175)|null|
 |**2026-01-20**|**Human Values in a Single Sentence: Moral Presence, Hierarchies, and Transformer Ensembles on the Schwartz Continuum**|Víctor Yeste (upv.es) et.al.|[2601.14172](http://arxiv.org/abs/2601.14172)|**[link](https://github.com/VictorMYeste/human-value-detection)**|
@@ -1463,7 +1487,7 @@
 |**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro (microsoft.com) et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|null|
 |**2026-01-20**|**Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants**|Yunhe Wang (huawei.com) et.al.|[2601.14041](http://arxiv.org/abs/2601.14041)|null|
 |**2026-01-20**|**OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models**|Unggi Lee (korea.ac.kr) et.al.|[2601.13882](http://arxiv.org/abs/2601.13882)|null|
-|**2026-01-20**|**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**|Dongxu Zhang (stu.xjtu.edu.cn) et.al.|[2601.13879](http://arxiv.org/abs/2601.13879)|null|
+|**2026-01-21**|**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**|Dongxu Zhang (stu.xjtu.edu.cn) et.al.|[2601.13879](http://arxiv.org/abs/2601.13879)|null|
 |**2026-01-20**|**FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs**|Qian Chen (gmail.com) et.al.|[2601.13836](http://arxiv.org/abs/2601.13836)|**[link](https://github.com/OpenMOSS/FutureOmni)**|
 |**2026-01-20**|**Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance**|Mostapha Benhenda (gmail.com) et.al.|[2601.13770](http://arxiv.org/abs/2601.13770)|**[link](https://github.com/benstaf/lookaheadbench)**|
 |**2026-01-20**|**GerAV: Towards New Heights in German Authorship Verification using Fine-Tuned LLMs on a New Benchmark**|Lotta Kiefer (utn.de) et.al.|[2601.13711](http://arxiv.org/abs/2601.13711)|null|
@@ -3738,7 +3762,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
