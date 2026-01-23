@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction Theory**|Chen Xu (ruc.edu.cn) et.al.|[2601.15975](http://arxiv.org/abs/2601.15975)|null|
+|**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2601.15930](http://arxiv.org/abs/2601.15930)|**[link](https://github.com/Joinn99/MMGRid)**|
+|**2026-01-22**|**CoNRec: Context-Discerning Negative Recommendation with LLMs**|Xinda Chen et.al.|[2601.15721](http://arxiv.org/abs/2601.15721)|null|
+|**2026-01-22**|**PromptHelper: A Prompt Recommender System for Encouraging Creativity in AI Chatbot Interactions**|Jason Kim (tamu.edu) et.al.|[2601.15575](http://arxiv.org/abs/2601.15575)|null|
+|**2026-01-21**|**Lattice: A Confidence-Gated Hybrid System for Uncertainty-Aware Sequential Prediction with Behavioral Archetypes**|Lorian Bannis et.al.|[2601.15423](http://arxiv.org/abs/2601.15423)|null|
+|**2026-01-21**|**Statistical Reinforcement Learning in the Real World: A Survey of Challenges and Future Directions**|Asim H. Gazi (g.harvard.edu) et.al.|[2601.15353](http://arxiv.org/abs/2601.15353)|null|
 |**2026-01-21**|**From Insight to Intervention: Interpretable Neuron Steering for Controlling Popularity Bias in Recommender Systems**|Parviz Ahmadov (student.tudelft.nl) et.al.|[2601.15122](http://arxiv.org/abs/2601.15122)|null|
 |**2026-01-21**|**Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation**|Rui Qi (bjtu.edu.cn) et.al.|[2601.14896](http://arxiv.org/abs/2601.14896)|**[link](https://github.com/Cherry-qwq/LcRL-Open)**|
 |**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song (stu.pku.edu.cn) et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
@@ -972,6 +978,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2601.15930](http://arxiv.org/abs/2601.15930)|**[link](https://github.com/Joinn99/MMGRid)**|
+|**2026-01-22**|**CoNRec: Context-Discerning Negative Recommendation with LLMs**|Xinda Chen et.al.|[2601.15721](http://arxiv.org/abs/2601.15721)|null|
 |**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song (stu.pku.edu.cn) et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-20**|**Integrating Vision-Centric Text Understanding for Conversational Recommender Systems**|Wei Yuan (uq.edu.au) et.al.|[2601.13505](http://arxiv.org/abs/2601.13505)|null|
 |**2026-01-19**|**Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme Modeling of Climate Discourse**|Samantha Sudhoff et.al.|[2601.13317](http://arxiv.org/abs/2601.13317)|null|
@@ -979,6 +987,7 @@ layout: default
 |**2026-01-18**|**Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers**|Yixuan Du et.al.|[2601.12263](http://arxiv.org/abs/2601.12263)|null|
 |**2026-01-16**|**Seek and You Shall Find: Design & Evaluation of a Context-Aware Interactive Search Companion**|Markus Bink (ur.de) et.al.|[2601.11287](http://arxiv.org/abs/2601.11287)|null|
 |**2026-01-15**|**EncodeRec: An Embedding Backbone for Recommendation Systems**|Guy Hadad (post.bgu.ac.il) et.al.|[2601.10837](http://arxiv.org/abs/2601.10837)|null|
+|**2026-01-22**|**iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification**|Zhuoxuan Huang (csu.edu.cn) et.al.|[2601.10609](http://arxiv.org/abs/2601.10609)|**[link](https://github.com/zelo2/iTIMO)**|
 |**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv (ruc.edu.cn) et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
 |**2026-01-18**|**Bridging Semantic Understanding and Popularity Bias with LLMs**|Renqiang Luo (outlook.com) et.al.|[2601.09478](http://arxiv.org/abs/2601.09478)|**[link](https://github.com/LuoRenqiang/FairLRM)**|
 |**2026-01-14**|**Contrastive Bi-Encoder Models for Multi-Label Skill Extraction: Enhancing ESCO Ontology Matching with BERT and Attention Mechanisms**|Yongming Sun (zju.edu.cn) et.al.|[2601.09119](http://arxiv.org/abs/2601.09119)|null|
@@ -1451,12 +1460,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Learning to Discover at Test Time**|Mert Yuksekgonul (stanford.edu) et.al.|[2601.16175](http://arxiv.org/abs/2601.16175)|**[link](https://github.com/test-time-training/discover)**|
+|**2026-01-22**|**Structured Hints for Sample-Efficient Lean Theorem Proving**|Zachary Burton et.al.|[2601.16172](http://arxiv.org/abs/2601.16172)|null|
+|**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano (gmail.com) et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
+|**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang (illinois.edu) et.al.|[2601.15737](http://arxiv.org/abs/2601.15737)|null|
+|**2026-01-22**|**Even GPT-5.2 Can't Count to Five: The Case for Zero-Error Horizons in Trustworthy LLMs**|Ryoma Sato (nii.ac.jp) et.al.|[2601.15714](http://arxiv.org/abs/2601.15714)|null|
+|**2026-01-22**|**FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**|Jiahao Zhang et.al.|[2601.15710](http://arxiv.org/abs/2601.15710)|null|
+|**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu (bupt.edu.cn) et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
+|**2026-01-22**|**What Patients Really Ask: Exploring the Effect of False Assumptions in Patient Information Seeking**|Raymond Xiong (duke.edu) et.al.|[2601.15674](http://arxiv.org/abs/2601.15674)|null|
+|**2026-01-22**|**Event-VStream: Event-Driven Real-Time Understanding for Long Video Streams**|Zhenghui Guo et.al.|[2601.15655](http://arxiv.org/abs/2601.15655)|null|
+|**2026-01-22**|**CogToM: A Comprehensive Theory of Mind Benchmark inspired by Human Cognition for Large Language Models**|Haibo Tong (ia.ac.cn) et.al.|[2601.15628](http://arxiv.org/abs/2601.15628)|null|
+|**2026-01-22**|**ToxiTwitch: Toward Emote-Aware Hybrid Moderation for Live Streaming Platforms**|Baktash Ansari (uw.edu) et.al.|[2601.15605](http://arxiv.org/abs/2601.15605)|null|
+|**2026-01-21**|**TransportAgents: a multi-agents LLM framework for traffic accident severity prediction**|Zhichao Yang (umd.edu) et.al.|[2601.15519](http://arxiv.org/abs/2601.15519)|null|
+|**2026-01-21**|**DS@GT at TREC TOT 2025: Bridging Vague Recollection with Fusion Retrieval and Learned Reranking**|Wenxin Zhou (gatech.edu) et.al.|[2601.15518](http://arxiv.org/abs/2601.15518)|null|
+|**2026-01-21**|**AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains**|Adam Szelestey (student.tue.nl) et.al.|[2601.15511](http://arxiv.org/abs/2601.15511)|null|
+|**2026-01-21**|**Benchmarking LLMs for Pairwise Causal Discovery in Biomedical and Multi-Domain Contexts**|Sydney Anuyah (iu.edu) et.al.|[2601.15479](http://arxiv.org/abs/2601.15479)|**[link](https://github.com/sydneyanuyah/CausalDiscovery)**|
+|**2026-01-21**|**Chunking, Retrieval, and Re-ranking: An Empirical Evaluation of RAG Architectures for Policy Document Question Answering**|Anuj Maharjan (gmail.com) et.al.|[2601.15457](http://arxiv.org/abs/2601.15457)|null|
+|**2026-01-21**|**Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models**|Shahar Ben Natan (post.bgu.ac.il) et.al.|[2601.15436](http://arxiv.org/abs/2601.15436)|null|
+|**2026-01-21**|**Memorization Dynamics in Knowledge Distillation for Language Models**|Jaydeep Borkar (gmail.com) et.al.|[2601.15394](http://arxiv.org/abs/2601.15394)|null|
 |**2026-01-21**|**Metadata Conditioned Large Language Models for Localization**|Anjishnu Mukherjee (gmu.edu) et.al.|[2601.15236](http://arxiv.org/abs/2601.15236)|null|
 |**2026-01-21**|**Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems**|Yinzhu Chen (ucl.ac.uk) et.al.|[2601.15161](http://arxiv.org/abs/2601.15161)|null|
 |**2026-01-21**|**Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning**|Yuval Kansal (princeton.edu) et.al.|[2601.15160](http://arxiv.org/abs/2601.15160)|null|
 |**2026-01-21**|**RSNA Large Language Model Benchmark Dataset for Chest Radiographs of Cardiothoracic Disease: Radiologist Evaluation and Validation Enhanced by AI Labels (REVEAL-CXR)**|Yishu Wei (cornellradiology.org) et.al.|[2601.15129](http://arxiv.org/abs/2601.15129)|null|
 |**2026-01-21**|**SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles**|Srinath Srinivasan (ncsu.edu) et.al.|[2601.15074](http://arxiv.org/abs/2601.15074)|null|
-|**2026-01-21**|**\textsc{LogicScore}: Fine-grained Logic Evaluation of Conciseness, Completeness, and Determinateness in Attributed Question Answering**|Zhichao Yan (sxu.edu.cn) et.al.|[2601.15050](http://arxiv.org/abs/2601.15050)|**[link](https://github.com/zhichaoyan11/LogicScore)**|
+|**2026-01-22**|**LogicScore: Fine-grained Logic Evaluation of Conciseness, Completeness, and Determinateness in Attributed Question Answering**|Zhichao Yan (sxu.edu.cn) et.al.|[2601.15050](http://arxiv.org/abs/2601.15050)|**[link](https://github.com/zhichaoyan11/LogicScore)**|
 |**2026-01-21**|**Visual and Cognitive Demands of a Large Language Model-Powered In-vehicle Conversational Agent**|Chris Monk et.al.|[2601.15034](http://arxiv.org/abs/2601.15034)|null|
 |**2026-01-21**|**A Comprehensive Benchmark of Language Models on Unicode and Romanized Sinhala**|Minuri Rajapakse (iit.ac.lk) et.al.|[2601.14958](http://arxiv.org/abs/2601.14958)|null|
 |**2026-01-21**|**Vision-Language Models on the Edge for Real-Time Robotic Perception**|Sarat Ahmad (leeds.ac.uk) et.al.|[2601.14921](http://arxiv.org/abs/2601.14921)|null|
