@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Explaining Group Recommendations via Counterfactuals**|Maria Stratigi (tuni.fi) et.al.|[2601.16882](http://arxiv.org/abs/2601.16882)|null|
+|**2026-01-23**|**From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling**|Yuxin Liao (gmail.com) et.al.|[2601.16872](http://arxiv.org/abs/2601.16872)|null|
+|**2026-01-23**|**Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation**|Mahe Chen (mail.utoronto.ca) et.al.|[2601.16858](http://arxiv.org/abs/2601.16858)|null|
+|**2026-01-23**|**PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework**|Shaoqing Wang (alibaba-inc.com) et.al.|[2601.16815](http://arxiv.org/abs/2601.16815)|null|
+|**2026-01-23**|**LLM-powered Real-time Patent Citation Recommendation for Financial Technologies**|Tianang Deng (pku.edu.cn) et.al.|[2601.16775](http://arxiv.org/abs/2601.16775)|null|
+|**2026-01-23**|**SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine**|Hoang-Quoc Nguyen-Son (nict.go.jp) et.al.|[2601.16512](http://arxiv.org/abs/2601.16512)|null|
 |**2026-01-22**|**Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction Theory**|Chen Xu (ruc.edu.cn) et.al.|[2601.15975](http://arxiv.org/abs/2601.15975)|null|
 |**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2601.15930](http://arxiv.org/abs/2601.15930)|**[link](https://github.com/Joinn99/MMGRid)**|
 |**2026-01-22**|**CoNRec: Context-Discerning Negative Recommendation with LLMs**|Xinda Chen et.al.|[2601.15721](http://arxiv.org/abs/2601.15721)|null|
@@ -978,6 +984,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling**|Yuxin Liao (gmail.com) et.al.|[2601.16872](http://arxiv.org/abs/2601.16872)|null|
+|**2026-01-23**|**Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation**|Mahe Chen (mail.utoronto.ca) et.al.|[2601.16858](http://arxiv.org/abs/2601.16858)|null|
+|**2026-01-23**|**LLM-powered Real-time Patent Citation Recommendation for Financial Technologies**|Tianang Deng (pku.edu.cn) et.al.|[2601.16775](http://arxiv.org/abs/2601.16775)|null|
+|**2026-01-23**|**SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine**|Hoang-Quoc Nguyen-Son (nict.go.jp) et.al.|[2601.16512](http://arxiv.org/abs/2601.16512)|null|
 |**2026-01-22**|**MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging**|Tianjun Wei (my.cityu.edu.hk) et.al.|[2601.15930](http://arxiv.org/abs/2601.15930)|**[link](https://github.com/Joinn99/MMGRid)**|
 |**2026-01-22**|**CoNRec: Context-Discerning Negative Recommendation with LLMs**|Xinda Chen et.al.|[2601.15721](http://arxiv.org/abs/2601.15721)|null|
 |**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song (stu.pku.edu.cn) et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
@@ -1460,6 +1470,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation**|Mahe Chen (mail.utoronto.ca) et.al.|[2601.16858](http://arxiv.org/abs/2601.16858)|null|
+|**2026-01-23**|**Trapped in the past? Disentangling fluid and crystallized intelligence of large language models using chess**|Leonard S. Pleiss (tum.de) et.al.|[2601.16823](http://arxiv.org/abs/2601.16823)|null|
+|**2026-01-23**|**Attention-MoA: Enhancing Mixture-of-Agents via Inter-Agent Semantic Attention and Deep Residual Synthesis**|Jianyu Wen (meituan.com) et.al.|[2601.16596](http://arxiv.org/abs/2601.16596)|null|
+|**2026-01-23**|**LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification**|Meet Raval (alumni.usc.edu) et.al.|[2601.16549](http://arxiv.org/abs/2601.16549)|null|
+|**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng (uw.edu) et.al.|[2601.16449](http://arxiv.org/abs/2601.16449)|null|
+|**2026-01-22**|**Regional Bias in Large Language Models**|M P V S Gopinadh et.al.|[2601.16349](http://arxiv.org/abs/2601.16349)|null|
+|**2026-01-22**|**When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems**|Donghao Huang (engd.smu.edu.sg) et.al.|[2601.16280](http://arxiv.org/abs/2601.16280)|null|
 |**2026-01-22**|**Learning to Discover at Test Time**|Mert Yuksekgonul (stanford.edu) et.al.|[2601.16175](http://arxiv.org/abs/2601.16175)|**[link](https://github.com/test-time-training/discover)**|
 |**2026-01-22**|**Structured Hints for Sample-Efficient Lean Theorem Proving**|Zachary Burton et.al.|[2601.16172](http://arxiv.org/abs/2601.16172)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano (gmail.com) et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
