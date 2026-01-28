@@ -2,13 +2,29 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**An Interpretable Recommendation Model for Psychometric Data, With an Application to Gerontological Primary Care**|Andre Paulino de Lima et.al.|[2601.19824](http://arxiv.org/abs/2601.19824)|null|
+|**2026-01-27**|**Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications**|Jin Huang (cam.ac.uk) et.al.|[2601.19761](http://arxiv.org/abs/2601.19761)|null|
+|**2026-01-27**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
+|**2026-01-27**|**LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation**|Chongjun Xia (student.uts.edu.au) et.al.|[2601.19585](http://arxiv.org/abs/2601.19585)|null|
+|**2026-01-27**|**Enhancing Academic Paper Recommendations Using Fine-Grained Knowledge Entities and Multifaceted Document Embeddings**|Haixu Xi (njust.edu.cn) et.al.|[2601.19513](http://arxiv.org/abs/2601.19513)|null|
+|**2026-01-27**|**Masked Diffusion Generative Recommendation**|Lingyu Mu (iie.ac.cn) et.al.|[2601.19501](http://arxiv.org/abs/2601.19501)|null|
+|**2026-01-27**|**Ad Insertion in LLM-Generated Responses**|Shengwei Xu (umich.edu) et.al.|[2601.19435](http://arxiv.org/abs/2601.19435)|null|
+|**2026-01-27**|**Talos: Optimizing Top- $K$ Accuracy in Recommender Systems**|Shengjia Zhang (zju.edu.cn) et.al.|[2601.19276](http://arxiv.org/abs/2601.19276)|**[link](https://github.com/cynthia-shengjia/WWW-2026-Talos)**|
+|**2026-01-27**|**Physics-Informed Neuro-Symbolic Recommender System: A Dual-Physics Approach for Personalized Nutrition**|Chayan Banerjee et.al.|[2601.19244](http://arxiv.org/abs/2601.19244)|null|
+|**2026-01-27**|**HELM: A Human-Centered Evaluation Framework for LLM-Powered Recommender Systems**|Sushant Mehta (gmail.com) et.al.|[2601.19197](http://arxiv.org/abs/2601.19197)|null|
+|**2026-01-27**|**CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation**|Jingyu Li (mail2.sysu.edu.cn) et.al.|[2601.19178](http://arxiv.org/abs/2601.19178)|null|
+|**2026-01-27**|**Length-Adaptive Interest Network for Balancing Long and Short Sequence Modeling in CTR Prediction**|Zhicheng Zhang (mails.tsinghua.edu.cn) et.al.|[2601.19142](http://arxiv.org/abs/2601.19142)|null|
+|**2026-01-27**|**LLMs as Orchestrators: Constraint-Compliant Multi-Agent Optimization for Recommendation Systems**|Guilin Zhang (workday.com) et.al.|[2601.19121](http://arxiv.org/abs/2601.19121)|null|
+|**2026-01-27**|**RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation**|Guilin Zhang (workday.com) et.al.|[2601.19120](http://arxiv.org/abs/2601.19120)|null|
+|**2026-01-26**|**Recommending Composite Items Using Multi-Level Preference Information: A Joint Interaction Modeling Approach**|Xuan Bi (umn.edu) et.al.|[2601.19005](http://arxiv.org/abs/2601.19005)|null|
+|**2026-01-26**|**Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry**|Xueying Du (m.fudan.edu.cn) et.al.|[2601.18844](http://arxiv.org/abs/2601.18844)|null|
 |**2026-01-26**|**Feature-Indexed Federated Recommendation with Residual-Quantized Codebooks**|Mingzhe Han (m.fudan.edu.cn) et.al.|[2601.18570](http://arxiv.org/abs/2601.18570)|null|
 |**2026-01-26**|**Token-level Collaborative Alignment for LLM-based Generative Recommendation**|Fake Lin (mail.ustc.edu.cn) et.al.|[2601.18457](http://arxiv.org/abs/2601.18457)|null|
 |**2026-01-26**|**TopKGAT: A Top-K Objective-Driven Architecture for Recommendation**|Sirui Chen (zju.edu.cn) et.al.|[2601.18432](http://arxiv.org/abs/2601.18432)|**[link](https://github.com/StupidThree/TopKGAT)**|
@@ -1001,6 +1017,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications**|Jin Huang (cam.ac.uk) et.al.|[2601.19761](http://arxiv.org/abs/2601.19761)|null|
+|**2026-01-27**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
+|**2026-01-27**|**LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation**|Chongjun Xia (student.uts.edu.au) et.al.|[2601.19585](http://arxiv.org/abs/2601.19585)|null|
+|**2026-01-27**|**Masked Diffusion Generative Recommendation**|Lingyu Mu (iie.ac.cn) et.al.|[2601.19501](http://arxiv.org/abs/2601.19501)|null|
+|**2026-01-27**|**Ad Insertion in LLM-Generated Responses**|Shengwei Xu (umich.edu) et.al.|[2601.19435](http://arxiv.org/abs/2601.19435)|null|
+|**2026-01-27**|**HELM: A Human-Centered Evaluation Framework for LLM-Powered Recommender Systems**|Sushant Mehta (gmail.com) et.al.|[2601.19197](http://arxiv.org/abs/2601.19197)|null|
+|**2026-01-27**|**LLMs as Orchestrators: Constraint-Compliant Multi-Agent Optimization for Recommendation Systems**|Guilin Zhang (workday.com) et.al.|[2601.19121](http://arxiv.org/abs/2601.19121)|null|
+|**2026-01-27**|**RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation**|Guilin Zhang (workday.com) et.al.|[2601.19120](http://arxiv.org/abs/2601.19120)|null|
+|**2026-01-26**|**Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry**|Xueying Du (m.fudan.edu.cn) et.al.|[2601.18844](http://arxiv.org/abs/2601.18844)|null|
 |**2026-01-26**|**Token-level Collaborative Alignment for LLM-based Generative Recommendation**|Fake Lin (mail.ustc.edu.cn) et.al.|[2601.18457](http://arxiv.org/abs/2601.18457)|null|
 |**2026-01-26**|**A Generative AI-Driven Reliability Layer for Action-Oriented Disaster Resilience**|Geunsik Lim (g.skku.edu) et.al.|[2601.18308](http://arxiv.org/abs/2601.18308)|null|
 |**2026-01-26**|**GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health**|Jiatan Huang (uconn.edu) et.al.|[2601.18106](http://arxiv.org/abs/2601.18106)|null|
@@ -1498,12 +1523,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li (qq.com) et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
+|**2026-01-27**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill (vt.edu) et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
+|**2026-01-27**|**R^3: Replay, Reflection, and Ranking Rewards for LLM Reinforcement Learning**|Zhizheng Jiang (gmail.com) et.al.|[2601.19620](http://arxiv.org/abs/2601.19620)|null|
+|**2026-01-27**|**Benchmarks Saturate When The Model Gets Smarter Than The Judge**|Marthe Ballon (vub.be) et.al.|[2601.19532](http://arxiv.org/abs/2601.19532)|null|
+|**2026-01-27**|**ALRM: Agentic LLM for Robotic Manipulation**|Vitor Gaboardi dos Santos (tii.ae) et.al.|[2601.19510](http://arxiv.org/abs/2601.19510)|null|
+|**2026-01-27**|**Binary Token-Level Classification with DeBERTa for All-Type MWE Identification: A Lightweight Approach with Linguistic Enhancement**|Diego Rossini (usi.ch) et.al.|[2601.19360](http://arxiv.org/abs/2601.19360)|null|
+|**2026-01-27**|**DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models**|Xinlong Chen (nlpr.ia.ac.cn) et.al.|[2601.19267](http://arxiv.org/abs/2601.19267)|**[link](https://diadem-captioner.github.io/)**|
+|**2026-01-27**|**RPO-RAG: Aligning Small LLMs with Relation-aware Preference Optimization for Knowledge Graph Question Answering**|Kaehyun Um (yonsei.ac.kr) et.al.|[2601.19225](http://arxiv.org/abs/2601.19225)|null|
+|**2026-01-27**|**UniPCB: A Unified Vision-Language Benchmark for Open-Ended PCB Quality Inspection**|Fuxiang Sun (mail.szpu.edu.cn) et.al.|[2601.19222](http://arxiv.org/abs/2601.19222)|null|
+|**2026-01-27**|**HELM: A Human-Centered Evaluation Framework for LLM-Powered Recommender Systems**|Sushant Mehta (gmail.com) et.al.|[2601.19197](http://arxiv.org/abs/2601.19197)|null|
+|**2026-01-27**|**Foresight Learning for SEC Risk Prediction**|Benjamin Turtel et.al.|[2601.19189](http://arxiv.org/abs/2601.19189)|**[link](https://github.com/lightning-rod-labs/lightningrod-python-sdk)**|
+|**2026-01-27**|**Native LLM and MLLM Inference at Scale on Apple Silicon**|Wayner Barrios (wiqonn.com) et.al.|[2601.19139](http://arxiv.org/abs/2601.19139)|null|
+|**2026-01-27**|**Who's in Charge? Disempowerment Patterns in Real-World LLM Usage**|Mrinank Sharma (gmail.com) et.al.|[2601.19062](http://arxiv.org/abs/2601.19062)|null|
+|**2026-01-27**|**From Answer Givers to Design Mentors: Guiding LLMs with the Cognitive Apprenticeship Model**|Yongsu Ahn (bc.edu) et.al.|[2601.19053](http://arxiv.org/abs/2601.19053)|null|
+|**2026-01-26**|**Malicious Repurposing of Open Science Artefacts by Using Large Language Models**|Zahra Hashemi (alumni.uni.lu) et.al.|[2601.18998](http://arxiv.org/abs/2601.18998)|null|
+|**2026-01-26**|**LLMs versus the Halting Problem: Revisiting Program Termination Prediction**|Oren Sultan et.al.|[2601.18987](http://arxiv.org/abs/2601.18987)|null|
+|**2026-01-26**|**Tricky $^2$ : Towards a Benchmark for Evaluating Human and LLM Error Interactions**|Cole Granger (wm.edu) et.al.|[2601.18949](http://arxiv.org/abs/2601.18949)|null|
+|**2026-01-26**|**BabyReasoningBench: Generating Developmentally-Inspired Reasoning Tasks for Evaluating Baby Language Models**|Kaustubh D. Dhole (emory.edu) et.al.|[2601.18933](http://arxiv.org/abs/2601.18933)|null|
 |**2026-01-26**|**MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts**|Etienne Lanzeray (inria.fr) et.al.|[2601.18790](http://arxiv.org/abs/2601.18790)|null|
 |**2026-01-26**|**AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning**|Mingyang Song et.al.|[2601.18631](http://arxiv.org/abs/2601.18631)|null|
 |**2026-01-26**|**Assessing the Quality of Mental Health Support in LLM Responses through Multi-Attribute Human Evaluation**|Abeer Badawi et.al.|[2601.18630](http://arxiv.org/abs/2601.18630)|null|
 |**2026-01-26**|**From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**|Yuxin Jiang (huawei.com) et.al.|[2601.18533](http://arxiv.org/abs/2601.18533)|**[link](https://github.com/YJiangcm/RLVRR)**|
 |**2026-01-26**|**Latent Knowledge as a Predictor of Fact Acquisition in Fine-Tuned Large Language Models**|Daniel B. Hier et.al.|[2601.18468](http://arxiv.org/abs/2601.18468)|null|
-|**2026-01-26**|**daVinci-Dev: Agent-native Mid-training for Software Engineering**|Ji Zeng et.al.|[2601.18418](http://arxiv.org/abs/2601.18418)|null|
+|**2026-01-27**|**daVinci-Dev: Agent-native Mid-training for Software Engineering**|Ji Zeng et.al.|[2601.18418](http://arxiv.org/abs/2601.18418)|null|
 |**2026-01-26**|**CitiLink: Enhancing Municipal Transparency and Citizen Engagement through Searchable Meeting Minutes**|Rodrigo Silva (ubi.pt) et.al.|[2601.18374](http://arxiv.org/abs/2601.18374)|null|
 |**2026-01-26**|**Overalignment in Frontier LLMs: An Empirical Study of Sycophantic Behaviour in Healthcare**|Clément Christophe et.al.|[2601.18334](http://arxiv.org/abs/2601.18334)|null|
 |**2026-01-26**|**Suppressing Final Layer Hidden State Jumps in Transformer Pretraining**|Keigo Shibata (grp.tohoku.ac.jp) et.al.|[2601.18302](http://arxiv.org/abs/2601.18302)|null|
