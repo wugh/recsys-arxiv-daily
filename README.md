@@ -1,4 +1,4 @@
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation**|Weixin Chen (comp.hkbu.edu.hk) et.al.|[2601.20848](http://arxiv.org/abs/2601.20848)|**[link](https://github.com/weixinchen98/Cofair)**|
+|**2026-01-28**|**MedViz: An Agent-based, Visual-guided Research Assistant for Navigating Biomedical Literature**|Huan He (yale.edu) et.al.|[2601.20709](http://arxiv.org/abs/2601.20709)|null|
+|**2026-01-28**|**Less is More: Benchmarking LLM Based Recommendation Agents**|Kargi Chauhan (ucsc.edu) et.al.|[2601.20316](http://arxiv.org/abs/2601.20316)|null|
+|**2026-01-28**|**Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches**|Xinyu Li (stu.xmu.edu.cn) et.al.|[2601.20307](http://arxiv.org/abs/2601.20307)|**[link](https://github.com/alimama-tech/OnlineGMV)**|
+|**2026-01-28**|**MALLOC: Benchmarking the Memory-aware Long Sequence Compression for Large Sequential Recommendation**|Qihang Yu (zju.edu.cn) et.al.|[2601.20234](http://arxiv.org/abs/2601.20234)|null|
+|**2026-01-28**|**Towards End-to-End Alignment of User Satisfaction via Questionnaire in Video Recommendation**|Na Li (stu.hit.edu.cn) et.al.|[2601.20215](http://arxiv.org/abs/2601.20215)|null|
+|**2026-01-28**|**MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation**|Jing Yan (bytedance.com) et.al.|[2601.20199](http://arxiv.org/abs/2601.20199)|null|
+|**2026-01-27**|**LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation**|Lee Xiong et.al.|[2601.20083](http://arxiv.org/abs/2601.20083)|null|
+|**2026-01-27**|**Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions**|Mingxuan Luo (stu.xmu.edu.cn) et.al.|[2601.19965](http://arxiv.org/abs/2601.19965)|**[link](https://github.com/alimama-tech/NetCVR)**|
 |**2026-01-27**|**An Interpretable Recommendation Model for Psychometric Data, With an Application to Gerontological Primary Care**|Andre Paulino de Lima et.al.|[2601.19824](http://arxiv.org/abs/2601.19824)|null|
 |**2026-01-27**|**Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications**|Jin Huang (cam.ac.uk) et.al.|[2601.19761](http://arxiv.org/abs/2601.19761)|null|
-|**2026-01-27**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
+|**2026-01-28**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
 |**2026-01-27**|**LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation**|Chongjun Xia (student.uts.edu.au) et.al.|[2601.19585](http://arxiv.org/abs/2601.19585)|null|
 |**2026-01-27**|**Enhancing Academic Paper Recommendations Using Fine-Grained Knowledge Entities and Multifaceted Document Embeddings**|Haixu Xi (njust.edu.cn) et.al.|[2601.19513](http://arxiv.org/abs/2601.19513)|null|
 |**2026-01-27**|**Masked Diffusion Generative Recommendation**|Lingyu Mu (iie.ac.cn) et.al.|[2601.19501](http://arxiv.org/abs/2601.19501)|null|
@@ -1018,14 +1027,18 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**MedViz: An Agent-based, Visual-guided Research Assistant for Navigating Biomedical Literature**|Huan He (yale.edu) et.al.|[2601.20709](http://arxiv.org/abs/2601.20709)|null|
+|**2026-01-28**|**Less is More: Benchmarking LLM Based Recommendation Agents**|Kargi Chauhan (ucsc.edu) et.al.|[2601.20316](http://arxiv.org/abs/2601.20316)|null|
+|**2026-01-28**|**MALLOC: Benchmarking the Memory-aware Long Sequence Compression for Large Sequential Recommendation**|Qihang Yu (zju.edu.cn) et.al.|[2601.20234](http://arxiv.org/abs/2601.20234)|null|
+|**2026-01-27**|**LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation**|Lee Xiong et.al.|[2601.20083](http://arxiv.org/abs/2601.20083)|null|
 |**2026-01-27**|**Reimagining Social Robots as Recommender Systems: Foundations, Framework, and Applications**|Jin Huang (cam.ac.uk) et.al.|[2601.19761](http://arxiv.org/abs/2601.19761)|null|
-|**2026-01-27**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
+|**2026-01-28**|**Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues**|Junchen Fu (research.gla.ac.uk) et.al.|[2601.19750](http://arxiv.org/abs/2601.19750)|null|
 |**2026-01-27**|**LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation**|Chongjun Xia (student.uts.edu.au) et.al.|[2601.19585](http://arxiv.org/abs/2601.19585)|null|
 |**2026-01-27**|**Masked Diffusion Generative Recommendation**|Lingyu Mu (iie.ac.cn) et.al.|[2601.19501](http://arxiv.org/abs/2601.19501)|null|
 |**2026-01-27**|**Ad Insertion in LLM-Generated Responses**|Shengwei Xu (umich.edu) et.al.|[2601.19435](http://arxiv.org/abs/2601.19435)|null|
@@ -1526,15 +1539,40 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li (qq.com) et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
-|**2026-01-27**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill (vt.edu) et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
-|**2026-01-27**|**R^3: Replay, Reflection, and Ranking Rewards for LLM Reinforcement Learning**|Zhizheng Jiang (gmail.com) et.al.|[2601.19620](http://arxiv.org/abs/2601.19620)|null|
+|**2026-01-28**|**When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation**|David Tan (stud.uni-saarland.de) et.al.|[2601.20858](http://arxiv.org/abs/2601.20858)|**[link](http://github.com/Mr-Ao-25/cross-ling-contamination)**|
+|**2026-01-28**|**Deep Researcher with Sequential Plan Reflection and Candidates Crossover (Deep Researcher Reflect Evolve)**|Saurav Prateek et.al.|[2601.20843](http://arxiv.org/abs/2601.20843)|**[link](https://github.com/SauravP97/deep-researcher-reflect-evolve/)**|
+|**2026-01-28**|**Reward Models Inherit Value Biases from Pretraining**|Brian Christian et.al.|[2601.20838](http://arxiv.org/abs/2601.20838)|null|
+|**2026-01-28**|**Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning in Few-Shot Relation Extraction**|Aunabil Chakma (arizona.edu) et.al.|[2601.20803](http://arxiv.org/abs/2601.20803)|null|
+|**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang (pku.edu.cn) et.al.|[2601.20745](http://arxiv.org/abs/2601.20745)|**[link](https://github.com/hestia2026/Hestia)**|
+|**2026-01-28**|**Structurally Human, Semantically Biased: Detecting LLM-Generated References with Embeddings and GNNs**|Melika Mobini (vub.be) et.al.|[2601.20704](http://arxiv.org/abs/2601.20704)|null|
+|**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo (163.com) et.al.|[2601.20679](http://arxiv.org/abs/2601.20679)|null|
+|**2026-01-28**|**AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios**|Kaiyuan Chen (xbench.org) et.al.|[2601.20613](http://arxiv.org/abs/2601.20613)|null|
+|**2026-01-28**|**Dialogical Reasoning Across AI Architectures: A Multi-Model Framework for Testing AI Alignment Strategies**|Gray Cox (coa.edu) et.al.|[2601.20604](http://arxiv.org/abs/2601.20604)|**[link](https://github.com/jgraycox-coa/vcw-multi-ai-dialogue)**|
+|**2026-01-28**|**Policy of Thoughts: Scaling LLM Reasoning via Test-time Policy Evolution**|Zhengbo Jiao et.al.|[2601.20379](http://arxiv.org/abs/2601.20379)|null|
+|**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Brian Y. Tsui (gmail.com) et.al.|[2601.20334](http://arxiv.org/abs/2601.20334)|**[link](https://github.com/robiemusketeer/faea-sim)**|
+|**2026-01-28**|**Beyond Speedup -- Utilizing KV Cache for Sampling and Reasoning**|Zeyu Xing (link.cuhk.edu.hk) et.al.|[2601.20326](http://arxiv.org/abs/2601.20326)|**[link](https://github.com/cmd2001/ICLR2026_KV-Embedding)**|
+|**2026-01-28**|**Less is More: Benchmarking LLM Based Recommendation Agents**|Kargi Chauhan (ucsc.edu) et.al.|[2601.20316](http://arxiv.org/abs/2601.20316)|null|
+|**2026-01-28**|**Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis**|Zixuan Xiao (connect.hku.hk) et.al.|[2601.20206](http://arxiv.org/abs/2601.20206)|null|
+|**2026-01-28**|**What's the plan? Metrics for implicit planning in LLMs and their application to rhyme generation and question answering**|Jim Maar (hpi-alumni.de) et.al.|[2601.20164](http://arxiv.org/abs/2601.20164)|**[link](https://github.com/Jim-Maar/implicit-planning-in-llms)**|
+|**2026-01-28**|**Large language models accurately predict public perceptions of support for climate action worldwide**|Nattavudh Powdthavee et.al.|[2601.20141](http://arxiv.org/abs/2601.20141)|null|
+|**2026-01-27**|**Rewarding Intellectual Humility Learning When Not To Answer In Large Language Models**|Abha Jha (usc.edu) et.al.|[2601.20126](http://arxiv.org/abs/2601.20126)|**[link](https://github.com/Mystic-Slice/rl-abstention)**|
+|**2026-01-27**|**Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis**|Darshan Deshpande (patronus.ai) et.al.|[2601.20103](http://arxiv.org/abs/2601.20103)|null|
+|**2026-01-27**|**Counterfactual Cultural Cues Reduce Medical QA Accuracy in LLMs: Identifier vs Context Effects**|Amirhossein Haji Mohammad Rezaei (mail.utoronto.ca) et.al.|[2601.20102](http://arxiv.org/abs/2601.20102)|null|
+|**2026-01-27**|**Dynamics of Human-AI Collective Knowledge on the Web: A Scalable Model and Insights for Sustainable Growth**|Buddhika Nettasinghe (uiowa.edu) et.al.|[2601.20099](http://arxiv.org/abs/2601.20099)|null|
+|**2026-01-27**|**Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery**|Meng Xin (nvidia.com) et.al.|[2601.20088](http://arxiv.org/abs/2601.20088)|null|
+|**2026-01-27**|**VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning**|Vikash Singh et.al.|[2601.20055](http://arxiv.org/abs/2601.20055)|null|
+|**2026-01-27**|**Semantic Uncertainty Quantification of Hallucinations in LLMs: A Quantum Tensor Network Based Method**|Pragatheeswaran Vipulanandan (miami.edu) et.al.|[2601.20026](http://arxiv.org/abs/2601.20026)|null|
+|**2026-01-27**|**LinguaMap: Which Layers of LLMs Speak Your Language and How to Tune Them?**|J. Ben Tamo (gatech.edu) et.al.|[2601.20009](http://arxiv.org/abs/2601.20009)|null|
+|**2026-01-27**|**Benchmarking LLAMA Model Security Against OWASP Top 10 For LLM Applications**|Nourin Shahin (tamusa.edu) et.al.|[2601.19970](http://arxiv.org/abs/2601.19970)|null|
+|**2026-01-28**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li (163.com) et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
+|**2026-01-28**|**ProToken: Token-Level Attribution for Federated Large Language Models**|Waris Gill (vt.edu) et.al.|[2601.19672](http://arxiv.org/abs/2601.19672)|null|
+|**2026-01-28**|**R^3: Replay, Reflection, and Ranking Rewards for LLM Reinforcement Learning**|Zhizheng Jiang (gmail.com) et.al.|[2601.19620](http://arxiv.org/abs/2601.19620)|null|
 |**2026-01-27**|**Benchmarks Saturate When The Model Gets Smarter Than The Judge**|Marthe Ballon (vub.be) et.al.|[2601.19532](http://arxiv.org/abs/2601.19532)|null|
 |**2026-01-27**|**ALRM: Agentic LLM for Robotic Manipulation**|Vitor Gaboardi dos Santos (tii.ae) et.al.|[2601.19510](http://arxiv.org/abs/2601.19510)|null|
 |**2026-01-27**|**Binary Token-Level Classification with DeBERTa for All-Type MWE Identification: A Lightweight Approach with Linguistic Enhancement**|Diego Rossini (usi.ch) et.al.|[2601.19360](http://arxiv.org/abs/2601.19360)|null|
@@ -3907,7 +3945,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
