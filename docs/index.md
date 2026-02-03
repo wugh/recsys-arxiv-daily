@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs**|Yu Liang (csu.edu.cn) et.al.|[2602.02338](http://arxiv.org/abs/2602.02338)|**[link](https://github.com/FuCongResearchSquad/ReSID)**|
+|**2026-02-02**|**Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models**|Yu Zeng (gmail.com) et.al.|[2602.02185](http://arxiv.org/abs/2602.02185)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
+|**2026-02-02**|**Active learning from positive and unlabeled examples**|Farnam Mansouri (uwaterloo.ca) et.al.|[2602.02081](http://arxiv.org/abs/2602.02081)|null|
+|**2026-02-02**|**One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation**|Shuo Lu (gmail.com) et.al.|[2602.02033](http://arxiv.org/abs/2602.02033)|**[link](https://github.com/JD-GenX/OSMF)**|
+|**2026-02-02**|**Adaptive Quality-Diversity Trade-offs for Large-Scale Batch Recommendation**|Clémence Réda (bio.ens.psl.eu) et.al.|[2602.02024](http://arxiv.org/abs/2602.02024)|null|
+|**2026-02-01**|**Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning**|Yu Xu (gmail.com) et.al.|[2602.01335](http://arxiv.org/abs/2602.01335)|null|
+|**2026-02-01**|**Dynamic Prior Thompson Sampling for Cold-Start Exploration in Recommender Systems**|Zhenyu Zhao (roblox.com) et.al.|[2602.00943](http://arxiv.org/abs/2602.00943)|null|
+|**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib (ucsd.edu) et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
+|**2026-01-31**|**RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment**|Yuecheng Li (kuaishou.com) et.al.|[2602.00682](http://arxiv.org/abs/2602.00682)|**[link](https://github.com/6lyc/RecGOAT-LLM4Rec)**|
+|**2026-01-30**|**Subspace Clustering on Incomplete Data with Self-Supervised Contrastive Learning**|Huanran Li (wisc.edu) et.al.|[2602.00262](http://arxiv.org/abs/2602.00262)|null|
 |**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
 |**2026-01-30**|**User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering**|Arya Hadizadeh Moghaddam (ku.edu) et.al.|[2601.22820](http://arxiv.org/abs/2601.22820)|null|
 |**2026-01-30**|**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**|Zhen Zhao (bytedance.com) et.al.|[2601.22694](http://arxiv.org/abs/2601.22694)|null|
@@ -1038,6 +1048,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs**|Yu Liang (csu.edu.cn) et.al.|[2602.02338](http://arxiv.org/abs/2602.02338)|**[link](https://github.com/FuCongResearchSquad/ReSID)**|
+|**2026-02-02**|**Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models**|Yu Zeng (gmail.com) et.al.|[2602.02185](http://arxiv.org/abs/2602.02185)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
+|**2026-02-02**|**One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation**|Shuo Lu (gmail.com) et.al.|[2602.02033](http://arxiv.org/abs/2602.02033)|**[link](https://github.com/JD-GenX/OSMF)**|
+|**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib (ucsd.edu) et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
+|**2026-01-31**|**RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment**|Yuecheng Li (kuaishou.com) et.al.|[2602.00682](http://arxiv.org/abs/2602.00682)|**[link](https://github.com/6lyc/RecGOAT-LLM4Rec)**|
 |**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
 |**2026-01-30**|**PersonaAct: Simulating Short-Video Users with Personalized Agents for Counterfactual Filter Bubble Auditing**|Shilong Zhao (126.com) et.al.|[2601.22547](http://arxiv.org/abs/2601.22547)|null|
 |**2026-01-29**|**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**|Wenxuan Huang (gmail.com) et.al.|[2601.22060](http://arxiv.org/abs/2601.22060)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
@@ -1554,6 +1569,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen (columbia.edu) et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
+|**2026-02-02**|**From Directions to Regions: Decomposing Activations in Language Models via Local Geometry**|Or Shafran (mail.tau.ac.il) et.al.|[2602.02464](http://arxiv.org/abs/2602.02464)|null|
+|**2026-02-02**|**Misconception Diagnosis From Student-Tutor Dialogue: Generate, Retrieve, Rerank**|Joshua Mitton et.al.|[2602.02414](http://arxiv.org/abs/2602.02414)|null|
+|**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen (cerebrnita.com) et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
+|**2026-02-02**|**The Shape of Beliefs: Geometry, Dynamics, and Interventions along Representation Manifolds of Language Models' Posteriors**|Raphaël Sarfati (goodfire.ai) et.al.|[2602.02315](http://arxiv.org/abs/2602.02315)|null|
+|**2026-02-02**|**OmniCode: A Benchmark for Evaluating Software Engineering Agents**|Atharv Sonwane (cornell.edu) et.al.|[2602.02262](http://arxiv.org/abs/2602.02262)|**[link](https://github.com/seal-research/OmniCode)**|
+|**2026-02-02**|**Fat-Cat: Document-Driven Metacognitive Multi-Agent System for Complex Reasoning**|Tong Yang (gmail.com) et.al.|[2602.02206](http://arxiv.org/abs/2602.02206)|**[link](https://github.com/answeryt/Fat-Cat)**|
+|**2026-02-02**|**Evaluating Metalinguistic Knowledge in Large Language Models across the World's Languages**|Tjaša Arčon (fri.uni-lj.si) et.al.|[2602.02182](http://arxiv.org/abs/2602.02182)|null|
+|**2026-02-02**|**Revisiting Adaptive Rounding with Vectorized Reparameterization for LLM Quantization**|Yuli Zhou (gmail.com) et.al.|[2602.02151](http://arxiv.org/abs/2602.02151)|**[link](https://github.com/zhoustan/VQRound)**|
+|**2026-02-02**|**Dicta-LM 3.0: Advancing The Frontier of Hebrew Sovereign LLMs**|Shaltiel Shmidman (dicta.org.il) et.al.|[2602.02104](http://arxiv.org/abs/2602.02104)|null|
+|**2026-02-02**|**Canonical Intermediate Representation for LLM-based optimization problem formulation and code generation**|Zhongyuan Lyu (polyu.edu.hk) et.al.|[2602.02029](http://arxiv.org/abs/2602.02029)|null|
+|**2026-02-02**|**Large Language Model and Formal Concept Analysis: a comparative study for Topic Modeling**|Fabrice Boissier (efrits.fr) et.al.|[2602.01933](http://arxiv.org/abs/2602.01933)|null|
+|**2026-02-02**|**Geometric Analysis of Token Selection in Multi-Head Attention**|Timur Mudarisov (uni.lu) et.al.|[2602.01893](http://arxiv.org/abs/2602.01893)|null|
+|**2026-02-02**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim (kaist.ac.kr) et.al.|[2602.01757](http://arxiv.org/abs/2602.01757)|null|
+|**2026-02-02**|**MACD: Model-Aware Contrastive Decoding via Counterfactual Data**|Qixin Xiao (umich.edu) et.al.|[2602.01740](http://arxiv.org/abs/2602.01740)|null|
+|**2026-02-02**|**COMI: Coarse-to-fine Context Compression via Marginal Information Gain**|Jiwei Tang (gmail.com) et.al.|[2602.01719](http://arxiv.org/abs/2602.01719)|null|
+|**2026-02-02**|**MedAraBench: Large-Scale Arabic Medical Question Answering Dataset and Benchmark**|Mouath Abu-Daoud (nyu.edu) et.al.|[2602.01714](http://arxiv.org/abs/2602.01714)|null|
+|**2026-02-02**|**What LLMs Think When You Don't Tell Them What to Think About?**|Yongchan Kwon (stanford.edu) et.al.|[2602.01689](http://arxiv.org/abs/2602.01689)|null|
+|**2026-02-02**|**The Strategic Foresight of LLMs: Evidence from a Fully Prospective Venture Tournament**|Felipe A. Csaszar (umich.edu) et.al.|[2602.01684](http://arxiv.org/abs/2602.01684)|null|
+|**2026-02-02**|**TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios**|Yuanzhe Shen (meituan.com) et.al.|[2602.01675](http://arxiv.org/abs/2602.01675)|null|
+|**2026-02-02**|**Provable Defense Framework for LLM Jailbreaks via Noise-Augumented Alignment**|Zehua Cheng (cs.ox.ac.uk) et.al.|[2602.01587](http://arxiv.org/abs/2602.01587)|null|
+|**2026-02-02**|**You Need an Encoder for Native Position-Independent Caching**|Shiju Zhao et.al.|[2602.01519](http://arxiv.org/abs/2602.01519)|**[link](https://github.com/shijuzhao/Comb)**|
+|**2026-02-01**|**P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**|Mude Hui (amazon.com) et.al.|[2602.01469](http://arxiv.org/abs/2602.01469)|null|
+|**2026-02-01**|**SNIP: An Adaptive Mixed Precision Framework for Subbyte Large Language Model Training**|Yunjie Pan (umich.edu) et.al.|[2602.01410](http://arxiv.org/abs/2602.01410)|null|
+|**2026-02-01**|**PromptRL: Prompt Matters in RL for Flow-Based Image Generation**|Fu-Yun Wang (gmail.com) et.al.|[2602.01382](http://arxiv.org/abs/2602.01382)|**[link](https://github.com/G-U-N/UniRL)**|
+|**2026-02-01**|**A-MapReduce: Executing Wide Search via Agentic MapReduce**|Mingju Chen (buaa.edu.cn) et.al.|[2602.01331](http://arxiv.org/abs/2602.01331)|**[link](https://github.com/mingju-c/AMapReduce)**|
+|**2026-02-01**|**ASTER: Agentic Scaling with Tool-integrated Extended Reasoning**|Xuqin Zhang (gmail.com) et.al.|[2602.01204](http://arxiv.org/abs/2602.01204)|null|
+|**2026-02-01**|**Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse**|Zizhuo Fu (pku.edu.cn) et.al.|[2602.01203](http://arxiv.org/abs/2602.01203)|null|
+|**2026-02-01**|**Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models**|Zhiming Liu (stu.hit.edu.cn) et.al.|[2602.01167](http://arxiv.org/abs/2602.01167)|null|
+|**2026-02-01**|**Beyond Training for Cultural Awareness: The Role of Dataset Linguistic Structure in Large Language Models**|Reem I. Masoud (ucl.ac.uk) et.al.|[2602.01161](http://arxiv.org/abs/2602.01161)|null|
 |**2026-01-30**|**TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training**|Ruijie Zhang (ece.ucsb.edu) et.al.|[2601.23261](http://arxiv.org/abs/2601.23261)|null|
 |**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu (illinois.edu) et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
 |**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing (illinois.edu) et.al.|[2601.23204](http://arxiv.org/abs/2601.23204)|null|
