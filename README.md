@@ -1,4 +1,4 @@
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals**|Moritz Vandenhirtz (inf.ethz.ch) et.al.|[2602.03713](http://arxiv.org/abs/2602.03713)|null|
+|**2026-02-03**|**Controlling Output Rankings in Generative Engines for LLM-based Search**|Haibo Jin (illinois.edu) et.al.|[2602.03608](http://arxiv.org/abs/2602.03608)|null|
+|**2026-02-03**|**Rank-Learner: Orthogonal Ranking of Treatment Effects**|Henri Arno (ugent.be) et.al.|[2602.03517](http://arxiv.org/abs/2602.03517)|null|
+|**2026-02-03**|**AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation**|Wenxin Ye (whut.edu.cn) et.al.|[2602.03416](http://arxiv.org/abs/2602.03416)|null|
+|**2026-02-03**|**SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**|Chao Chen (alibaba-inc.com) et.al.|[2602.03324](http://arxiv.org/abs/2602.03324)|null|
+|**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang (pinterest.com) et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|null|
+|**2026-02-02**|**Recommender system in X inadvertently profiles ideological positions of users**|Paul Bouchaud (cnrs.fr) et.al.|[2602.02624](http://arxiv.org/abs/2602.02624)|null|
+|**2026-01-31**|**Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems**|Chandan Kumar Sah (buaa.edu.cn) et.al.|[2602.02582](http://arxiv.org/abs/2602.02582)|null|
 |**2026-02-02**|**Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs**|Yu Liang (csu.edu.cn) et.al.|[2602.02338](http://arxiv.org/abs/2602.02338)|**[link](https://github.com/FuCongResearchSquad/ReSID)**|
 |**2026-02-02**|**Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models**|Yu Zeng (gmail.com) et.al.|[2602.02185](http://arxiv.org/abs/2602.02185)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
 |**2026-02-02**|**Active learning from positive and unlabeled examples**|Farnam Mansouri (uwaterloo.ca) et.al.|[2602.02081](http://arxiv.org/abs/2602.02081)|null|
@@ -24,7 +32,7 @@
 |**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib (ucsd.edu) et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
 |**2026-01-31**|**RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment**|Yuecheng Li (kuaishou.com) et.al.|[2602.00682](http://arxiv.org/abs/2602.00682)|**[link](https://github.com/6lyc/RecGOAT-LLM4Rec)**|
 |**2026-01-30**|**Subspace Clustering on Incomplete Data with Self-Supervised Contrastive Learning**|Huanran Li (wisc.edu) et.al.|[2602.00262](http://arxiv.org/abs/2602.00262)|null|
-|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-02-03**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
 |**2026-01-30**|**User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering**|Arya Hadizadeh Moghaddam (ku.edu) et.al.|[2601.22820](http://arxiv.org/abs/2601.22820)|null|
 |**2026-01-30**|**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**|Zhen Zhao (bytedance.com) et.al.|[2601.22694](http://arxiv.org/abs/2601.22694)|null|
 |**2026-01-30**|**PersonaAct: Simulating Short-Video Users with Personalized Agents for Counterfactual Filter Bubble Auditing**|Shilong Zhao (126.com) et.al.|[2601.22547](http://arxiv.org/abs/2601.22547)|null|
@@ -1049,18 +1057,22 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Controlling Output Rankings in Generative Engines for LLM-based Search**|Haibo Jin (illinois.edu) et.al.|[2602.03608](http://arxiv.org/abs/2602.03608)|null|
+|**2026-02-03**|**AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation**|Wenxin Ye (whut.edu.cn) et.al.|[2602.03416](http://arxiv.org/abs/2602.03416)|null|
+|**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang (pinterest.com) et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|null|
+|**2026-01-31**|**Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems**|Chandan Kumar Sah (buaa.edu.cn) et.al.|[2602.02582](http://arxiv.org/abs/2602.02582)|null|
 |**2026-02-02**|**Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs**|Yu Liang (csu.edu.cn) et.al.|[2602.02338](http://arxiv.org/abs/2602.02338)|**[link](https://github.com/FuCongResearchSquad/ReSID)**|
 |**2026-02-02**|**Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models**|Yu Zeng (gmail.com) et.al.|[2602.02185](http://arxiv.org/abs/2602.02185)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
 |**2026-02-02**|**One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation**|Shuo Lu (gmail.com) et.al.|[2602.02033](http://arxiv.org/abs/2602.02033)|**[link](https://github.com/JD-GenX/OSMF)**|
 |**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib (ucsd.edu) et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
 |**2026-01-31**|**RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment**|Yuecheng Li (kuaishou.com) et.al.|[2602.00682](http://arxiv.org/abs/2602.00682)|**[link](https://github.com/6lyc/RecGOAT-LLM4Rec)**|
-|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-02-03**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
 |**2026-01-30**|**PersonaAct: Simulating Short-Video Users with Personalized Agents for Counterfactual Filter Bubble Auditing**|Shilong Zhao (126.com) et.al.|[2601.22547](http://arxiv.org/abs/2601.22547)|null|
 |**2026-01-29**|**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**|Wenxuan Huang (gmail.com) et.al.|[2601.22060](http://arxiv.org/abs/2601.22060)|**[link](https://github.com/Osilly/Vision-DeepResearch)**|
 |**2026-01-29**|**Thinking Broad, Acting Fast: Latent Reasoning Distillation from Multi-Perspective Chain-of-Thought for E-Commerce Relevance**|Baopu Qiu (alibaba-inc.com) et.al.|[2601.21611](http://arxiv.org/abs/2601.21611)|null|
@@ -1572,12 +1584,39 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff (google.com) et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
+|**2026-02-03**|**Cognitively Diverse Multiple-Choice Question Generation: A Hybrid Multi-Agent Framework with Large Language Models**|Yu Tian (asu.edu) et.al.|[2602.03704](http://arxiv.org/abs/2602.03704)|null|
+|**2026-02-03**|**Anytime Pretraining: Horizon-Free Learning-Rate Schedules with Weight Averaging**|Alexandru Meterez (g.harvard.edu) et.al.|[2602.03702](http://arxiv.org/abs/2602.03702)|null|
+|**2026-02-03**|**Can LLMs Do Rocket Science? Exploring the Limits of Complex Reasoning with GTOC 12**|Iñaki del Campo (upm.es) et.al.|[2602.03630](http://arxiv.org/abs/2602.03630)|null|
+|**2026-02-03**|**Controlling Output Rankings in Generative Engines for LLM-based Search**|Haibo Jin (illinois.edu) et.al.|[2602.03608](http://arxiv.org/abs/2602.03608)|null|
+|**2026-02-03**|**CL-bench: A Benchmark for Context Learning**|Shihan Dou (foxmail.com) et.al.|[2602.03587](http://arxiv.org/abs/2602.03587)|null|
+|**2026-02-03**|**Can Large Language Models Generalize Procedures Across Representations?**|Fangru Lin et.al.|[2602.03542](http://arxiv.org/abs/2602.03542)|null|
+|**2026-02-03**|**When Routing Collapses: On the Degenerate Convergence of LLM Routers**|Guannan Lai (lamda.nju.edu.cn) et.al.|[2602.03478](http://arxiv.org/abs/2602.03478)|**[link](https://github.com/AIGNLAI/EquiRouter)**|
+|**2026-02-03**|**Socratic-Geo: Synthetic Data Generation and Geometric Reasoning via Multi-Agent Interaction**|Zhengbo Jiao (outlook.com) et.al.|[2602.03414](http://arxiv.org/abs/2602.03414)|null|
+|**2026-02-03**|**PEGRL: Improving Machine Translation by Post-Editing Guided Reinforcement Learning**|Yunzhi Shen (smail.nju.edu.cn) et.al.|[2602.03352](http://arxiv.org/abs/2602.03352)|null|
+|**2026-02-03**|**POP: Prefill-Only Pruning for Efficient Large Model Inference**|Junhui He et.al.|[2602.03295](http://arxiv.org/abs/2602.03295)|null|
+|**2026-02-03**|**Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis**|Zhengbo Jiao (outlook.com) et.al.|[2602.03279](http://arxiv.org/abs/2602.03279)|null|
+|**2026-02-03**|**Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch**|Hyunwoo Kim et.al.|[2602.03183](http://arxiv.org/abs/2602.03183)|**[link](https://privasis.github.io)**|
+|**2026-02-03**|**Self-Hinting Language Models Enhance Reinforcement Learning**|Baohao Liao (microsoft.com) et.al.|[2602.03143](http://arxiv.org/abs/2602.03143)|**[link](https://github.com/BaohaoLiao/SAGE)**|
+|**2026-02-03**|**The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models**|Yitong Zhang et.al.|[2602.03107](http://arxiv.org/abs/2602.03107)|null|
+|**2026-02-03**|**Task--Specificity Score: Measuring How Much Instructions Really Matter for Supervision**|Pritam Kadasi (iitgn.ac.in) et.al.|[2602.03103](http://arxiv.org/abs/2602.03103)|null|
+|**2026-02-03**|**Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation**|Bo Yuan (gatech.edu) et.al.|[2602.03045](http://arxiv.org/abs/2602.03045)|null|
+|**2026-02-03**|**RC-GRPO: Reward-Conditioned Group Relative Policy Optimization for Multi-Turn Tool Calling Agents**|Haitian Zhong (microsoft.com) et.al.|[2602.03025](http://arxiv.org/abs/2602.03025)|null|
+|**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang (pinterest.com) et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|null|
+|**2026-02-03**|**Equal Access, Unequal Interaction: A Counterfactual Audit of LLM Fairness**|Alireza Amiri-Margavi (pitt.edu) et.al.|[2602.02932](http://arxiv.org/abs/2602.02932)|null|
+|**2026-02-02**|**FIRE-Bench: Evaluating Agents on the Rediscovery of Scientific Insights**|Zhen Wang (gmail.com) et.al.|[2602.02905](http://arxiv.org/abs/2602.02905)|null|
+|**2026-02-02**|**TraceNAS: Zero-shot LLM Pruning via Gradient Trace Correlation**|Prajna G. Malettira (purdue.edu) et.al.|[2602.02891](http://arxiv.org/abs/2602.02891)|null|
+|**2026-02-02**|**Late-Stage Generalization Collapse in Grokking: Detecting anti-grokking with Weightwatcher**|Hari K Prakash (ucsd.edu) et.al.|[2602.02859](http://arxiv.org/abs/2602.02859)|null|
+|**2026-02-02**|**Chain of Simulation: A Dual-Mode Reasoning Framework for Large Language Models with Dynamic Problem Routing**|Saeid Sheikhi (oulu.fi) et.al.|[2602.02842](http://arxiv.org/abs/2602.02842)|null|
+|**2026-02-02**|**Towards Understanding Steering Strength**|Magamed Taimeskhanov et.al.|[2602.02712](http://arxiv.org/abs/2602.02712)|null|
+|**2026-02-02**|**A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior**|Harry Mayne (google.com) et.al.|[2602.02639](http://arxiv.org/abs/2602.02639)|null|
+|**2026-02-02**|**Performance of Small Language Model Pretraining on FABRIC: An Empirical Study**|Praveen Rao (missouri.edu) et.al.|[2602.02632](http://arxiv.org/abs/2602.02632)|null|
 |**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen (columbia.edu) et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
 |**2026-02-02**|**From Directions to Regions: Decomposing Activations in Language Models via Local Geometry**|Or Shafran (mail.tau.ac.il) et.al.|[2602.02464](http://arxiv.org/abs/2602.02464)|null|
 |**2026-02-02**|**Misconception Diagnosis From Student-Tutor Dialogue: Generate, Retrieve, Rerank**|Joshua Mitton et.al.|[2602.02414](http://arxiv.org/abs/2602.02414)|null|
@@ -4068,7 +4107,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
