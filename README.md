@@ -1,4 +1,4 @@
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,11 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation**|Aleksandr Poslavsky (vk.com) et.al.|[2602.04567](http://arxiv.org/abs/2602.04567)|null|
+|**2026-02-04**|**DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan**|Junwei Yin (meituan.com) et.al.|[2602.04460](http://arxiv.org/abs/2602.04460)|null|
+|**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
+|**2026-02-04**|**A Bandit-Based Approach to Educational Recommender Systems: Contextual Thompson Sampling for Learner Skill Gain Optimization**|Lukas De Kerpel (ugent.be) et.al.|[2602.04347](http://arxiv.org/abs/2602.04347)|null|
+|**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang (connect.polyu.hk) et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
+|**2026-02-04**|**Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM**|Yinan Zhang (ntu.edu.sg) et.al.|[2602.04225](http://arxiv.org/abs/2602.04225)|null|
 |**2026-02-03**|**Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals**|Moritz Vandenhirtz (inf.ethz.ch) et.al.|[2602.03713](http://arxiv.org/abs/2602.03713)|null|
 |**2026-02-03**|**Controlling Output Rankings in Generative Engines for LLM-based Search**|Haibo Jin (illinois.edu) et.al.|[2602.03608](http://arxiv.org/abs/2602.03608)|null|
 |**2026-02-03**|**Rank-Learner: Orthogonal Ranking of Treatment Effects**|Henri Arno (ugent.be) et.al.|[2602.03517](http://arxiv.org/abs/2602.03517)|null|
 |**2026-02-03**|**AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation**|Wenxin Ye (whut.edu.cn) et.al.|[2602.03416](http://arxiv.org/abs/2602.03416)|null|
-|**2026-02-03**|**SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**|Chao Chen (alibaba-inc.com) et.al.|[2602.03324](http://arxiv.org/abs/2602.03324)|null|
+|**2026-02-04**|**SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation**|Chao Chen (alibaba-inc.com) et.al.|[2602.03324](http://arxiv.org/abs/2602.03324)|null|
 |**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang (pinterest.com) et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|null|
 |**2026-02-02**|**Recommender system in X inadvertently profiles ideological positions of users**|Paul Bouchaud (cnrs.fr) et.al.|[2602.02624](http://arxiv.org/abs/2602.02624)|null|
 |**2026-01-31**|**Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems**|Chandan Kumar Sah (buaa.edu.cn) et.al.|[2602.02582](http://arxiv.org/abs/2602.02582)|null|
@@ -1057,12 +1063,16 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan**|Junwei Yin (meituan.com) et.al.|[2602.04460](http://arxiv.org/abs/2602.04460)|null|
+|**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
+|**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang (connect.polyu.hk) et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
+|**2026-02-04**|**Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM**|Yinan Zhang (ntu.edu.sg) et.al.|[2602.04225](http://arxiv.org/abs/2602.04225)|null|
 |**2026-02-03**|**Controlling Output Rankings in Generative Engines for LLM-based Search**|Haibo Jin (illinois.edu) et.al.|[2602.03608](http://arxiv.org/abs/2602.03608)|null|
 |**2026-02-03**|**AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation**|Wenxin Ye (whut.edu.cn) et.al.|[2602.03416](http://arxiv.org/abs/2602.03416)|null|
 |**2026-02-03**|**Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth**|Faye Zhang (pinterest.com) et.al.|[2602.02961](http://arxiv.org/abs/2602.02961)|null|
@@ -1584,12 +1594,29 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|null|
+|**2026-02-04**|**Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases**|Casey Ford et.al.|[2602.04739](http://arxiv.org/abs/2602.04739)|null|
+|**2026-02-04**|**"Be My Cheese?": Cultural Nuance Benchmarking for Machine Translation in Multilingual LLMs**|Madison Van Doren et.al.|[2602.04729](http://arxiv.org/abs/2602.04729)|null|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang (ikmz.uzh.ch) et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|null|
+|**2026-02-04**|**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**|Zelai Xu (gmail.com) et.al.|[2602.04634](http://arxiv.org/abs/2602.04634)|null|
+|**2026-02-04**|**Can LLMs capture stable human-generated sentence entropy measures?**|Estrella Pivel-Villanueva (tum.de) et.al.|[2602.04570](http://arxiv.org/abs/2602.04570)|null|
+|**2026-02-04**|**Deconstructing sentence disambiguation by joint latent modeling of reading paradigms: LLM surprisal is not enough**|Dario Paape (uni-potsdam.de) et.al.|[2602.04489](http://arxiv.org/abs/2602.04489)|null|
+|**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni (unibo.it) et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
+|**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
+|**2026-02-04**|**Evaluating the Presence of Sex Bias in Clinical Reasoning by Large Language Models**|Isabel Tsintsiper (wrh.ox.ac.uk) et.al.|[2602.04392](http://arxiv.org/abs/2602.04392)|null|
+|**2026-02-04**|**Disentangling Causal Importance from Emergent Structure in Multi-Expert Orchestration**|Sudipto Ghosh (scai.iitd.ac.in) et.al.|[2602.04291](http://arxiv.org/abs/2602.04291)|null|
+|**2026-02-04**|**Thickening-to-Thinning: Reward Shaping via Human-Inspired Learning Dynamics for LLM Reasoning**|Wenze Lin (tsinghua.edu.cn) et.al.|[2602.04265](http://arxiv.org/abs/2602.04265)|null|
+|**2026-02-04**|**Interfaze: The Future of AI is built on Task-Specific Small Models**|Harsha Vardhan Khurdula (jigsawstack.com) et.al.|[2602.04101](http://arxiv.org/abs/2602.04101)|null|
+|**2026-02-03**|**Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL**|Xiaofeng Lin (bu.edu) et.al.|[2602.04089](http://arxiv.org/abs/2602.04089)|**[link](https://github.com/XiaofengLin7/ORBIT)**|
+|**2026-02-03**|**Nemotron ColEmbed V2: Top-Performing Late Interaction embedding models for Visual Document Retrieval**|Gabriel de Souza P. Moreira (nvidia.com) et.al.|[2602.03992](http://arxiv.org/abs/2602.03992)|null|
+|**2026-02-03**|**Structural shifts in institutional participation and collaboration within the AI arXiv preprint research ecosystem**|Shama Magnur (gmail.com) et.al.|[2602.03969](http://arxiv.org/abs/2602.03969)|null|
+|**2026-02-03**|**SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild?**|Azmine Toushik Wasi et.al.|[2602.03916](http://arxiv.org/abs/2602.03916)|**[link](https://spatialab-reasoning.github.io/)**|
 |**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff (google.com) et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
 |**2026-02-03**|**Cognitively Diverse Multiple-Choice Question Generation: A Hybrid Multi-Agent Framework with Large Language Models**|Yu Tian (asu.edu) et.al.|[2602.03704](http://arxiv.org/abs/2602.03704)|null|
 |**2026-02-03**|**Anytime Pretraining: Horizon-Free Learning-Rate Schedules with Weight Averaging**|Alexandru Meterez (g.harvard.edu) et.al.|[2602.03702](http://arxiv.org/abs/2602.03702)|null|
@@ -4107,7 +4134,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
