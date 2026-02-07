@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.02.05
+## Updated on 2026.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Causal Inference on Stopped Random Walks in Online Advertising**|Jia Yuan Yu et.al.|[2602.05997](http://arxiv.org/abs/2602.05997)|null|
+|**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi (asu.edu) et.al.|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
+|**2026-02-05**|**GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search**|Shiteng Cao (mails.tsinghua.edu.com) et.al.|[2602.05663](http://arxiv.org/abs/2602.05663)|null|
+|**2026-02-05**|**Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation**|Fahad Anwaar et.al.|[2602.05544](http://arxiv.org/abs/2602.05544)|null|
+|**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|Yicheng Di (gmail.com) et.al.|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
+|**2026-02-05**|**Aspect-Aware MOOC Recommendation in a Heterogeneous Network**|Seongyeub Chu (kaist.ac.kr) et.al.|[2602.05297](http://arxiv.org/abs/2602.05297)|null|
+|**2026-02-04**|**Autodiscover: A reinforcement learning recommendation system for the cold-start imbalance challenge in active learning, powered by graph-aware thompson sampling**|Parsa Vares et.al.|[2602.05087](http://arxiv.org/abs/2602.05087)|null|
+|**2026-02-04**|**Near-Optimal Dynamic Matching via Coarsening with Application to Heart Transplantation**|Itai Zilberstein (cs.cmu.edu) et.al.|[2602.04989](http://arxiv.org/abs/2602.04989)|null|
 |**2026-02-04**|**VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation**|Aleksandr Poslavsky (vk.com) et.al.|[2602.04567](http://arxiv.org/abs/2602.04567)|null|
 |**2026-02-04**|**DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan**|Junwei Yin (meituan.com) et.al.|[2602.04460](http://arxiv.org/abs/2602.04460)|null|
 |**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
@@ -1062,6 +1070,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation**|Fahad Anwaar et.al.|[2602.05544](http://arxiv.org/abs/2602.05544)|null|
+|**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|Yicheng Di (gmail.com) et.al.|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
 |**2026-02-04**|**DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan**|Junwei Yin (meituan.com) et.al.|[2602.04460](http://arxiv.org/abs/2602.04460)|null|
 |**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
 |**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang (connect.polyu.hk) et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
@@ -1591,6 +1601,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis (cs.stonybrook.edu) et.al.|[2602.06015](http://arxiv.org/abs/2602.06015)|null|
+|**2026-02-05**|**Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training**|Zhenghao Xu (gatech.edu) et.al.|[2602.05933](http://arxiv.org/abs/2602.05933)|**[link](https://github.com/horizon-rl/OpenKimi)**|
+|**2026-02-05**|**Chunky Post-Training: Data Driven Failures of Generalization**|Seoirse Murray (seoirse.net) et.al.|[2602.05910](http://arxiv.org/abs/2602.05910)|null|
+|**2026-02-05**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|Wei Liu et.al.|[2602.05885](http://arxiv.org/abs/2602.05885)|**[link](https://www.github.com/hkust-nlp/KernelGYM)**|
+|**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[2602.05877](http://arxiv.org/abs/2602.05877)|null|
+|**2026-02-05**|**Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers**|Artem Riabinin et.al.|[2602.05813](http://arxiv.org/abs/2602.05813)|**[link](https://github.com/brain-lab-research/llm-baselines/tree/warmup)**|
+|**2026-02-05**|**FiMI: A Domain-Specific Language Model for Indian Finance Ecosystem**|Aboli Kathar et.al.|[2602.05794](http://arxiv.org/abs/2602.05794)|null|
+|**2026-02-05**|**Different Time, Different Language: Revisiting the Bias Against Non-Native Speakers in GPT Detectors**|Adnan Al Ali (ufal.mff.cuni.cz) et.al.|[2602.05769](http://arxiv.org/abs/2602.05769)|null|
+|**2026-02-05**|**Learning to Inject: Automated Prompt Injection via Reinforcement Learning**|Xin Chen (inf.ethz.ch) et.al.|[2602.05746](http://arxiv.org/abs/2602.05746)|null|
+|**2026-02-05**|**Ethology of Latent Spaces**|Philippe Boisnard et.al.|[2602.05710](http://arxiv.org/abs/2602.05710)|null|
+|**2026-02-05**|**Determining Energy Efficiency Sweet Spots in Production LLM Inference**|Hiari Pizzini Cavagna (unibo.it) et.al.|[2602.05695](http://arxiv.org/abs/2602.05695)|null|
+|**2026-02-05**|**AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care**|Alastair Howcroft (nottingham.ac.uk) et.al.|[2602.05628](http://arxiv.org/abs/2602.05628)|null|
+|**2026-02-05**|**Emulating Aggregate Human Choice Behavior and Biases with GPT Conversational Agents**|Stephen Pilli (ucdconnect.ie) et.al.|[2602.05597](http://arxiv.org/abs/2602.05597)|null|
+|**2026-02-05**|**Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation**|Fahad Anwaar et.al.|[2602.05544](http://arxiv.org/abs/2602.05544)|null|
+|**2026-02-05**|**Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities**|Florian Dietz (lsv.uni-saarland.de) et.al.|[2602.05532](http://arxiv.org/abs/2602.05532)|null|
+|**2026-02-05**|**Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale**|Damon McMillan et.al.|[2602.05447](http://arxiv.org/abs/2602.05447)|null|
+|**2026-02-05**|**OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration**|Shaobo Wang (sjtu.edu.cn) et.al.|[2602.05400](http://arxiv.org/abs/2602.05400)|null|
+|**2026-02-05**|**Clinical Validation of Medical-based Large Language Model Chatbots on Ophthalmic Patient Queries with LLM-based Evaluation**|Ting Fang Tan et.al.|[2602.05381](http://arxiv.org/abs/2602.05381)|null|
+|**2026-02-05**|**PieArena: Frontier Language Agents Achieve MBA-Level Negotiation Performance and Reveal Novel Behavioral Differences**|Chris Zhu (rutgers.edu) et.al.|[2602.05302](http://arxiv.org/abs/2602.05302)|null|
+|**2026-02-05**|**Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities**|Pengyi Li (fusionbrainlab.com) et.al.|[2602.05281](http://arxiv.org/abs/2602.05281)|null|
+|**2026-02-05**|**EGSS: Entropy-guided Stepwise Scaling for Reliable Software Engineering**|Chenhui Mao (antgroup.com) et.al.|[2602.05242](http://arxiv.org/abs/2602.05242)|null|
+|**2026-02-05**|**CoSA: Compressed Sensing-Based Adaptation of Large Language Models**|Songtao Wei (utdalls.edu) et.al.|[2602.05148](http://arxiv.org/abs/2602.05148)|null|
+|**2026-02-04**|**Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks**|William F. Shen (cam.ac.uk) et.al.|[2602.05125](http://arxiv.org/abs/2602.05125)|null|
+|**2026-02-04**|**Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment**|Liang Wang et.al.|[2602.05110](http://arxiv.org/abs/2602.05110)|null|
+|**2026-02-04**|**Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks**|Jafar Isbarov (vt.edu) et.al.|[2602.05066](http://arxiv.org/abs/2602.05066)|null|
 |**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|null|
 |**2026-02-04**|**Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases**|Casey Ford et.al.|[2602.04739](http://arxiv.org/abs/2602.04739)|null|
 |**2026-02-04**|**"Be My Cheese?": Cultural Nuance Benchmarking for Machine Translation in Multilingual LLMs**|Madison Van Doren et.al.|[2602.04729](http://arxiv.org/abs/2602.04729)|null|
