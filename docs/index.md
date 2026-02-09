@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**On the Efficiency of Sequentially Aware Recommender Systems: Cotten4Rec**|Shankar Veludandi et.al.|[2602.06935](http://arxiv.org/abs/2602.06935)|null|
+|**2026-02-06**|**AdFL: In-Browser Federated Learning for Online Advertisement**|Ahmad Alemari (njit.edu) et.al.|[2602.06336](http://arxiv.org/abs/2602.06336)|null|
+|**2026-02-06**|**Statistical Learning from Attribution Sets**|Lorne Applebaum (cornell.edu) et.al.|[2602.06276](http://arxiv.org/abs/2602.06276)|null|
 |**2026-02-05**|**Causal Inference on Stopped Random Walks in Online Advertising**|Jia Yuan Yu et.al.|[2602.05997](http://arxiv.org/abs/2602.05997)|null|
 |**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi (asu.edu) et.al.|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
 |**2026-02-05**|**GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search**|Shiteng Cao (mails.tsinghua.edu.com) et.al.|[2602.05663](http://arxiv.org/abs/2602.05663)|null|
@@ -16,7 +19,7 @@ layout: default
 |**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|Yicheng Di (gmail.com) et.al.|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
 |**2026-02-05**|**Aspect-Aware MOOC Recommendation in a Heterogeneous Network**|Seongyeub Chu (kaist.ac.kr) et.al.|[2602.05297](http://arxiv.org/abs/2602.05297)|null|
 |**2026-02-04**|**Autodiscover: A reinforcement learning recommendation system for the cold-start imbalance challenge in active learning, powered by graph-aware thompson sampling**|Parsa Vares et.al.|[2602.05087](http://arxiv.org/abs/2602.05087)|null|
-|**2026-02-04**|**Near-Optimal Dynamic Matching via Coarsening with Application to Heart Transplantation**|Itai Zilberstein (cs.cmu.edu) et.al.|[2602.04989](http://arxiv.org/abs/2602.04989)|null|
+|**2026-02-06**|**Near-Optimal Dynamic Matching via Coarsening with Application to Heart Transplantation**|Itai Zilberstein (cs.cmu.edu) et.al.|[2602.04989](http://arxiv.org/abs/2602.04989)|null|
 |**2026-02-04**|**VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation**|Aleksandr Poslavsky (vk.com) et.al.|[2602.04567](http://arxiv.org/abs/2602.04567)|null|
 |**2026-02-04**|**DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan**|Junwei Yin (meituan.com) et.al.|[2602.04460](http://arxiv.org/abs/2602.04460)|null|
 |**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang (cs.toronto.edu) et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|**[link](https://github.com/LunjunZhang/ema-pg)**|
@@ -1601,10 +1604,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Endogenous Resistance to Activation Steering in Language Models**|Alex McKenzie (ae.studio) et.al.|[2602.06941](http://arxiv.org/abs/2602.06941)|**[link](http://github.com/agencyenterprise/endogenous-steering-resistance)**|
+|**2026-02-06**|**When RL Meets Adaptive Speculative Training: A Unified Training-Serving System**|Junxiong Wang et.al.|[2602.06932](http://arxiv.org/abs/2602.06932)|null|
+|**2026-02-06**|**The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models**|Jonathan Pan (htx.gov.sg) et.al.|[2602.06852](http://arxiv.org/abs/2602.06852)|null|
+|**2026-02-06**|**Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay**|Binghui Li (pku.edu.cn) et.al.|[2602.06797](http://arxiv.org/abs/2602.06797)|null|
+|**2026-02-06**|**Evaluating Prompt Engineering Strategies for Sentiment Control in AI-Generated Texts**|Kerstin Sahler (DLR.de) et.al.|[2602.06692](http://arxiv.org/abs/2602.06692)|null|
+|**2026-02-06**|**Not All Layers Need Tuning: Selective Layer Restoration Recovers Diversity**|Bowen Zhang (comp.nus.edu.sg) et.al.|[2602.06665](http://arxiv.org/abs/2602.06665)|null|
+|**2026-02-06**|**Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making**|Baichuan-M3 Team et.al.|[2602.06570](http://arxiv.org/abs/2602.06570)|null|
+|**2026-02-06**|**Evolutionary Generation of Multi-Agent Systems**|Yuntong Hu (amazon.com) et.al.|[2602.06511](http://arxiv.org/abs/2602.06511)|null|
+|**2026-02-06**|**AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents**|Haotian Chen et.al.|[2602.06485](http://arxiv.org/abs/2602.06485)|null|
+|**2026-02-06**|**FMBench: Adaptive Large Language Model Output Formatting**|Yaoting Wang et.al.|[2602.06384](http://arxiv.org/abs/2602.06384)|**[link](https://github.com/FudanCVL/FMBench)**|
+|**2026-02-06**|**Cost-Aware Model Selection for Text Classification: Multi-Objective Trade-offs Between Fine-Tuned Encoders and LLM Prompting in Production**|Alberto Andres Valdes Gonzalez (uc.cl) et.al.|[2602.06370](http://arxiv.org/abs/2602.06370)|null|
+|**2026-02-06**|**Can Post-Training Transform LLMs into Causal Reasoners?**|Junqi Chen (pjlab.org.cn) et.al.|[2602.06337](http://arxiv.org/abs/2602.06337)|**[link](https://github.com/OpenCausaLab/CauGym)**|
+|**2026-02-06**|**The Condensate Theorem: Transformers are O(n), Not $O(n^2)$**|Jorge L. Ruiz Williams et.al.|[2602.06317](http://arxiv.org/abs/2602.06317)|null|
+|**2026-02-06**|**Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math**|Guijin Son (snu.ac.kr) et.al.|[2602.06291](http://arxiv.org/abs/2602.06291)|null|
+|**2026-02-05**|**GRP-Obliteration: Unaligning LLMs With a Single Unlabeled Prompt**|Mark Russinovich (microsoft.com) et.al.|[2602.06258](http://arxiv.org/abs/2602.06258)|null|
+|**2026-02-05**|**Generics in science communication: Misaligned interpretations across laypeople, scientists, and large language models**|Uwe Peters (uu.nl) et.al.|[2602.06190](http://arxiv.org/abs/2602.06190)|null|
+|**2026-02-05**|**MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models**|Nurbek Tastan (mbzuai.ac.ae) et.al.|[2602.06154](http://arxiv.org/abs/2602.06154)|null|
+|**2026-02-05**|**Compressing LLMs with MoP: Mixture of Pruners**|Bruno Lopes Yamamoto (usp.br) et.al.|[2602.06127](http://arxiv.org/abs/2602.06127)|**[link](https://github.com/c2d-usp/Efficient-LLMs-with-MoP)**|
 |**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis (cs.stonybrook.edu) et.al.|[2602.06015](http://arxiv.org/abs/2602.06015)|null|
 |**2026-02-05**|**Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training**|Zhenghao Xu (gatech.edu) et.al.|[2602.05933](http://arxiv.org/abs/2602.05933)|**[link](https://github.com/horizon-rl/OpenKimi)**|
 |**2026-02-05**|**Chunky Post-Training: Data Driven Failures of Generalization**|Seoirse Murray (seoirse.net) et.al.|[2602.05910](http://arxiv.org/abs/2602.05910)|null|
-|**2026-02-05**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|Wei Liu et.al.|[2602.05885](http://arxiv.org/abs/2602.05885)|**[link](https://www.github.com/hkust-nlp/KernelGYM)**|
+|**2026-02-06**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|Wei Liu et.al.|[2602.05885](http://arxiv.org/abs/2602.05885)|**[link](https://www.github.com/hkust-nlp/KernelGYM)**|
 |**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[2602.05877](http://arxiv.org/abs/2602.05877)|null|
 |**2026-02-05**|**Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers**|Artem Riabinin et.al.|[2602.05813](http://arxiv.org/abs/2602.05813)|**[link](https://github.com/brain-lab-research/llm-baselines/tree/warmup)**|
 |**2026-02-05**|**FiMI: A Domain-Specific Language Model for Indian Finance Ecosystem**|Aboli Kathar et.al.|[2602.05794](http://arxiv.org/abs/2602.05794)|null|
