@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework**|Siyun Yang (kuaishou.com) et.al.|[2602.12972](http://arxiv.org/abs/2602.12972)|null|
+|**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu (forth.ai) et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
+|**2026-02-13**|**WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata**|Prasanna Sridhar et.al.|[2602.12819](http://arxiv.org/abs/2602.12819)|**[link](https://gitlab.com/vgg/wise/wise)**|
+|**2026-02-13**|**Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback**|Sein Kim (kaist.ac.kr) et.al.|[2602.12612](http://arxiv.org/abs/2602.12612)|**[link](https://github.com/Sein-Kim/self_evolverec)**|
+|**2026-02-13**|**RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction**|Ziye Tong (tencent.com) et.al.|[2602.12593](http://arxiv.org/abs/2602.12593)|null|
+|**2026-02-13**|**CAPTS: Channel-Aware, Preference-Aligned Trigger Selection for Multi-Channel Item-to-Item Retrieval**|Xiaoyou Zhou (kuaishou.com) et.al.|[2602.12564](http://arxiv.org/abs/2602.12564)|null|
+|**2026-02-13**|**Reasoning to Rank: An End-to-End Solution for Exploiting Large Language Models for Recommendation**|Kehan Zheng (mails.tsinghua.edu.cn) et.al.|[2602.12530](http://arxiv.org/abs/2602.12530)|null|
 |**2026-02-12**|**Compress, Cross and Scale: Multi-Level Compression Cross Networks for Efficient Scaling in Recommender Systems**|Heng Yu (bilibili.com) et.al.|[2602.12041](http://arxiv.org/abs/2602.12041)|null|
 |**2026-02-12**|**Learning Conditional Averages**|Marco Bressan (UNIMI.IT) et.al.|[2602.11920](http://arxiv.org/abs/2602.11920)|null|
 |**2026-02-12**|**ULTRA:Urdu Language Transformer-based Recommendation Architecture**|Alishbah Bashir (pieas.edu.pk) et.al.|[2602.11836](http://arxiv.org/abs/2602.11836)|null|
@@ -16,7 +23,7 @@ layout: default
 |**2026-02-12**|**Analytical Search**|Yiteng Tu (mails.tsinghua.edu.cn) et.al.|[2602.11581](http://arxiv.org/abs/2602.11581)|null|
 |**2026-02-12**|**LASER: An Efficient Target-Aware Segmented Attention Framework for End-to-End Long Sequence Modeling**|Tianhe Lin (xiaohongshu.com) et.al.|[2602.11562](http://arxiv.org/abs/2602.11562)|null|
 |**2026-02-11**|**CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer**|David Pardoe (linkedin.com) et.al.|[2602.11410](http://arxiv.org/abs/2602.11410)|null|
-|**2026-02-11**|**MTFM: A Scalable and Alignment-free Foundation Model for Industrial Recommendation in Meituan**|Xin Song et.al.|[2602.11235](http://arxiv.org/abs/2602.11235)|null|
+|**2026-02-13**|**MTFM: A Scalable and Alignment-free Foundation Model for Industrial Recommendation in Meituan**|Xin Song (meituan.com) et.al.|[2602.11235](http://arxiv.org/abs/2602.11235)|null|
 |**2026-02-11**|**The Automatic Verification of Image-Text Claims (AVerImaTeC) Shared Task**|Rui Cao (cam.ac.uk) et.al.|[2602.11221](http://arxiv.org/abs/2602.11221)|null|
 |**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu (my.cityu.edu.hk) et.al.|[2602.11062](http://arxiv.org/abs/2602.11062)|null|
 |**2026-02-11**|**EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling**|Mingyang Liu (gmail.com) et.al.|[2602.10811](http://arxiv.org/abs/2602.10811)|null|
@@ -1122,6 +1129,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu (forth.ai) et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
+|**2026-02-13**|**Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback**|Sein Kim (kaist.ac.kr) et.al.|[2602.12612](http://arxiv.org/abs/2602.12612)|**[link](https://github.com/Sein-Kim/self_evolverec)**|
+|**2026-02-13**|**Reasoning to Rank: An End-to-End Solution for Exploiting Large Language Models for Recommendation**|Kehan Zheng (mails.tsinghua.edu.cn) et.al.|[2602.12530](http://arxiv.org/abs/2602.12530)|null|
 |**2026-02-12**|**RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation**|Jinfang Wang (baidu.com) et.al.|[2602.11780](http://arxiv.org/abs/2602.11780)|null|
 |**2026-02-12**|**Analytical Search**|Yiteng Tu (mails.tsinghua.edu.cn) et.al.|[2602.11581](http://arxiv.org/abs/2602.11581)|null|
 |**2026-02-11**|**EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling**|Mingyang Liu (gmail.com) et.al.|[2602.10811](http://arxiv.org/abs/2602.10811)|null|
@@ -1675,6 +1685,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Quantization-Robust LLM Unlearning via Low-Rank Adaptation**|João Vitor Boer Abitante et.al.|[2602.13151](http://arxiv.org/abs/2602.13151)|null|
+|**2026-02-13**|**SCOPE: Selective Conformal Optimized Pairwise LLM Judging**|Sher Badshah (dal.ca) et.al.|[2602.13110](http://arxiv.org/abs/2602.13110)|null|
+|**2026-02-13**|**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**|Yujiong Shen et.al.|[2602.12984](http://arxiv.org/abs/2602.12984)|null|
+|**2026-02-13**|**Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues**|Stephan Vonschallen (zhaw.ch) et.al.|[2602.12924](http://arxiv.org/abs/2602.12924)|null|
+|**2026-02-13**|**"Not Human, Funnier": How Machine Identity Shapes Humor Perception in Online AI Stand-up Comedy**|Xuehan Huang (connect.hku.hk) et.al.|[2602.12763](http://arxiv.org/abs/2602.12763)|null|
+|**2026-02-13**|**Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents**|Ruihan Yang (fudan.edu.cn) et.al.|[2602.12662](http://arxiv.org/abs/2602.12662)|null|
+|**2026-02-13**|**SD-MoE: Spectral Decomposition for Effective Expert Specialization**|Ruijun Huang (fudan.edu.cn) et.al.|[2602.12556](http://arxiv.org/abs/2602.12556)|null|
+|**2026-02-12**|**Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models**|Takoua Jradi et.al.|[2602.12419](http://arxiv.org/abs/2602.12419)|null|
+|**2026-02-12**|**The Appeal and Reality of Recycling LoRAs with Adaptive Merging**|Haokun Liu (gmail.com) et.al.|[2602.12323](http://arxiv.org/abs/2602.12323)|null|
+|**2026-02-12**|**Abstractive Red-Teaming of Language Model Character**|Nate Rahn (anthropic.com) et.al.|[2602.12318](http://arxiv.org/abs/2602.12318)|null|
 |**2026-02-12**|**ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction**|Nick Ferguson (collab.contextual.ai) et.al.|[2602.12247](http://arxiv.org/abs/2602.12247)|**[link](https://github.com/ContextualAI/extract-bench)**|
 |**2026-02-12**|**Pedagogically-Inspired Data Synthesis for Language Model Knowledge Distillation**|Bowei He (acm.org) et.al.|[2602.12172](http://arxiv.org/abs/2602.12172)|null|
 |**2026-02-12**|**Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments**|Romain Froger (meta.com) et.al.|[2602.11964](http://arxiv.org/abs/2602.11964)|null|
