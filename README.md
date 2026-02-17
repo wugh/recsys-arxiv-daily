@@ -1,4 +1,4 @@
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu (emory.edu) et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation**|Olivier Jeunen et.al.|[2602.14914](http://arxiv.org/abs/2602.14914)|null|
+|**2026-02-16**|**Intent-Driven Dynamic Chunking: Segmenting Documents to Reflect Predicted Information Needs**|Christos Koutsiaris (studentmail.ul.ie) et.al.|[2602.14784](http://arxiv.org/abs/2602.14784)|**[link](https://github.com/unseen1980/IDC)**|
+|**2026-02-16**|**Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems**|Zihan Li (jku.at) et.al.|[2602.14706](http://arxiv.org/abs/2602.14706)|null|
+|**2026-02-16**|**InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem**|Shuofei Qiao (zju.edu.cn) et.al.|[2602.14367](http://arxiv.org/abs/2602.14367)|null|
+|**2026-02-15**|**AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents**|Lingxiang Hu (tencent.com) et.al.|[2602.14257](http://arxiv.org/abs/2602.14257)|**[link](https://github.com/Emanual20/adbench-leaderboard)**|
+|**2026-02-15**|**MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders**|Xu Huang (outlook.com) et.al.|[2602.14110](http://arxiv.org/abs/2602.14110)|null|
+|**2026-02-15**|**DAIAN: Deep Adaptive Intent-Aware Network for CTR Prediction in Trigger-Induced Recommendation**|Zhihao Lv (taobao.com) et.al.|[2602.13971](http://arxiv.org/abs/2602.13971)|null|
+|**2026-02-14**|**DMESR: Dual-view MLLM-based Enhancing Framework for Multimodal Sequential Recommendation**|Mingyao Huang (stu.xjtu.edu.cn) et.al.|[2602.13715](http://arxiv.org/abs/2602.13715)|null|
+|**2026-02-14**|**Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?**|Mingqiao Zhang (smail.nju.edu.cn) et.al.|[2602.13626](http://arxiv.org/abs/2602.13626)|**[link](https://github.com/yusba1/LLMRec-Data-Leakage)**|
+|**2026-02-14**|**Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following**|Da Guo (corp.netease.com) et.al.|[2602.13581](http://arxiv.org/abs/2602.13581)|null|
 |**2026-02-13**|**Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework**|Siyun Yang (kuaishou.com) et.al.|[2602.12972](http://arxiv.org/abs/2602.12972)|null|
 |**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu (forth.ai) et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
 |**2026-02-13**|**WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata**|Prasanna Sridhar et.al.|[2602.12819](http://arxiv.org/abs/2602.12819)|**[link](https://gitlab.com/vgg/wise/wise)**|
@@ -1130,12 +1141,18 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu (emory.edu) et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Intent-Driven Dynamic Chunking: Segmenting Documents to Reflect Predicted Information Needs**|Christos Koutsiaris (studentmail.ul.ie) et.al.|[2602.14784](http://arxiv.org/abs/2602.14784)|**[link](https://github.com/unseen1980/IDC)**|
+|**2026-02-16**|**InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem**|Shuofei Qiao (zju.edu.cn) et.al.|[2602.14367](http://arxiv.org/abs/2602.14367)|null|
+|**2026-02-15**|**AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents**|Lingxiang Hu (tencent.com) et.al.|[2602.14257](http://arxiv.org/abs/2602.14257)|**[link](https://github.com/Emanual20/adbench-leaderboard)**|
+|**2026-02-14**|**DMESR: Dual-view MLLM-based Enhancing Framework for Multimodal Sequential Recommendation**|Mingyao Huang (stu.xjtu.edu.cn) et.al.|[2602.13715](http://arxiv.org/abs/2602.13715)|null|
+|**2026-02-14**|**Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?**|Mingqiao Zhang (smail.nju.edu.cn) et.al.|[2602.13626](http://arxiv.org/abs/2602.13626)|**[link](https://github.com/yusba1/LLMRec-Data-Leakage)**|
 |**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu (forth.ai) et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
 |**2026-02-13**|**Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback**|Sein Kim (kaist.ac.kr) et.al.|[2602.12612](http://arxiv.org/abs/2602.12612)|**[link](https://github.com/Sein-Kim/self_evolverec)**|
 |**2026-02-13**|**Reasoning to Rank: An End-to-End Solution for Exploiting Large Language Models for Recommendation**|Kehan Zheng (mails.tsinghua.edu.cn) et.al.|[2602.12530](http://arxiv.org/abs/2602.12530)|null|
@@ -1144,7 +1161,7 @@
 |**2026-02-11**|**EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling**|Mingyang Liu (gmail.com) et.al.|[2602.10811](http://arxiv.org/abs/2602.10811)|null|
 |**2026-02-11**|**ChainRec: An Agentic Recommender Learning to Route Tool Chains for Diverse and Evolving Interests**|Fuchun Li (ime.ac.cn) et.al.|[2602.10490](http://arxiv.org/abs/2602.10490)|null|
 |**2026-02-10**|**Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents**|Haochen Wang (google.com) et.al.|[2602.10226](http://arxiv.org/abs/2602.10226)|null|
-|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou (meta.com) et.al.|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-13**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou (meta.com) et.al.|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
 |**2026-02-10**|**QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search**|Jianzhao Huang (xiaohongshu.com) et.al.|[2602.09901](http://arxiv.org/abs/2602.09901)|null|
 |**2026-02-12**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|Yang Wu (tencent.com) et.al.|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
 |**2026-02-09**|**AMEM4Rec: Leveraging Cross-User Similarity for Memory Evolution in Agentic LLM Recommenders**|Minh-Duc Nguyen (vinuni.edu.vn) et.al.|[2602.08837](http://arxiv.org/abs/2602.08837)|null|
@@ -1688,12 +1705,41 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova (optic.inc) et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**Boundary Point Jailbreaking of Black-Box LLMs**|Xander Davies (dsit.gov.uk) et.al.|[2602.15001](http://arxiv.org/abs/2602.15001)|null|
+|**2026-02-16**|**Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition**|Varun Nathan (observe.ai) et.al.|[2602.14955](http://arxiv.org/abs/2602.14955)|null|
+|**2026-02-16**|**RF-GPT: Teaching AI to See the Wireless World**|Hang Zou (ku.ac.ae) et.al.|[2602.14833](http://arxiv.org/abs/2602.14833)|null|
+|**2026-02-16**|**Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment**|Laurène Vaugrante (iris.uni) et.al.|[2602.14777](http://arxiv.org/abs/2602.14777)|null|
+|**2026-02-16**|**Cognitive networks reconstruct mindsets about STEM subjects and educational contexts in almost 1000 high-schoolers, University students and LLM-based digital twins**|Francesco Gariboldi et.al.|[2602.14749](http://arxiv.org/abs/2602.14749)|null|
+|**2026-02-16**|**AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises**|Kenneth Payne (kcl.ac.uk) et.al.|[2602.14740](http://arxiv.org/abs/2602.14740)|null|
+|**2026-02-16**|**Assessing Large Language Models for Medical QA: Zero-Shot and LLM-as-a-Judge Evaluation**|Shefayat E Shams Adib (iut-dhaka.edu) et.al.|[2602.14564](http://arxiv.org/abs/2602.14564)|null|
+|**2026-02-16**|**Broken Chains: The Cost of Incomplete Reasoning in LLMs**|Ian Su et.al.|[2602.14444](http://arxiv.org/abs/2602.14444)|null|
+|**2026-02-16**|**WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)**|Kiyotaka Kasubuchi et.al.|[2602.14419](http://arxiv.org/abs/2602.14419)|null|
+|**2026-02-16**|**Competition for attention predicts good-to-bad tipping in AI**|Neil F. Johnson (gwu.edu) et.al.|[2602.14370](http://arxiv.org/abs/2602.14370)|null|
+|**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li (qmul.ac.uk) et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
+|**2026-02-15**|**Detecting LLM Hallucinations via Embedding Cluster Geometry: A Three-Type Taxonomy with Measurable Signatures**|Matic Korun (gmail.com) et.al.|[2602.14259](http://arxiv.org/abs/2602.14259)|null|
+|**2026-02-15**|**AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents**|Lingxiang Hu (tencent.com) et.al.|[2602.14257](http://arxiv.org/abs/2602.14257)|**[link](https://github.com/Emanual20/adbench-leaderboard)**|
+|**2026-02-15**|**GPT-5 vs Other LLMs in Long Short-Context Performance**|Nima Esmi (rug.nl) et.al.|[2602.14188](http://arxiv.org/abs/2602.14188)|null|
+|**2026-02-15**|**A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing**|Naeimeh Nourmohammadi (gmail.com) et.al.|[2602.14158](http://arxiv.org/abs/2602.14158)|null|
+|**2026-02-15**|**NEST: Nascent Encoded Steganographic Thoughts**|Artem Karpov (gmail.com) et.al.|[2602.14095](http://arxiv.org/abs/2602.14095)|null|
+|**2026-02-15**|**Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality**|Nitay Calderon (google.com) et.al.|[2602.14080](http://arxiv.org/abs/2602.14080)|null|
+|**2026-02-15**|**Context Shapes LLMs Retrieval-Augmented Fact-Checking Effectiveness**|Pietro Bernardelle (uq.edu.au) et.al.|[2602.14044](http://arxiv.org/abs/2602.14044)|null|
+|**2026-02-15**|**Chemical Language Models for Natural Products: A State-Space Model Approach**|Ho-Hsuan Wang et.al.|[2602.13958](http://arxiv.org/abs/2602.13958)|null|
+|**2026-02-14**|**GSRM: Generative Speech Reward Model for Speech RLHF**|Maohao Shen (mit.edu) et.al.|[2602.13891](http://arxiv.org/abs/2602.13891)|null|
+|**2026-02-14**|**Evaluating LLM-Generated ACSL Annotations for Formal Verification**|Arshad Beg (mu.ie) et.al.|[2602.13851](http://arxiv.org/abs/2602.13851)|null|
+|**2026-02-14**|**A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research**|Zhuofan Shi (microsoft.com) et.al.|[2602.13830](http://arxiv.org/abs/2602.13830)|null|
+|**2026-02-14**|**Can a Lightweight Automated AI Pipeline Solve Research-Level Mathematical Problems?**|Lve Meng (mail.ustc.edu.cn) et.al.|[2602.13695](http://arxiv.org/abs/2602.13695)|null|
+|**2026-02-14**|**KorMedMCQA-V: A Multimodal Benchmark for Evaluating Vision-Language Models on the Korean Medical Licensing Examination**|Byungjin Choi et.al.|[2602.13650](http://arxiv.org/abs/2602.13650)|null|
+|**2026-02-14**|**From What to How: Bridging User Requirements with Software Development Using Large Language Models**|Xiao He (ustb.edu.cn) et.al.|[2602.13611](http://arxiv.org/abs/2602.13611)|null|
+|**2026-02-14**|**DistillLens: Symmetric Knowledge Distillation Through Logit Lens**|Manish Dhakal (gsu.edu) et.al.|[2602.13567](http://arxiv.org/abs/2602.13567)|**[link](https://github.com/manishdhakal/DistillLens)**|
+|**2026-02-13**|**Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**|Wei-Lin Chen (virginia.edu) et.al.|[2602.13517](http://arxiv.org/abs/2602.13517)|null|
+|**2026-02-13**|**Finding Highly Interpretable Prompt-Specific Circuits in Language Models**|Gabriel Franco (bu.edu) et.al.|[2602.13483](http://arxiv.org/abs/2602.13483)|null|
 |**2026-02-13**|**Quantization-Robust LLM Unlearning via Low-Rank Adaptation**|João Vitor Boer Abitante et.al.|[2602.13151](http://arxiv.org/abs/2602.13151)|null|
 |**2026-02-13**|**SCOPE: Selective Conformal Optimized Pairwise LLM Judging**|Sher Badshah (dal.ca) et.al.|[2602.13110](http://arxiv.org/abs/2602.13110)|null|
 |**2026-02-13**|**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**|Yujiong Shen et.al.|[2602.12984](http://arxiv.org/abs/2602.12984)|null|
@@ -4356,7 +4402,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
