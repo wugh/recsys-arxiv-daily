@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**From Latent to Observable Position-Based Click Models in Carousel Interfaces**|Santiago de Leon-Martinez (kinit.sk) et.al.|[2602.16541](http://arxiv.org/abs/2602.16541)|null|
+|**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko (gmail.com) et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
+|**2026-02-18**|**The Diversity Paradox revisited: Systemic Effects of Feedback Loops in Recommender Systems**|Gabriele Barlacchi (sns.it) et.al.|[2602.16315](http://arxiv.org/abs/2602.16315)|null|
+|**2026-02-18**|**Retrieval Collapses When AI Pollutes the Web**|Hongyeon Yu (navercorp.com) et.al.|[2602.16136](http://arxiv.org/abs/2602.16136)|null|
+|**2026-02-18**|**Rethinking ANN-based Retrieval: Multifaceted Learnable Index for Large-scale Recommendation System**|Jiang Zhang (meta.com) et.al.|[2602.16124](http://arxiv.org/abs/2602.16124)|null|
 |**2026-02-17**|**Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control**|Luankang Zhang (ustc.edu.cn) et.al.|[2602.15659](http://arxiv.org/abs/2602.15659)|null|
 |**2026-02-17**|**Eco-Amazon: Enriching E-commerce Datasets with Product Carbon Footprint for Sustainable Recommendations**|Giuseppe Spillo (uniba.it) et.al.|[2602.15508](http://arxiv.org/abs/2602.15508)|**[link](http://github.com/giuspillo/EcoAmazon/)**|
 |**2026-02-17**|**Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M**|Giuseppe Spillo (uniba.it) et.al.|[2602.15505](http://arxiv.org/abs/2602.15505)|**[link](https://github.com/giuspillo/M3L_10M_20M)**|
@@ -1146,6 +1151,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko (gmail.com) et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
+|**2026-02-18**|**Retrieval Collapses When AI Pollutes the Web**|Hongyeon Yu (navercorp.com) et.al.|[2602.16136](http://arxiv.org/abs/2602.16136)|null|
 |**2026-02-17**|**Eco-Amazon: Enriching E-commerce Datasets with Product Carbon Footprint for Sustainable Recommendations**|Giuseppe Spillo (uniba.it) et.al.|[2602.15508](http://arxiv.org/abs/2602.15508)|**[link](http://github.com/giuspillo/EcoAmazon/)**|
 |**2026-02-17**|**Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation**|Xikai Yang et.al.|[2602.15359](http://arxiv.org/abs/2602.15359)|null|
 |**2026-02-17**|**FrameRef: A Framing Dataset and Simulation Testbed for Modeling Bounded Rational Information Health**|Victor De Lima et.al.|[2602.15273](http://arxiv.org/abs/2602.15273)|**[link](https://github.com/infosenselab/frameref)**|
@@ -1711,10 +1718,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments**|Yangjie Xu et.al.|[2602.16653](http://arxiv.org/abs/2602.16653)|null|
+|**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[2602.16650](http://arxiv.org/abs/2602.16650)|null|
+|**2026-02-18**|**Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval**|Subrit Dikshit (gmail.com) et.al.|[2602.16640](http://arxiv.org/abs/2602.16640)|null|
+|**2026-02-18**|**IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models**|Saurabh Bharti (csvtu.ac.in) et.al.|[2602.16467](http://arxiv.org/abs/2602.16467)|null|
+|**2026-02-18**|**Intra-Fairness Dynamics: The Bias Spillover Effect in Targeted LLM Alignment**|Eva Paraschou (dtu.dk) et.al.|[2602.16438](http://arxiv.org/abs/2602.16438)|null|
+|**2026-02-18**|**Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy**|Wooyoung Jung (arizona.edu) et.al.|[2602.16140](http://arxiv.org/abs/2602.16140)|null|
+|**2026-02-18**|**Evolutionary Context Search for Automated Skill Acquisition**|Qi Sun (sakana.ai) et.al.|[2602.16113](http://arxiv.org/abs/2602.16113)|null|
+|**2026-02-17**|**The Limits of Long-Context Reasoning in Automated Bug Fixing**|Ravi Raju (sambanovasystems.edu) et.al.|[2602.16069](http://arxiv.org/abs/2602.16069)|null|
+|**2026-02-17**|**Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination**|Amir Hosseinian (january.ai) et.al.|[2602.16050](http://arxiv.org/abs/2602.16050)|null|
+|**2026-02-17**|**MadEvolve: Evolutionary Optimization of Cosmological Algorithms with Large Language Models**|Tianyi Li (wisc.edu) et.al.|[2602.15951](http://arxiv.org/abs/2602.15951)|null|
+|**2026-02-17**|**Can Vision-Language Models See Squares? Text-Recognition Mediates Spatial Reasoning Across Three Model Families**|Yuval Levental et.al.|[2602.15950](http://arxiv.org/abs/2602.15950)|null|
 |**2026-02-17**|**Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings**|Suhyung Jang (yonsei.ac.kr) et.al.|[2602.15791](http://arxiv.org/abs/2602.15791)|null|
 |**2026-02-17**|**Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac**|Chahan Vidal-Gorène (chartes.psl.eu) et.al.|[2602.15753](http://arxiv.org/abs/2602.15753)|null|
 |**2026-02-17**|**Recursive Concept Evolution for Compositional Reasoning in Large Language Models**|Sarim Chaudhry (purdue.edu) et.al.|[2602.15725](http://arxiv.org/abs/2602.15725)|null|
-|**2026-02-17**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu (tsinghua.edu.cn) et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
+|**2026-02-18**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu (tsinghua.edu.cn) et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
 |**2026-02-17**|**GenAI-LA: Generative AI and Learning Analytics Workshop (LAK 2026), April 27--May 1, 2026, Bergen, Norway**|Javier Irigoyen (uam.es) et.al.|[2602.15531](http://arxiv.org/abs/2602.15531)|null|
 |**2026-02-17**|**The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems**|Xiaoze Liu (purdue.edu) et.al.|[2602.15382](http://arxiv.org/abs/2602.15382)|**[link](https://github.com/xz-liu/heterogeneous-latent-mas)**|
 |**2026-02-17**|**Making Large Language Models Speak Tulu: Structured Prompting for an Extremely Low-Resource Language**|Prathamesh Devadiga (lossfunk.com) et.al.|[2602.15378](http://arxiv.org/abs/2602.15378)|null|
@@ -1723,11 +1741,11 @@ layout: default
 |**2026-02-17**|**Extracting Consumer Insight from Text: A Large Language Model Approach to Emotion and Evaluation Measurement**|Stephan Ludwig (monash.edu) et.al.|[2602.15312](http://arxiv.org/abs/2602.15312)|null|
 |**2026-02-16**|**How to Train Your Long-Context Visual Document Model**|Austin Veselka (lighton.ai) et.al.|[2602.15257](http://arxiv.org/abs/2602.15257)|null|
 |**2026-02-16**|**Secure and Energy-Efficient Wireless Agentic AI Networks**|Yuanyan Song et.al.|[2602.15212](http://arxiv.org/abs/2602.15212)|null|
-|**2026-02-16**|**Weight space Detection of Backdoors in LoRA Adapters**|David Puertolas Merenciano (algoverse.us) et.al.|[2602.15195](http://arxiv.org/abs/2602.15195)|null|
+|**2026-02-18**|**Weight space Detection of Backdoors in LoRA Adapters**|David Puertolas Merenciano (algoverse.us) et.al.|[2602.15195](http://arxiv.org/abs/2602.15195)|null|
 |**2026-02-16**|**AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking**|Herbert Ullrich (fel.cvut.cz) et.al.|[2602.15190](http://arxiv.org/abs/2602.15190)|null|
 |**2026-02-16**|**ResearchGym: Evaluating Language Model Agents on Real-World AI Research**|Aniketh Garikaparthi (tcs.com) et.al.|[2602.15112](http://arxiv.org/abs/2602.15112)|null|
 |**2026-02-17**|**Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence**|Alisa Vinogradova (optic.inc) et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
-|**2026-02-16**|**Boundary Point Jailbreaking of Black-Box LLMs**|Xander Davies (dsit.gov.uk) et.al.|[2602.15001](http://arxiv.org/abs/2602.15001)|null|
+|**2026-02-18**|**Boundary Point Jailbreaking of Black-Box LLMs**|Xander Davies (dsit.gov.uk) et.al.|[2602.15001](http://arxiv.org/abs/2602.15001)|null|
 |**2026-02-16**|**Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition**|Varun Nathan (observe.ai) et.al.|[2602.14955](http://arxiv.org/abs/2602.14955)|null|
 |**2026-02-16**|**RF-GPT: Teaching AI to See the Wireless World**|Hang Zou (ku.ac.ae) et.al.|[2602.14833](http://arxiv.org/abs/2602.14833)|null|
 |**2026-02-16**|**Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment**|Laurène Vaugrante (iris.uni) et.al.|[2602.14777](http://arxiv.org/abs/2602.14777)|null|
