@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Beyond Pipelines: A Fundamental Study on the Rise of Generative-Retrieval Architectures in Web Research**|Amirereza Abbasi (iasbs.ac.ir) et.al.|[2602.17450](http://arxiv.org/abs/2602.17450)|null|
+|**2026-02-19**|**WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation**|Marco Avolio et.al.|[2602.17442](http://arxiv.org/abs/2602.17442)|**[link](https://github.com/sisinflab/warprec/)**|
+|**2026-02-19**|**Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers**|Bingqian Li (ruc.edu.cn) et.al.|[2602.17410](http://arxiv.org/abs/2602.17410)|null|
+|**2026-02-19**|**Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation**|Daniele Malitesta (centralesupelec.fr) et.al.|[2602.17354](http://arxiv.org/abs/2602.17354)|null|
+|**2026-02-19**|**On the Reliability of User-Centric Evaluation of Conversational Recommender Systems**|Michael Müller (uibk.ac.at) et.al.|[2602.17264](http://arxiv.org/abs/2602.17264)|**[link](https://github.com/michael-mue/reliable-crs-eval)**|
+|**2026-02-19**|**Multi-Probe Zero Collision Hash (MPZCH): Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders**|Ziliang Zhao (meta.com) et.al.|[2602.17050](http://arxiv.org/abs/2602.17050)|null|
+|**2026-02-19**|**Bending the Scaling Law Curve in Large-Scale Recommendation Systems**|Qin Ding (meta.com) et.al.|[2602.16986](http://arxiv.org/abs/2602.16986)|null|
 |**2026-02-18**|**From Latent to Observable Position-Based Click Models in Carousel Interfaces**|Santiago de Leon-Martinez (kinit.sk) et.al.|[2602.16541](http://arxiv.org/abs/2602.16541)|null|
 |**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko (gmail.com) et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
 |**2026-02-18**|**The Diversity Paradox revisited: Systemic Effects of Feedback Loops in Recommender Systems**|Gabriele Barlacchi (sns.it) et.al.|[2602.16315](http://arxiv.org/abs/2602.16315)|null|
@@ -1152,12 +1159,16 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Beyond Pipelines: A Fundamental Study on the Rise of Generative-Retrieval Architectures in Web Research**|Amirereza Abbasi (iasbs.ac.ir) et.al.|[2602.17450](http://arxiv.org/abs/2602.17450)|null|
+|**2026-02-19**|**Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers**|Bingqian Li (ruc.edu.cn) et.al.|[2602.17410](http://arxiv.org/abs/2602.17410)|null|
+|**2026-02-19**|**On the Reliability of User-Centric Evaluation of Conversational Recommender Systems**|Michael Müller (uibk.ac.at) et.al.|[2602.17264](http://arxiv.org/abs/2602.17264)|**[link](https://github.com/michael-mue/reliable-crs-eval)**|
+|**2026-02-19**|**Bending the Scaling Law Curve in Large-Scale Recommendation Systems**|Qin Ding (meta.com) et.al.|[2602.16986](http://arxiv.org/abs/2602.16986)|null|
 |**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko (gmail.com) et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
 |**2026-02-18**|**Retrieval Collapses When AI Pollutes the Web**|Hongyeon Yu (navercorp.com) et.al.|[2602.16136](http://arxiv.org/abs/2602.16136)|null|
 |**2026-02-17**|**Eco-Amazon: Enriching E-commerce Datasets with Product Carbon Footprint for Sustainable Recommendations**|Giuseppe Spillo (uniba.it) et.al.|[2602.15508](http://arxiv.org/abs/2602.15508)|**[link](http://github.com/giuspillo/EcoAmazon/)**|
@@ -1721,12 +1732,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng (uw.edu) et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
+|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao (mbzuai.ac.ae) et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|**[link](https://github.com/vila-lab/M-Attack-V2)**|
+|**2026-02-19**|**AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**|Lance Ying et.al.|[2602.17594](http://arxiv.org/abs/2602.17594)|null|
+|**2026-02-19**|**A Theoretical Framework for Modular Learning of Robust Generative Models**|Corinna Cortes (google.com) et.al.|[2602.17554](http://arxiv.org/abs/2602.17554)|null|
+|**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|null|
+|**2026-02-19**|**Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability**|Shashank Aggarwal (iitg.ac.in) et.al.|[2602.17544](http://arxiv.org/abs/2602.17544)|null|
+|**2026-02-19**|**The Anxiety of Influence: Bloom Filters in Transformer Attention Heads**|Peter Balogh (gmail.com) et.al.|[2602.17526](http://arxiv.org/abs/2602.17526)|**[link](https://github.com/pbalogh/anxiety-of-influence)**|
+|**2026-02-19**|**What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data**|Dimitri Staufer (tu-berlin.de) et.al.|[2602.17483](http://arxiv.org/abs/2602.17483)|null|
+|**2026-02-19**|**Small LLMs for Medical NLP: a Systematic Analysis of Few-Shot, Constraint Decoding, Fine-Tuning and Continual Pre-Training in Italian**|Pietro Ferrazzi et.al.|[2602.17475](http://arxiv.org/abs/2602.17475)|null|
+|**2026-02-19**|**Fine-Grained Uncertainty Quantification for Long-Form Language Model Outputs: A Comparative Study**|Dylan Bouchard (cvshealth.com) et.al.|[2602.17431](http://arxiv.org/abs/2602.17431)|**[link](https://github.com/cvs-health/uqlm)**|
+|**2026-02-19**|**Decoding the Human Factor: High Fidelity Behavioral Prediction for Strategic Foresight**|Ben Yellin et.al.|[2602.17222](http://arxiv.org/abs/2602.17222)|null|
+|**2026-02-19**|**Adam Improves Muon: Adaptive Moment Estimation with Orthogonalized Momentum**|Minxin Zhang (math.ucla.edu) et.al.|[2602.17080](http://arxiv.org/abs/2602.17080)|null|
+|**2026-02-18**|**Automating Agent Hijacking via Structural Template Injection**|Xinhao Deng (tsinghua.edu.cn) et.al.|[2602.16958](http://arxiv.org/abs/2602.16958)|null|
+|**2026-02-18**|**SourceBench: Can AI Answers Reference Quality Web Sources?**|Hexi Jin (ucsd.edu) et.al.|[2602.16942](http://arxiv.org/abs/2602.16942)|null|
+|**2026-02-18**|**DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs**|Justin Albrethsen (highflame.com) et.al.|[2602.16935](http://arxiv.org/abs/2602.16935)|null|
+|**2026-02-18**|**LLM-WikiRace: Benchmarking Long-term Planning and Reasoning over Real-World Knowledge Graphs**|Juliusz Ziomek et.al.|[2602.16902](http://arxiv.org/abs/2602.16902)|**[link](https:/llmwikirace.github.io)**|
+|**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak (gmail.com) et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)|null|
+|**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi (yale.edu) et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)|null|
 |**2026-02-18**|**Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments**|Yangjie Xu et.al.|[2602.16653](http://arxiv.org/abs/2602.16653)|null|
 |**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et.al.|[2602.16650](http://arxiv.org/abs/2602.16650)|null|
 |**2026-02-18**|**Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval**|Subrit Dikshit (gmail.com) et.al.|[2602.16640](http://arxiv.org/abs/2602.16640)|null|
@@ -4444,7 +4473,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
