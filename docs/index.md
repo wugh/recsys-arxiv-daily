@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**FairFS: Addressing Deep Feature Selection Biases for Recommender System**|Xianquan Wang (mail.ustc.edu.cn) et.al.|[2602.20001](http://arxiv.org/abs/2602.20001)|null|
+|**2026-02-23**|**GrIT: Group Informed Transformer for Sequential Recommendation**|Adamya Shyam (cs.du.ac.in) et.al.|[2602.19728](http://arxiv.org/abs/2602.19728)|null|
+|**2026-02-23**|**DReX: An Explainable Deep Learning-based Multimodal Recommendation Framework**|Adamya Shyam (cs.du.ac.in) et.al.|[2602.19702](http://arxiv.org/abs/2602.19702)|null|
+|**2026-02-22**|**SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits**|Anna Volodkevich et.al.|[2602.19339](http://arxiv.org/abs/2602.19339)|null|
+|**2026-02-21**|**Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity**|Chen Chen (gmail.com) et.al.|[2602.18759](http://arxiv.org/abs/2602.18759)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu (126.com) et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
 |**2026-02-19**|**Beyond Pipelines: A Fundamental Study on the Rise of Generative-Retrieval Architectures in Web Research**|Amirereza Abbasi (iasbs.ac.ir) et.al.|[2602.17450](http://arxiv.org/abs/2602.17450)|null|
 |**2026-02-19**|**WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation**|Marco Avolio et.al.|[2602.17442](http://arxiv.org/abs/2602.17442)|**[link](https://github.com/sisinflab/warprec/)**|
@@ -1731,6 +1736,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan (umn.edu) et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
+|**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra (acm.org) et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
+|**2026-02-23**|**Leap+Verify: Regime-Adaptive Speculative Weight Prediction for Accelerating Neural Network Training**|Jeremy McEntire et.al.|[2602.19580](http://arxiv.org/abs/2602.19580)|**[link](https://github.com/jmcentire/leap-verify)**|
+|**2026-02-23**|**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**|Xingyu Shen (get-reality.com) et.al.|[2602.19539](http://arxiv.org/abs/2602.19539)|null|
+|**2026-02-23**|**Classroom Final Exam: An Instructor-Tested Reasoning Benchmark**|Chongyang Gao (u.northwestern.edu) et.al.|[2602.19517](http://arxiv.org/abs/2602.19517)|**[link](https://github.com/Analogy-AI/CFE_Bench)**|
+|**2026-02-23**|**Pyramid MoA: A Probabilistic Framework for Cost-Optimized Anytime Inference**|Arindam Khaled (gmail.com) et.al.|[2602.19509](http://arxiv.org/abs/2602.19509)|null|
+|**2026-02-23**|**Can Large Language Models Replace Human Coders? Introducing ContentBench**|Michael Haman (pef.czu.cz) et.al.|[2602.19467](http://arxiv.org/abs/2602.19467)|**[link](http://contentbench.github.io)**|
+|**2026-02-23**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee (vt.edu) et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|null|
+|**2026-02-22**|**MentalBlackboard: Evaluating Spatial Visualization via Mathematical Transformations**|Nilay Yilmaz (asu.edu) et.al.|[2602.19357](http://arxiv.org/abs/2602.19357)|null|
+|**2026-02-22**|**FUSAR-GPT : A Spatiotemporal Feature-Embedded and Two-Stage Decoupled Visual Language Model for SAR Imagery**|Xiaokun Zhang (m.fudan.edu.cn) et.al.|[2602.19190](http://arxiv.org/abs/2602.19190)|null|
+|**2026-02-22**|**Reasoning Capabilities of Large Language Models. Lessons Learned from General Game Playing**|Maciej Świechowski (grailteam.com) et.al.|[2602.19160](http://arxiv.org/abs/2602.19160)|null|
+|**2026-02-22**|**AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG**|Qijie You (xs.ustb.edu.cn) et.al.|[2602.19127](http://arxiv.org/abs/2602.19127)|**[link](https://github.com/YqjMartin/AgenticRAGTracer)**|
+|**2026-02-21**|**Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation**|Yonathan Ron et.al.|[2602.18966](http://arxiv.org/abs/2602.18966)|null|
+|**2026-02-21**|**Early Evidence of Vibe-Proving with Consumer LLMs: A Case Study on Spectral Region Characterization with ChatGPT-5.2 (Thinking)**|Brecht Verbeken (vub.be) et.al.|[2602.18918](http://arxiv.org/abs/2602.18918)|null|
+|**2026-02-21**|**Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning**|Hoang-Loc Cao (clc.fitus.edu.vn) et.al.|[2602.18916](http://arxiv.org/abs/2602.18916)|**[link](https://github.com/loc110504/ACAL)**|
+|**2026-02-21**|**Could Large Language Models work as Post-hoc Explainability Tools in Credit Risk Models?**|Wenxi Geng (gmail.com) et.al.|[2602.18895](http://arxiv.org/abs/2602.18895)|null|
+|**2026-02-21**|**TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**|Zhenkun Gao (stu.ecnu.edu.cn) et.al.|[2602.18884](http://arxiv.org/abs/2602.18884)|**[link](https://github.com/Stephen-gzk/TPRU/)**|
+|**2026-02-21**|**Think $^{2}$ : Grounded Metacognitive Reasoning in Large Language Models**|Abraham Paul Elenjical (research.iiit.ac.in) et.al.|[2602.18806](http://arxiv.org/abs/2602.18806)|null|
+|**2026-02-21**|**Operational Robustness of LLMs on Code Generation**|Debalina Ghosh Paul (brookes.ac.uk) et.al.|[2602.18800](http://arxiv.org/abs/2602.18800)|null|
+|**2026-02-21**|**MANATEE: Inference-Time Lightweight Diffusion Based Safety Defense for LLMs**|Chun Yan Ryan Kan (gmail.com) et.al.|[2602.18782](http://arxiv.org/abs/2602.18782)|null|
+|**2026-02-21**|**Prior Aware Memorization: An Efficient Metric for Distinguishing Memorization from Generalization in Large Language Models**|Trishita Tiwari et.al.|[2602.18733](http://arxiv.org/abs/2602.18733)|null|
+|**2026-02-21**|**Watermarking LLM Agent Trajectories**|Wenlong Meng (zju.edu.cn) et.al.|[2602.18700](http://arxiv.org/abs/2602.18700)|null|
+|**2026-02-21**|**Contradiction to Consensus: Dual Perspective, Multi Source Retrieval Based Claim Verification with Source Level Disagreement using LLM**|Md Badsha Biswas (gmu.edu) et.al.|[2602.18693](http://arxiv.org/abs/2602.18693)|null|
+|**2026-02-21**|**Spilled Energy in Large Language Models**|Adrian Robert Minut et.al.|[2602.18671](http://arxiv.org/abs/2602.18671)|null|
+|**2026-02-20**|**NutriOrion: A Hierarchical Multi-Agent Framework for Personalized Nutrition Intervention Grounded in Clinical Guidelines**|Junwei Wu (emory.edu) et.al.|[2602.18650](http://arxiv.org/abs/2602.18650)|null|
+|**2026-02-20**|**Non-Interfering Weight Fields: Treating Model Parameters as a Continuously Extensible Function**|Sarim Chaudhry (purdue.edu) et.al.|[2602.18628](http://arxiv.org/abs/2602.18628)|null|
+|**2026-02-20**|**Rodent-Bench**|Thomas Heap (bristol.ac.uk) et.al.|[2602.18540](http://arxiv.org/abs/2602.18540)|null|
 |**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao (gmail.com) et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|**[link](https://github.com/JiaminYao/SPQ_LLM_Compression/)**|
 |**2026-02-20**|**Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System**|Pavithra PM Nair (tcs.com) et.al.|[2602.18346](http://arxiv.org/abs/2602.18346)|null|
 |**2026-02-20**|**FENCE: A Financial and Multimodal Jailbreak Detection Dataset**|Mirae Kim (lab.kakaobank.com) et.al.|[2602.18154](http://arxiv.org/abs/2602.18154)|null|
