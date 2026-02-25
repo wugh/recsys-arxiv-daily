@@ -1,4 +1,4 @@
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng (gmail.com) et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
+|**2026-02-24**|**HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders**|Kun Yuan (taobao.com) et.al.|[2602.21009](http://arxiv.org/abs/2602.21009)|null|
+|**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi (taobao.com) et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
+|**2026-02-24**|**E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications**|Jiwoo Kang (unist.ac.kr) et.al.|[2602.20877](http://arxiv.org/abs/2602.20877)|null|
+|**2026-02-24**|**From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production**|Yucheng Shi et.al.|[2602.20558](http://arxiv.org/abs/2602.20558)|null|
+|**2026-02-23**|**CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense**|Bolin Shen (fsu.edu) et.al.|[2602.20418](http://arxiv.org/abs/2602.20418)|**[link](https://github.com/LabRAI/CITED)**|
 |**2026-02-23**|**FairFS: Addressing Deep Feature Selection Biases for Recommender System**|Xianquan Wang (mail.ustc.edu.cn) et.al.|[2602.20001](http://arxiv.org/abs/2602.20001)|null|
 |**2026-02-23**|**GrIT: Group Informed Transformer for Sequential Recommendation**|Adamya Shyam (cs.du.ac.in) et.al.|[2602.19728](http://arxiv.org/abs/2602.19728)|null|
 |**2026-02-23**|**DReX: An Explainable Deep Learning-based Multimodal Recommendation Framework**|Adamya Shyam (cs.du.ac.in) et.al.|[2602.19702](http://arxiv.org/abs/2602.19702)|null|
@@ -25,7 +31,7 @@
 |**2026-02-19**|**Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers**|Bingqian Li (ruc.edu.cn) et.al.|[2602.17410](http://arxiv.org/abs/2602.17410)|null|
 |**2026-02-19**|**Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation**|Daniele Malitesta (centralesupelec.fr) et.al.|[2602.17354](http://arxiv.org/abs/2602.17354)|null|
 |**2026-02-19**|**On the Reliability of User-Centric Evaluation of Conversational Recommender Systems**|Michael Müller (uibk.ac.at) et.al.|[2602.17264](http://arxiv.org/abs/2602.17264)|**[link](https://github.com/michael-mue/reliable-crs-eval)**|
-|**2026-02-19**|**Multi-Probe Zero Collision Hash (MPZCH): Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders**|Ziliang Zhao (meta.com) et.al.|[2602.17050](http://arxiv.org/abs/2602.17050)|null|
+|**2026-02-23**|**Multi-Probe Zero Collision Hash (MPZCH): Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders**|Ziliang Zhao (meta.com) et.al.|[2602.17050](http://arxiv.org/abs/2602.17050)|null|
 |**2026-02-20**|**Bending the Scaling Law Curve in Large-Scale Recommendation Systems**|Qin Ding (meta.com) et.al.|[2602.16986](http://arxiv.org/abs/2602.16986)|null|
 |**2026-02-18**|**From Latent to Observable Position-Based Click Models in Carousel Interfaces**|Santiago de Leon-Martinez (kinit.sk) et.al.|[2602.16541](http://arxiv.org/abs/2602.16541)|null|
 |**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko (gmail.com) et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
@@ -1165,12 +1171,15 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng (gmail.com) et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
+|**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi (taobao.com) et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
+|**2026-02-24**|**From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production**|Yucheng Shi et.al.|[2602.20558](http://arxiv.org/abs/2602.20558)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu (126.com) et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
 |**2026-02-19**|**Beyond Pipelines: A Fundamental Study on the Rise of Generative-Retrieval Architectures in Web Research**|Amirereza Abbasi (iasbs.ac.ir) et.al.|[2602.17450](http://arxiv.org/abs/2602.17450)|null|
 |**2026-02-19**|**Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers**|Bingqian Li (ruc.edu.cn) et.al.|[2602.17410](http://arxiv.org/abs/2602.17410)|null|
@@ -1739,14 +1748,25 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification**|Vishal Patil (isi.edu) et.al.|[2602.21082](http://arxiv.org/abs/2602.21082)|null|
+|**2026-02-24**|**Predicting Sentence Acceptability Judgments in Multimodal Contexts**|Hyewon Jang (gu.se) et.al.|[2602.20918](http://arxiv.org/abs/2602.20918)|null|
+|**2026-02-24**|**Qwen-BIM: developing large language model for BIM-based design with domain-specific benchmark and dataset**|Jia-Rui Lin et.al.|[2602.20812](http://arxiv.org/abs/2602.20812)|null|
+|**2026-02-24**|**Overton Pluralistic Reinforcement Learning for Large Language Models**|Yu Fu (ucl.ac.uk) et.al.|[2602.20759](http://arxiv.org/abs/2602.20759)|null|
+|**2026-02-24**|**CARE: An Explainable Computational Framework for Assessing Client-Perceived Therapeutic Alliance Using Large Language Models**|Anqi Li (westlake.edu.cn) et.al.|[2602.20648](http://arxiv.org/abs/2602.20648)|null|
+|**2026-02-24**|**QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs**|Santiago Gonzalez (yale.edu) et.al.|[2602.20629](http://arxiv.org/abs/2602.20629)|**[link](https://github.com/qqliu/Yale-QEDBench)**|
+|**2026-02-24**|**Standard Transformers Achieve the Minimax Rate in Nonparametric Regression with $C^{s,λ}$ Targets**|Yanming Lai (polyu.edu.hk) et.al.|[2602.20555](http://arxiv.org/abs/2602.20555)|null|
+|**2026-02-24**|**PreScience: A Benchmark for Forecasting Scientific Contributions**|Anirudh Ajith (allenai.org) et.al.|[2602.20459](http://arxiv.org/abs/2602.20459)|null|
+|**2026-02-23**|**An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction**|Guanting Shen (gmail.com) et.al.|[2602.20219](http://arxiv.org/abs/2602.20219)|null|
+|**2026-02-22**|**Mitigating "Epistemic Debt" in Generative AI-Scaffolded Novice Programming using Metacognitive Scripts**|Sreecharan Sankaranarayanan (gmail.com) et.al.|[2602.20206](http://arxiv.org/abs/2602.20206)|null|
 |**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan (umn.edu) et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
 |**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra (acm.org) et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
+|**2026-02-24**|**Nacrith: Neural Lossless Compression via Ensemble Context Modeling and High-Precision CDF Coding**|Roberto Tacconelli (gmail.com) et.al.|[2602.19626](http://arxiv.org/abs/2602.19626)|null|
 |**2026-02-23**|**Leap+Verify: Regime-Adaptive Speculative Weight Prediction for Accelerating Neural Network Training**|Jeremy McEntire et.al.|[2602.19580](http://arxiv.org/abs/2602.19580)|**[link](https://github.com/jmcentire/leap-verify)**|
 |**2026-02-23**|**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**|Xingyu Shen (get-reality.com) et.al.|[2602.19539](http://arxiv.org/abs/2602.19539)|null|
 |**2026-02-23**|**Classroom Final Exam: An Instructor-Tested Reasoning Benchmark**|Chongyang Gao (u.northwestern.edu) et.al.|[2602.19517](http://arxiv.org/abs/2602.19517)|**[link](https://github.com/Analogy-AI/CFE_Bench)**|
@@ -4516,7 +4536,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
