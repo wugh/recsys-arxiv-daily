@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing**|Deogyong Kim (yonsei.ac.kr) et.al.|[2602.21756](http://arxiv.org/abs/2602.21756)|null|
+|**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu (stu.scu.edu.cn) et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
+|**2026-02-25**|**AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-aware Quantization and Multi-stage Re-ranking**|Ganap Ashit Tewary (asu.edu) et.al.|[2602.21600](http://arxiv.org/abs/2602.21600)|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng (gmail.com) et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
 |**2026-02-24**|**HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders**|Kun Yuan (taobao.com) et.al.|[2602.21009](http://arxiv.org/abs/2602.21009)|null|
 |**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi (taobao.com) et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
@@ -1171,12 +1174,15 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing**|Deogyong Kim (yonsei.ac.kr) et.al.|[2602.21756](http://arxiv.org/abs/2602.21756)|null|
+|**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu (stu.scu.edu.cn) et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
+|**2026-02-25**|**AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-aware Quantization and Multi-stage Re-ranking**|Ganap Ashit Tewary (asu.edu) et.al.|[2602.21600](http://arxiv.org/abs/2602.21600)|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng (gmail.com) et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
 |**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi (taobao.com) et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
 |**2026-02-24**|**From Logs to Language: Learning Optimal Verbalization for LLM-Based Recommendation in Production**|Yucheng Shi et.al.|[2602.20558](http://arxiv.org/abs/2602.20558)|null|
@@ -1748,12 +1754,28 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren (u.nus.edu) et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|**[link](https://github.com/lingfengren/NoLan)**|
+|**2026-02-25**|**Confidence-Driven Multi-Scale Model Selection for Cost-Efficient Inference**|Bo-Wei Chen (nycu.edu.tw) et.al.|[2602.22090](http://arxiv.org/abs/2602.22090)|null|
+|**2026-02-25**|**Hidden Topics: Measuring Sensitive AI Beliefs with List Experiments**|Maxim Chupilkin et.al.|[2602.21939](http://arxiv.org/abs/2602.21939)|null|
+|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder (gmail.com) et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
+|**2026-02-25**|**ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices**|Dezhi Kong et.al.|[2602.21858](http://arxiv.org/abs/2602.21858)|null|
+|**2026-02-25**|**Prompt Architecture Determines Reasoning Quality: A Variable Isolation Study on the Car Wash Problem**|Heejin Jo (birth2death.com) et.al.|[2602.21814](http://arxiv.org/abs/2602.21814)|null|
+|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li (westlake.edu.cn) et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|null|
+|**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen (kuaishou.com) et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
+|**2026-02-25**|**AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-aware Quantization and Multi-stage Re-ranking**|Ganap Ashit Tewary (asu.edu) et.al.|[2602.21600](http://arxiv.org/abs/2602.21600)|null|
+|**2026-02-25**|**Muon+: Towards Better Muon via One Additional Normalization Step**|Ruijie Zhang (ucsb.edu) et.al.|[2602.21545](http://arxiv.org/abs/2602.21545)|**[link](https://github.com/K1seki221/MuonPlus)**|
+|**2026-02-25**|**Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information**|Umid Suleymanov (vt.edu) et.al.|[2602.21496](http://arxiv.org/abs/2602.21496)|null|
+|**2026-02-25**|**VecGlypher: Unified Vector Glyph Generation with Language Models**|Xiaoke Huang et.al.|[2602.21461](http://arxiv.org/abs/2602.21461)|**[link](https://xk-huang.github.io/VecGlypher/)**|
+|**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu (linkedin.com) et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
+|**2026-02-24**|**Beyond Subtokens: A Rich Character Embedding for Low-resource and Morphologically Complex Languages**|Felix Schneider (uni-jena.de) et.al.|[2602.21377](http://arxiv.org/abs/2602.21377)|null|
+|**2026-02-24**|**Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages**|Mohammadreza Ghaffarzadeh-Esfahani (gmail.com) et.al.|[2602.21374](http://arxiv.org/abs/2602.21374)|null|
+|**2026-02-24**|**A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives**|Dmitrii Pantiukhin et.al.|[2602.21351](http://arxiv.org/abs/2602.21351)|null|
 |**2026-02-24**|**Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification**|Vishal Patil (isi.edu) et.al.|[2602.21082](http://arxiv.org/abs/2602.21082)|null|
 |**2026-02-24**|**Predicting Sentence Acceptability Judgments in Multimodal Contexts**|Hyewon Jang (gu.se) et.al.|[2602.20918](http://arxiv.org/abs/2602.20918)|null|
 |**2026-02-24**|**Qwen-BIM: developing large language model for BIM-based design with domain-specific benchmark and dataset**|Jia-Rui Lin et.al.|[2602.20812](http://arxiv.org/abs/2602.20812)|null|
@@ -4536,7 +4558,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
