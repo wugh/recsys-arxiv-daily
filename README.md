@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
+|**2026-02-26**|**MaRI: Accelerating Ranking Model Inference via Structural Re-parameterization in Large Scale Recommendation System**|Yusheng Huang (kuaishou.com) et.al.|[2602.23105](http://arxiv.org/abs/2602.23105)|null|
+|**2026-02-26**|**Sequential Regression for Continuous Value Prediction using Residual Quantization**|Runpeng Cui (gmail.com) et.al.|[2602.23012](http://arxiv.org/abs/2602.23012)|null|
+|**2026-02-26**|**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**|Yang Yu (alibaba-inc.com) et.al.|[2602.22913](http://arxiv.org/abs/2602.22913)|null|
+|**2026-02-26**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|null|
+|**2026-02-26**|**AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising**|Xinxin Yang (oppo.com) et.al.|[2602.22650](http://arxiv.org/abs/2602.22650)|null|
+|**2026-02-26**|**Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators**|Zhengyang Su (google.com) et.al.|[2602.22647](http://arxiv.org/abs/2602.22647)|**[link](https://github.com/youtube/static-constraint-decoding)**|
+|**2026-02-26**|**Fine-grained Semantics Integration for Large Language Model-based Recommendation**|Jiawen Feng (gmail.com) et.al.|[2602.22632](http://arxiv.org/abs/2602.22632)|null|
+|**2026-02-26**|**Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA**|Wenwei Li (tencent.com) et.al.|[2602.22584](http://arxiv.org/abs/2602.22584)|null|
+|**2026-02-25**|**Decoding the Hook: A Multimodal LLM Framework for Analyzing the Hooking Period of Video Ads**|Kunpeng Zhang (umd.edu) et.al.|[2602.22299](http://arxiv.org/abs/2602.22299)|null|
 |**2026-02-25**|**Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing**|Deogyong Kim (yonsei.ac.kr) et.al.|[2602.21756](http://arxiv.org/abs/2602.21756)|null|
 |**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu (stu.scu.edu.cn) et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
 |**2026-02-25**|**AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-aware Quantization and Multi-stage Re-ranking**|Ganap Ashit Tewary (asu.edu) et.al.|[2602.21600](http://arxiv.org/abs/2602.21600)|null|
@@ -1174,12 +1184,18 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
+|**2026-02-26**|**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**|Yang Yu (alibaba-inc.com) et.al.|[2602.22913](http://arxiv.org/abs/2602.22913)|null|
+|**2026-02-26**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|null|
+|**2026-02-26**|**Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators**|Zhengyang Su (google.com) et.al.|[2602.22647](http://arxiv.org/abs/2602.22647)|**[link](https://github.com/youtube/static-constraint-decoding)**|
+|**2026-02-26**|**Fine-grained Semantics Integration for Large Language Model-based Recommendation**|Jiawen Feng (gmail.com) et.al.|[2602.22632](http://arxiv.org/abs/2602.22632)|null|
+|**2026-02-25**|**Decoding the Hook: A Multimodal LLM Framework for Analyzing the Hooking Period of Video Ads**|Kunpeng Zhang (umd.edu) et.al.|[2602.22299](http://arxiv.org/abs/2602.22299)|null|
 |**2026-02-25**|**Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing**|Deogyong Kim (yonsei.ac.kr) et.al.|[2602.21756](http://arxiv.org/abs/2602.21756)|null|
 |**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu (stu.scu.edu.cn) et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
 |**2026-02-25**|**AQR-HNSW: Accelerating Approximate Nearest Neighbor Search via Density-aware Quantization and Multi-stage Re-ranking**|Ganap Ashit Tewary (asu.edu) et.al.|[2602.21600](http://arxiv.org/abs/2602.21600)|null|
@@ -1754,17 +1770,41 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**InnerQ: Hardware-aware Tuning-free Quantization of KV Cache for Large Language Models**|Sayed Mohammadreza Tayaranian Hosseini (mail.mcgill.ca) et.al.|[2602.23200](http://arxiv.org/abs/2602.23200)|null|
+|**2026-02-26**|**ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering**|Elzo Brito dos Santos Filho (cps.sp.gov.br) et.al.|[2602.23193](http://arxiv.org/abs/2602.23193)|null|
+|**2026-02-26**|**Residual Koopman Spectral Profiling for Predicting and Preventing Transformer Training Instability**|Bum Jun Kim et.al.|[2602.22988](http://arxiv.org/abs/2602.22988)|null|
+|**2026-02-26**|**Where Vision Becomes Text: Locating the OCR Routing Bottleneck in Vision-Language Models**|Jonathan Steinberg (staff.haifa.ac.il) et.al.|[2602.22918](http://arxiv.org/abs/2602.22918)|null|
+|**2026-02-26**|**Effective QA-driven Annotation of Predicate-Argument Relations Across Languages**|Jonathan Davidov (gmail.com) et.al.|[2602.22865](http://arxiv.org/abs/2602.22865)|null|
+|**2026-02-26**|**TCM-DiffRAG: Personalized Syndrome Differentiation Reasoning Method for Traditional Chinese Medicine based on Knowledge Graph and Chain of Thought**|Jianmin Li et.al.|[2602.22828](http://arxiv.org/abs/2602.22828)|null|
+|**2026-02-26**|**Natural Language Declarative Prompting (NLD-P): A Modular Governance Method for Prompt Design Under Model Drift**|Hyunwoo Kim (ai-dda.com) et.al.|[2602.22790](http://arxiv.org/abs/2602.22790)|null|
+|**2026-02-26**|**Probing for Knowledge Attribution in Large Language Models**|Ivo Brink (gmail.com) et.al.|[2602.22787](http://arxiv.org/abs/2602.22787)|null|
+|**2026-02-26**|**Replacing Multi-Step Assembly of Data Preparation Pipelines with One-Step LLM Pipeline Generation for Table QA**|Fengyu Li (zju.edu.cn) et.al.|[2602.22721](http://arxiv.org/abs/2602.22721)|null|
+|**2026-02-26**|**RLHFless: Serverless Computing for Efficient RLHF**|Rui Wei (stevens.edu) et.al.|[2602.22718](http://arxiv.org/abs/2602.22718)|null|
+|**2026-02-26**|**SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses**|Zhuohang Jiang et.al.|[2602.22683](http://arxiv.org/abs/2602.22683)|null|
+|**2026-02-26**|**Transformers converge to invariant algorithmic cores**|Joshua S. Schiffman (nygenome.org) et.al.|[2602.22600](http://arxiv.org/abs/2602.22600)|null|
+|**2026-02-26**|**Multilingual Safety Alignment Via Sparse Weight Editing**|Jiaming Liang (xidian.edu.cn) et.al.|[2602.22554](http://arxiv.org/abs/2602.22554)|null|
+|**2026-02-25**|**Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models**|Craig Myles (st-andrews.ac.uk) et.al.|[2602.22483](http://arxiv.org/abs/2602.22483)|**[link](https://github.com/CraigMyles/clinical-note-error-detection)**|
+|**2026-02-25**|**Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs**|Jiří Milička (ff.cuni.cz) et.al.|[2602.22481](http://arxiv.org/abs/2602.22481)|null|
+|**2026-02-25**|**Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models**|Niamul Hassan Samin et.al.|[2602.22469](http://arxiv.org/abs/2602.22469)|null|
+|**2026-02-25**|**Bridging Latent Reasoning and Target-Language Generation via Retrieval-Transition Heads**|Shaswat Patel (nyu.edu) et.al.|[2602.22453](http://arxiv.org/abs/2602.22453)|null|
+|**2026-02-25**|**Towards Autonomous Memory Agents**|Xinle Wu et.al.|[2602.22406](http://arxiv.org/abs/2602.22406)|null|
+|**2026-02-25**|**Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents**|Cosmo Santoni (imperial.ac.uk) et.al.|[2602.22402](http://arxiv.org/abs/2602.22402)|**[link](https://github.com/CosmoNaught/claude-code-cmv)**|
+|**2026-02-25**|**EyeLayer: Integrating Human Attention Patterns into LLM-Based Code Summarization**|Jiahao Zhang (vanderbilt.edu) et.al.|[2602.22368](http://arxiv.org/abs/2602.22368)|null|
+|**2026-02-25**|**Scaling In, Not Up? Testing Thick Citation Context Analysis with GPT-5 and Fragile Prompts**|Arno Simons et.al.|[2602.22359](http://arxiv.org/abs/2602.22359)|null|
+|**2026-02-25**|**UpSkill: Mutual Information Skill Learning for Structured Response Diversity in LLMs**|Devan Shah (princeton.edu) et.al.|[2602.22296](http://arxiv.org/abs/2602.22296)|null|
+|**2026-02-25**|**Manifold of Failure: Behavioral Attraction Basins in Language Models**|Sarthak Munshi (gmail.com) et.al.|[2602.22291](http://arxiv.org/abs/2602.22291)|null|
+|**2026-02-25**|**Integrating Machine Learning Ensembles and Large Language Models for Heart Disease Prediction Using Voting Fusion**|Md. Tahsin Amin (cse.pstu.ac.bd) et.al.|[2602.22280](http://arxiv.org/abs/2602.22280)|null|
 |**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren (u.nus.edu) et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|**[link](https://github.com/lingfengren/NoLan)**|
 |**2026-02-25**|**Confidence-Driven Multi-Scale Model Selection for Cost-Efficient Inference**|Bo-Wei Chen (nycu.edu.tw) et.al.|[2602.22090](http://arxiv.org/abs/2602.22090)|null|
 |**2026-02-25**|**Hidden Topics: Measuring Sensitive AI Beliefs with List Experiments**|Maxim Chupilkin et.al.|[2602.21939](http://arxiv.org/abs/2602.21939)|null|
 |**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder (gmail.com) et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
-|**2026-02-25**|**ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices**|Dezhi Kong et.al.|[2602.21858](http://arxiv.org/abs/2602.21858)|null|
+|**2026-02-26**|**ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices**|Dezhi Kong et.al.|[2602.21858](http://arxiv.org/abs/2602.21858)|null|
 |**2026-02-25**|**Prompt Architecture Determines Reasoning Quality: A Variable Isolation Study on the Car Wash Problem**|Heejin Jo (birth2death.com) et.al.|[2602.21814](http://arxiv.org/abs/2602.21814)|null|
 |**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li (westlake.edu.cn) et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|null|
 |**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen (kuaishou.com) et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
@@ -4558,7 +4598,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
