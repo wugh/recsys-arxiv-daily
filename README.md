@@ -14,7 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-26**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
+|**2026-02-27**|**Recommendation Algorithms: A Comparative Study in Movie Domain**|Rohit Chivukula (shu.ac.uk) et.al.|[2602.24125](http://arxiv.org/abs/2602.24125)|null|
+|**2026-02-27**|**Recommending Search Filters To Improve Conversions At Airbnb**|Hao Li (airbnb.com) et.al.|[2602.23717](http://arxiv.org/abs/2602.23717)|null|
+|**2026-02-27**|**FuXi-Linear: Unleashing the Power of Linear Attention in Long-term Time-aware Sequential Recommendation**|Yufei Ye (mail.ustc.edu.cn) et.al.|[2602.23671](http://arxiv.org/abs/2602.23671)|**[link](https://github.com/USTC-StarTeam/fuxi-linear)**|
+|**2026-02-27**|**Disentangled Mode-Specific Representations for Tensor Time Series via Contrastive Learning**|Kohei Obata (sanken.osaka-u.ac.jp) et.al.|[2602.23663](http://arxiv.org/abs/2602.23663)|**[link](https://github.com/KoheiObata/MoST)**|
+|**2026-02-27**|**Learning to Reflect and Correct: Towards Better Decoding Trajectories for Large-Scale Generative Recommendation**|Haibo Xing (alibaba-inc.com) et.al.|[2602.23639](http://arxiv.org/abs/2602.23639)|null|
+|**2026-02-26**|**Cross-Representation Knowledge Transfer for Improved Sequential Recommendations**|Artur Gimranov (hse.ru) et.al.|[2602.23471](http://arxiv.org/abs/2602.23471)|null|
+|**2026-02-26**|**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**|Chris Samarinas (cs.umass.edu) et.al.|[2602.23440](http://arxiv.org/abs/2602.23440)|null|
+|**2026-02-26**|**Complex Networks and the Drug Repositioning Problem**|Felipe Bivort Haiek et.al.|[2602.23396](http://arxiv.org/abs/2602.23396)|null|
+|**2026-02-27**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
 |**2026-02-26**|**MaRI: Accelerating Ranking Model Inference via Structural Re-parameterization in Large Scale Recommendation System**|Yusheng Huang (kuaishou.com) et.al.|[2602.23105](http://arxiv.org/abs/2602.23105)|null|
 |**2026-02-26**|**Sequential Regression for Continuous Value Prediction using Residual Quantization**|Runpeng Cui (gmail.com) et.al.|[2602.23012](http://arxiv.org/abs/2602.23012)|null|
 |**2026-02-26**|**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**|Yang Yu (alibaba-inc.com) et.al.|[2602.22913](http://arxiv.org/abs/2602.22913)|null|
@@ -1190,7 +1198,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-26**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
+|**2026-02-26**|**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**|Chris Samarinas (cs.umass.edu) et.al.|[2602.23440](http://arxiv.org/abs/2602.23440)|null|
+|**2026-02-27**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
 |**2026-02-26**|**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**|Yang Yu (alibaba-inc.com) et.al.|[2602.22913](http://arxiv.org/abs/2602.22913)|null|
 |**2026-02-26**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|null|
 |**2026-02-26**|**Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators**|Zhengyang Su (google.com) et.al.|[2602.22647](http://arxiv.org/abs/2602.22647)|**[link](https://github.com/youtube/static-constraint-decoding)**|
@@ -1776,6 +1785,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
+|**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai (air.tsinghua.edu.cn) et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
+|**2026-02-27**|**Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation**|Zhengbo Wang (mail.ustc.edu.cn) et.al.|[2602.24283](http://arxiv.org/abs/2602.24283)|**[link](https://github.com/mrflogs/LoRA-Pre)**|
+|**2026-02-27**|**Terminology Rarity Predicts Catastrophic Failure in LLM Translation of Low-Resource Ancient Languages: Evidence from Ancient Greek**|James L. Zainaldin (vanderbilt.edu) et.al.|[2602.24119](http://arxiv.org/abs/2602.24119)|null|
+|**2026-02-27**|**A Novel Hierarchical Multi-Agent System for Payments Using LLMs**|Joon Kiat Chua (smu.edu.sg) et.al.|[2602.24068](http://arxiv.org/abs/2602.24068)|null|
+|**2026-02-27**|**Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking**|Zhicheng Fang (sqz.ac.cn) et.al.|[2602.24009](http://arxiv.org/abs/2602.24009)|null|
+|**2026-02-27**|**ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference**|Siyuan Ma (e.ntu.edu.sg) et.al.|[2602.23681](http://arxiv.org/abs/2602.23681)|null|
+|**2026-02-27**|**TRIZ-RAGNER: A Retrieval-Augmented Large Language Model for TRIZ-Aware Named Entity Recognition in Patent-Based Contradiction Mining**|Zitong Xu (163.com) et.al.|[2602.23656](http://arxiv.org/abs/2602.23656)|null|
+|**2026-02-27**|**AudioCapBench: Quick Evaluation on Audio Captioning across Sound, Music, and Speech**|Jielin Qiu et.al.|[2602.23649](http://arxiv.org/abs/2602.23649)|null|
 |**2026-02-26**|**InnerQ: Hardware-aware Tuning-free Quantization of KV Cache for Large Language Models**|Sayed Mohammadreza Tayaranian Hosseini (mail.mcgill.ca) et.al.|[2602.23200](http://arxiv.org/abs/2602.23200)|null|
 |**2026-02-26**|**ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering**|Elzo Brito dos Santos Filho (cps.sp.gov.br) et.al.|[2602.23193](http://arxiv.org/abs/2602.23193)|null|
 |**2026-02-26**|**Residual Koopman Spectral Profiling for Predicting and Preventing Transformer Training Instability**|Bum Jun Kim et.al.|[2602.22988](http://arxiv.org/abs/2602.22988)|null|
@@ -1792,7 +1810,7 @@
 |**2026-02-25**|**Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models**|Craig Myles (st-andrews.ac.uk) et.al.|[2602.22483](http://arxiv.org/abs/2602.22483)|**[link](https://github.com/CraigMyles/clinical-note-error-detection)**|
 |**2026-02-25**|**Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs**|Jiří Milička (ff.cuni.cz) et.al.|[2602.22481](http://arxiv.org/abs/2602.22481)|null|
 |**2026-02-25**|**Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models**|Niamul Hassan Samin et.al.|[2602.22469](http://arxiv.org/abs/2602.22469)|null|
-|**2026-02-25**|**Bridging Latent Reasoning and Target-Language Generation via Retrieval-Transition Heads**|Shaswat Patel (nyu.edu) et.al.|[2602.22453](http://arxiv.org/abs/2602.22453)|null|
+|**2026-02-27**|**Bridging Latent Reasoning and Target-Language Generation via Retrieval-Transition Heads**|Shaswat Patel et.al.|[2602.22453](http://arxiv.org/abs/2602.22453)|null|
 |**2026-02-25**|**Towards Autonomous Memory Agents**|Xinle Wu et.al.|[2602.22406](http://arxiv.org/abs/2602.22406)|null|
 |**2026-02-25**|**Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents**|Cosmo Santoni (imperial.ac.uk) et.al.|[2602.22402](http://arxiv.org/abs/2602.22402)|**[link](https://github.com/CosmoNaught/claude-code-cmv)**|
 |**2026-02-25**|**EyeLayer: Integrating Human Attention Patterns into LLM-Based Code Summarization**|Jiahao Zhang (vanderbilt.edu) et.al.|[2602.22368](http://arxiv.org/abs/2602.22368)|null|
