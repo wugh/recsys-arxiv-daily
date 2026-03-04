@@ -1,4 +1,4 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**UniSkill: A Dataset for Matching University Curricula to Professional Competencies**|Nurlan Musazade (abo.fi) et.al.|[2603.03134](http://arxiv.org/abs/2603.03134)|null|
+|**2026-03-03**|**Proactive Guiding Strategy for Item-side Fairness in Interactive Recommendation**|Chongjun Xia (gmail.com) et.al.|[2603.03094](http://arxiv.org/abs/2603.03094)|null|
+|**2026-03-03**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun (tencent.com) et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|null|
+|**2026-03-03**|**BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation**|Zihao Zhu (link.cuhk.edu.cn) et.al.|[2603.02816](http://arxiv.org/abs/2603.02816)|null|
+|**2026-03-03**|**S2CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation**|Xiaodong Li (iie.ac.cn) et.al.|[2603.02725](http://arxiv.org/abs/2603.02725)|null|
+|**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon (soongsil.ac.kr) et.al.|[2603.02653](http://arxiv.org/abs/2603.02653)|null|
+|**2026-03-03**|**FlashEvaluator: Expanding Search Space with Parallel Evaluation**|Chao Feng (kuaishou.com) et.al.|[2603.02565](http://arxiv.org/abs/2603.02565)|null|
+|**2026-03-03**|**SOLAR: SVD-Optimized Lifelong Attention for Recommendation**|Chenghao Zhang (kuaishou.com) et.al.|[2603.02561](http://arxiv.org/abs/2603.02561)|null|
+|**2026-03-02**|**Estimating Visual Attribute Effects in Advertising from Observational Data: A Deepfake-Informed Double Machine Learning Approach**|Yizhi Liu (umd.edu) et.al.|[2603.02359](http://arxiv.org/abs/2603.02359)|null|
 |**2026-03-02**|**NextAds: Towards Next-generation Personalized Video Advertising**|Yiyan Xu (gmail.com) et.al.|[2603.02137](http://arxiv.org/abs/2603.02137)|null|
 |**2026-03-02**|**IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs**|Yubin Zhang (xiaohongshu.com) et.al.|[2603.01590](http://arxiv.org/abs/2603.01590)|null|
 |**2026-03-02**|**HarmonyCell: Automating Single-Cell Perturbation Modeling under Semantic and Distribution Shifts**|Wenxuan Huang (ailab.org.cn) et.al.|[2603.01396](http://arxiv.org/abs/2603.01396)|null|
@@ -1199,12 +1208,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**UniSkill: A Dataset for Matching University Curricula to Professional Competencies**|Nurlan Musazade (abo.fi) et.al.|[2603.03134](http://arxiv.org/abs/2603.03134)|null|
+|**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon (soongsil.ac.kr) et.al.|[2603.02653](http://arxiv.org/abs/2603.02653)|null|
 |**2026-03-02**|**IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs**|Yubin Zhang (xiaohongshu.com) et.al.|[2603.01590](http://arxiv.org/abs/2603.01590)|null|
 |**2026-03-02**|**HarmonyCell: Automating Single-Cell Perturbation Modeling under Semantic and Distribution Shifts**|Wenxuan Huang (ailab.org.cn) et.al.|[2603.01396](http://arxiv.org/abs/2603.01396)|null|
 |**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Haimonti Dutta (buffalo.edu) et.al.|[2603.00854](http://arxiv.org/abs/2603.00854)|null|
@@ -1790,18 +1801,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
+|**2026-03-03**|**Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**|Hongliu Cao (gmail.com) et.al.|[2603.03116](http://arxiv.org/abs/2603.03116)|null|
+|**2026-03-03**|**Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems**|Raad Khraishi et.al.|[2603.03111](http://arxiv.org/abs/2603.03111)|null|
+|**2026-03-03**|**TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning**|Christian Greisinger (utn.de) et.al.|[2603.03072](http://arxiv.org/abs/2603.03072)|null|
+|**2026-03-03**|**TrustMH-Bench: A Comprehensive Benchmark for Evaluating the Trustworthiness of Large Language Models in Mental Health**|Zixin Xiong (ruc.edu.cn) et.al.|[2603.03047](http://arxiv.org/abs/2603.03047)|null|
+|**2026-03-03**|**SorryDB: Can AI Provers Complete Real-World Lean Theorems?**|Austin Letson et.al.|[2603.02668](http://arxiv.org/abs/2603.02668)|null|
+|**2026-03-03**|**Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models**|Shubhangi Upasani (gmail.com) et.al.|[2603.02631](http://arxiv.org/abs/2603.02631)|null|
+|**2026-03-03**|**Think, But Don't Overthink: Reproducing Recursive Language Models**|Daren Wang (link.cuhk.edu.hk) et.al.|[2603.02615](http://arxiv.org/abs/2603.02615)|**[link](https://github.com/drbillwang/rlm-reproduction)**|
+|**2026-03-03**|**GPUTOK: GPU Accelerated Byte Level BPE Tokenization**|Venu Gopal Kadamba (nyu.edu) et.al.|[2603.02597](http://arxiv.org/abs/2603.02597)|null|
+|**2026-03-03**|**ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution**|Liu Yang (yale.edu) et.al.|[2603.02510](http://arxiv.org/abs/2603.02510)|**[link](https://github.com/WildAlg/ParEVO)**|
+|**2026-03-03**|**NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect**|Pratibha Zunjare (vt.edu) et.al.|[2603.02504](http://arxiv.org/abs/2603.02504)|null|
+|**2026-03-02**|**ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense**|Nancy Lau (ucsc.edu) et.al.|[2603.02297](http://arxiv.org/abs/2603.02297)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe (inria.fr) et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|**[link](https://github.com/sileod/reasoning_core)**|
 |**2026-03-02**|**Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale**|Hao Li (pjlab.org.cn) et.al.|[2603.02176](http://arxiv.org/abs/2603.02176)|**[link](https://github.com/ynulihao/AgentSkillOS)**|
 |**2026-03-02**|**How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks**|Mohamed Amine Ferrag (uaeu.ac.ae) et.al.|[2603.02156](http://arxiv.org/abs/2603.02156)|**[link](https://github.com/maferrag/6G-Bench)**|
 |**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen (u.nus.edu) et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|**[link](https://github.com/real-absolute-AI/LongRLVR)**|
 |**2026-03-02**|**Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning**|Justin Waugh (approximatelabs.com) et.al.|[2603.02119](http://arxiv.org/abs/2603.02119)|null|
-|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee (kaist.ac.kr) et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|**[link](https://litcoderr.github.io/rtap_page/)**|
+|**2026-03-03**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee (kaist.ac.kr) et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|**[link](https://litcoderr.github.io/rtap_page/)**|
 |**2026-03-02**|**GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered**|Jiale Lao (cs.cornell.edu) et.al.|[2603.02081](http://arxiv.org/abs/2603.02081)|null|
 |**2026-03-02**|**OpenRad: a Curated Repository of Open-access AI models for Radiology**|Konstantinos Vrettos (gmail.com) et.al.|[2603.02062](http://arxiv.org/abs/2603.02062)|null|
 |**2026-03-02**|**EstLLM: Enhancing Estonian Capabilities in Multilingual LLMs via Continued Pretraining and Post-Training**|Aleksei Dorkin et.al.|[2603.02041](http://arxiv.org/abs/2603.02041)|null|
@@ -4657,7 +4680,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
