@@ -1,4 +1,4 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
+|**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li (kuaishou.com) et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
+|**2026-03-05**|**Detecting RAG Advertisements Across Advertising Styles**|Sebastian Heineking et.al.|[2603.04925](http://arxiv.org/abs/2603.04925)|null|
+|**2026-03-05**|**Knowledge-informed Bidding with Dual-process Control for Online Advertising**|Huixiang Luo (alibaba-inc.com) et.al.|[2603.04920](http://arxiv.org/abs/2603.04920)|null|
+|**2026-03-05**|**Evaluating the Search Agent in a Parallel World**|Jiawei Chen (lixiang.com) et.al.|[2603.04751](http://arxiv.org/abs/2603.04751)|null|
+|**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu (connect.hku.hk) et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|null|
+|**2026-03-04**|**Constraint-Aware Generative Re-ranking for Multi-Objective Optimization in Advertising Feeds**|Chenfei Li (bilibili.com) et.al.|[2603.04227](http://arxiv.org/abs/2603.04227)|null|
+|**2026-03-04**|**Fairness Begins with State: Purifying Latent Preferences for Hierarchical Reinforcement Learning in Interactive Recommendation**|Yun Lu (cigit.ac.cn) et.al.|[2603.03820](http://arxiv.org/abs/2603.03820)|null|
+|**2026-03-04**|**Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems**|Pengfei Tong (bytedance.com) et.al.|[2603.03770](http://arxiv.org/abs/2603.03770)|null|
+|**2026-03-03**|**SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems**|Haochang Hao (uic.edu) et.al.|[2603.03536](http://arxiv.org/abs/2603.03536)|null|
 |**2026-03-03**|**UniSkill: A Dataset for Matching University Curricula to Professional Competencies**|Nurlan Musazade (abo.fi) et.al.|[2603.03134](http://arxiv.org/abs/2603.03134)|null|
 |**2026-03-03**|**Proactive Guiding Strategy for Item-side Fairness in Interactive Recommendation**|Chongjun Xia (gmail.com) et.al.|[2603.03094](http://arxiv.org/abs/2603.03094)|null|
-|**2026-03-03**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun (tencent.com) et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|null|
+|**2026-03-04**|**OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation**|Dekai Sun (tencent.com) et.al.|[2603.02999](http://arxiv.org/abs/2603.02999)|null|
 |**2026-03-03**|**BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation**|Zihao Zhu (link.cuhk.edu.cn) et.al.|[2603.02816](http://arxiv.org/abs/2603.02816)|null|
 |**2026-03-03**|**S2CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation**|Xiaodong Li (iie.ac.cn) et.al.|[2603.02725](http://arxiv.org/abs/2603.02725)|null|
 |**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon (soongsil.ac.kr) et.al.|[2603.02653](http://arxiv.org/abs/2603.02653)|null|
@@ -1208,12 +1218,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
+|**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li (kuaishou.com) et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
+|**2026-03-05**|**Detecting RAG Advertisements Across Advertising Styles**|Sebastian Heineking et.al.|[2603.04925](http://arxiv.org/abs/2603.04925)|null|
+|**2026-03-05**|**Evaluating the Search Agent in a Parallel World**|Jiawei Chen (lixiang.com) et.al.|[2603.04751](http://arxiv.org/abs/2603.04751)|null|
+|**2026-03-03**|**SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems**|Haochang Hao (uic.edu) et.al.|[2603.03536](http://arxiv.org/abs/2603.03536)|null|
 |**2026-03-03**|**UniSkill: A Dataset for Matching University Curricula to Professional Competencies**|Nurlan Musazade (abo.fi) et.al.|[2603.03134](http://arxiv.org/abs/2603.03134)|null|
 |**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon (soongsil.ac.kr) et.al.|[2603.02653](http://arxiv.org/abs/2603.02653)|null|
 |**2026-03-02**|**IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs**|Yubin Zhang (xiaohongshu.com) et.al.|[2603.01590](http://arxiv.org/abs/2603.01590)|null|
@@ -1223,7 +1238,7 @@
 |**2026-02-26**|**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**|Chris Samarinas (cs.umass.edu) et.al.|[2602.23440](http://arxiv.org/abs/2602.23440)|null|
 |**2026-02-27**|**Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?**|Pengxiang Li (surrey.ac.uk) et.al.|[2602.23225](http://arxiv.org/abs/2602.23225)|**[link](https://github.com/pixeli99/NAP)**|
 |**2026-02-26**|**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**|Yang Yu (alibaba-inc.com) et.al.|[2602.22913](http://arxiv.org/abs/2602.22913)|null|
-|**2026-02-26**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|null|
+|**2026-03-04**|**Generative Recommendation for Large-Scale Advertising**|Ben Xue et.al.|[2602.22732](http://arxiv.org/abs/2602.22732)|null|
 |**2026-02-26**|**Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators**|Zhengyang Su (google.com) et.al.|[2602.22647](http://arxiv.org/abs/2602.22647)|**[link](https://github.com/youtube/static-constraint-decoding)**|
 |**2026-02-28**|**Fine-grained Semantics Integration for Large Language Model-based Recommendation**|Jiawei Feng (gmail.com) et.al.|[2602.22632](http://arxiv.org/abs/2602.22632)|null|
 |**2026-02-25**|**Decoding the Hook: A Multimodal LLM Framework for Analyzing the Hooking Period of Video Ads**|Kunpeng Zhang (umd.edu) et.al.|[2602.22299](http://arxiv.org/abs/2602.22299)|null|
@@ -1801,12 +1816,41 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation**|Helena Casademunt (g.harvard.edu) et.al.|[2603.05494](http://arxiv.org/abs/2603.05494)|null|
+|**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka (swansea.ac.uk) et.al.|[2603.05400](http://arxiv.org/abs/2603.05400)|null|
+|**2026-03-05**|**Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution**|Qiao Jin (nih.gov) et.al.|[2603.05308](http://arxiv.org/abs/2603.05308)|**[link](https://github.com/ncbi-nlp/Med-V1)**|
+|**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
+|**2026-03-05**|**SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity**|Hanyong Shao et.al.|[2603.05232](http://arxiv.org/abs/2603.05232)|**[link](https://github.com/bcacdwk/vllmbench)**|
+|**2026-03-05**|**NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension**|Rongzhi Li (is.s.u-tokyo.ac.jp) et.al.|[2603.05046](http://arxiv.org/abs/2603.05046)|null|
+|**2026-03-05**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov (singularitynet.io) et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|null|
+|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol (data-x.ai) et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)|**[link](https://github.com/trapoom555/ThaiSafetyBench)**|
+|**2026-03-05**|**WaterSIC: information-theoretically (near) optimal linear layer quantization**|Egor Lifar (mit.edu) et.al.|[2603.04956](http://arxiv.org/abs/2603.04956)|null|
+|**2026-03-05**|**Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems**|Hiroki Fukui (somec.org) et.al.|[2603.04904](http://arxiv.org/abs/2603.04904)|null|
+|**2026-03-05**|**EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**|Shuo Yang et.al.|[2603.04900](http://arxiv.org/abs/2603.04900)|null|
+|**2026-03-05**|**Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research**|Arina Kostina (ucy.ac.cy) et.al.|[2603.04897](http://arxiv.org/abs/2603.04897)|null|
+|**2026-03-05**|**SinhaLegal: A Benchmark Corpus for Information Extraction and Analysis in Sinhala Legislative Texts**|Minduli Lasandi (iit.ac.lk) et.al.|[2603.04854](http://arxiv.org/abs/2603.04854)|null|
+|**2026-03-05**|**VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment**|Jiawei Chen (acm.org) et.al.|[2603.04822](http://arxiv.org/abs/2603.04822)|null|
+|**2026-03-05**|**Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents**|Natchanon Pollertlam (brickstech.co) et.al.|[2603.04814](http://arxiv.org/abs/2603.04814)|null|
+|**2026-03-05**|**Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery**|Michael P. Brenner et.al.|[2603.04735](http://arxiv.org/abs/2603.04735)|null|
+|**2026-03-05**|**Detection of Illicit Content on Online Marketplaces using Large Language Models**|Quoc Khoa Tran (student.monash.edu) et.al.|[2603.04707](http://arxiv.org/abs/2603.04707)|null|
+|**2026-03-05**|**Hate Speech Detection using Large Language Models with Data Augmentation and Feature Enhancement**|Brian Jing Hong Nge (student.monash.edu) et.al.|[2603.04698](http://arxiv.org/abs/2603.04698)|null|
+|**2026-03-04**|**Using Vision + Language Models to Predict Item Difficulty**|Samin Khan (gmail.com) et.al.|[2603.04670](http://arxiv.org/abs/2603.04670)|null|
+|**2026-03-04**|**Stan: An LLM-based thermodynamics course assistant**|Eric M. Furst (udel.edu) et.al.|[2603.04657](http://arxiv.org/abs/2603.04657)|**[link](https://github.com/EntropicLearners/stan.git)**|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu (usf.edu) et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
+|**2026-03-04**|**Efficient Refusal Ablation in LLM through Optimal Transport**|Geraldin Nanfack (concordia.ca) et.al.|[2603.04355](http://arxiv.org/abs/2603.04355)|null|
+|**2026-03-04**|**Code Fingerprints: Disentangled Attribution of LLM-Generated Code**|Jiaxun Guo (gmail.com) et.al.|[2603.04212](http://arxiv.org/abs/2603.04212)|**[link](https://github.com/mtt500/DCAN)**|
+|**2026-03-05**|**Bielik-Q2-Sharp: A Comparative Study of Extreme 2-bit Quantization Methods for a Polish 11B Language Model**|Jakub Prejzner et.al.|[2603.04162](http://arxiv.org/abs/2603.04162)|null|
+|**2026-03-04**|**Benchmarking Motivational Interviewing Competence of Large Language Models**|Aishwariya Jha (gmail.com) et.al.|[2603.03846](http://arxiv.org/abs/2603.03846)|null|
+|**2026-03-04**|**In-Context Environments Induce Evaluation-Awareness in Language Models**|Maheep Chaudhary (gmail.com) et.al.|[2603.03824](http://arxiv.org/abs/2603.03824)|null|
+|**2026-03-04**|**Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions**|Neha Nagaraja (nau.edu) et.al.|[2603.03637](http://arxiv.org/abs/2603.03637)|null|
+|**2026-03-03**|**Social Norm Reasoning in Multimodal Language Models: An Evaluation**|Oishik Chowdhury (postgrad.otago.ac.nz) et.al.|[2603.03590](http://arxiv.org/abs/2603.03590)|null|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|null|
 |**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
 |**2026-03-03**|**Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**|Hongliu Cao (gmail.com) et.al.|[2603.03116](http://arxiv.org/abs/2603.03116)|null|
 |**2026-03-03**|**Evaluating Performance Drift from Model Switching in Multi-Turn LLM Systems**|Raad Khraishi et.al.|[2603.03111](http://arxiv.org/abs/2603.03111)|null|
@@ -4680,7 +4724,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
