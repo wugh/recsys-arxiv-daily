@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu (stevens.edu) et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
+|**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang (gmail.com) et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|**[link](https://github.com/wangyu0627/MLLMRec-R1)**|
+|**2026-03-06**|**Proof-of-Guardrail in AI Agents and What (Not) to Trust from It**|Xisen Jin (usc.edu) et.al.|[2603.05786](http://arxiv.org/abs/2603.05786)|**[link](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)**|
+|**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|Ruixuan Sun (acm.org) et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|null|
+|**2026-03-05**|**The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok**|Sara Solarova (kinit.sk) et.al.|[2603.05653](http://arxiv.org/abs/2603.05653)|null|
 |**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
 |**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li (kuaishou.com) et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
 |**2026-03-05**|**Detecting RAG Advertisements Across Advertising Styles**|Sebastian Heineking et.al.|[2603.04925](http://arxiv.org/abs/2603.04925)|null|
@@ -1217,6 +1222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu (stevens.edu) et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
+|**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang (gmail.com) et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|**[link](https://github.com/wangyu0627/MLLMRec-R1)**|
+|**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|Ruixuan Sun (acm.org) et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|null|
 |**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
 |**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li (kuaishou.com) et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
 |**2026-03-05**|**Detecting RAG Advertisements Across Advertising Styles**|Sebastian Heineking et.al.|[2603.04925](http://arxiv.org/abs/2603.04925)|null|
@@ -1813,18 +1821,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati (pwc.com) et.al.|[2603.06503](http://arxiv.org/abs/2603.06503)|null|
+|**2026-03-06**|**Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion**|Hari Shankar et.al.|[2603.06264](http://arxiv.org/abs/2603.06264)|null|
+|**2026-03-06**|**VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models**|Rohit Saxena (ed.ac.uk) et.al.|[2603.06148](http://arxiv.org/abs/2603.06148)|null|
+|**2026-03-06**|**DeepSight: Bridging Depth Maps and Language with a Depth-Driven Multimodal Model**|Hao Yang (ir.hit.edu.cn) et.al.|[2603.06090](http://arxiv.org/abs/2603.06090)|null|
+|**2026-03-06**|**Evaluating Austrian A-Level German Essays with Large Language Models for Automated Essay Scoring**|Jonas Kubesch (fh-salzburg.ac.at) et.al.|[2603.06066](http://arxiv.org/abs/2603.06066)|null|
+|**2026-03-06**|**Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation**|Kai Göbel (ait.ac.at) et.al.|[2603.06064](http://arxiv.org/abs/2603.06064)|null|
+|**2026-03-06**|**XAI for Coding Agent Failures: Transforming Raw Execution Traces into Actionable Insights**|Arun Joshi et.al.|[2603.05941](http://arxiv.org/abs/2603.05941)|null|
+|**2026-03-06**|**Implicit Style Conditioning: A Structured Style-Rewrite Framework for Low-Resource Character Modeling**|Chanhui Zhu (m.gduf.edu.cn) et.al.|[2603.05933](http://arxiv.org/abs/2603.05933)|null|
+|**2026-03-06**|**Addressing the Ecological Fallacy in Larger LMs with Human Context**|Nikita Soni (cs.stonybrook.edu) et.al.|[2603.05928](http://arxiv.org/abs/2603.05928)|null|
+|**2026-03-06**|**Building an Ensemble LLM Semantic Tagger for UN Security Council Resolutions**|Hussein Ghaly (gmail.com) et.al.|[2603.05895](http://arxiv.org/abs/2603.05895)|null|
+|**2026-03-06**|**ROSE: Reordered SparseGPT for More Accurate One-Shot Large Language Models Pruning**|Mingluo Su (westlake.edu.cn) et.al.|[2603.05878](http://arxiv.org/abs/2603.05878)|**[link](https://github.com/mingluo-su/ROSE)**|
+|**2026-03-06**|**ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning**|Juyong Jiang (gmail.com) et.al.|[2603.05863](http://arxiv.org/abs/2603.05863)|**[link](https://github.com/juyongjiang/ReflexiCoder)**|
+|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath (postgrad.otago.ac.nz) et.al.|[2603.05839](http://arxiv.org/abs/2603.05839)|null|
+|**2026-03-05**|**TML-Bench: Benchmark for Data Science Agents on Tabular ML Tasks**|Mykola Pinchuk (gmail.com) et.al.|[2603.05764](http://arxiv.org/abs/2603.05764)|**[link](https://github.com/MykolaPinchuk/TML-bench/tree/master)**|
+|**2026-03-05**|**Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks**|Burak Topcu (psu.edu) et.al.|[2603.05692](http://arxiv.org/abs/2603.05692)|null|
+|**2026-03-05**|**The Fragility Of Moral Judgment In Large Language Models**|Tom van Nuenen et.al.|[2603.05651](http://arxiv.org/abs/2603.05651)|null|
 |**2026-03-05**|**Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation**|Helena Casademunt (g.harvard.edu) et.al.|[2603.05494](http://arxiv.org/abs/2603.05494)|null|
 |**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka (swansea.ac.uk) et.al.|[2603.05400](http://arxiv.org/abs/2603.05400)|null|
 |**2026-03-05**|**Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution**|Qiao Jin (nih.gov) et.al.|[2603.05308](http://arxiv.org/abs/2603.05308)|**[link](https://github.com/ncbi-nlp/Med-V1)**|
 |**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh (vinuni.edu.vn) et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|**[link](https://github.com/VinNLP/VietJobs)**|
 |**2026-03-05**|**SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity**|Hanyong Shao et.al.|[2603.05232](http://arxiv.org/abs/2603.05232)|**[link](https://github.com/bcacdwk/vllmbench)**|
 |**2026-03-05**|**NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension**|Rongzhi Li (is.s.u-tokyo.ac.jp) et.al.|[2603.05046](http://arxiv.org/abs/2603.05046)|null|
-|**2026-03-05**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov (singularitynet.io) et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|null|
-|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol (data-x.ai) et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)|**[link](https://github.com/trapoom555/ThaiSafetyBench)**|
+|**2026-03-06**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov (singularitynet.io) et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|null|
+|**2026-03-06**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol (data-x.ai) et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)|**[link](https://github.com/trapoom555/ThaiSafetyBench)**|
 |**2026-03-05**|**WaterSIC: information-theoretically (near) optimal linear layer quantization**|Egor Lifar (mit.edu) et.al.|[2603.04956](http://arxiv.org/abs/2603.04956)|null|
 |**2026-03-05**|**Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems**|Hiroki Fukui (somec.org) et.al.|[2603.04904](http://arxiv.org/abs/2603.04904)|null|
 |**2026-03-05**|**EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**|Shuo Yang et.al.|[2603.04900](http://arxiv.org/abs/2603.04900)|null|
-|**2026-03-05**|**Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research**|Arina Kostina (ucy.ac.cy) et.al.|[2603.04897](http://arxiv.org/abs/2603.04897)|null|
+|**2026-03-06**|**Can LLMs Capture Expert Uncertainty? A Comparative Analysis of Value Alignment in Ethnographic Qualitative Research**|Arina Kostina (ucy.ac.cy) et.al.|[2603.04897](http://arxiv.org/abs/2603.04897)|null|
 |**2026-03-05**|**SinhaLegal: A Benchmark Corpus for Information Extraction and Analysis in Sinhala Legislative Texts**|Minduli Lasandi (iit.ac.lk) et.al.|[2603.04854](http://arxiv.org/abs/2603.04854)|null|
 |**2026-03-05**|**VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment**|Jiawei Chen (acm.org) et.al.|[2603.04822](http://arxiv.org/abs/2603.04822)|null|
 |**2026-03-05**|**Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents**|Natchanon Pollertlam (brickstech.co) et.al.|[2603.04814](http://arxiv.org/abs/2603.04814)|null|
