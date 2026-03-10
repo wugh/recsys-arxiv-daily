@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch (tu-berlin.de) et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|null|
+|**2026-03-09**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
+|**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
+|**2026-03-08**|**A Lightweight MPC Bidding Framework for Brand Auction Ads**|Yuanlong Chen (gmail.com) et.al.|[2603.07721](http://arxiv.org/abs/2603.07721)|null|
+|**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou (gmail.com) et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|null|
+|**2026-03-08**|**Generalizing Linear Autoencoder Recommenders with Decoupled Expected Quadratic Loss**|Ruixin Guo (kent.edu) et.al.|[2603.07402](http://arxiv.org/abs/2603.07402)|null|
+|**2026-03-07**|**Rethinking Deep Research from the Perspective of Web Content Distribution Matching**|Zixuan Yu (comp.hkbu.edu.hk) et.al.|[2603.07241](http://arxiv.org/abs/2603.07241)|null|
+|**2026-03-07**|**A Hybrid LTR-based System via Social Context Embedding for Recommending Solutions of Software Bugs in Developer Communities**|Fouzi Harrag (univ-setif.dz) et.al.|[2603.07229](http://arxiv.org/abs/2603.07229)|null|
+|**2026-03-07**|**Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation**|Kai Cheng (mail.ustc.edu.cn) et.al.|[2603.07107](http://arxiv.org/abs/2603.07107)|null|
+|**2026-03-07**|**Leveraging Large Language Models for Automated Scalable Development of Open Scientific Databases**|Nikita Gautam et.al.|[2603.07050](http://arxiv.org/abs/2603.07050)|null|
 |**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu (stevens.edu) et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
 |**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang (gmail.com) et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|**[link](https://github.com/wangyu0627/MLLMRec-R1)**|
 |**2026-03-06**|**Proof-of-Guardrail in AI Agents and What (Not) to Trust from It**|Xisen Jin (usc.edu) et.al.|[2603.05786](http://arxiv.org/abs/2603.05786)|**[link](https://github.com/SaharaLabsAI/Verifiable-ClawGuard)**|
@@ -1222,6 +1232,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
+|**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
+|**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou (gmail.com) et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|null|
+|**2026-03-07**|**Leveraging Large Language Models for Automated Scalable Development of Open Scientific Databases**|Nikita Gautam et.al.|[2603.07050](http://arxiv.org/abs/2603.07050)|null|
+|**2026-03-04**|**Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**|Zhengjian Yao (stu.pku.edu.cn) et.al.|[2603.06688](http://arxiv.org/abs/2603.06688)|null|
 |**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu (stevens.edu) et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
 |**2026-03-06**|**MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation**|Yu Wang (gmail.com) et.al.|[2603.06243](http://arxiv.org/abs/2603.06243)|**[link](https://github.com/wangyu0627/MLLMRec-R1)**|
 |**2026-03-06**|**Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation**|Ruixuan Sun (acm.org) et.al.|[2603.05780](http://arxiv.org/abs/2603.05780)|null|
@@ -1233,7 +1248,7 @@ layout: default
 |**2026-03-03**|**UniSkill: A Dataset for Matching University Curricula to Professional Competencies**|Nurlan Musazade (abo.fi) et.al.|[2603.03134](http://arxiv.org/abs/2603.03134)|null|
 |**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon (soongsil.ac.kr) et.al.|[2603.02653](http://arxiv.org/abs/2603.02653)|null|
 |**2026-03-02**|**IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs**|Yubin Zhang (xiaohongshu.com) et.al.|[2603.01590](http://arxiv.org/abs/2603.01590)|null|
-|**2026-03-02**|**HarmonyCell: Automating Single-Cell Perturbation Modeling under Semantic and Distribution Shifts**|Wenxuan Huang (ailab.org.cn) et.al.|[2603.01396](http://arxiv.org/abs/2603.01396)|null|
+|**2026-03-08**|**HarmonyCell: Automating Single-Cell Perturbation Modeling under Semantic and Distribution Shifts**|Wenxuan Huang (ailab.org.cn) et.al.|[2603.01396](http://arxiv.org/abs/2603.01396)|null|
 |**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Haimonti Dutta (buffalo.edu) et.al.|[2603.00854](http://arxiv.org/abs/2603.00854)|null|
 |**2026-02-28**|**RAIE: Region-Aware Incremental Preference Editing with LoRA for LLM-based Recommendation**|Jin Zeng (mail2.sysu.edu.cn) et.al.|[2603.00638](http://arxiv.org/abs/2603.00638)|**[link](https://github.com/fengaogao/RAIE)**|
 |**2026-02-26**|**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**|Chris Samarinas (cs.umass.edu) et.al.|[2602.23440](http://arxiv.org/abs/2602.23440)|null|
@@ -1821,6 +1836,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
+|**2026-03-09**|**OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning**|Krista Opsahl-Ong et.al.|[2603.08655](http://arxiv.org/abs/2603.08655)|null|
+|**2026-03-09**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank (tue.ellis.eu) et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)|null|
+|**2026-03-09**|**Do Language Models Know Theo Has a Wife? Investigating the Proviso Problem**|Tara Azin (cmail.carleton.ca) et.al.|[2603.08358](http://arxiv.org/abs/2603.08358)|null|
+|**2026-03-09**|**SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation**|Yagiz Can Akay (etu.edu.tr) et.al.|[2603.08329](http://arxiv.org/abs/2603.08329)|null|
+|**2026-03-09**|**CORE-Acu: Structured Reasoning Traces and Knowledge Graph Safety Verification for Acupuncture Clinical Decision Support**|Liuyi Xu (mails.neu.edu.cn) et.al.|[2603.08321](http://arxiv.org/abs/2603.08321)|null|
+|**2026-03-09**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
+|**2026-03-09**|**Invisible Safety Threat: Malicious Finetuning for LLM via Steganography**|Guangnian Wan (u.nus.edu) et.al.|[2603.08104](http://arxiv.org/abs/2603.08104)|null|
+|**2026-03-09**|**EAGLE-Pangu: Accelerator-Safe Tree Speculative Decoding on Ascend NPUs**|Chang Han et.al.|[2603.08088](http://arxiv.org/abs/2603.08088)|null|
+|**2026-03-09**|**High-Fidelity Pruning for Large Language Models**|Yijun Zhu (csu.edu.cn) et.al.|[2603.08083](http://arxiv.org/abs/2603.08083)|**[link](https://github.com/visresearch/HFPrune)**|
+|**2026-03-09**|**SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning**|Chenzhi Hu (sjtu.edu.cn) et.al.|[2603.08000](http://arxiv.org/abs/2603.08000)|**[link](https://github.com/SJTU-RTEAS/SmartThinker)**|
+|**2026-03-08**|**Dual-Metric Evaluation of Social Bias in Large Language Models: Evidence from an Underrepresented Nepali Cultural Context**|Ashish Pandey (cair-nepal.org) et.al.|[2603.07792](http://arxiv.org/abs/2603.07792)|null|
+|**2026-03-08**|**Large Language Model for Discrete Optimization Problems: Evaluation and Step-by-step Reasoning**|Tianhao Qian et.al.|[2603.07733](http://arxiv.org/abs/2603.07733)|null|
+|**2026-03-08**|**A Novel Multi-Agent Architecture to Reduce Hallucinations of Large Language Models in Multi-Step Structural Modeling**|Ziheng Geng (miami.edu) et.al.|[2603.07728](http://arxiv.org/abs/2603.07728)|null|
+|**2026-03-08**|**Helix: Evolutionary Reinforcement Learning for Open-Ended Scientific Problem Solving**|Chang Su (mails.tsinghua.edu.cn) et.al.|[2603.07642](http://arxiv.org/abs/2603.07642)|null|
+|**2026-03-08**|**MAWARITH: A Dataset and Benchmark for Legal Inheritance Reasoning with LLMs**|Abdessalam Bouchekif (hbku.edu.qa) et.al.|[2603.07539](http://arxiv.org/abs/2603.07539)|**[link](https://github.com/bouchekif/inheritance_evaluation)**|
+|**2026-03-07**|**FinSheet-Bench: From Simple Lookups to Complex Reasoning, Where LLMs Break on Financial Spreadsheets**|Jan Ravnik (qubera.ch) et.al.|[2603.07316](http://arxiv.org/abs/2603.07316)|null|
+|**2026-03-07**|**Do Deployment Constraints Make LLMs Hallucinate Citations? An Empirical Study across Four Models and Five Prompting Regimes**|Chen Zhao (nyu.edu) et.al.|[2603.07287](http://arxiv.org/abs/2603.07287)|null|
+|**2026-03-07**|**Lying to Win: Assessing LLM Deception through Human-AI Games and Parallel-World Probing**|Arash Marioriyad (gmail.com) et.al.|[2603.07202](http://arxiv.org/abs/2603.07202)|null|
+|**2026-03-07**|**Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice**|Yuxu Ge (york.ac.uk) et.al.|[2603.07191](http://arxiv.org/abs/2603.07191)|null|
+|**2026-03-07**|**Enhancing Consistency of Werewolf AI through Dialogue Summarization and Persona Information**|Yoshiki Tanaka (uec.ac.jp) et.al.|[2603.07111](http://arxiv.org/abs/2603.07111)|null|
+|**2026-03-07**|**Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints**|Hugh Xuechen Liu (chalmers.se) et.al.|[2603.07101](http://arxiv.org/abs/2603.07101)|null|
+|**2026-03-07**|**AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge**|Karen Zhou (uchicago.edu) et.al.|[2603.07019](http://arxiv.org/abs/2603.07019)|**[link](https://github.com/ChicagoHAI/AutoChecklist)**|
+|**2026-03-06**|**Reforming the Mechanism: Editing Reasoning Patterns in LLMs with Circuit Reshaping**|Zhenyu Lei (virginia.edu) et.al.|[2603.06923](http://arxiv.org/abs/2603.06923)|**[link](https://github.com/LzyFischer/REdit)**|
+|**2026-03-06**|**Language Shapes Mental Health Evaluations in Large Language Models**|Jiayi Xu et.al.|[2603.06910](http://arxiv.org/abs/2603.06910)|null|
+|**2026-03-06**|**MedInjection-FR: Exploring the Role of Native, Synthetic, and Translated Data in Biomedical Instruction Tuning**|Ikram Belmadani et.al.|[2603.06905](http://arxiv.org/abs/2603.06905)|null|
+|**2026-03-06**|**Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering**|Neta Glazer (biu.ac.il) et.al.|[2603.06854](http://arxiv.org/abs/2603.06854)|null|
+|**2026-03-06**|**AI-Assisted Curation of Conference Scholarship: Compiling, Structuring, and Analyzing Two Decades of Presentations at the Society for Social Work and Research**|Brian Perron (umich.edu) et.al.|[2603.06814](http://arxiv.org/abs/2603.06814)|null|
 |**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati (pwc.com) et.al.|[2603.06503](http://arxiv.org/abs/2603.06503)|null|
 |**2026-03-06**|**Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion**|Hari Shankar et.al.|[2603.06264](http://arxiv.org/abs/2603.06264)|null|
 |**2026-03-06**|**VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models**|Rohit Saxena (ed.ac.uk) et.al.|[2603.06148](http://arxiv.org/abs/2603.06148)|null|
