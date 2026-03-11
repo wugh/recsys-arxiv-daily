@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen (yale.edu) et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
+|**2026-03-10**|**From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checking**|Cong Lin (ucdavis.edu) et.al.|[2603.09130](http://arxiv.org/abs/2603.09130)|null|
+|**2026-03-09**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch (tu-berlin.de) et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|null|
 |**2026-03-09**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
 |**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
@@ -1232,6 +1235,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen (yale.edu) et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
+|**2026-03-09**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
 |**2026-03-09**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
 |**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
 |**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou (gmail.com) et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|null|
@@ -1836,9 +1841,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen (yale.edu) et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
+|**2026-03-10**|**RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation**|Sihong Wu (yale.edu) et.al.|[2603.09723](http://arxiv.org/abs/2603.09723)|null|
+|**2026-03-10**|**MM-tau-p $^2$ : Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings**|Anupam Purwar (gmail.com) et.al.|[2603.09643](http://arxiv.org/abs/2603.09643)|null|
+|**2026-03-10**|**GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models**|Andrew Murray (jpmorgan.com) et.al.|[2603.09481](http://arxiv.org/abs/2603.09481)|null|
+|**2026-03-10**|**SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models**|Hsiao-Ying Huang (gmail.com) et.al.|[2603.09215](http://arxiv.org/abs/2603.09215)|null|
+|**2026-03-10**|**PrivPRISM: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies**|Bhanuka Silva (sydney.edu.au) et.al.|[2603.09214](http://arxiv.org/abs/2603.09214)|null|
+|**2026-03-10**|**DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval**|Taegyeong Lee (miridih.com) et.al.|[2603.09185](http://arxiv.org/abs/2603.09185)|null|
+|**2026-03-10**|**RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning**|Tzu-Heng Huang (apple.com) et.al.|[2603.09160](http://arxiv.org/abs/2603.09160)|null|
+|**2026-03-10**|**Bioalignment: Measuring and Improving LLM Disposition Toward Biological Systems for AI Safety**|Trent R Northen et.al.|[2603.09154](http://arxiv.org/abs/2603.09154)|null|
+|**2026-03-09**|**Automating Detection and Root-Cause Analysis of Flaky Tests in Quantum Software**|Janakan Sivaloganathan (torontomu.ca) et.al.|[2603.09029](http://arxiv.org/abs/2603.09029)|null|
+|**2026-03-09**|**MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games**|Yunfei Xie et.al.|[2603.09022](http://arxiv.org/abs/2603.09022)|null|
+|**2026-03-09**|**Meissa: Multi-modal Medical Agentic Intelligence**|Yixiong Chen (jh.edu) et.al.|[2603.09018](http://arxiv.org/abs/2603.09018)|**[link](https://github.com/Schuture/Meissa)**|
+|**2026-03-09**|**Arbiter: Detecting Interference in LLM Agent System Prompts**|Tony Mason et.al.|[2603.08993](http://arxiv.org/abs/2603.08993)|null|
+|**2026-03-09**|**Quantifying Memorization and Privacy Risks in Genomic Language Models**|Alexander Nemecek (case.edu) et.al.|[2603.08913](http://arxiv.org/abs/2603.08913)|null|
+|**2026-03-09**|**SciTaRC: Benchmarking QA on Scientific Tabular Data that Requires Language Reasoning and Complex Computation**|Hexuan Wang (jh.edu) et.al.|[2603.08910](http://arxiv.org/abs/2603.08910)|null|
+|**2026-03-09**|**ConFu: Contemplate the Future for Better Speculative Sampling**|Zongyue Qin (cs.ucla.edu) et.al.|[2603.08899](http://arxiv.org/abs/2603.08899)|null|
 |**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
 |**2026-03-09**|**OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning**|Krista Opsahl-Ong et.al.|[2603.08655](http://arxiv.org/abs/2603.08655)|null|
-|**2026-03-09**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank (tue.ellis.eu) et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)|null|
+|**2026-03-10**|**PostTrainBench: Can LLM Agents Automate LLM Post-Training?**|Ben Rank (tue.ellis.eu) et.al.|[2603.08640](http://arxiv.org/abs/2603.08640)|null|
 |**2026-03-09**|**Do Language Models Know Theo Has a Wife? Investigating the Proviso Problem**|Tara Azin (cmail.carleton.ca) et.al.|[2603.08358](http://arxiv.org/abs/2603.08358)|null|
 |**2026-03-09**|**SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation**|Yagiz Can Akay (etu.edu.tr) et.al.|[2603.08329](http://arxiv.org/abs/2603.08329)|null|
 |**2026-03-09**|**CORE-Acu: Structured Reasoning Traces and Knowledge Graph Safety Verification for Acupuncture Clinical Decision Support**|Liuyi Xu (mails.neu.edu.cn) et.al.|[2603.08321](http://arxiv.org/abs/2603.08321)|null|
