@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|Yijun Pan (yale.edu) et.al.|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
+|**2026-03-12**|**Enhancing Music Recommendation with User Mood Input**|Terence Zeng et.al.|[2603.11796](http://arxiv.org/abs/2603.11796)|null|
+|**2026-03-12**|**Understanding Wikidata Qualifiers: An Analysis and Taxonomy**|Gilles Falquet (unige.ch) et.al.|[2603.11767](http://arxiv.org/abs/2603.11767)|null|
+|**2026-03-12**|**Federated Learning and Unlearning for Recommendation with Personalized Data Sharing**|Liang Qu (ecu.edu.au) et.al.|[2603.11610](http://arxiv.org/abs/2603.11610)|null|
+|**2026-03-12**|**Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation**|Fengyuan Yu (zju.edu.cn) et.al.|[2603.11503](http://arxiv.org/abs/2603.11503)|**[link](https://github.com/anonymifish/FedRecGEL)**|
+|**2026-03-12**|**Quantized Inference for OneRec-V2**|Yi Su (kuaishou.com) et.al.|[2603.11486](http://arxiv.org/abs/2603.11486)|null|
+|**2026-03-12**|**Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems**|Dat Tran et.al.|[2603.11399](http://arxiv.org/abs/2603.11399)|null|
 |**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen (st.phenikaa-uni.edu.vn) et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
 |**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong (mail.ustc.edu.cn) et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|**[link](https://github.com/Marfekey/TriRec)**|
 |**2026-03-11**|**Aligning Large Language Models with Searcher Preferences**|Wei Wu (mail.ustc.edu.cn) et.al.|[2603.10473](http://arxiv.org/abs/2603.10473)|null|
@@ -17,7 +24,7 @@ layout: default
 |**2026-03-10**|**Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF**|Keertana Chidambaram (stanford.edu) et.al.|[2603.10279](http://arxiv.org/abs/2603.10279)|null|
 |**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen (yale.edu) et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
 |**2026-03-10**|**From Verification to Amplification: Auditing Reverse Image Search as Algorithmic Gatekeeping in Visual Misinformation Fact-checking**|Cong Lin (ucdavis.edu) et.al.|[2603.09130](http://arxiv.org/abs/2603.09130)|null|
-|**2026-03-09**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
+|**2026-03-11**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
 |**2026-03-09**|**ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems**|Pierre Lubitzsch (tu-berlin.de) et.al.|[2603.08341](http://arxiv.org/abs/2603.08341)|null|
 |**2026-03-11**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
 |**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
@@ -1241,12 +1248,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|Yijun Pan (yale.edu) et.al.|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
+|**2026-03-12**|**Quantized Inference for OneRec-V2**|Yi Su (kuaishou.com) et.al.|[2603.11486](http://arxiv.org/abs/2603.11486)|null|
 |**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen (st.phenikaa-uni.edu.vn) et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
 |**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong (mail.ustc.edu.cn) et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|**[link](https://github.com/Marfekey/TriRec)**|
 |**2026-03-11**|**Aligning Large Language Models with Searcher Preferences**|Wei Wu (mail.ustc.edu.cn) et.al.|[2603.10473](http://arxiv.org/abs/2603.10473)|null|
 |**2026-03-11**|**GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification**|Mayur Choudhary (sjsu.edu) et.al.|[2603.10298](http://arxiv.org/abs/2603.10298)|null|
 |**2026-03-10**|**Benchmarking Political Persuasion Risks Across Frontier Large Language Models**|Zhongren Chen (yale.edu) et.al.|[2603.09884](http://arxiv.org/abs/2603.09884)|null|
-|**2026-03-09**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
+|**2026-03-11**|**AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**|Rui Liu (ku.edu) et.al.|[2603.08938](http://arxiv.org/abs/2603.08938)|null|
 |**2026-03-11**|**UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**|Chang Liu (huawei.com) et.al.|[2603.08117](http://arxiv.org/abs/2603.08117)|null|
 |**2026-03-09**|**In-Context Reinforcement Learning for Tool Use in Large Language Models**|Yaoqi Ye (gmail.com) et.al.|[2603.08068](http://arxiv.org/abs/2603.08068)|null|
 |**2026-03-08**|**Deep Research for Recommender Systems**|Kesha Ou (gmail.com) et.al.|[2603.07605](http://arxiv.org/abs/2603.07605)|null|
@@ -1851,6 +1860,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu (yale.edu) et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
+|**2026-03-12**|**SommBench: Assessing Sommelier Expertise of Language Models**|William Brach (stuba.sk) et.al.|[2603.12117](http://arxiv.org/abs/2603.12117)|**[link](https://github.com/sommify/sommbench)**|
+|**2026-03-12**|**Human-Centred LLM Privacy Audits: Findings and Frictions**|Dimitri Staufer (tu-berlin.de) et.al.|[2603.12094](http://arxiv.org/abs/2603.12094)|null|
+|**2026-03-12**|**Resource-Efficient Iterative LLM-Based NAS with Feedback Memory**|Xiaojie Gu et.al.|[2603.12091](http://arxiv.org/abs/2603.12091)|null|
+|**2026-03-12**|**An Intent of Collaboration: On Agencies between Designers and Emerging (Intelligent) Technologies**|Pei-Ying Lin (tue.nl) et.al.|[2603.12018](http://arxiv.org/abs/2603.12018)|null|
+|**2026-03-12**|**Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks**|Junjie Chu et.al.|[2603.11914](http://arxiv.org/abs/2603.11914)|null|
+|**2026-03-12**|**From Debate to Deliberation: Structured Collective Reasoning with Typed Epistemic Acts**|Sunil Prakash (isb.edu) et.al.|[2603.11781](http://arxiv.org/abs/2603.11781)|null|
+|**2026-03-12**|**Compression Favors Consistency, Not Truth: When and Why Language Models Prefer Correct Information**|Konstantin Krestnikov et.al.|[2603.11749](http://arxiv.org/abs/2603.11749)|**[link](https://github.com/Rai220/compression-drives-truth)**|
+|**2026-03-12**|**Gender Bias in Generative AI-assisted Recruitment Processes**|Martina Ullasci (polito.it) et.al.|[2603.11736](http://arxiv.org/abs/2603.11736)|null|
+|**2026-03-12**|**VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought**|Eunsoo Lee (dgu.ac.kr) et.al.|[2603.11631](http://arxiv.org/abs/2603.11631)|null|
+|**2026-03-12**|**UtilityMax Prompting: A Formal Framework for Multi-Objective Large Language Model Optimization**|Ofir Marom (gmail.com) et.al.|[2603.11583](http://arxiv.org/abs/2603.11583)|null|
+|**2026-03-12**|**AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions**|Alejandro R Jadad (gmail.com) et.al.|[2603.11559](http://arxiv.org/abs/2603.11559)|null|
+|**2026-03-12**|**ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation**|Md Jahidul Islam (eee.buet.ac.bd) et.al.|[2603.11542](http://arxiv.org/abs/2603.11542)|**[link](https://github.com/Jahid12012021/ReHARK)**|
+|**2026-03-12**|**Can Small Language Models Use What They Retrieve? An Empirical Study of Retrieval Utilization Across Model Scale**|Sanchit Pandey (hyderabad.bits-pilani.ac.in) et.al.|[2603.11513](http://arxiv.org/abs/2603.11513)|null|
+|**2026-03-12**|**Try, Check and Retry: A Divide-and-Conquer Framework for Boosting Long-context Tool-Calling Performance of LLMs**|Kunfeng Chen (whu.edu.cn) et.al.|[2603.11495](http://arxiv.org/abs/2603.11495)|null|
+|**2026-03-12**|**GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics**|Yan Zhang (scam.ai) et.al.|[2603.11442](http://arxiv.org/abs/2603.11442)|null|
+|**2026-03-12**|**BLooP: Zero-Shot Abstractive Summarization using Large Language Models with Bigram Lookahead Promotion**|Varun Iyer (uic.edu) et.al.|[2603.11415](http://arxiv.org/abs/2603.11415)|**[link](https://github.com/varuniyer/BLooP)**|
+|**2026-03-12**|**MaterialFigBENCH: benchmark dataset with figures for evaluating college-level materials science problem-solving abilities of multimodal large language models**|Michiko Yoshitake (sinicx.com) et.al.|[2603.11414](http://arxiv.org/abs/2603.11414)|null|
+|**2026-03-12**|**Evaluation format, not model capability, drives triage failure in the assessment of consumer health AI**|David Fraile Navarro et.al.|[2603.11413](http://arxiv.org/abs/2603.11413)|null|
+|**2026-03-12**|**Beyond Polarity: Multi-Dimensional LLM Sentiment Signals for WTI Crude Oil Futures Return Prediction**|Dehao Dai (gmail.com) et.al.|[2603.11408](http://arxiv.org/abs/2603.11408)|null|
+|**2026-03-11**|**Temporal Text Classification with Large Language Models**|Nishat Raihan (gmu.edu) et.al.|[2603.11295](http://arxiv.org/abs/2603.11295)|null|
+|**2026-03-11**|**ThReadMed-QA: A Multi-Turn Medical Dialogue Benchmark from Real Patient Questions**|Monica Munnangi (northeastern.edu) et.al.|[2603.11281](http://arxiv.org/abs/2603.11281)|null|
+|**2026-03-11**|**AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities**|Yibai Li (scranton.edu) et.al.|[2603.11279](http://arxiv.org/abs/2603.11279)|null|
+|**2026-03-11**|**Artificial Intelligence for Sentiment Analysis of Persian Poetry**|Arash Zargar (mail.utoronto.ca) et.al.|[2603.11254](http://arxiv.org/abs/2603.11254)|null|
+|**2026-03-11**|**PACED: Distillation at the Frontier of Student Competence**|Yuanda Xu (math.princeton.edu) et.al.|[2603.11178](http://arxiv.org/abs/2603.11178)|null|
+|**2026-03-11**|**H2LooP Spark Preview: Continual Pretraining of Large Language Models for Low-Level Embedded Systems Code**|Amit Singh et.al.|[2603.11139](http://arxiv.org/abs/2603.11139)|null|
 |**2026-03-11**|**The Discrete Charm of the MLP: Binary Routing of Continuous Signals in Transformer Feed-Forward Layers**|Peter Balogh (gmail.com) et.al.|[2603.10985](http://arxiv.org/abs/2603.10985)|null|
 |**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar (gmail.com) et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
 |**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta (ee.iitd.ac.in) et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|
