@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Competition-Aware CPC Forecasting with Near-Market Coverage**|Sebastian Frey (novasbe.pt) et.al.|[2603.13059](http://arxiv.org/abs/2603.13059)|null|
+|**2026-03-13**|**Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems**|Jiaming Zhang (zju.edu.cn) et.al.|[2603.12752](http://arxiv.org/abs/2603.12752)|null|
+|**2026-03-13**|**Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems**|Yonghun Jeong (gmail.com) et.al.|[2603.12726](http://arxiv.org/abs/2603.12726)|**[link](https://github.com/hun9008/AnchorRec)**|
+|**2026-03-12**|**The Privacy-Utility Trade-Off of Location Tracking in Ad Personalization**|Mohammad Mosaffa (cornell.edu) et.al.|[2603.12374](http://arxiv.org/abs/2603.12374)|null|
 |**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|Yijun Pan (yale.edu) et.al.|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
 |**2026-03-12**|**Enhancing Music Recommendation with User Mood Input**|Terence Zeng et.al.|[2603.11796](http://arxiv.org/abs/2603.11796)|null|
 |**2026-03-12**|**Understanding Wikidata Qualifiers: An Analysis and Taxonomy**|Gilles Falquet (unige.ch) et.al.|[2603.11767](http://arxiv.org/abs/2603.11767)|null|
@@ -1248,6 +1252,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems**|Jiaming Zhang (zju.edu.cn) et.al.|[2603.12752](http://arxiv.org/abs/2603.12752)|null|
+|**2026-03-05**|**Algorithmic Trust and Compliance: Benchmarking Brand Notability for UK iGaming Entities in Generative Search Engines**|Julen Oruesagasti et.al.|[2603.12282](http://arxiv.org/abs/2603.12282)|null|
 |**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|Yijun Pan (yale.edu) et.al.|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
 |**2026-03-12**|**Quantized Inference for OneRec-V2**|Yi Su (kuaishou.com) et.al.|[2603.11486](http://arxiv.org/abs/2603.11486)|null|
 |**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen (st.phenikaa-uni.edu.vn) et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
@@ -1860,6 +1866,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Semantic Invariance in Agentic AI**|I. de Zarzà et.al.|[2603.13173](http://arxiv.org/abs/2603.13173)|null|
+|**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100](http://arxiv.org/abs/2603.13100)|null|
+|**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin (psu.edu) et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)|**[link](https://github.com/albert-y1n/PISmith)**|
+|**2026-03-13**|**Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations**|Pascal Schäfer (basf.com) et.al.|[2603.12813](http://arxiv.org/abs/2603.12813)|null|
+|**2026-03-13**|**SectEval: Evaluating the Latent Sectarian Preferences of Large Language Models**|Aditya Maheshwari (iimidr.ac.in) et.al.|[2603.12768](http://arxiv.org/abs/2603.12768)|**[link](https://github.com/secteval/SectEval/)**|
+|**2026-03-13**|**Experimental evidence of progressive ChatGPT models self-convergence**|Konstantinos F. Xylogiannopoulos (yahoo.gr) et.al.|[2603.12683](http://arxiv.org/abs/2603.12683)|null|
+|**2026-03-13**|**Literary Narrative as Moral Probe : A Cross-System Framework for Evaluating AI Ethical Reasoning and Refusal Behavior**|David C. Flynn (eps-research.com) et.al.|[2603.12615](http://arxiv.org/abs/2603.12615)|null|
+|**2026-03-13**|**As Language Models Scale, Low-order Linear Depth Dynamics Emerge**|Buddhika Nettasinghe (uiowa.edu) et.al.|[2603.12541](http://arxiv.org/abs/2603.12541)|null|
+|**2026-03-12**|**LLM BiasScope: A Real-Time Bias Analysis Platform for Comparative LLM Evaluation**|Himel Ghosh (tum.de) et.al.|[2603.12522](http://arxiv.org/abs/2603.12522)|null|
+|**2026-03-12**|**Byzantine-Robust Optimization under $(L_0, L_1)$ -Smoothness**|Arman Bolatov (mbzuai.ac.ae) et.al.|[2603.12512](http://arxiv.org/abs/2603.12512)|null|
+|**2026-03-12**|**Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback**|Mei Tan (stanford.edu) et.al.|[2603.12471](http://arxiv.org/abs/2603.12471)|null|
+|**2026-03-12**|**Interpreting Negation in GPT-2: Layer- and Head-Level Causal Analysis**|Abdullah Al Mofael (southeastern.edu) et.al.|[2603.12423](http://arxiv.org/abs/2603.12423)|null|
+|**2026-03-12**|**Test-Time Strategies for More Efficient and Accurate Agentic RAG**|Brian Zhang (umass.edu) et.al.|[2603.12396](http://arxiv.org/abs/2603.12396)|null|
 |**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu (yale.edu) et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
 |**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
 |**2026-03-12**|**SommBench: Assessing Sommelier Expertise of Language Models**|William Brach (stuba.sk) et.al.|[2603.12117](http://arxiv.org/abs/2603.12117)|**[link](https://github.com/sommify/sommbench)**|
