@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Multi-Scenario User Profile Construction via Recommendation Lists**|Hui Zhang (hust.edu.cn) et.al.|[2603.15357](http://arxiv.org/abs/2603.15357)|null|
+|**2026-03-16**|**Towards Foundation Models for Consensus Rank Aggregation**|Yijun Jin (tu-dortmund.de) et.al.|[2603.15218](http://arxiv.org/abs/2603.15218)|null|
+|**2026-03-15**|**MBD: A Model-Based Debiasing Framework Across User, Content, and Model Dimensions**|Yuantong Li (meta.com) et.al.|[2603.14422](http://arxiv.org/abs/2603.14422)|null|
+|**2026-03-14**|**Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs**|Xiaofei Zhu (cqut.edu.cn) et.al.|[2603.13934](http://arxiv.org/abs/2603.13934)|**[link](https://github.com/htired/ISRF)**|
+|**2026-03-13**|**AMES: Approximate Multi-modal Enterprise Search via Late Interaction Retrieval**|Tony Joseph et.al.|[2603.13537](http://arxiv.org/abs/2603.13537)|null|
 |**2026-03-13**|**Competition-Aware CPC Forecasting with Near-Market Coverage**|Sebastian Frey (novasbe.pt) et.al.|[2603.13059](http://arxiv.org/abs/2603.13059)|null|
 |**2026-03-13**|**Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems**|Jiaming Zhang (zju.edu.cn) et.al.|[2603.12752](http://arxiv.org/abs/2603.12752)|null|
 |**2026-03-13**|**Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems**|Yonghun Jeong (gmail.com) et.al.|[2603.12726](http://arxiv.org/abs/2603.12726)|**[link](https://github.com/hun9008/AnchorRec)**|
@@ -1252,6 +1257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs**|Xiaofei Zhu (cqut.edu.cn) et.al.|[2603.13934](http://arxiv.org/abs/2603.13934)|**[link](https://github.com/htired/ISRF)**|
+|**2026-03-09**|**GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning**|Jiajin Liu (nyu.edu) et.al.|[2603.13370](http://arxiv.org/abs/2603.13370)|**[link](https://github.com/oamyjin/GraphVLM)**|
 |**2026-03-13**|**Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems**|Jiaming Zhang (zju.edu.cn) et.al.|[2603.12752](http://arxiv.org/abs/2603.12752)|null|
 |**2026-03-05**|**Algorithmic Trust and Compliance: Benchmarking Brand Notability for UK iGaming Entities in Generative Search Engines**|Julen Oruesagasti et.al.|[2603.12282](http://arxiv.org/abs/2603.12282)|null|
 |**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|Yijun Pan (yale.edu) et.al.|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
@@ -1866,6 +1873,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification**|Erik Y. Wang et.al.|[2603.15617](http://arxiv.org/abs/2603.15617)|null|
+|**2026-03-16**|**Effective Distillation to Hybrid xLSTM Architectures**|Lukas Hauzenberger et.al.|[2603.15590](http://arxiv.org/abs/2603.15590)|null|
+|**2026-03-16**|**SlovKE: A Large-Scale Dataset and LLM Evaluation for Slovak Keyphrase Extraction**|David Števaňák (suppa.sk) et.al.|[2603.15523](http://arxiv.org/abs/2603.15523)|**[link](https://github.com/NaiveNeuron/SlovKE)**|
+|**2026-03-16**|**ViX-Ray: A Vietnamese Chest X-Ray Dataset for Vision-Language Models**|Duy Vu Minh Nguyen (benhvien175.vn) et.al.|[2603.15513](http://arxiv.org/abs/2603.15513)|null|
+|**2026-03-16**|**Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs**|Ido Pinto (mail.huji.ac.il) et.al.|[2603.15510](http://arxiv.org/abs/2603.15510)|null|
+|**2026-03-16**|**SKILLS: Structured Knowledge Injection for LLM-Driven Telecommunications Operations**|Ivo Brett et.al.|[2603.15372](http://arxiv.org/abs/2603.15372)|null|
+|**2026-03-16**|**SAGE: Multi-Agent Self-Evolution for LLM Reasoning**|Yulin Peng et.al.|[2603.15255](http://arxiv.org/abs/2603.15255)|null|
+|**2026-03-16**|**Interpretable Predictability-Based AI Text Detection: A Replication Study**|Adam Skurla (kinit.sk) et.al.|[2603.15034](http://arxiv.org/abs/2603.15034)|null|
+|**2026-03-16**|**Attention Residuals**|Kimi Team et.al.|[2603.15031](http://arxiv.org/abs/2603.15031)|null|
+|**2026-03-16**|**VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining**|Xuanyu Zhu et.al.|[2603.15030](http://arxiv.org/abs/2603.15030)|null|
+|**2026-03-16**|**Fine-tuning RoBERTa for CVE-to-CWE Classification: A 125M Parameter Model Competitive with LLMs**|Nikita Mosievskiy et.al.|[2603.14911](http://arxiv.org/abs/2603.14911)|null|
+|**2026-03-16**|**Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks**|Zijian Yu (alibaba-inc.com) et.al.|[2603.14864](http://arxiv.org/abs/2603.14864)|null|
+|**2026-03-16**|**BrainBench: Exposing the Commonsense Reasoning Gap in Large Language Models**|Yuzhe Tang (gatech.edu) et.al.|[2603.14761](http://arxiv.org/abs/2603.14761)|null|
+|**2026-03-16**|**Criterion-referenceability determines LLM-as-a-judge validity across physics assessment formats**|Will Yeadon et.al.|[2603.14732](http://arxiv.org/abs/2603.14732)|null|
+|**2026-03-15**|**Compute Allocation for Reasoning-Intensive Retrieval Agents**|Sreeja Apparaju (gmail.com) et.al.|[2603.14635](http://arxiv.org/abs/2603.14635)|null|
+|**2026-03-15**|**FlashHead: Efficient Drop-In Replacement for the Classification Head in Language Model Inference**|Wilhelm Tranheden et.al.|[2603.14591](http://arxiv.org/abs/2603.14591)|null|
+|**2026-03-15**|**Multilingual TinyStories: A Synthetic Combinatorial Corpus of Indic Children's Stories for Training Small Language Models**|Deepon Halder et.al.|[2603.14563](http://arxiv.org/abs/2603.14563)|null|
+|**2026-03-15**|**MALicious INTent Dataset and Inoculating LLMs for Enhanced Disinformation Detection**|Arkadiusz Modzelewski (amodzelewski.com) et.al.|[2603.14525](http://arxiv.org/abs/2603.14525)|null|
+|**2026-03-15**|**AI Can Learn Scientific Taste**|Jingqi Tong (m.fudan.edu.cn) et.al.|[2603.14473](http://arxiv.org/abs/2603.14473)|null|
+|**2026-03-15**|**LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos**|Rongyi Yu (stu.hit.edu.cn) et.al.|[2603.14468](http://arxiv.org/abs/2603.14468)|null|
+|**2026-03-15**|**An Industrial-Scale Insurance LLM Achieving Verifiable Domain Mastery and Hallucination Control without Competence Trade-offs**|Qian Zhu (antgroup.com) et.al.|[2603.14463](http://arxiv.org/abs/2603.14463)|null|
+|**2026-03-15**|**From $\boldsymbol{\logπ}$ to $\boldsymbolπ$ : Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight**|Xiaoliang Fu (meituan.com) et.al.|[2603.14389](http://arxiv.org/abs/2603.14389)|**[link](https://github.com/VenomRose-Juri/DGPO-RL)**|
+|**2026-03-15**|**AEX: Non-Intrusive Multi-Hop Attestation and Provenance for LLM APIs**|Yongjie Guan et.al.|[2603.14283](http://arxiv.org/abs/2603.14283)|null|
+|**2026-03-15**|**QiMeng-CodeV-SVA: Training Specialized LLMs for Hardware Assertion Generation via RTL-Grounded Bidirectional Data Synthesis**|Yutong Wu (ict.ac.cn) et.al.|[2603.14239](http://arxiv.org/abs/2603.14239)|**[link](https://github.com/wyt2000/CodeV-SVA;)**|
+|**2026-03-15**|**Selective Fine-Tuning of GPT Architectures for Parameter-Efficient Clinical Text Classification**|Fariba Afrin Irany (gmail.com) et.al.|[2603.14183](http://arxiv.org/abs/2603.14183)|null|
+|**2026-03-14**|**Clinician input steers frontier AI models toward both accurate and harmful decisions**|Ivan Lopez (stanford.edu) et.al.|[2603.14158](http://arxiv.org/abs/2603.14158)|null|
+|**2026-03-14**|**The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA**|Yasaman Zarinkia (uvic.ca) et.al.|[2603.14045](http://arxiv.org/abs/2603.14045)|null|
+|**2026-03-14**|**Faithful or Just Plausible? Evaluating the Faithfulness of Closed-Source LLMs in Medical Reasoning**|Halimat Afolabi (stratifiedprecision.com) et.al.|[2603.13988](http://arxiv.org/abs/2603.13988)|null|
+|**2026-03-14**|**UVLM: A Universal Vision-Language Model Loader for Reproducible Multimodal Benchmarking**|Joan Perez (urbangeoanalytics.com) et.al.|[2603.13893](http://arxiv.org/abs/2603.13893)|null|
+|**2026-03-14**|**Intelligent Materials Modelling: Large Language Models Versus Partial Least Squares Regression for Predicting Polysulfone Membrane Mechanical Performance**|Dingding Cao et.al.|[2603.13834](http://arxiv.org/abs/2603.13834)|null|
 |**2026-03-13**|**Semantic Invariance in Agentic AI**|I. de Zarzà et.al.|[2603.13173](http://arxiv.org/abs/2603.13173)|null|
 |**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100](http://arxiv.org/abs/2603.13100)|null|
 |**2026-03-13**|**PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses**|Chenlong Yin (psu.edu) et.al.|[2603.13026](http://arxiv.org/abs/2603.13026)|**[link](https://github.com/albert-y1n/PISmith)**|
