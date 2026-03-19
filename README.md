@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify**|Edoardo D'Amico (spotify.com) et.al.|[2603.17540](http://arxiv.org/abs/2603.17540)|null|
+|**2026-03-18**|**A Unified Language Model for Large Scale Search, Recommendation, and Reasoning**|Marco De Nadai (spotify.com) et.al.|[2603.17533](http://arxiv.org/abs/2603.17533)|null|
+|**2026-03-18**|**Public Profile Matters: A Scalable Integrated Approach to Recommend Citations in the Wild**|Karan Goyal (iiitd.ac.in) et.al.|[2603.17361](http://arxiv.org/abs/2603.17361)|null|
+|**2026-03-17**|**Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems**|Patrick Levi (oth-aw.de) et.al.|[2603.17176](http://arxiv.org/abs/2603.17176)|null|
+|**2026-03-17**|**Multilingual Reference Need Assessment System for Wikipedia**|Aitolkyn Baigutanova (kaist.ac.kr) et.al.|[2603.17146](http://arxiv.org/abs/2603.17146)|null|
 |**2026-03-17**|**RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation**|Yixuan Huang (163.com) et.al.|[2603.16800](http://arxiv.org/abs/2603.16800)|null|
 |**2026-03-17**|**ReFORM: Review-aggregated Profile Generation via LLM with Multi-Factor Attention for Restaurant Recommendation**|Moonsoo Park (usc.edu) et.al.|[2603.16236](http://arxiv.org/abs/2603.16236)|**[link](https://github.com/m0onsoo/ReFORM)**|
 |**2026-03-17**|**RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems**|Hui Wang (iie.ac.cn) et.al.|[2603.16088](http://arxiv.org/abs/2603.16088)|null|
@@ -1261,12 +1266,16 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify**|Edoardo D'Amico (spotify.com) et.al.|[2603.17540](http://arxiv.org/abs/2603.17540)|null|
+|**2026-03-18**|**A Unified Language Model for Large Scale Search, Recommendation, and Reasoning**|Marco De Nadai (spotify.com) et.al.|[2603.17533](http://arxiv.org/abs/2603.17533)|null|
+|**2026-03-17**|**Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems**|Patrick Levi (oth-aw.de) et.al.|[2603.17176](http://arxiv.org/abs/2603.17176)|null|
+|**2026-03-17**|**Multilingual Reference Need Assessment System for Wikipedia**|Aitolkyn Baigutanova (kaist.ac.kr) et.al.|[2603.17146](http://arxiv.org/abs/2603.17146)|null|
 |**2026-03-17**|**ReFORM: Review-aggregated Profile Generation via LLM with Multi-Factor Attention for Restaurant Recommendation**|Moonsoo Park (usc.edu) et.al.|[2603.16236](http://arxiv.org/abs/2603.16236)|**[link](https://github.com/m0onsoo/ReFORM)**|
 |**2026-03-17**|**RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems**|Hui Wang (iie.ac.cn) et.al.|[2603.16088](http://arxiv.org/abs/2603.16088)|null|
 |**2026-03-14**|**Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs**|Xiaofei Zhu (cqut.edu.cn) et.al.|[2603.13934](http://arxiv.org/abs/2603.13934)|**[link](https://github.com/htired/ISRF)**|
@@ -1881,12 +1890,42 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training**|Ben S. Southworth (lanl.gov) et.al.|[2603.17970](http://arxiv.org/abs/2603.17970)|null|
+|**2026-03-18**|**Only relative ranks matter in weight-clustered large language models**|Borja Aizpurua et.al.|[2603.17917](http://arxiv.org/abs/2603.17917)|null|
+|**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891](http://arxiv.org/abs/2603.17891)|null|
+|**2026-03-18**|**AI-Assisted Goal Setting Improves Goal Progress Through Social Accountability**|Michel Schimpf (cam.ac.uk) et.al.|[2603.17887](http://arxiv.org/abs/2603.17887)|null|
+|**2026-03-18**|**How do LLMs Compute Verbal Confidence**|Dharshan Kumaran (google.com) et.al.|[2603.17839](http://arxiv.org/abs/2603.17839)|null|
+|**2026-03-18**|**RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy**|Zhenhang Yuan (e.ntu.edu.sg) et.al.|[2603.17831](http://arxiv.org/abs/2603.17831)|null|
+|**2026-03-18**|**CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents**|Lintang Sutawika (cs.cmu.edu) et.al.|[2603.17829](http://arxiv.org/abs/2603.17829)|null|
+|**2026-03-18**|**Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory**|Oliver Zahn (coretx.ai) et.al.|[2603.17781](http://arxiv.org/abs/2603.17781)|null|
+|**2026-03-18**|**CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution**|Teng Pan (zju.edu.cn) et.al.|[2603.17775](http://arxiv.org/abs/2603.17775)|**[link](https://zju-real.github.io/CoVerRL)**|
+|**2026-03-18**|**Post-Training Local LLM Agents for Linux Privilege Escalation with Verifiable Rewards**|Philipp Normann (tuwien.ac.at) et.al.|[2603.17673](http://arxiv.org/abs/2603.17673)|null|
+|**2026-03-18**|**VeriGrey: Greybox Agent Validation**|Yuntong Zhang (nus.edu.sg) et.al.|[2603.17639](http://arxiv.org/abs/2603.17639)|null|
+|**2026-03-18**|**Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis**|Andor Diera (uni-ulm.de) et.al.|[2603.17624](http://arxiv.org/abs/2603.17624)|null|
+|**2026-03-18**|**A Contextual Help Browser Extension to Assist Digital Illiterate Internet Users**|Christos Koutsiaris et.al.|[2603.17592](http://arxiv.org/abs/2603.17592)|**[link](http://github.com/unseen1980/acro-helper)**|
+|**2026-03-18**|**Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions**|Madhav S. Baidya (itbhu.ac.in) et.al.|[2603.17522](http://arxiv.org/abs/2603.17522)|**[link](https://github.com/MadsDoodle/Human-and-LLM-Generated-Text-Detectability-under-Adversarial-Humanization)**|
+|**2026-03-18**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary (amazon.com) et.al.|[2603.17484](http://arxiv.org/abs/2603.17484)|null|
+|**2026-03-18**|**Humans and transformer LMs: Abstraction drives language learning**|Jasper Jian (stanford.edu) et.al.|[2603.17475](http://arxiv.org/abs/2603.17475)|null|
+|**2026-03-18**|**PACE-RAG: Patient-Aware Contextual and Evidence-based Policy RAG for Clinical Drug Recommendation**|Chaeyoung Huh (kaist.ac.kr) et.al.|[2603.17356](http://arxiv.org/abs/2603.17356)|**[link](https://github.com/ChaeYoungHuh/PACE-RAG)**|
+|**2026-03-18**|**GUIDE: GenAI Units In Digital Design Education**|Weihua Xiao (nyu.edu) et.al.|[2603.17296](http://arxiv.org/abs/2603.17296)|**[link](https://github.com/FCHXWH823/LLM4ChipDesign)**|
+|**2026-03-18**|**Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures**|Young Bin Park (kumiho.io) et.al.|[2603.17244](http://arxiv.org/abs/2603.17244)|null|
+|**2026-03-18**|**Neuron-Level Emotion Control in Speech-Generative Large Audio-Language Models**|Xiutian Zhao (jhu.edu) et.al.|[2603.17231](http://arxiv.org/abs/2603.17231)|null|
+|**2026-03-17**|**TharuChat: Bootstrapping Large Language Models for a Low-Resource Language via Synthetic Data and Human Validation**|Prajwal Panth (gmail.com) et.al.|[2603.17220](http://arxiv.org/abs/2603.17220)|null|
+|**2026-03-17**|**Anonymous-by-Construction: An LLM-Driven Framework for Privacy-Preserving Text**|Federico Albanese (dc.uba.ar) et.al.|[2603.17217](http://arxiv.org/abs/2603.17217)|null|
+|**2026-03-17**|**AI Scientist via Synthetic Task Scaling**|Ziyang Cai (princeton.edu) et.al.|[2603.17216](http://arxiv.org/abs/2603.17216)|null|
+|**2026-03-17**|**Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data**|Sophie Kearney (pennmedicine.upenn.edu) et.al.|[2603.17191](http://arxiv.org/abs/2603.17191)|**[link](https://github.com/sophie-kearney/TAP-GPT)**|
+|**2026-03-17**|**MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild**|Peng Xia et.al.|[2603.17187](http://arxiv.org/abs/2603.17187)|**[link](https://github.com/aiming-lab/MetaClaw)**|
+|**2026-03-17**|**Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience**|Jacob Piland (nd.edu) et.al.|[2603.17173](http://arxiv.org/abs/2603.17173)|null|
+|**2026-03-17**|**How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment**|Rebecca Ansell (georgetown.edu) et.al.|[2603.17169](http://arxiv.org/abs/2603.17169)|null|
+|**2026-03-17**|**Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework**|Taiwo Onitiju (unf.edu) et.al.|[2603.17123](http://arxiv.org/abs/2603.17123)|null|
+|**2026-03-17**|**Evaluating LLM-Simulated Conversations in Modeling Inconsistent and Uncollaborative Behaviors in Human Social Interaction**|Ryo Kamoi (psu.edu) et.al.|[2603.17094](http://arxiv.org/abs/2603.17094)|null|
+|**2026-03-17**|**PRISM: Demystifying Retention and Interaction in Mid-Training**|Bharat Runwal (gmail.com) et.al.|[2603.17074](http://arxiv.org/abs/2603.17074)|null|
 |**2026-03-17**|**Learning to Present: Inverse Specification Rewards for Agentic Slide Generation**|Karthik Ragunath Ananda Kumar et.al.|[2603.16839](http://arxiv.org/abs/2603.16839)|**[link](https://github.com/pushing-the-frontier/slide-forge-llm)**|
 |**2026-03-17**|**Probing Cultural Signals in Large Language Models through Author Profiling**|Valentin Lafargue (math.univ-toulouse.fr) et.al.|[2603.16749](http://arxiv.org/abs/2603.16749)|**[link](https://github.com/ValentinLafargue/CulturalProbingLLM)**|
 |**2026-03-17**|**Differential Harm Propensity in Personalized LLM Agents: The Curious Case of Mental Health Disclosure**|Caglar Yildirim (northeastern.edu) et.al.|[2603.16734](http://arxiv.org/abs/2603.16734)|null|
@@ -4963,7 +5002,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
