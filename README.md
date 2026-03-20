@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives**|S. Akash et.al.|[2603.18972](http://arxiv.org/abs/2603.18972)|null|
+|**2026-03-19**|**Off-Policy Learning with Limited Supply**|Koichi Tanaka (keio.jp) et.al.|[2603.18702](http://arxiv.org/abs/2603.18702)|null|
+|**2026-03-19**|**OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation**|Chen Sun (jd.com) et.al.|[2603.18697](http://arxiv.org/abs/2603.18697)|null|
+|**2026-03-19**|**Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation**|Jerome Ramos (ucl.ac.uk) et.al.|[2603.18573](http://arxiv.org/abs/2603.18573)|null|
+|**2026-03-19**|**Attack by Unlearning: Unlearning-Induced Adversarial Attacks on Graph Neural Networks**|Jiahao Zhang (psu.edu) et.al.|[2603.18570](http://arxiv.org/abs/2603.18570)|null|
+|**2026-03-19**|**GAIN: A Benchmark for Goal-Aligned Decision-Making of Large Language Models under Imperfect Norms**|Masayuki Kawarada (cyberagent.co.jp) et.al.|[2603.18469](http://arxiv.org/abs/2603.18469)|null|
 |**2026-03-18**|**Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify**|Edoardo D'Amico (spotify.com) et.al.|[2603.17540](http://arxiv.org/abs/2603.17540)|null|
 |**2026-03-18**|**A Unified Language Model for Large Scale Search, Recommendation, and Reasoning**|Marco De Nadai (spotify.com) et.al.|[2603.17533](http://arxiv.org/abs/2603.17533)|null|
 |**2026-03-18**|**Public Profile Matters: A Scalable Integrated Approach to Recommend Citations in the Wild**|Karan Goyal (iiitd.ac.in) et.al.|[2603.17361](http://arxiv.org/abs/2603.17361)|null|
@@ -1266,12 +1272,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation**|Jerome Ramos (ucl.ac.uk) et.al.|[2603.18573](http://arxiv.org/abs/2603.18573)|null|
+|**2026-03-19**|**GAIN: A Benchmark for Goal-Aligned Decision-Making of Large Language Models under Imperfect Norms**|Masayuki Kawarada (cyberagent.co.jp) et.al.|[2603.18469](http://arxiv.org/abs/2603.18469)|null|
 |**2026-03-18**|**Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify**|Edoardo D'Amico (spotify.com) et.al.|[2603.17540](http://arxiv.org/abs/2603.17540)|null|
 |**2026-03-18**|**A Unified Language Model for Large Scale Search, Recommendation, and Reasoning**|Marco De Nadai (spotify.com) et.al.|[2603.17533](http://arxiv.org/abs/2603.17533)|null|
 |**2026-03-17**|**Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems**|Patrick Levi (oth-aw.de) et.al.|[2603.17176](http://arxiv.org/abs/2603.17176)|null|
@@ -1890,12 +1898,33 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang (163.com) et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
+|**2026-03-19**|**Evaluating 5W3H Structured Prompting for Intent Alignment in Human-AI Interaction**|Peng Gang (gmail.com) et.al.|[2603.18976](http://arxiv.org/abs/2603.18976)|null|
+|**2026-03-19**|**Entropy trajectory shape predicts LLM reasoning reliability: A diagnostic study of uncertainty dynamics in chain-of-thought**|Xinghao Zhao (gmail.com) et.al.|[2603.18940](http://arxiv.org/abs/2603.18940)|null|
+|**2026-03-19**|**Comparative Analysis of Large Language Models in Generating Telugu Responses for Maternal Health Queries**|Anagani Bhanusree (student.nitw.ac.in) et.al.|[2603.18898](http://arxiv.org/abs/2603.18898)|null|
+|**2026-03-19**|**Quantitative Introspection in Language Models: Tracking Internal States Across Conversation**|Nicolas Martorell (fbmc.fcen.uba.ar) et.al.|[2603.18893](http://arxiv.org/abs/2603.18893)|null|
+|**2026-03-19**|**Detecting Basic Values in A Noisy Russian Social Media Text Data: A Multi-Stage Classification Framework**|Maria Milkova (gmail.com) et.al.|[2603.18822](http://arxiv.org/abs/2603.18822)|null|
+|**2026-03-19**|**Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks**|Rudra Jadhav (gmail.com) et.al.|[2603.18765](http://arxiv.org/abs/2603.18765)|null|
+|**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos (ba.uoa.gr) et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|
+|**2026-03-19**|**Analysis Of Linguistic Stereotypes in Single and Multi-Agent Generative AI Architectures**|Martina Ullasci (polito.it) et.al.|[2603.18729](http://arxiv.org/abs/2603.18729)|null|
+|**2026-03-19**|**D-Mem: A Dual-Process Memory System for LLM Agents**|Zhixing You (mail.huji.ac.il) et.al.|[2603.18631](http://arxiv.org/abs/2603.18631)|null|
+|**2026-03-19**|**Learning to Self-Evolve**|Xiaoyin Chen (snowflake.com) et.al.|[2603.18620](http://arxiv.org/abs/2603.18620)|null|
+|**2026-03-19**|**ZEBRAARENA: A Diagnostic Simulation Environment for Studying Reasoning-Action Coupling in Tool-Augmented LLMs**|Wanjia Zhao (cs.stanford.edu) et.al.|[2603.18614](http://arxiv.org/abs/2603.18614)|null|
+|**2026-03-19**|**HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering**|Dan Ben-Ami et.al.|[2603.18558](http://arxiv.org/abs/2603.18558)|null|
+|**2026-03-19**|**Adaptive Decoding via Test-Time Policy Learning for Self-Improving Generation**|Asmita Bhardwaj (ucsd.edu) et.al.|[2603.18428](http://arxiv.org/abs/2603.18428)|null|
+|**2026-03-19**|**AutoScreen-FW: An LLM-based Framework for Resume Screening**|Zhelin Xu (ce.slis.tsukuba.ac.jp) et.al.|[2603.18390](http://arxiv.org/abs/2603.18390)|null|
+|**2026-03-18**|**Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations**|Sanjay Basu (waymarkcare.com) et.al.|[2603.18353](http://arxiv.org/abs/2603.18353)|**[link](https://github.com/sanjaybasu/interpretability-triage)**|
+|**2026-03-18**|**Auditing Preferences for Brands and Cultures in LLMs**|Jasmine Rienecker et.al.|[2603.18300](http://arxiv.org/abs/2603.18300)|null|
+|**2026-03-18**|**Sharpness-Aware Minimization in Logit Space Efficiently Enhances Direct Preference Optimization**|Haocheng Luo (monash.edu) et.al.|[2603.18258](http://arxiv.org/abs/2603.18258)|**[link](https://github.com/RitianLuo/logits-sam-dpo)**|
+|**2026-03-18**|**Retrieval-Augmented LLMs for Security Incident Analysis**|Xavier Cadet et.al.|[2603.18196](http://arxiv.org/abs/2603.18196)|null|
+|**2026-03-18**|**TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors**|Isabel Molnar (nd.edu) et.al.|[2603.18189](http://arxiv.org/abs/2603.18189)|null|
+|**2026-03-18**|**Modeling the human lexicon under temperature variations: linguistic factors, diversity and typicality in LLM word associations**|Maria Andueza Rodriguez (unifr.ch) et.al.|[2603.18171](http://arxiv.org/abs/2603.18171)|null|
 |**2026-03-18**|**Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training**|Ben S. Southworth (lanl.gov) et.al.|[2603.17970](http://arxiv.org/abs/2603.17970)|null|
 |**2026-03-18**|**Only relative ranks matter in weight-clustered large language models**|Borja Aizpurua et.al.|[2603.17917](http://arxiv.org/abs/2603.17917)|null|
 |**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891](http://arxiv.org/abs/2603.17891)|null|
@@ -5002,7 +5031,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
