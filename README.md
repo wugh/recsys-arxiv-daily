@@ -14,7 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-19**|**Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives**|S. Akash et.al.|[2603.18972](http://arxiv.org/abs/2603.18972)|null|
+|**2026-03-20**|**The End of Rented Discovery: How AI Search Redistributes Power Between Hotels and Intermediaries**|Peiying Zhu (blossomai.co) et.al.|[2603.20062](http://arxiv.org/abs/2603.20062)|null|
+|**2026-03-20**|**DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations**|Boxun Song et.al.|[2603.19909](http://arxiv.org/abs/2603.19909)|null|
+|**2026-03-20**|**Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives**|S Akash et.al.|[2603.18972](http://arxiv.org/abs/2603.18972)|null|
 |**2026-03-19**|**Off-Policy Learning with Limited Supply**|Koichi Tanaka (keio.jp) et.al.|[2603.18702](http://arxiv.org/abs/2603.18702)|null|
 |**2026-03-19**|**OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation**|Chen Sun (jd.com) et.al.|[2603.18697](http://arxiv.org/abs/2603.18697)|null|
 |**2026-03-19**|**Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation**|Jerome Ramos (ucl.ac.uk) et.al.|[2603.18573](http://arxiv.org/abs/2603.18573)|null|
@@ -1278,6 +1280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations**|Boxun Song et.al.|[2603.19909](http://arxiv.org/abs/2603.19909)|null|
 |**2026-03-19**|**Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation**|Jerome Ramos (ucl.ac.uk) et.al.|[2603.18573](http://arxiv.org/abs/2603.18573)|null|
 |**2026-03-19**|**GAIN: A Benchmark for Goal-Aligned Decision-Making of Large Language Models under Imperfect Norms**|Masayuki Kawarada (cyberagent.co.jp) et.al.|[2603.18469](http://arxiv.org/abs/2603.18469)|null|
 |**2026-03-18**|**Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify**|Edoardo D'Amico (spotify.com) et.al.|[2603.17540](http://arxiv.org/abs/2603.17540)|null|
@@ -1904,6 +1907,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno (mit.edu) et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation**|Richard J. Young (unlv.edu) et.al.|[2603.20172](http://arxiv.org/abs/2603.20172)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru (psu.edu) et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**Current LLMs still cannot 'talk much' about grammar modules: Evidence from syntax**|Mohammed Q. Shormani (ibbuniv.edu.ye) et.al.|[2603.20114](http://arxiv.org/abs/2603.20114)|null|
+|**2026-03-20**|**An Empirical Study of SFT-DPO Interaction and Parameterization in Small Language Models**|Yuming Feng (stanford.edu) et.al.|[2603.20100](http://arxiv.org/abs/2603.20100)|null|
+|**2026-03-20**|**An Agentic Approach to Generating XAI-Narratives**|Yifan He et.al.|[2603.20003](http://arxiv.org/abs/2603.20003)|null|
+|**2026-03-20**|**FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization**|Chiyu Ma et.al.|[2603.19835](http://arxiv.org/abs/2603.19835)|null|
+|**2026-03-20**|**Rethinking Ground Truth: A Case Study on Human Label Variation in MLLM Benchmarking**|Tomas Ruiz (lmu.de) et.al.|[2603.19744](http://arxiv.org/abs/2603.19744)|null|
+|**2026-03-20**|**A Subgoal-driven Framework for Improving Long-Horizon LLM Agents**|Taiyi Wang (google.com) et.al.|[2603.19685](http://arxiv.org/abs/2603.19685)|null|
+|**2026-03-20**|**EvidenceRL: Reinforcing Evidence Consistency for Trustworthy Language Models**|J. Ben Tamo (gatech.edu) et.al.|[2603.19532](http://arxiv.org/abs/2603.19532)|**[link](https://github.com/Wizaaard/EvidenceRL.git)**|
+|**2026-03-19**|**ReXInTheWild: A Unified Benchmark for Medical Photograph Understanding**|Oishi Banerjee (g.harvard.edu) et.al.|[2603.19517](http://arxiv.org/abs/2603.19517)|null|
+|**2026-03-19**|**ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models**|Tianlong Wang et.al.|[2603.19515](http://arxiv.org/abs/2603.19515)|**[link](https://ethanwtl.github.io/IBweb/)**|
+|**2026-03-19**|**GeoLAN: Geometric Learning of Latent Explanatory Directions in Large Language Models**|Tianyu Bell Pan (ufl.edu) et.al.|[2603.19460](http://arxiv.org/abs/2603.19460)|null|
+|**2026-03-19**|**Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas**|Víctor Gallego (komorebi.ai) et.al.|[2603.19453](http://arxiv.org/abs/2603.19453)|**[link](https://github.com/vicgalle/llm-policies-social-dilemmas)**|
 |**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang (163.com) et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
 |**2026-03-19**|**Evaluating 5W3H Structured Prompting for Intent Alignment in Human-AI Interaction**|Peng Gang (gmail.com) et.al.|[2603.18976](http://arxiv.org/abs/2603.18976)|null|
 |**2026-03-19**|**Entropy trajectory shape predicts LLM reasoning reliability: A diagnostic study of uncertainty dynamics in chain-of-thought**|Xinghao Zhao (gmail.com) et.al.|[2603.18940](http://arxiv.org/abs/2603.18940)|null|
