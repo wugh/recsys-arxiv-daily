@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation**|Hai Zhu (alibaba-inc.com) et.al.|[2603.22916](http://arxiv.org/abs/2603.22916)|null|
+|**2026-03-23**|**Probabilistic modeling over permutations using quantum computers**|Vasilis Belis (xanadu.ai) et.al.|[2603.22401](http://arxiv.org/abs/2603.22401)|null|
+|**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
 |**2026-03-23**|**One Model, Two Markets: Bid-Aware Generative Recommendation**|Yanchen Jiang (g.harvard.edu) et.al.|[2603.22231](http://arxiv.org/abs/2603.22231)|null|
 |**2026-03-23**|**PreferRec: Learning and Transferring Pareto Preferences for Multi-objective Re-ranking**|Wei Zhou (szu.edu.cn) et.al.|[2603.22073](http://arxiv.org/abs/2603.22073)|null|
 |**2026-03-22**|**LSA: A Long-Short-term Aspect Interest Transformer for Aspect-Based Recommendation**|Le Liu (emails.bjut.edu.cn) et.al.|[2603.21243](http://arxiv.org/abs/2603.21243)|null|
@@ -1283,6 +1286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
 |**2026-03-18**|**Report-based Recommendations for Policy Making and Agency Operations: Dataset and LLM Evaluation**|Aleksandra Edwards (cardiff.ac.uk) et.al.|[2603.20287](http://arxiv.org/abs/2603.20287)|null|
 |**2026-03-20**|**DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations**|Boxun Song et.al.|[2603.19909](http://arxiv.org/abs/2603.19909)|null|
 |**2026-03-19**|**Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation**|Jerome Ramos (ucl.ac.uk) et.al.|[2603.18573](http://arxiv.org/abs/2603.18573)|null|
@@ -1909,6 +1913,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**|Haoyu Huang (ur.rochester.edu) et.al.|[2603.23483](http://arxiv.org/abs/2603.23483)|**[link](https://github.com/MAC-AutoML/SpecEyes)**|
+|**2026-03-24**|**ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains**|Muhammad Khalid (constructor.university) et.al.|[2603.23482](http://arxiv.org/abs/2603.23482)|null|
+|**2026-03-24**|**Bilevel Autoresearch: Meta-Autoresearching Itself**|Yaonan Qu (gmail.com) et.al.|[2603.23420](http://arxiv.org/abs/2603.23420)|null|
+|**2026-03-24**|**SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling**|Yiqi Zhang et.al.|[2603.23414](http://arxiv.org/abs/2603.23414)|null|
+|**2026-03-24**|**Off-Policy Value-Based Reinforcement Learning for Large Language Models**|Peng-Yuan Wang (nju.edu.cn) et.al.|[2603.23355](http://arxiv.org/abs/2603.23355)|null|
+|**2026-03-24**|**Curriculum-Driven 3D CT Report Generation via Language-Free Visual Grafting and Zone-Constrained Compression**|V. K. Cody Bumgardner (uky.edu) et.al.|[2603.23308](http://arxiv.org/abs/2603.23308)|null|
+|**2026-03-24**|**Is AI Catching Up to Human Expression? Exploring Emotion, Personality, Authorship, and Linguistic Style in English and Arabic with Six Large Language Models**|Nasser A Alsadhan (ksu.edu.sa) et.al.|[2603.23251](http://arxiv.org/abs/2603.23251)|null|
+|**2026-03-24**|**Decoding AI Authorship: Can LLMs Truly Mimic Human Style Across Literature and Politics?**|Nasser A Alsadhan (ksu.edu.sa) et.al.|[2603.23219](http://arxiv.org/abs/2603.23219)|null|
+|**2026-03-24**|**Can an LLM Detect Instances of Microservice Infrastructure Patterns?**|Carlos Eduardo Duarte (inesctec.pt) et.al.|[2603.23073](http://arxiv.org/abs/2603.23073)|null|
+|**2026-03-24**|**DBAutoDoc: Automated Discovery and Documentation of Undocumented Database Schemas via Statistical Analysis and Iterative LLM Refinement**|Amith Nagarajan (bluecypress.io) et.al.|[2603.23050](http://arxiv.org/abs/2603.23050)|null|
+|**2026-03-24**|**Beyond Hate: Differentiating Uncivil and Intolerant Speech in Multimodal Content Moderation**|Nils A. Herrmann (outlook.de) et.al.|[2603.22985](http://arxiv.org/abs/2603.22985)|null|
+|**2026-03-24**|**JFTA-Bench: Evaluate LLM's Ability of Tracking and Analyzing Malfunctions Using Fault Trees**|Yuhui Wang (fudan.edu.cn) et.al.|[2603.22978](http://arxiv.org/abs/2603.22978)|null|
+|**2026-03-24**|**Optimizing Small Language Models for NL2SQL via Chain-of-Thought Fine-Tuning**|Anshul Solanki et.al.|[2603.22942](http://arxiv.org/abs/2603.22942)|null|
+|**2026-03-24**|**TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration**|Chunxiao Li (pjlab.org.cn) et.al.|[2603.22882](http://arxiv.org/abs/2603.22882)|null|
+|**2026-03-24**|**When AI Shows Its Work, Is It Actually Working? Step-Level Evaluation Reveals Frontier Language Models Frequently Bypass Their Own Reasoning**|Abhinaba Basu (abhinaba.com) et.al.|[2603.22816](http://arxiv.org/abs/2603.22816)|null|
+|**2026-03-24**|**AgriPestDatabase-v1.0: A Structured Insect Dataset for Training Agricultural Large Language Model**|Yagizhan Bilal Durak et.al.|[2603.22777](http://arxiv.org/abs/2603.22777)|null|
+|**2026-03-24**|**How Utilitarian Are OpenAI's Models Really? Replicating and Reinterpreting Pfeffer, Krügel, and Uhl (2025)**|Johannes Himmelreich et.al.|[2603.22730](http://arxiv.org/abs/2603.22730)|null|
+|**2026-03-23**|**Multi-Method Validation of Large Language Model Medical Translation Across High- and Low-Resource Languages**|Chukwuebuka Anyaegbuna (gmail.com) et.al.|[2603.22642](http://arxiv.org/abs/2603.22642)|null|
+|**2026-03-23**|**Lie to Me: How Faithful Is Chain-of-Thought Reasoning in Reasoning Models?**|Richard J. Young (unlv.edu) et.al.|[2603.22582](http://arxiv.org/abs/2603.22582)|null|
+|**2026-03-23**|**CAPITU: A Benchmark for Evaluating Instruction-Following in Brazilian Portuguese with Literary Context**|Giovana Kerche Bonás et.al.|[2603.22576](http://arxiv.org/abs/2603.22576)|null|
+|**2026-03-23**|**Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling**|Young Hyun Cho (purdue.edu) et.al.|[2603.22563](http://arxiv.org/abs/2603.22563)|null|
+|**2026-03-23**|**GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs**|Achmad Anggawirya Alimin (tudelft.nl) et.al.|[2603.22528](http://arxiv.org/abs/2603.22528)|null|
+|**2026-03-23**|**Do Large Language Models Reduce Research Novelty? Evidence from Information Systems Journals**|Ali Safari et.al.|[2603.22510](http://arxiv.org/abs/2603.22510)|null|
+|**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
 |**2026-03-23**|**Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models**|Tom Biskupski et.al.|[2603.22214](http://arxiv.org/abs/2603.22214)|null|
 |**2026-03-23**|**CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks**|A. Chervov et.al.|[2603.22195](http://arxiv.org/abs/2603.22195)|null|
 |**2026-03-23**|**MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management**|Jack W O'Sullivan et.al.|[2603.22179](http://arxiv.org/abs/2603.22179)|null|
