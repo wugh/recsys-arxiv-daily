@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Exploring How Fair Model Representations Relate to Fair Recommendations**|Bjørnar Vassøy (ntnu.no) et.al.|[2603.24396](http://arxiv.org/abs/2603.24396)|null|
+|**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
+|**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
+|**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui (stevens.edu) et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
 |**2026-03-24**|**GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation**|Hai Zhu (alibaba-inc.com) et.al.|[2603.22916](http://arxiv.org/abs/2603.22916)|null|
 |**2026-03-23**|**Probabilistic modeling over permutations using quantum computers**|Vasilis Belis (xanadu.ai) et.al.|[2603.22401](http://arxiv.org/abs/2603.22401)|null|
 |**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
@@ -1286,6 +1290,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
+|**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
+|**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui (stevens.edu) et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
 |**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
 |**2026-03-18**|**Report-based Recommendations for Policy Making and Agency Operations: Dataset and LLM Evaluation**|Aleksandra Edwards (cardiff.ac.uk) et.al.|[2603.20287](http://arxiv.org/abs/2603.20287)|null|
 |**2026-03-20**|**DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations**|Boxun Song et.al.|[2603.19909](http://arxiv.org/abs/2603.19909)|null|
@@ -1913,6 +1920,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|**[link](https://github.com/Qwen-Applications/MARCH)**|
+|**2026-03-25**|**VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models**|Qijia He et.al.|[2603.24575](http://arxiv.org/abs/2603.24575)|null|
+|**2026-03-25**|**Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs**|Alexander Panfilov et.al.|[2603.24511](http://arxiv.org/abs/2603.24511)|**[link](https://github.com/romovpa/claudini)**|
+|**2026-03-25**|**Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**|Jeonghye Kim et.al.|[2603.24472](http://arxiv.org/abs/2603.24472)|null|
+|**2026-03-25**|**The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents**|Camilo Chacón Sartori (icn2.cat) et.al.|[2603.24284](http://arxiv.org/abs/2603.24284)|null|
+|**2026-03-25**|**LLMpedia: A Transparent Framework to Materialize an LLM's Encyclopedic Knowledge at Scale**|Muhammed Saeed (tu-dresden.de) et.al.|[2603.24080](http://arxiv.org/abs/2603.24080)|null|
+|**2026-03-25**|**Schema on the Inside: A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale**|Chinmay Soni (dream11.com) et.al.|[2603.24023](http://arxiv.org/abs/2603.24023)|null|
+|**2026-03-25**|**Grounding Arabic LLMs in the Doha Historical Dictionary: Retrieval-Augmented Understanding of Quran and Hadith**|Somaya Eltanbouly (hbku.edu.qa) et.al.|[2603.23972](http://arxiv.org/abs/2603.23972)|**[link](https://github.com/somayaeltanbouly/Doha-Dictionary-RAG)**|
+|**2026-03-25**|**The Price Reversal Phenomenon: When Cheaper Reasoning Models End Up Costing More**|Lingjiao Chen et.al.|[2603.23971](http://arxiv.org/abs/2603.23971)|null|
+|**2026-03-25**|**Dialogue to Question Generation for Evidence-based Medical Guideline Agent Development**|Zongliang Ji (cs.toronto.edu) et.al.|[2603.23937](http://arxiv.org/abs/2603.23937)|null|
+|**2026-03-25**|**AnalogAgent: Self-Improving Analog Circuit Design Automation with LLM Agents**|Zhixuan Bao (e.ntu.edu.sg) et.al.|[2603.23910](http://arxiv.org/abs/2603.23910)|null|
+|**2026-03-25**|**BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents**|Praveen Kumar Myakala (gmail.com) et.al.|[2603.23848](http://arxiv.org/abs/2603.23848)|null|
+|**2026-03-25**|**PoliticsBench: Benchmarking Political Values in Large Language Models with Multi-Turn Roleplay**|Rohan Khetan (northvilleschools.net) et.al.|[2603.23841](http://arxiv.org/abs/2603.23841)|null|
+|**2026-03-25**|**How Vulnerable Are Edge LLMs?**|Ao Ding (email.cugb.edu.cn) et.al.|[2603.23822](http://arxiv.org/abs/2603.23822)|null|
+|**2026-03-24**|**IslamicMMLU: A Benchmark for Evaluating LLMs on Islamic Knowledge**|Ali Abdelaal (ed.ac.uk) et.al.|[2603.23750](http://arxiv.org/abs/2603.23750)|null|
+|**2026-03-24**|**LLMs Do Not Grade Essays Like Humans**|Jerin George Mathew (ualberta.ca) et.al.|[2603.23714](http://arxiv.org/abs/2603.23714)|null|
+|**2026-03-24**|**Assessment Design in the AI Era: A Method for Identifying Items Functioning Differentially for Humans and Chatbots**|Licol Zeinfeld et.al.|[2603.23682](http://arxiv.org/abs/2603.23682)|null|
+|**2026-03-24**|**GTO Wizard Benchmark**|Marc-Antoine Provost (gtowizard.com) et.al.|[2603.23660](http://arxiv.org/abs/2603.23660)|null|
+|**2026-03-24**|**Swiss-Bench SBP-002: A Frontier Model Comparison on Swiss Legal and Regulatory Tasks**|Fatih Uenal (colorado.edu) et.al.|[2603.23646](http://arxiv.org/abs/2603.23646)|**[link](https://github.com/FUenal/swiss-bench)**|
+|**2026-03-24**|**LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load**|Pranay Tummalapalli (consciousengines.com) et.al.|[2603.23640](http://arxiv.org/abs/2603.23640)|null|
+|**2026-03-24**|**LLMORPH: Automated Metamorphic Testing of Large Language Models**|Steven Cho (auckland.ac.nz) et.al.|[2603.23611](http://arxiv.org/abs/2603.23611)|**[link](http://github.com/steven-b-cho/llmorph)**|
+|**2026-03-24**|**MetaKube: An Experience-Aware LLM Framework for Kubernetes Failure Diagnosis**|Wei Sun (link.cuhk.edu.cn) et.al.|[2603.23580](http://arxiv.org/abs/2603.23580)|**[link](https://github.com/MetaKube-LLM-for-Kubernetes-Diagnosis/MetaKube)**|
 |**2026-03-24**|**SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**|Haoyu Huang (ur.rochester.edu) et.al.|[2603.23483](http://arxiv.org/abs/2603.23483)|**[link](https://github.com/MAC-AutoML/SpecEyes)**|
 |**2026-03-24**|**ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains**|Muhammad Khalid (constructor.university) et.al.|[2603.23482](http://arxiv.org/abs/2603.23482)|null|
 |**2026-03-24**|**Bilevel Autoresearch: Meta-Autoresearching Itself**|Yaonan Qu (gmail.com) et.al.|[2603.23420](http://arxiv.org/abs/2603.23420)|null|
