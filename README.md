@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Visual or Textual: Effects of Explanation Format and Personal Characteristics on the Perception of Explanations in an Educational Recommender System**|Qurat Ul Ain (stud.uni-due.de) et.al.|[2603.25624](http://arxiv.org/abs/2603.25624)|null|
+|**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
+|**2026-03-26**|**Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems**|Jiang Liu (meta.com) et.al.|[2603.24963](http://arxiv.org/abs/2603.24963)|null|
+|**2026-03-26**|**DIET: Learning to Distill Dataset Continually for Recommender Systems**|Jiaqing Zhang (acm.org) et.al.|[2603.24958](http://arxiv.org/abs/2603.24958)|null|
 |**2026-03-25**|**Exploring How Fair Model Representations Relate to Fair Recommendations**|Bjørnar Vassøy (ntnu.no) et.al.|[2603.24396](http://arxiv.org/abs/2603.24396)|null|
 |**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
@@ -23,7 +27,7 @@
 |**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
 |**2026-03-23**|**One Model, Two Markets: Bid-Aware Generative Recommendation**|Yanchen Jiang (g.harvard.edu) et.al.|[2603.22231](http://arxiv.org/abs/2603.22231)|null|
 |**2026-03-23**|**PreferRec: Learning and Transferring Pareto Preferences for Multi-objective Re-ranking**|Wei Zhou (szu.edu.cn) et.al.|[2603.22073](http://arxiv.org/abs/2603.22073)|null|
-|**2026-03-22**|**LSA: A Long-Short-term Aspect Interest Transformer for Aspect-Based Recommendation**|Le Liu (emails.bjut.edu.cn) et.al.|[2603.21243](http://arxiv.org/abs/2603.21243)|null|
+|**2026-03-26**|**LSA: A Long-Short-term Aspect Interest Transformer for Aspect-Based Recommendation**|Le Liu et.al.|[2603.21243](http://arxiv.org/abs/2603.21243)|null|
 |**2026-03-22**|**MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation**|Wenzhuo Cheng (antgroup.com) et.al.|[2603.21209](http://arxiv.org/abs/2603.21209)|null|
 |**2026-03-21**|**Algorithmic Audit of Personalisation Drift in Polarising Topics on TikTok**|Branislav Pecher (kinit.sk) et.al.|[2603.20723](http://arxiv.org/abs/2603.20723)|null|
 |**2026-03-20**|**MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation**|Yizhe Zhao (mails.tsinghua.edu.cn) et.al.|[2603.20351](http://arxiv.org/abs/2603.20351)|**[link](https://github.com/MANA-2026/MANA)**|
@@ -1291,12 +1295,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
 |**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
 |**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui (stevens.edu) et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
@@ -1923,12 +1928,25 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?**|Liang Zhang (umich.edu) et.al.|[2603.25633](http://arxiv.org/abs/2603.25633)|null|
+|**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
+|**2026-03-26**|**Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties**|Jannis Vamvas (cl.uzh.ch) et.al.|[2603.25489](http://arxiv.org/abs/2603.25489)|null|
+|**2026-03-26**|**How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models**|Hector Borobia (doctor.upv.es) et.al.|[2603.25325](http://arxiv.org/abs/2603.25325)|**[link](https://github.com/hborobia/sae-pruning-paper)**|
+|**2026-03-26**|**Separate Before You Compress: The WWHO Tokenization Architecture**|Kusal Darshana (remeinium.com) et.al.|[2603.25309](http://arxiv.org/abs/2603.25309)|**[link](https://github.com/remeinium/WWHO)**|
+|**2026-03-26**|**SliderQuant: Accurate Post-Training Quantization for LLMs**|Shigeng Wang (intel.com) et.al.|[2603.25284](http://arxiv.org/abs/2603.25284)|**[link](https://github.com/deep-optimization/SliderQuant)**|
+|**2026-03-26**|**Prompt Attack Detection with LLM-as-a-Judge and Mixture-of-Models**|Hieu Xuan Le (gt.tech.gov.sg) et.al.|[2603.25176](http://arxiv.org/abs/2603.25176)|null|
+|**2026-03-26**|**RubricEval: A Rubric-Level Meta-Evaluation Benchmark for LLM Judges in Instruction Following**|Tianjun Pan et.al.|[2603.25133](http://arxiv.org/abs/2603.25133)|null|
+|**2026-03-26**|**Do LLMs Know What They Know? Measuring Metacognitive Efficiency with Signal Detection Theory**|Jon-Paul Cacioli et.al.|[2603.25112](http://arxiv.org/abs/2603.25112)|null|
+|**2026-03-26**|**MobileDev-Bench: A Comprehensive Benchmark for Evaluating Language Models on Mobile Application Development**|Moshood A. Fakorede (lsu.edu) et.al.|[2603.24946](http://arxiv.org/abs/2603.24946)|null|
+|**2026-03-25**|**NeuroVLM-Bench: Evaluation of Vision-Enabled Large Language Models for Clinical Reasoning in Neurological Disorders**|Katarina Trojachanec Dineva (finki.ukim.mk) et.al.|[2603.24846](http://arxiv.org/abs/2603.24846)|null|
+|**2026-03-25**|**Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR**|Haobo Xu et.al.|[2603.24840](http://arxiv.org/abs/2603.24840)|**[link](https://github.com/Hsu1023/ARRoL)**|
+|**2026-03-25**|**Evaluating Fine-Tuned LLM Model For Medical Transcription With Small Low-Resource Languages Validated Dataset**|Mohammed Nowshad Ruhani Chowdhury (metropolia.fi) et.al.|[2603.24772](http://arxiv.org/abs/2603.24772)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|**[link](https://github.com/Qwen-Applications/MARCH)**|
 |**2026-03-25**|**VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models**|Qijia He et.al.|[2603.24575](http://arxiv.org/abs/2603.24575)|null|
 |**2026-03-25**|**Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs**|Alexander Panfilov et.al.|[2603.24511](http://arxiv.org/abs/2603.24511)|**[link](https://github.com/romovpa/claudini)**|
@@ -5146,7 +5164,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
