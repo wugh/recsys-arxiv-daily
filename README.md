@@ -1,4 +1,4 @@
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,12 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**TIEG-Youpu Solution for NeurIPS 2022 WikiKG90Mv2-LSC**|Feng Nie (tencent.com) et.al.|[2603.28512](http://arxiv.org/abs/2603.28512)|null|
+|**2026-03-30**|**With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems**|Giovanni De Toni (fbk.eu) et.al.|[2603.28476](http://arxiv.org/abs/2603.28476)|null|
+|**2026-03-30**|**RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation**|Yulei Huang (alibaba-inc.com) et.al.|[2603.28124](http://arxiv.org/abs/2603.28124)|null|
+|**2026-03-30**|**On the Accuracy Limits of Sequential Recommender Systems: An Entropy-Based Approach**|En Xu et.al.|[2603.27952](http://arxiv.org/abs/2603.27952)|null|
+|**2026-03-29**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
+|**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao (connect.ust.hk) et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
+|**2026-03-27**|**Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems**|Jinxin Hu (alibaba-inc.com) et.al.|[2603.26100](http://arxiv.org/abs/2603.26100)|null|
+|**2026-03-27**|**AgenticRS-Architecture: System Design for Agentic Recommender Systems**|Hao Zhang (alibaba-inc.com) et.al.|[2603.26085](http://arxiv.org/abs/2603.26085)|null|
+|**2026-03-26**|**Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**|Anna Kozlova et.al.|[2603.25821](http://arxiv.org/abs/2603.25821)|null|
 |**2026-03-26**|**Visual or Textual: Effects of Explanation Format and Personal Characteristics on the Perception of Explanations in an Educational Recommender System**|Qurat Ul Ain (stud.uni-due.de) et.al.|[2603.25624](http://arxiv.org/abs/2603.25624)|null|
 |**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
-|**2026-03-26**|**Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems**|Jiang Liu (meta.com) et.al.|[2603.24963](http://arxiv.org/abs/2603.24963)|null|
+|**2026-03-27**|**Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems**|Jiang Liu (meta.com) et.al.|[2603.24963](http://arxiv.org/abs/2603.24963)|null|
 |**2026-03-26**|**DIET: Learning to Distill Dataset Continually for Recommender Systems**|Jiaqing Zhang (acm.org) et.al.|[2603.24958](http://arxiv.org/abs/2603.24958)|null|
 |**2026-03-25**|**Exploring How Fair Model Representations Relate to Fair Recommendations**|Bjørnar Vassøy (ntnu.no) et.al.|[2603.24396](http://arxiv.org/abs/2603.24396)|null|
-|**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
+|**2026-03-27**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
 |**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui (stevens.edu) et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
 |**2026-03-24**|**GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation**|Hai Zhu (alibaba-inc.com) et.al.|[2603.22916](http://arxiv.org/abs/2603.22916)|null|
@@ -1295,14 +1304,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
+|**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao (connect.ust.hk) et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
+|**2026-03-27**|**Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems**|Jinxin Hu (alibaba-inc.com) et.al.|[2603.26100](http://arxiv.org/abs/2603.26100)|null|
 |**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
-|**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
+|**2026-03-27**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu (taobao.com) et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang (outlook.com) et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
 |**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui (stevens.edu) et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
 |**2026-03-23**|**AI Co-Scientist for Ranking: Discovering Novel Search Ranking Models alongside LLM-based AI Agents with Cloud Computing Access**|Liwei Wu (wsw.ai) et.al.|[2603.22376](http://arxiv.org/abs/2603.22376)|null|
@@ -1928,12 +1940,42 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
+|**2026-03-30**|**Information-Theoretic Limits of Safety Verification for Self-Improving Systems**|Arsenios Scrivens et.al.|[2603.28650](http://arxiv.org/abs/2603.28650)|null|
+|**2026-03-30**|**The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle**|Lara Russell-Lasalandra (Virginia.Edu) et.al.|[2603.28643](http://arxiv.org/abs/2603.28643)|null|
+|**2026-03-30**|**Fine-Tuning Large Language Models for Cooperative Tactical Deconfliction of Small Unmanned Aerial Systems**|Iman Sharifi (gwu.edu) et.al.|[2603.28561](http://arxiv.org/abs/2603.28561)|null|
+|**2026-03-30**|**Compressing Transformer Language Models via Matrix Product Operator Decomposition: A Case Study on PicoGPT**|Younes Javanmard (itp.uni-hannover.de) et.al.|[2603.28534](http://arxiv.org/abs/2603.28534)|null|
+|**2026-03-30**|**CoE: Collaborative Entropy for Uncertainty Quantification in Agentic Multi-LLM Systems**|Kangkang Sun (sjtu.edu.cn) et.al.|[2603.28360](http://arxiv.org/abs/2603.28360)|null|
+|**2026-03-30**|**Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization**|He Du (pjlab.org.cn) et.al.|[2603.28342](http://arxiv.org/abs/2603.28342)|null|
+|**2026-03-30**|**Evaluating LLMs for Answering Student Questions in Introductory Programming Courses**|Thomas Van Mullem et.al.|[2603.28295](http://arxiv.org/abs/2603.28295)|null|
+|**2026-03-30**|**Categorical Perception in Large Language Model Hidden States: Structural Warping at Digit-Count Boundaries**|Jon-Paul Cacioli et.al.|[2603.28258](http://arxiv.org/abs/2603.28258)|null|
+|**2026-03-30**|**From Reviews to Requirements: Can LLMs Generate Human-Like User Stories?**|Shadman Sakib (iut-dhaka.edu) et.al.|[2603.28163](http://arxiv.org/abs/2603.28163)|null|
+|**2026-03-30**|**Does Claude's Constitution Have a Culture?**|Parham Pourdavood (gmail.com) et.al.|[2603.28123](http://arxiv.org/abs/2603.28123)|null|
+|**2026-03-30**|**Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers**|Haochuan Kevin Wang (mit.edu) et.al.|[2603.28013](http://arxiv.org/abs/2603.28013)|null|
+|**2026-03-30**|**CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs**|Yongkang Du (psu.edu) et.al.|[2603.27958](http://arxiv.org/abs/2603.27958)|null|
+|**2026-03-29**|**KazByte: Adapting Qwen models to Kazakh via Byte-level Adapter**|Rauan Akylzhanov (gmail.com) et.al.|[2603.27859](http://arxiv.org/abs/2603.27859)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie (cuhk.edu.cn) et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs**|Bayan Abdullah Aldahlawi (kfupm.edu.sa) et.al.|[2603.27664](http://arxiv.org/abs/2603.27664)|null|
+|**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu (pku.edu.cn) et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
+|**2026-03-28**|**Greedy Is a Strong Default: Agents as Iterative Optimizers**|Yitao Li (gmail.com) et.al.|[2603.27415](http://arxiv.org/abs/2603.27415)|null|
+|**2026-03-28**|**Multiple-Prediction-Powered Inference**|Charlie Cowen-Breen (mit.edu) et.al.|[2603.27414](http://arxiv.org/abs/2603.27414)|null|
+|**2026-03-28**|**LLM Readiness Harness: Evaluation, Observability, and CI Gates for LLM/RAG Applications**|Alexandre Cristovão Maiorano (lumytics.com) et.al.|[2603.27355](http://arxiv.org/abs/2603.27355)|null|
+|**2026-03-28**|**PubMed Reasoner: Dynamic Reasoning-based Retrieval for Evidence-Grounded Biomedical Question Answering**|Yiqing Zhang (paypal.com) et.al.|[2603.27335](http://arxiv.org/abs/2603.27335)|null|
+|**2026-03-28**|**ComBench: A Repo-level Real-world Benchmark for Compilation Error Repair**|Jia Li (link.cuhk.edu.hk) et.al.|[2603.27333](http://arxiv.org/abs/2603.27333)|null|
+|**2026-03-28**|**SACRED: A Faithful Annotated Multimedia Multimodal Multilingual Dataset for Classifying Connectedness Types in Online Spirituality**|Qinghao Guan et.al.|[2603.27331](http://arxiv.org/abs/2603.27331)|null|
+|**2026-03-28**|**Learning to Predict Future-Aligned Research Proposals with Language Models**|Heng Wang (illinois.edu) et.al.|[2603.27146](http://arxiv.org/abs/2603.27146)|null|
+|**2026-03-28**|**Story2Proposal: A Scaffold for Structured Scientific Paper Writing**|Zhuoyang Qian (mails.ucas.ac.cn) et.al.|[2603.27065](http://arxiv.org/abs/2603.27065)|null|
+|**2026-03-28**|**Debiasing Large Language Models toward Social Factors in Online Behavior Analytics through Prompt Knowledge Tuning**|Hossein Salemi et.al.|[2603.27057](http://arxiv.org/abs/2603.27057)|null|
+|**2026-03-27**|**RASPRef: Retrieval-Augmented Self-Supervised Prompt Refinement for Large Reasoning Models**|Rahul Soni (gmail.com) et.al.|[2603.27008](http://arxiv.org/abs/2603.27008)|null|
+|**2026-03-27**|**The Last Fingerprint: How Markdown Training Shapes LLM Prose**|E. M. Freeburg (icloud.com) et.al.|[2603.27006](http://arxiv.org/abs/2603.27006)|**[link](https://github.com/emfreeburg/the-last-fingerprint)**|
+|**2026-03-27**|**Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering**|Yoseph Berhanu Alebachew (vt.edu) et.al.|[2603.26567](http://arxiv.org/abs/2603.26567)|null|
+|**2026-03-27**|**Development of a European Union Time-Indexed Reference Dataset for Assessing the Performance of Signal Detection Methods in Pharmacovigilance using a Large Language Model**|Maria Kefala (sund.ku.dk) et.al.|[2603.26544](http://arxiv.org/abs/2603.26544)|null|
 |**2026-03-26**|**Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?**|Liang Zhang (umich.edu) et.al.|[2603.25633](http://arxiv.org/abs/2603.25633)|null|
 |**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
 |**2026-03-26**|**Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties**|Jannis Vamvas (cl.uzh.ch) et.al.|[2603.25489](http://arxiv.org/abs/2603.25489)|null|
@@ -5164,7 +5206,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
