@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu (satolab.itc.u-tokyo.ac.jp) et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
+|**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen (student.uts.edu.au) et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
+|**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang (mail2.sysu.edu.cn) et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
+|**2026-03-31**|**GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification**|Iordanis Fostiropoulos (meta.com) et.al.|[2603.29112](http://arxiv.org/abs/2603.29112)|**[link](https://github.com/facebookresearch/GISTBench)**|
+|**2026-03-30**|**Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music**|Srivaths Ranganathan (google.com) et.al.|[2603.28994](http://arxiv.org/abs/2603.28994)|null|
 |**2026-03-30**|**TIEG-Youpu Solution for NeurIPS 2022 WikiKG90Mv2-LSC**|Feng Nie (tencent.com) et.al.|[2603.28512](http://arxiv.org/abs/2603.28512)|null|
 |**2026-03-30**|**With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems**|Giovanni De Toni (fbk.eu) et.al.|[2603.28476](http://arxiv.org/abs/2603.28476)|null|
 |**2026-03-30**|**RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation**|Yulei Huang (alibaba-inc.com) et.al.|[2603.28124](http://arxiv.org/abs/2603.28124)|null|
 |**2026-03-30**|**On the Accuracy Limits of Sequential Recommender Systems: An Entropy-Based Approach**|En Xu et.al.|[2603.27952](http://arxiv.org/abs/2603.27952)|null|
-|**2026-03-29**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
+|**2026-03-31**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
 |**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao (connect.ust.hk) et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
 |**2026-03-27**|**Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems**|Jinxin Hu (alibaba-inc.com) et.al.|[2603.26100](http://arxiv.org/abs/2603.26100)|null|
 |**2026-03-27**|**AgenticRS-Architecture: System Design for Agentic Recommender Systems**|Hao Zhang (alibaba-inc.com) et.al.|[2603.26085](http://arxiv.org/abs/2603.26085)|null|
@@ -1304,13 +1309,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-29**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
+|**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu (satolab.itc.u-tokyo.ac.jp) et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
+|**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen (student.uts.edu.au) et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
+|**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang (mail2.sysu.edu.cn) et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
+|**2026-03-31**|**GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification**|Iordanis Fostiropoulos (meta.com) et.al.|[2603.29112](http://arxiv.org/abs/2603.29112)|**[link](https://github.com/facebookresearch/GISTBench)**|
+|**2026-03-31**|**Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange**|Yin Cheng et.al.|[2603.27765](http://arxiv.org/abs/2603.27765)|null|
 |**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao (connect.ust.hk) et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
 |**2026-03-27**|**Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems**|Jinxin Hu (alibaba-inc.com) et.al.|[2603.26100](http://arxiv.org/abs/2603.26100)|null|
 |**2026-03-26**|**Unveiling the Resilience of LLM-Enhanced Search Engines against Black-Hat SEO Manipulation**|Pei Chen (fudan.edu.cn) et.al.|[2603.25500](http://arxiv.org/abs/2603.25500)|null|
@@ -1940,12 +1949,34 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Meteorology-Driven GPT4AP: A Multi-Task Forecasting LLM for Atmospheric Air Pollution in Data-Scarce Settings**|Prasanjit Dey (mytudublin.ie) et.al.|[2603.29974](http://arxiv.org/abs/2603.29974)|null|
+|**2026-03-31**|**Bethe Ansatz with a Large Language Model**|Balázs Pozsgay et.al.|[2603.29932](http://arxiv.org/abs/2603.29932)|null|
+|**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|**[link](https://github.com/Qwen-Applications/ATP-Bench)**|
+|**2026-03-31**|**Measuring the metacognition of AI**|Richard Servajean (yahoo.fr) et.al.|[2603.29693](http://arxiv.org/abs/2603.29693)|null|
+|**2026-03-31**|**Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models**|Brian Felipe Keith-Norambuena (ucn.cl) et.al.|[2603.29661](http://arxiv.org/abs/2603.29661)|null|
+|**2026-03-31**|**When Can We Trust LLM Graders? Calibrating Confidence for Automated Assessment**|Robinson Ferrer (ucf.edu) et.al.|[2603.29559](http://arxiv.org/abs/2603.29559)|**[link](https://github.com/sonkar-lab/llm_grading_calibration)**|
+|**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng (gmail.com) et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|**[link](https://github.com/styfeng/bilingual-babyLM)**|
+|**2026-03-31**|**Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models**|Gabriel Loiseau (inria.fr) et.al.|[2603.29497](http://arxiv.org/abs/2603.29497)|null|
+|**2026-03-31**|**Metriplector: From Field Theory to Neural Architecture**|Dan Oprisa (spheroid.ai) et.al.|[2603.29496](http://arxiv.org/abs/2603.29496)|null|
+|**2026-03-31**|**MemFactory: Unified Inference & Training Framework for Agent Memory**|Ziliang Guo (memtensor.cn) et.al.|[2603.29493](http://arxiv.org/abs/2603.29493)|**[link](https://github.com/Valsure/MemFactory)**|
+|**2026-03-31**|**Authorship Impersonation via LLM Prompting does not Evade Authorship Verification Methods**|Baoyi Zeng et.al.|[2603.29454](http://arxiv.org/abs/2603.29454)|null|
+|**2026-03-31**|**AI-Generated Prior Authorization Letters: Strong Clinical Content, Weak Administrative Scaffolding**|Moiz Sadiq Awan (gmail.com) et.al.|[2603.29366](http://arxiv.org/abs/2603.29366)|null|
+|**2026-03-31**|**Sima AIunty: Caste Audit in LLM-Driven Matchmaking**|Atharva Naik (illinois.edu) et.al.|[2603.29288](http://arxiv.org/abs/2603.29288)|null|
+|**2026-03-31**|**Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism**|Tao Chen (xmu.edu.cn) et.al.|[2603.29252](http://arxiv.org/abs/2603.29252)|null|
+|**2026-03-31**|**Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs**|Zhuowen Liang (hkust-gz.edu.cn) et.al.|[2603.29232](http://arxiv.org/abs/2603.29232)|**[link](https://github.com/HKUSTDial/LiteCoST)**|
+|**2026-03-31**|**SiPaKosa: A Comprehensive Corpus of Canonical and Classical Buddhist Texts in Sinhala and Pali**|Ranidu Gurusinghe (iit.ac.lk) et.al.|[2603.29221](http://arxiv.org/abs/2603.29221)|null|
+|**2026-03-31**|**Route-Induced Density and Stability (RIDE): Controlled Intervention and Mechanism Analysis of Routing-Style Meta Prompts on LLM Internal States**|Dianxing Zhang (digitalchina.com) et.al.|[2603.29206](http://arxiv.org/abs/2603.29206)|null|
+|**2026-03-31**|**Knowledge database development by large language models for countermeasures against viruses and marine toxins**|Hung N. Do (lanl.gov) et.al.|[2603.29149](http://arxiv.org/abs/2603.29149)|null|
+|**2026-03-31**|**APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay**|Pratyay Banerjee (amazon.com) et.al.|[2603.29093](http://arxiv.org/abs/2603.29093)|null|
+|**2026-03-30**|**Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance**|Siva Kumar Sastry Hari et.al.|[2603.29010](http://arxiv.org/abs/2603.29010)|null|
+|**2026-03-30**|**Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research**|Martin Legrand (univ-cotedazur.fr) et.al.|[2603.28986](http://arxiv.org/abs/2603.28986)|null|
+|**2026-03-30**|**ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts**|Rongtian Ye (aalto.fi) et.al.|[2603.28902](http://arxiv.org/abs/2603.28902)|null|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
 |**2026-03-30**|**Information-Theoretic Limits of Safety Verification for Self-Improving Systems**|Arsenios Scrivens et.al.|[2603.28650](http://arxiv.org/abs/2603.28650)|null|
 |**2026-03-30**|**The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle**|Lara Russell-Lasalandra (Virginia.Edu) et.al.|[2603.28643](http://arxiv.org/abs/2603.28643)|null|
@@ -5206,7 +5237,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
