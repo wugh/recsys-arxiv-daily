@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**From Validity to Inter-Subjectivity: An Argument for Reliability Signals in Search Environments**|Frans van der Sluis (acm.org) et.al.|[2604.01186](http://arxiv.org/abs/2604.01186)|null|
+|**2026-04-01**|**Aligning Recommendations with User Popularity Preferences**|Mona Schirmer (uva.nl) et.al.|[2604.01036](http://arxiv.org/abs/2604.01036)|null|
+|**2026-04-01**|**UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems**|Mingming Ha (kuaishou.com) et.al.|[2604.00590](http://arxiv.org/abs/2604.00590)|null|
 |**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu (satolab.itc.u-tokyo.ac.jp) et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
 |**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen (student.uts.edu.au) et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
 |**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang (mail2.sysu.edu.cn) et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
@@ -1946,6 +1949,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**$\texttt{YC-Bench}$ : Benchmarking AI Agents for Long-Term Planning and Consistent Execution**|Muyu He (collinear.ai) et.al.|[2604.01212](http://arxiv.org/abs/2604.01212)|null|
+|**2026-04-01**|**Embarrassingly Simple Self-Distillation Improves Code Generation**|Ruixiang Zhang (apple.com) et.al.|[2604.01193](http://arxiv.org/abs/2604.01193)|null|
+|**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
+|**2026-04-01**|**Adversarial Moral Stress Testing of Large Language Models**|Saeid Jamshidi (polymtl.ca) et.al.|[2604.01108](http://arxiv.org/abs/2604.01108)|null|
+|**2026-04-01**|**OrgAgent: Organize Your Multi-Agent System like a Company**|Yiru Wang et.al.|[2604.01020](http://arxiv.org/abs/2604.01020)|null|
+|**2026-04-01**|**PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**|Yutao Yang (cs.ecnu.edu.cn) et.al.|[2604.00931](http://arxiv.org/abs/2604.00931)|null|
+|**2026-04-01**|**GPT-NL Public Corpus: A Permissively Licensed, Dutch-First Dataset for LLM Pre-training**|Jesse van Oort (tno.nl) et.al.|[2604.00920](http://arxiv.org/abs/2604.00920)|null|
+|**2026-04-01**|**Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time**|Razvan Mihai Popescu (tudelft.nl) et.al.|[2604.00917](http://arxiv.org/abs/2604.00917)|null|
+|**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[2604.00812](http://arxiv.org/abs/2604.00812)|null|
+|**2026-04-01**|**UK AISI Alignment Evaluation Case-Study**|Alexandra Souly et.al.|[2604.00788](http://arxiv.org/abs/2604.00788)|null|
+|**2026-04-01**|**From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks**|Ayan Datta (research.iiit.ac.in) et.al.|[2604.00778](http://arxiv.org/abs/2604.00778)|null|
+|**2026-04-01**|**Exploring Silent Data Corruption as a Reliability Challenge in LLM Training**|Anton Altenbernd (tu-berlin.de) et.al.|[2604.00726](http://arxiv.org/abs/2604.00726)|null|
+|**2026-04-01**|**CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection**|Rajkiran Panuganti et.al.|[2604.00716](http://arxiv.org/abs/2604.00716)|**[link](https://github.com/agenticclass/circuitprobe)**|
+|**2026-04-01**|**The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents**|Harshee Jignesh Shah et.al.|[2604.00478](http://arxiv.org/abs/2604.00478)|**[link](https://github.com/Helephants/langgraph-layered-context)**|
+|**2026-04-01**|**Self-Routing: Parameter-Free Expert Routing from Hidden States**|Jama Hussein Mohamud et.al.|[2604.00421](http://arxiv.org/abs/2604.00421)|null|
+|**2026-04-01**|**Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning**|Eric Hanchen Jiang et.al.|[2604.00344](http://arxiv.org/abs/2604.00344)|null|
+|**2026-04-01**|**When Career Data Runs Out: Structured Feature Engineering and Signal Limits for Founder Success Prediction**|Yagiz Ihlamur (amazon.com) et.al.|[2604.00339](http://arxiv.org/abs/2604.00339)|**[link](https://github.com/ihlamury/vcbench)**|
+|**2026-03-31**|**Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**|Zaifu Zhan (umn.edu) et.al.|[2604.00261](http://arxiv.org/abs/2604.00261)|null|
+|**2026-03-31**|**Do Language Models Know When They'll Refuse? Probing Introspective Awareness of Safety Boundaries**|Tanay Gondil (purdue.edu) et.al.|[2604.00228](http://arxiv.org/abs/2604.00228)|null|
+|**2026-03-31**|**PASM: Population Adaptive Symbolic Mixture-of-Experts Model for Cross-location Hurricane Evacuation Decision Prediction**|Xiao Qian (udel.edu) et.al.|[2604.00074](http://arxiv.org/abs/2604.00074)|null|
 |**2026-03-31**|**Meteorology-Driven GPT4AP: A Multi-Task Forecasting LLM for Atmospheric Air Pollution in Data-Scarce Settings**|Prasanjit Dey (mytudublin.ie) et.al.|[2603.29974](http://arxiv.org/abs/2603.29974)|null|
 |**2026-03-31**|**Bethe Ansatz with a Large Language Model**|Balázs Pozsgay et.al.|[2603.29932](http://arxiv.org/abs/2603.29932)|null|
 |**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|**[link](https://github.com/Qwen-Applications/ATP-Bench)**|
@@ -1955,7 +1978,7 @@ layout: default
 |**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng (gmail.com) et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|**[link](https://github.com/styfeng/bilingual-babyLM)**|
 |**2026-03-31**|**Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models**|Gabriel Loiseau (inria.fr) et.al.|[2603.29497](http://arxiv.org/abs/2603.29497)|null|
 |**2026-03-31**|**Metriplector: From Field Theory to Neural Architecture**|Dan Oprisa (spheroid.ai) et.al.|[2603.29496](http://arxiv.org/abs/2603.29496)|null|
-|**2026-03-31**|**MemFactory: Unified Inference & Training Framework for Agent Memory**|Ziliang Guo (memtensor.cn) et.al.|[2603.29493](http://arxiv.org/abs/2603.29493)|**[link](https://github.com/Valsure/MemFactory)**|
+|**2026-04-01**|**MemFactory: Unified Inference & Training Framework for Agent Memory**|Ziliang Guo (memtensor.cn) et.al.|[2603.29493](http://arxiv.org/abs/2603.29493)|**[link](https://github.com/Valsure/MemFactory)**|
 |**2026-03-31**|**Authorship Impersonation via LLM Prompting does not Evade Authorship Verification Methods**|Baoyi Zeng et.al.|[2603.29454](http://arxiv.org/abs/2603.29454)|null|
 |**2026-03-31**|**AI-Generated Prior Authorization Letters: Strong Clinical Content, Weak Administrative Scaffolding**|Moiz Sadiq Awan (gmail.com) et.al.|[2603.29366](http://arxiv.org/abs/2603.29366)|null|
 |**2026-03-31**|**Sima AIunty: Caste Audit in LLM-Driven Matchmaking**|Atharva Naik (illinois.edu) et.al.|[2603.29288](http://arxiv.org/abs/2603.29288)|null|
