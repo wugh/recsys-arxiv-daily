@@ -1,4 +1,4 @@
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
+|**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du (mails.tsinghua.edu.cn) et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
+|**2026-04-02**|**TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning**|Zhanting Zhou et.al.|[2604.02183](http://arxiv.org/abs/2604.02183)|null|
+|**2026-04-01**|**Open-Domain Safety Policy Construction**|Di Wu (cs.ucla.edu) et.al.|[2604.01354](http://arxiv.org/abs/2604.01354)|**[link](https://github.com/xiaowu0162/deep-policy-research)**|
 |**2026-04-01**|**From Validity to Inter-Subjectivity: An Argument for Reliability Signals in Search Environments**|Frans van der Sluis (acm.org) et.al.|[2604.01186](http://arxiv.org/abs/2604.01186)|null|
 |**2026-04-01**|**Aligning Recommendations with User Popularity Preferences**|Mona Schirmer (uva.nl) et.al.|[2604.01036](http://arxiv.org/abs/2604.01036)|null|
-|**2026-04-01**|**UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems**|Mingming Ha (kuaishou.com) et.al.|[2604.00590](http://arxiv.org/abs/2604.00590)|null|
+|**2026-04-02**|**UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems**|Mingming Ha (kuaishou.com) et.al.|[2604.00590](http://arxiv.org/abs/2604.00590)|null|
 |**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu (satolab.itc.u-tokyo.ac.jp) et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
 |**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen (student.uts.edu.au) et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
 |**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang (mail2.sysu.edu.cn) et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
@@ -1312,12 +1316,15 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
+|**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du (mails.tsinghua.edu.cn) et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
+|**2026-04-01**|**Open-Domain Safety Policy Construction**|Di Wu (cs.ucla.edu) et.al.|[2604.01354](http://arxiv.org/abs/2604.01354)|**[link](https://github.com/xiaowu0162/deep-policy-research)**|
 |**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu (satolab.itc.u-tokyo.ac.jp) et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
 |**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen (student.uts.edu.au) et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
 |**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang (mail2.sysu.edu.cn) et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
@@ -1952,12 +1959,40 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar (salesforce.com) et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|
+|**2026-04-02**|**go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi (itstorque.com) et.al.|[2604.02309](http://arxiv.org/abs/2604.02309)|null|
+|**2026-04-02**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat (gmail.com) et.al.|[2604.02259](http://arxiv.org/abs/2604.02259)|null|
+|**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
+|**2026-04-02**|**GaelEval: Benchmarking LLM Performance for Scottish Gaelic**|Peter Devine (ed.ac.uk) et.al.|[2604.02135](http://arxiv.org/abs/2604.02135)|null|
+|**2026-04-02**|**Optimizing RAG Rerankers with LLM Feedback via Reinforcement Learning**|Yuhang Wu (njust.edu.cn) et.al.|[2604.02091](http://arxiv.org/abs/2604.02091)|null|
+|**2026-04-02**|**AI in Insurance: Adaptive Questionnaires for Improved Risk Profiling**|Diogo Silva (live.com) et.al.|[2604.02034](http://arxiv.org/abs/2604.02034)|null|
+|**2026-04-02**|**SenseMath: Do LLMs Have Number Sense? Evaluating Shortcut Use, Judgment, and Generation**|Haomin Zhuang (nd.edu) et.al.|[2604.01988](http://arxiv.org/abs/2604.01988)|null|
+|**2026-04-02**|**Ego-Grounding for Personalized Question-Answering in Egocentric Videos**|Junbin Xiao (ustc.edu.cn) et.al.|[2604.01966](http://arxiv.org/abs/2604.01966)|**[link](https://github.com/Ryougetsu3606/MyEgo)**|
+|**2026-04-02**|**Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite**|Klaudia Thellmann (tu-dresden.de) et.al.|[2604.01957](http://arxiv.org/abs/2604.01957)|null|
+|**2026-04-02**|**LiveMathematicianBench: A Live Benchmark for Mathematician-Level Reasoning with Proof Sketches**|Linyang He (columbia.edu) et.al.|[2604.01754](http://arxiv.org/abs/2604.01754)|**[link](https://livemathematicianbench.github.io/)**|
+|**2026-04-02**|**AeroTherm-GPT: A Verification-Centered LLM Framework for Thermal Protection System Engineering Workflows**|Chuhan Qiao (tsinghua.org.cn) et.al.|[2604.01738](http://arxiv.org/abs/2604.01738)|null|
+|**2026-04-02**|**EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**|Hanrong Zhang (uic.edu) et.al.|[2604.01687](http://arxiv.org/abs/2604.01687)|null|
+|**2026-04-02**|**GPA: Learning GUI Process Automation from Demonstrations**|Zirui Zhao (salesforce.com) et.al.|[2604.01676](http://arxiv.org/abs/2604.01676)|null|
+|**2026-04-02**|**Can Heterogeneous Language Models Be Fused?**|Shilian Chen (cs.ecnu.edu.cn) et.al.|[2604.01674](http://arxiv.org/abs/2604.01674)|null|
+|**2026-04-02**|**Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations**|Shou-Tzu Han (usd.edu) et.al.|[2604.01639](http://arxiv.org/abs/2604.01639)|null|
+|**2026-04-02**|**Seclens: Role-specific Evaluation of LLM's for security vulnerablity detection**|Subho Halder (gmail.com) et.al.|[2604.01637](http://arxiv.org/abs/2604.01637)|null|
+|**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li (nvidia.com) et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
+|**2026-04-02**|**Analysis of LLM Performance on AWS Bedrock: Receipt-item Categorisation Case Study**|Gabby Sanchez et.al.|[2604.01615](http://arxiv.org/abs/2604.01615)|null|
+|**2026-04-02**|**Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging**|Mengxian Lyu et.al.|[2604.01538](http://arxiv.org/abs/2604.01538)|null|
+|**2026-04-02**|**PHMForge: A Scenario-Driven Agentic Benchmark for Industrial Asset Lifecycle Maintenance**|Ayan Das (gatech.edu) et.al.|[2604.01532](http://arxiv.org/abs/2604.01532)|null|
+|**2026-04-02**|**A Role-Based LLM Framework for Structured Information Extraction from Healthy Food Policies**|Congjing Zhang (uw.edu) et.al.|[2604.01529](http://arxiv.org/abs/2604.01529)|null|
+|**2026-04-01**|**SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits**|Zikai Zhang (unr.edu) et.al.|[2604.01473](http://arxiv.org/abs/2604.01473)|null|
+|**2026-04-01**|**The Newton-Muon Optimizer**|Zhehang Du (wharton.upenn.edu) et.al.|[2604.01472](http://arxiv.org/abs/2604.01472)|null|
+|**2026-04-01**|**Infeasibility Aware Large Language Models for Combinatorial Optimization**|Yakun Wang (lehigh.edu) et.al.|[2604.01455](http://arxiv.org/abs/2604.01455)|null|
+|**2026-04-01**|**CogBias: Measuring and Mitigating Cognitive Bias in Large Language Models**|Fan Huang (acm.org) et.al.|[2604.01366](http://arxiv.org/abs/2604.01366)|null|
+|**2026-04-01**|**Open-Domain Safety Policy Construction**|Di Wu (cs.ucla.edu) et.al.|[2604.01354](http://arxiv.org/abs/2604.01354)|**[link](https://github.com/xiaowu0162/deep-policy-research)**|
+|**2026-04-01**|**Forecasting Supply Chain Disruptions with Foresight Learning**|Benjamin Turtel (lightningrod.ai) et.al.|[2604.01298](http://arxiv.org/abs/2604.01298)|null|
 |**2026-04-01**|**$\texttt{YC-Bench}$ : Benchmarking AI Agents for Long-Term Planning and Consistent Execution**|Muyu He (collinear.ai) et.al.|[2604.01212](http://arxiv.org/abs/2604.01212)|null|
 |**2026-04-01**|**Embarrassingly Simple Self-Distillation Improves Code Generation**|Ruixiang Zhang (apple.com) et.al.|[2604.01193](http://arxiv.org/abs/2604.01193)|null|
 |**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
@@ -5260,7 +5295,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
