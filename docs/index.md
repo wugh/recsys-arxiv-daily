@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Bilateral Intent-Enhanced Sequential Recommendation with Embedding Perturbation-Based Contrastive Learning**|Shanfan Zhang (gmail.com) et.al.|[2604.02833](http://arxiv.org/abs/2604.02833)|null|
+|**2026-04-02**|**Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization**|Ansel Kaplan Erol (gatech.edu) et.al.|[2604.02539](http://arxiv.org/abs/2604.02539)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du (mails.tsinghua.edu.cn) et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
 |**2026-04-02**|**TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning**|Zhanting Zhou et.al.|[2604.02183](http://arxiv.org/abs/2604.02183)|null|
@@ -1315,6 +1317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization**|Ansel Kaplan Erol (gatech.edu) et.al.|[2604.02539](http://arxiv.org/abs/2604.02539)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du (mails.tsinghua.edu.cn) et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
 |**2026-04-01**|**Open-Domain Safety Policy Construction**|Di Wu (cs.ucla.edu) et.al.|[2604.01354](http://arxiv.org/abs/2604.01354)|**[link](https://github.com/xiaowu0162/deep-policy-research)**|
@@ -1956,7 +1959,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-02**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar (salesforce.com) et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao (seas.upenn.edu) et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|
+|**2026-04-03**|**Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control**|Lihao Sun (pjlab.org.cn) et.al.|[2604.03147](http://arxiv.org/abs/2604.03147)|null|
+|**2026-04-03**|**StoryScope: Investigating idiosyncrasies in AI fiction**|Jenna Russell (umd.edu) et.al.|[2604.03136](http://arxiv.org/abs/2604.03136)|null|
+|**2026-04-03**|**Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts**|Jinsook Lee (cornell.edu) et.al.|[2604.03127](http://arxiv.org/abs/2604.03127)|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong (gmail.com) et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|null|
+|**2026-04-03**|**Querying Structured Data Through Natural Language Using Language Models**|Hontan Valentin-Micu (stud.acs.upb.ro) et.al.|[2604.03057](http://arxiv.org/abs/2604.03057)|null|
+|**2026-04-03**|**AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents**|Yunhao Feng (fudan.edu.cn) et.al.|[2604.02947](http://arxiv.org/abs/2604.02947)|null|
+|**2026-04-03**|**Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration**|Wachiravit Modecrua (amity.co) et.al.|[2604.02869](http://arxiv.org/abs/2604.02869)|null|
+|**2026-04-03**|**Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity**|Guoling Zhou (nenu.edu.cn) et.al.|[2604.02770](http://arxiv.org/abs/2604.02770)|null|
+|**2026-04-03**|**DeltaLogic: Minimal Premise Edits Reveal Belief-Revision Failures in Logical Reasoning Models**|Amit Dhanda et.al.|[2604.02733](http://arxiv.org/abs/2604.02733)|null|
+|**2026-04-03**|**IndustryCode: A Benchmark for Industry Code Generation**|Puyu Zeng (sjtu.edu.cn) et.al.|[2604.02729](http://arxiv.org/abs/2604.02729)|null|
+|**2026-04-03**|**Generative Frontiers: Why Evaluation Matters for Diffusion Language Models**|Patrick Pynadath et.al.|[2604.02718](http://arxiv.org/abs/2604.02718)|**[link](https://patrickpynadath1.github.io/blog/eval_methodology/)**|
+|**2026-04-03**|**Generalization Limits of Reinforcement Learning Alignment**|Haruhi Shida et.al.|[2604.02652](http://arxiv.org/abs/2604.02652)|null|
+|**2026-04-03**|**GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers**|Shufan Jiang (gmail.com) et.al.|[2604.02648](http://arxiv.org/abs/2604.02648)|null|
+|**2026-04-03**|**Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents**|Wei Zou (psu.edu) et.al.|[2604.02623](http://arxiv.org/abs/2604.02623)|null|
+|**2026-04-03**|**Steerable but Not Decodable: Function Vectors Operate Beyond the Logit Lens**|Mohammed Suhail B Nadaf (gmail.com) et.al.|[2604.02608](http://arxiv.org/abs/2604.02608)|null|
+|**2026-04-02**|**Mitigating LLM biases toward spurious social contexts using direct preference optimization**|Hyunji Nam (cs.stanford.edu) et.al.|[2604.02585](http://arxiv.org/abs/2604.02585)|null|
+|**2026-04-02**|**From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks**|Murtuza Shahzad (niu.edu) et.al.|[2604.02548](http://arxiv.org/abs/2604.02548)|null|
+|**2026-04-02**|**Token-Efficient Multimodal Reasoning via Image Prompt Packaging**|Joong Ho Choi (bny.com) et.al.|[2604.02492](http://arxiv.org/abs/2604.02492)|null|
+|**2026-04-02**|**Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets**|Dat Tran (stanford.edu) et.al.|[2604.02460](http://arxiv.org/abs/2604.02460)|null|
+|**2026-04-02**|**Do We Need Frontier Models to Verify Mathematical Proofs?**|Aaditya Naik et.al.|[2604.02450](http://arxiv.org/abs/2604.02450)|null|
+|**2026-04-02**|**Measuring What Cannot Be Surveyed: LLMs as Instruments for Latent Cognitive Variables in Labor Economics**|Cristian Espinal Maya (eafit.edu.co) et.al.|[2604.02403](http://arxiv.org/abs/2604.02403)|**[link](https://github.com/Cespial/cognitive-factor-economics)**|
+|**2026-04-02**|**Improving MPI Error Detection and Repair with Large Language Models and Bug References**|Scott Piersall (ucf.edu) et.al.|[2604.02398](http://arxiv.org/abs/2604.02398)|null|
+|**2026-04-03**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar (salesforce.com) et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|
 |**2026-04-02**|**go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi (itstorque.com) et.al.|[2604.02309](http://arxiv.org/abs/2604.02309)|null|
 |**2026-04-02**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat (gmail.com) et.al.|[2604.02259](http://arxiv.org/abs/2604.02259)|null|
 |**2026-04-02**|**Blinded Radiologist and LLM-Based Evaluation of LLM-Generated Japanese Translations of Chest CT Reports: Comparative Study**|Yosuke Yamagishi et.al.|[2604.02207](http://arxiv.org/abs/2604.02207)|null|
