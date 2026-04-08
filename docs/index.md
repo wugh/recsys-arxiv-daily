@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
+|**2026-04-07**|**JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing**|Linghui Meng (jd.com) et.al.|[2604.05845](http://arxiv.org/abs/2604.05845)|null|
+|**2026-04-07**|**Curr-RLCER:Curriculum Reinforcement Learning For Coherence Explainable Recommendation**|Xiangchen Pan (gmail.com) et.al.|[2604.05341](http://arxiv.org/abs/2604.05341)|**[link](https://github.com/pxcstart/Curr-RLCER)**|
+|**2026-04-07**|**Next-Scale Generative Reranking: A Tree-based Generative Rerank Method at Meituan**|Shuli Wang (meituan.com) et.al.|[2604.05314](http://arxiv.org/abs/2604.05314)|null|
+|**2026-04-04**|**CURE:Circuit-Aware Unlearning for LLM-based Recommendation**|Ziheng Chen (gmail.com) et.al.|[2604.04982](http://arxiv.org/abs/2604.04982)|null|
+|**2026-04-04**|**Tencent Advertising Algorithm Challenge 2025: All-Modality Generative Recommendation**|Junwei Pan (tencent.com) et.al.|[2604.04976](http://arxiv.org/abs/2604.04976)|**[link](https://github.com/TencentAdvertisingAlgorithmCompetition/baseline_2025)**|
+|**2026-04-06**|**Learning from Equivalence Queries, Revisited**|Mark Braverman (GMAIL.COM) et.al.|[2604.04535](http://arxiv.org/abs/2604.04535)|null|
+|**2026-04-06**|**Retrieval Augmented Conversational Recommendation with Reinforcement Learning**|Zhenrui Yue (illinois.edu) et.al.|[2604.04457](http://arxiv.org/abs/2604.04457)|null|
+|**2026-04-05**|**Commercial Persuasion in AI-Mediated Conversations**|Francesco Salvi (princeton.edu) et.al.|[2604.04263](http://arxiv.org/abs/2604.04263)|null|
+|**2026-04-05**|**Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices**|Clark Mingxuan Ju (snap.com) et.al.|[2604.03949](http://arxiv.org/abs/2604.03949)|null|
+|**2026-04-04**|**Automated Conjecture Resolution with Formal Verification**|Haocheng Ju (iquestlab.com) et.al.|[2604.03789](http://arxiv.org/abs/2604.03789)|**[link](https://github.com/frenzymath/Rethlas)**|
+|**2026-04-04**|**User Simulator-Guided Multi-Turn Preference Optimization for Reasoning LLM-based Conversational Recommendation**|Xingyuan Xiang (gmail.com) et.al.|[2604.03671](http://arxiv.org/abs/2604.03671)|null|
+|**2026-04-04**|**MMP-Refer: Multimodal Path Retrieval-augmented LLMs For Explainable Recommendation**|Xiangchen Pan (gmail.com) et.al.|[2604.03666](http://arxiv.org/abs/2604.03666)|**[link](https://github.com/pxcstart/MMP-Refer)**|
 |**2026-04-03**|**Bilateral Intent-Enhanced Sequential Recommendation with Embedding Perturbation-Based Contrastive Learning**|Shanfan Zhang (gmail.com) et.al.|[2604.02833](http://arxiv.org/abs/2604.02833)|null|
 |**2026-04-02**|**Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization**|Ansel Kaplan Erol (gatech.edu) et.al.|[2604.02539](http://arxiv.org/abs/2604.02539)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
@@ -1317,6 +1330,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
+|**2026-04-04**|**CURE:Circuit-Aware Unlearning for LLM-based Recommendation**|Ziheng Chen (gmail.com) et.al.|[2604.04982](http://arxiv.org/abs/2604.04982)|null|
+|**2026-04-06**|**Retrieval Augmented Conversational Recommendation with Reinforcement Learning**|Zhenrui Yue (illinois.edu) et.al.|[2604.04457](http://arxiv.org/abs/2604.04457)|null|
+|**2026-04-05**|**Commercial Persuasion in AI-Mediated Conversations**|Francesco Salvi (princeton.edu) et.al.|[2604.04263](http://arxiv.org/abs/2604.04263)|null|
+|**2026-04-04**|**Automated Conjecture Resolution with Formal Verification**|Haocheng Ju (iquestlab.com) et.al.|[2604.03789](http://arxiv.org/abs/2604.03789)|**[link](https://github.com/frenzymath/Rethlas)**|
+|**2026-04-04**|**User Simulator-Guided Multi-Turn Preference Optimization for Reasoning LLM-based Conversational Recommendation**|Xingyuan Xiang (gmail.com) et.al.|[2604.03671](http://arxiv.org/abs/2604.03671)|null|
+|**2026-04-04**|**MMP-Refer: Multimodal Path Retrieval-augmented LLMs For Explainable Recommendation**|Xiangchen Pan (gmail.com) et.al.|[2604.03666](http://arxiv.org/abs/2604.03666)|**[link](https://github.com/pxcstart/MMP-Refer)**|
 |**2026-04-02**|**Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization**|Ansel Kaplan Erol (gatech.edu) et.al.|[2604.02539](http://arxiv.org/abs/2604.02539)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan (google.com) et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**Towards Position-Robust Talent Recommendation via Large Language Models**|Silin Du (mails.tsinghua.edu.cn) et.al.|[2604.02200](http://arxiv.org/abs/2604.02200)|null|
@@ -1959,6 +1979,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Pranjal Aggarwal et.al.|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
+|**2026-04-07**|**Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning**|Juekai Lin (pjlab.org.cn) et.al.|[2604.06079](http://arxiv.org/abs/2604.06079)|null|
+|**2026-04-07**|**CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments**|Gustav Keppler (kit.edu) et.al.|[2604.06019](http://arxiv.org/abs/2604.06019)|**[link](https://github.com/GKeppler/CritBench)**|
+|**2026-04-07**|**Epistemic Blinding: An Inference-Time Protocol for Auditing Prior Contamination in LLM-Assisted Analysis**|Michael Cuccarese et.al.|[2604.06013](http://arxiv.org/abs/2604.06013)|**[link](https://github.com/mcuccarese/epistemic-blinding)**|
+|**2026-04-07**|**MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning**|Maria Nesterova (yandex.ru) et.al.|[2604.05943](http://arxiv.org/abs/2604.05943)|null|
+|**2026-04-07**|**Swiss-Bench 003: Evaluating LLM Reliability and Adversarial Security for Swiss Regulatory Contexts**|Fatih Uenal (colorado.edu) et.al.|[2604.05872](http://arxiv.org/abs/2604.05872)|null|
+|**2026-04-07**|**SemLink: A Semantic-Aware Automated Test Oracle for Hyperlink Verification using Siamese Sentence-BERT**|Guan-Yan Yang (ntu.edu.tw) et.al.|[2604.05711](http://arxiv.org/abs/2604.05711)|null|
+|**2026-04-07**|**Semantic-Topological Graph Reasoning for Language-Guided Pulmonary Screening**|Chenyu Xue (liverpool.ac.uk) et.al.|[2604.05620](http://arxiv.org/abs/2604.05620)|null|
+|**2026-04-07**|**ResearchEVO: An End-to-End Framework for Automated Scientific Discovery and Documentation**|Zhe Zhao et.al.|[2604.05587](http://arxiv.org/abs/2604.05587)|null|
+|**2026-04-07**|**AttnDiff: Attention-based Differential Fingerprinting for Large Language Models**|Haobo Zhang (zjut.edu.cn) et.al.|[2604.05502](http://arxiv.org/abs/2604.05502)|null|
+|**2026-04-07**|**On the Role of Fault Localization Context for LLM-Based Program Repair**|Melika Sepidband (yorku.ca) et.al.|[2604.05481](http://arxiv.org/abs/2604.05481)|null|
+|**2026-04-07**|**CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation**|Siddharth Jain et.al.|[2604.05467](http://arxiv.org/abs/2604.05467)|null|
+|**2026-04-07**|**LanG -- A Governance-Aware Agentic AI Platform for Unified Security Operations**|Anes Abdennebi (ens.etsmtl.ca) et.al.|[2604.05440](http://arxiv.org/abs/2604.05440)|null|
+|**2026-04-07**|**CODESTRUCT: Code Agents over Structured Action Spaces**|Myeongsoo Kim (amazon.com) et.al.|[2604.05407](http://arxiv.org/abs/2604.05407)|null|
+|**2026-04-07**|**ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning**|Xuan Xiong et.al.|[2604.05355](http://arxiv.org/abs/2604.05355)|**[link](https://github.com/Xuan1030/ETR)**|
+|**2026-04-07**|**Dynamic Agentic AI Expert Profiler System Architecture for Multidomain Intelligence Modeling**|Aisvarya Adeseye (utu.fi) et.al.|[2604.05345](http://arxiv.org/abs/2604.05345)|null|
+|**2026-04-07**|**Right at My Level: A Unified Multilingual Framework for Proficiency-Aware Text Simplification**|Jinhong Jeong (yonsei.ac.kr) et.al.|[2604.05302](http://arxiv.org/abs/2604.05302)|null|
+|**2026-04-07**|**Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code**|Dominik Blain (qreativelab.io) et.al.|[2604.05292](http://arxiv.org/abs/2604.05292)|null|
+|**2026-04-06**|**Improving Sparse Memory Finetuning**|Satyam Goyal (umich.edu) et.al.|[2604.05248](http://arxiv.org/abs/2604.05248)|null|
+|**2026-04-06**|**Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering**|Purva Chiniya (amazon.com) et.al.|[2604.05179](http://arxiv.org/abs/2604.05179)|null|
+|**2026-04-06**|**ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces**|Xiangyi Li et.al.|[2604.05172](http://arxiv.org/abs/2604.05172)|null|
+|**2026-04-06**|**Instruction-Tuned LLMs for Parsing and Mining Unstructured Logs on Leadership HPC Systems**|Ahmad Maroof Karimi (ornl.gov) et.al.|[2604.05168](http://arxiv.org/abs/2604.05168)|null|
+|**2026-04-06**|**EffiPair: Improving the Efficiency of LLM-generated Code with Relative Contrastive Feedback**|Samira Hajizadeh (columbia.edu) et.al.|[2604.05137](http://arxiv.org/abs/2604.05137)|null|
+|**2026-04-06**|**$π^2$ : Structure-Originated Reasoning Data Improves Long-Context Reasoning Ability of Large Language Models**|Quyet V. Do (vt.edu) et.al.|[2604.05114](http://arxiv.org/abs/2604.05114)|**[link](https://github.com/vt-pi-squared/pi-squared)**|
+|**2026-04-06**|**Multilingual Language Models Encode Script Over Linguistic Structure**|Aastha A K Verma (gmail.com) et.al.|[2604.05090](http://arxiv.org/abs/2604.05090)|null|
+|**2026-04-06**|**Document Optimization for Black-Box Retrieval via Reinforcement Learning**|Omri Uzan (stanford.edu) et.al.|[2604.05087](http://arxiv.org/abs/2604.05087)|null|
+|**2026-04-06**|**Nidus: Externalized Reasoning for AI-Assisted Engineering**|Danil Gorinevski (cybiont.com) et.al.|[2604.05080](http://arxiv.org/abs/2604.05080)|null|
+|**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014](http://arxiv.org/abs/2604.05014)|**[link](https://github.com/starVLA/starVLA)**|
+|**2026-04-06**|**MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents**|Shu Wang (memverge.com) et.al.|[2604.04853](http://arxiv.org/abs/2604.04853)|null|
+|**2026-04-06**|**Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency**|Guan-Ting Lin (gmail.com) et.al.|[2604.04847](http://arxiv.org/abs/2604.04847)|**[link](https://daniellin94144.github.io/FDB-v3-demo)**|
 |**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao (seas.upenn.edu) et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|
 |**2026-04-03**|**Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control**|Lihao Sun (pjlab.org.cn) et.al.|[2604.03147](http://arxiv.org/abs/2604.03147)|null|
 |**2026-04-03**|**StoryScope: Investigating idiosyncrasies in AI fiction**|Jenna Russell (umd.edu) et.al.|[2604.03136](http://arxiv.org/abs/2604.03136)|null|
