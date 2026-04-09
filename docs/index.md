@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation**|Muskan Gupta (tcs.com) et.al.|[2604.06928](http://arxiv.org/abs/2604.06928)|null|
+|**2026-04-07**|**The Unreasonable Effectiveness of Data for Recommender Systems**|Youssef Abdou (student.uni-siegen.de) et.al.|[2604.06420](http://arxiv.org/abs/2604.06420)|null|
+|**2026-04-07**|**Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models**|Jiayuan Liu (andrew.cmu.edu) et.al.|[2604.06263](http://arxiv.org/abs/2604.06263)|null|
+|**2026-04-02**|**What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives**|Florian Atzenhofer-Baumgartner (student.tugraz.at) et.al.|[2604.06232](http://arxiv.org/abs/2604.06232)|null|
 |**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
 |**2026-04-07**|**JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing**|Linghui Meng (jd.com) et.al.|[2604.05845](http://arxiv.org/abs/2604.05845)|null|
 |**2026-04-07**|**Curr-RLCER:Curriculum Reinforcement Learning For Coherence Explainable Recommendation**|Xiangchen Pan (gmail.com) et.al.|[2604.05341](http://arxiv.org/abs/2604.05341)|**[link](https://github.com/pxcstart/Curr-RLCER)**|
@@ -1330,6 +1334,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation**|Muskan Gupta (tcs.com) et.al.|[2604.06928](http://arxiv.org/abs/2604.06928)|null|
+|**2026-04-07**|**Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models**|Jiayuan Liu (andrew.cmu.edu) et.al.|[2604.06263](http://arxiv.org/abs/2604.06263)|null|
 |**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
 |**2026-04-04**|**CURE:Circuit-Aware Unlearning for LLM-based Recommendation**|Ziheng Chen (gmail.com) et.al.|[2604.04982](http://arxiv.org/abs/2604.04982)|null|
 |**2026-04-06**|**Retrieval Augmented Conversational Recommendation with Reinforcement Learning**|Zhenrui Yue (illinois.edu) et.al.|[2604.04457](http://arxiv.org/abs/2604.04457)|null|
@@ -1979,6 +1985,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**The ATOM Report: Measuring the Open Language Model Ecosystem**|Nathan Lambert et.al.|[2604.07190](http://arxiv.org/abs/2604.07190)|null|
+|**2026-04-08**|**Dynamic Context Evolution for Scalable Synthetic Data Generation**|Ryan Lingo (honda-ri.com) et.al.|[2604.07147](http://arxiv.org/abs/2604.07147)|null|
+|**2026-04-08**|**Language Bias under Conflicting Information in Multilingual LLMs**|Robert Östling (ling.su.se) et.al.|[2604.07123](http://arxiv.org/abs/2604.07123)|null|
+|**2026-04-08**|**MARVEL: Multimodal Adaptive Reasoning-intensiVe Expand-rerank and retrievaL**|Mahmoud SalahEldin Kasem et.al.|[2604.07079](http://arxiv.org/abs/2604.07079)|**[link](https://github.com/mm-bright/multimodal-reasoning-retrieval)**|
+|**2026-04-08**|**Sell More, Play Less: Benchmarking LLM Realistic Selling Skill**|Xuanbo Su (brgroup.com) et.al.|[2604.07054](http://arxiv.org/abs/2604.07054)|null|
+|**2026-04-08**|**Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation**|Philipp D. Siedler (gmail.com) et.al.|[2604.07028](http://arxiv.org/abs/2604.07028)|null|
+|**2026-04-08**|**An empirical study of LoRA-based fine-tuning of large language models for automated test case generation**|Milad Moradi (tricentis.com) et.al.|[2604.06946](http://arxiv.org/abs/2604.06946)|null|
+|**2026-04-08**|**The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathways in the LLM Era**|Rudra Jadhav (gmail.com) et.al.|[2604.06906](http://arxiv.org/abs/2604.06906)|null|
+|**2026-04-08**|**Digital Skin, Digital Bias: Uncovering Tone-Based Biases in LLMs and Emoji Embeddings**|Mingchen Li (my.unt.edu) et.al.|[2604.06863](http://arxiv.org/abs/2604.06863)|null|
+|**2026-04-08**|**To Adapt or not to Adapt, Rethinking the Value of Medical Knowledge-Aware Large Language Models**|Ane G. Domingo-Aldama et.al.|[2604.06854](http://arxiv.org/abs/2604.06854)|null|
+|**2026-04-08**|**HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues**|Yijie Zhong (tongji.edu.cn) et.al.|[2604.06845](http://arxiv.org/abs/2604.06845)|null|
+|**2026-04-08**|**Environmental, Social and Governance Sentiment Analysis on Slovene News: A Novel Dataset and Models**|Paula Dodig (student.tue.nl) et.al.|[2604.06826](http://arxiv.org/abs/2604.06826)|null|
+|**2026-04-08**|**Cognitive Loop of Thought: Reversible Hierarchical Markov Chain for Efficient Mathematical Reasoning**|Jia-Chen Zhang (sues.edu.cn) et.al.|[2604.06805](http://arxiv.org/abs/2604.06805)|null|
+|**2026-04-08**|**Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents**|Heng Zhou (gmail.com) et.al.|[2604.06753](http://arxiv.org/abs/2604.06753)|null|
+|**2026-04-08**|**Luwen Technical Report**|Yiquan Wu (zju.edu.cn) et.al.|[2604.06737](http://arxiv.org/abs/2604.06737)|null|
+|**2026-04-08**|**Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach**|Xiaoyou Qin (zju.edu.cn) et.al.|[2604.06663](http://arxiv.org/abs/2604.06663)|null|
+|**2026-04-08**|**Does a Global Perspective Help Prune Sparse MoEs Elegantly?**|Zeliang Zhang (rochester.edu) et.al.|[2604.06542](http://arxiv.org/abs/2604.06542)|null|
+|**2026-04-07**|**Distributed Interpretability and Control for Large Language Models**|Dev Arpan Desai (stevens.edu) et.al.|[2604.06483](http://arxiv.org/abs/2604.06483)|**[link](https://github.com/Devdesai1901/LogitLense)**|
+|**2026-04-07**|**DataSTORM: Deep Research on Large-Scale Databases using Exploratory Data Analysis and Data Storytelling**|Shicheng Liu (cs.stanford.edu) et.al.|[2604.06474](http://arxiv.org/abs/2604.06474)|null|
+|**2026-04-07**|**The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning**|Yi Xu (cam.ac.uk) et.al.|[2604.06427](http://arxiv.org/abs/2604.06427)|null|
+|**2026-04-07**|**When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't**|Jonathan Nemitz (utexas.edu) et.al.|[2604.06422](http://arxiv.org/abs/2604.06422)|null|
+|**2026-04-07**|**State-of-the-Art Arabic Language Modeling with Sparse MoE Fine-Tuning and Chain-of-Thought Distillation**|Navan Preet Singh (inceptlabs.ai) et.al.|[2604.06421](http://arxiv.org/abs/2604.06421)|null|
+|**2026-04-07**|**FMI@SU ToxHabits: Evaluating LLMs Performance on Toxic Habit Extraction in Spanish Clinical Texts**|Sylvia Vassileva (fmi.uni-sofia.bg) et.al.|[2604.06403](http://arxiv.org/abs/2604.06403)|null|
+|**2026-04-07**|**Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning**|Navan Preet Singh (inceptlabs.ai) et.al.|[2604.06385](http://arxiv.org/abs/2604.06385)|null|
+|**2026-04-07**|**WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks**|Guruprasad Viswanathan Ramesh (wisc.edu) et.al.|[2604.06367](http://arxiv.org/abs/2604.06367)|null|
 |**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Pranjal Aggarwal et.al.|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
 |**2026-04-07**|**Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning**|Juekai Lin (pjlab.org.cn) et.al.|[2604.06079](http://arxiv.org/abs/2604.06079)|null|
 |**2026-04-07**|**CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments**|Gustav Keppler (kit.edu) et.al.|[2604.06019](http://arxiv.org/abs/2604.06019)|**[link](https://github.com/GKeppler/CritBench)**|
