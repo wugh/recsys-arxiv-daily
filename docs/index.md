@@ -2,15 +2,26 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu (princeton.edu) et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|
+|**2026-04-09**|**Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search**|Chuzhan Hao (alibaba-inc.com) et.al.|[2604.08124](http://arxiv.org/abs/2604.08124)|null|
+|**2026-04-09**|**Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation**|Yantao Yu (alibaba-inc.com) et.al.|[2604.08011](http://arxiv.org/abs/2604.08011)|null|
+|**2026-04-09**|**Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling**|Shasvat Desai (walmart.com) et.al.|[2604.07930](http://arxiv.org/abs/2604.07930)|null|
+|**2026-04-09**|**Ensembles at Any Cost? Accuracy-Energy Trade-offs in Recommender Systems**|Jannik Nitschke (student.uni-siegen.de) et.al.|[2604.07869](http://arxiv.org/abs/2604.07869)|null|
+|**2026-04-09**|**Efficient Dataset Selection for Continual Adaptation of Generative Recommenders**|Cathy Jiao (spotify.com) et.al.|[2604.07739](http://arxiv.org/abs/2604.07739)|null|
+|**2026-04-08**|**Don't Measure Once: Measuring Visibility in AI Search (GEO)**|Julius Schulte (unisg.ch) et.al.|[2604.07585](http://arxiv.org/abs/2604.07585)|null|
+|**2026-04-08**|**HiMARS: Hybrid multi-objective algorithms for recommender systems**|Elaheh Lotfian (gmail.com) et.al.|[2604.07572](http://arxiv.org/abs/2604.07572)|null|
+|**2026-04-08**|**SYN-DIGITS: A Synthetic Control Framework for Calibrated Digital Twin Simulation**|Grace Jiarui Fan et.al.|[2604.07513](http://arxiv.org/abs/2604.07513)|null|
+|**2026-04-08**|**SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval**|Roxana Petcu (uva.nl) et.al.|[2604.07415](http://arxiv.org/abs/2604.07415)|null|
+|**2026-04-08**|**GAN-based Domain Adaptation for Image-aware Layout Generation in Advertising Poster Design**|Chenchen Xu (zju.edu.cn) et.al.|[2604.07409](http://arxiv.org/abs/2604.07409)|null|
 |**2026-04-08**|**Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation**|Muskan Gupta (tcs.com) et.al.|[2604.06928](http://arxiv.org/abs/2604.06928)|null|
-|**2026-04-07**|**The Unreasonable Effectiveness of Data for Recommender Systems**|Youssef Abdou (student.uni-siegen.de) et.al.|[2604.06420](http://arxiv.org/abs/2604.06420)|null|
+|**2026-04-09**|**The Unreasonable Effectiveness of Data for Recommender Systems**|Youssef Abdou (student.uni-siegen.de) et.al.|[2604.06420](http://arxiv.org/abs/2604.06420)|null|
 |**2026-04-07**|**Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models**|Jiayuan Liu (andrew.cmu.edu) et.al.|[2604.06263](http://arxiv.org/abs/2604.06263)|null|
 |**2026-04-02**|**What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives**|Florian Atzenhofer-Baumgartner (student.tugraz.at) et.al.|[2604.06232](http://arxiv.org/abs/2604.06232)|null|
 |**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
@@ -1334,6 +1345,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu (princeton.edu) et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|
+|**2026-04-09**|**Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search**|Chuzhan Hao (alibaba-inc.com) et.al.|[2604.08124](http://arxiv.org/abs/2604.08124)|null|
+|**2026-04-08**|**Don't Measure Once: Measuring Visibility in AI Search (GEO)**|Julius Schulte (unisg.ch) et.al.|[2604.07585](http://arxiv.org/abs/2604.07585)|null|
+|**2026-04-08**|**SYN-DIGITS: A Synthetic Control Framework for Calibrated Digital Twin Simulation**|Grace Jiarui Fan et.al.|[2604.07513](http://arxiv.org/abs/2604.07513)|null|
+|**2026-04-08**|**SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval**|Roxana Petcu (uva.nl) et.al.|[2604.07415](http://arxiv.org/abs/2604.07415)|null|
 |**2026-04-08**|**Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation**|Muskan Gupta (tcs.com) et.al.|[2604.06928](http://arxiv.org/abs/2604.06928)|null|
 |**2026-04-07**|**Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models**|Jiayuan Liu (andrew.cmu.edu) et.al.|[2604.06263](http://arxiv.org/abs/2604.06263)|null|
 |**2026-04-07**|**When Do We Need LLMs? A Diagnostic for Language-Driven Bandits**|Uljad Berdica (robots.ox.ac.uk) et.al.|[2604.05859](http://arxiv.org/abs/2604.05859)|null|
@@ -1985,6 +2001,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu (princeton.edu) et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|
+|**2026-04-09**|**KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation**|Tongbo Chen (zju.edu.cn) et.al.|[2604.08455](http://arxiv.org/abs/2604.08455)|null|
+|**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov (yandex-team.ru) et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|null|
+|**2026-04-09**|**A GAN and LLM-Driven Data Augmentation Framework for Dynamic Linguistic Pattern Modeling in Chinese Sarcasm Detection**|Wenxian Wang (scu.edu.cn) et.al.|[2604.08381](http://arxiv.org/abs/2604.08381)|null|
+|**2026-04-09**|**Don't Overthink It: Inter-Rollout Action Agreement as a Free Adaptive-Compute Signal for LLM Agents**|Khushal Sethi (stanford.edu) et.al.|[2604.08369](http://arxiv.org/abs/2604.08369)|null|
+|**2026-04-09**|**Dead Weights, Live Signals: Feedforward Graphs of Frozen Language Models**|Marcus Armstrong (cougarnet.uh.edu) et.al.|[2604.08335](http://arxiv.org/abs/2604.08335)|null|
+|**2026-04-09**|**Can Vision Language Models Judge Action Quality? An Empirical Evaluation**|Miguel Monte e Freitas (swordhealth.com) et.al.|[2604.08294](http://arxiv.org/abs/2604.08294)|null|
+|**2026-04-09**|**Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models**|Yating Wang et.al.|[2604.08284](http://arxiv.org/abs/2604.08284)|**[link](https://github.com/Pepper66/DMLE)**|
+|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
+|**2026-04-09**|**Activation Steering for Aligned Open-ended Generation without Sacrificing Coherence**|Niklas Herbster (tararesearch.org) et.al.|[2604.08169](http://arxiv.org/abs/2604.08169)|null|
+|**2026-04-09**|**Alloc-MoE: Budget-Aware Expert Activation Allocation for Efficient Mixture-of-Experts Inference**|Baihui Liu (nudt.edu.cn) et.al.|[2604.08133](http://arxiv.org/abs/2604.08133)|null|
+|**2026-04-09**|**LLM-Based Data Generation and Clinical Skills Evaluation for Low-Resource French OSCEs**|Tian Huang (loria.fr) et.al.|[2604.08126](http://arxiv.org/abs/2604.08126)|null|
+|**2026-04-09**|**Small Vision-Language Models are Smart Compressors for Long Video Understanding**|Junjie Fei (outlook.com) et.al.|[2604.08120](http://arxiv.org/abs/2604.08120)|**[link](https://FeiElysia.github.io/tempo-page/)**|
+|**2026-04-09**|**Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization**|Ian W. Kennedy (sheffield.ac.uk) et.al.|[2604.08118](http://arxiv.org/abs/2604.08118)|null|
+|**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu (mbzuai.ac.ae) et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|null|
+|**2026-04-09**|**ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models**|Chonghan Qin (connect.hku.hk) et.al.|[2604.08064](http://arxiv.org/abs/2604.08064)|null|
+|**2026-04-09**|**Efficient Provably Secure Linguistic Steganography via Range Coding**|Ruiyi Yan (nlp.ist.i.kyoto-u.ac.jp) et.al.|[2604.08052](http://arxiv.org/abs/2604.08052)|**[link](http://github.com/ryehr/RRC_steganography)**|
+|**2026-04-09**|**Rethinking Data Mixing from the Perspective of Large Language Models**|Yuanjian Xu et.al.|[2604.07963](http://arxiv.org/abs/2604.07963)|null|
+|**2026-04-09**|**On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**|Amirhossein Afsharrad (stanford.edu) et.al.|[2604.07944](http://arxiv.org/abs/2604.07944)|null|
+|**2026-04-09**|**Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration**|Nickson Patel (gmail.com) et.al.|[2604.07911](http://arxiv.org/abs/2604.07911)|null|
+|**2026-04-09**|**TSUBASA: Improving Long-Horizon Personalization via Evolving Memory and Self-Learning with Context Distillation**|Xinliang Frederick Zhang (umich.edu) et.al.|[2604.07894](http://arxiv.org/abs/2604.07894)|null|
+|**2026-04-09**|**Why Are We Lonely? Leveraging LLMs to Measure and Understand Loneliness in Caregivers and Non-caregivers**|Michelle Damin Kim (emory.edu) et.al.|[2604.07834](http://arxiv.org/abs/2604.07834)|null|
+|**2026-04-09**|**More Capable, Less Cooperative? When LLMs Fail At Zero-Cost Collaboration**|Advait Yadav (illinois.edu) et.al.|[2604.07821](http://arxiv.org/abs/2604.07821)|null|
+|**2026-04-09**|**AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention**|Yuxuan Hu (ruc.edu.cn) et.al.|[2604.07815](http://arxiv.org/abs/2604.07815)|null|
+|**2026-04-09**|**Structured Distillation of Web Agent Capabilities Enables Generalization**|Xing Han Lù (mail.mcgill.ca) et.al.|[2604.07776](http://arxiv.org/abs/2604.07776)|**[link](https://agent-as-annotators.github.io)**|
+|**2026-04-09**|**Emotion Concepts and their Function in a Large Language Model**|Nicholas Sofroniew (anthropic.com) et.al.|[2604.07729](http://arxiv.org/abs/2604.07729)|null|
+|**2026-04-09**|**Towards Knowledgeable Deep Research: Framework and Benchmark**|Wenxuan Liu (ict.ac.cn) et.al.|[2604.07720](http://arxiv.org/abs/2604.07720)|null|
+|**2026-04-09**|**Detecting HIV-Related Stigma in Clinical Narratives Using Large Language Models**|Ziyi Chen et.al.|[2604.07717](http://arxiv.org/abs/2604.07717)|null|
+|**2026-04-09**|**IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures**|David Gringras (hsph.harvard.edu) et.al.|[2604.07709](http://arxiv.org/abs/2604.07709)|**[link](https://github.com/davidgringras/iatrobench)**|
+|**2026-04-09**|**Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System**|Thang Duc Pham et.al.|[2604.07681](http://arxiv.org/abs/2604.07681)|null|
 |**2026-04-08**|**The ATOM Report: Measuring the Open Language Model Ecosystem**|Nathan Lambert et.al.|[2604.07190](http://arxiv.org/abs/2604.07190)|null|
 |**2026-04-08**|**Dynamic Context Evolution for Scalable Synthetic Data Generation**|Ryan Lingo (honda-ri.com) et.al.|[2604.07147](http://arxiv.org/abs/2604.07147)|null|
 |**2026-04-08**|**Language Bias under Conflicting Information in Multilingual LLMs**|Robert Östling (ling.su.se) et.al.|[2604.07123](http://arxiv.org/abs/2604.07123)|null|
