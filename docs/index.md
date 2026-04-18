@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation**|Lei Guo et.al.|[2604.14833](http://arxiv.org/abs/2604.14833)|null|
+|**2026-04-16**|**Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework**|Xiping Li (outlook.com) et.al.|[2604.14598](http://arxiv.org/abs/2604.14598)|**[link](https://github.com/CPGRec2024/CPGRec.git)**|
+|**2026-04-16**|**CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations**|Xiping Li (gmail.com) et.al.|[2604.14586](http://arxiv.org/abs/2604.14586)|**[link](https://github.com/HsipingLi/CPGRec-Plus)**|
+|**2026-04-16**|**NewsTorch: A PyTorch-based Toolkit for Learner-oriented News Recommendation**|Rongyao Wang (postgrad.otago.ac.nz) et.al.|[2604.14510](http://arxiv.org/abs/2604.14510)|**[link](https://github.com/whonor/NewsTorch)**|
+|**2026-04-15**|**PROXIMA: A Reliability Scoring Framework for Proxy Metrics in Online Controlled Experiments**|Avinash Amudala (g.rit.edu) et.al.|[2604.14352](http://arxiv.org/abs/2604.14352)|**[link](https://github.com/Avinash-Amudala/PROXIMA)**|
+|**2026-04-14**|**TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations**|Ashmi Banerjee (tum.de) et.al.|[2604.14223](http://arxiv.org/abs/2604.14223)|**[link](https://ashmibanerjee.github.io/trace-chatbot)**|
+|**2026-04-15**|**DUET: Joint Exploration of User Item Profiles in Recommendation System**|Yue Chen et.al.|[2604.13801](http://arxiv.org/abs/2604.13801)|null|
+|**2026-04-15**|**Driving Engagement in Daily Fantasy Sports with a Scalable and Urgency-Aware Ranking Engine**|Unmesh Padalkar (dream11.com) et.al.|[2604.13796](http://arxiv.org/abs/2604.13796)|null|
+|**2026-04-15**|**Spectral Thompson sampling**|Tomas Kocak et.al.|[2604.13739](http://arxiv.org/abs/2604.13739)|null|
+|**2026-04-15**|**Covariance-adapting algorithm for semi-bandits with application to sparse rewards**|Pierre Perrault (OUTLOOK.COM) et.al.|[2604.13738](http://arxiv.org/abs/2604.13738)|null|
+|**2026-04-15**|**TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds**|Yifeng Zhou (tencent.com) et.al.|[2604.13737](http://arxiv.org/abs/2604.13737)|null|
+|**2026-04-15**|**FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History**|Santiago Paramés-Estévez (cesga.es) et.al.|[2604.13721](http://arxiv.org/abs/2604.13721)|null|
+|**2026-04-15**|**RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation**|Tze-Kean Ng (e.ntu.edu.sg) et.al.|[2604.13665](http://arxiv.org/abs/2604.13665)|null|
 |**2026-04-14**|**Sparse Contrastive Learning for Content-Based Cold Item Recommendation**|Gregor Meehan (qmul.ac.uk) et.al.|[2604.12990](http://arxiv.org/abs/2604.12990)|null|
 |**2026-04-14**|**Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation**|Dongqi Fu (meta.com) et.al.|[2604.12965](http://arxiv.org/abs/2604.12965)|null|
 |**2026-04-14**|**Efficiency of Proportional Mechanisms in Online Auto-Bidding Advertising**|Nguyen Kim Thang et.al.|[2604.12799](http://arxiv.org/abs/2604.12799)|null|
@@ -1362,6 +1375,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation**|Lei Guo et.al.|[2604.14833](http://arxiv.org/abs/2604.14833)|null|
+|**2026-04-16**|**CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations**|Xiping Li (gmail.com) et.al.|[2604.14586](http://arxiv.org/abs/2604.14586)|**[link](https://github.com/HsipingLi/CPGRec-Plus)**|
+|**2026-04-14**|**TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations**|Ashmi Banerjee (tum.de) et.al.|[2604.14223](http://arxiv.org/abs/2604.14223)|**[link](https://ashmibanerjee.github.io/trace-chatbot)**|
+|**2026-04-15**|**DUET: Joint Exploration of User Item Profiles in Recommendation System**|Yue Chen et.al.|[2604.13801](http://arxiv.org/abs/2604.13801)|null|
 |**2026-04-13**|**LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks**|Luyi Ma (walmart.com) et.al.|[2604.12096](http://arxiv.org/abs/2604.12096)|null|
 |**2026-04-11**|**HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation**|Subham Raj (iitp.ac.in) et.al.|[2604.10048](http://arxiv.org/abs/2604.10048)|null|
 |**2026-04-11**|**Self-Distilled Reinforcement Learning for Co-Evolving Agentic Recommender Systems**|Zongwei Wang (cqu.edu.cn) et.al.|[2604.10029](http://arxiv.org/abs/2604.10029)|null|
@@ -2024,6 +2041,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking**|Lukas Helff et.al.|[2604.15149](http://arxiv.org/abs/2604.15149)|null|
+|**2026-04-16**|**COEVO: Co-Evolutionary Framework for Joint Functional Correctness and PPA Optimization in LLM-Based RTL Generation**|Heng Ping (usc.edu) et.al.|[2604.15001](http://arxiv.org/abs/2604.15001)|null|
+|**2026-04-16**|**Text2Arch: A Dataset for Generating Scientific Architecture Diagrams from Natural Language Descriptions**|Shivank Garg (mfs.iitr.ac.in) et.al.|[2604.14941](http://arxiv.org/abs/2604.14941)|null|
+|**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen (cmlab.csie.ntu.edu.tw) et.al.|[2604.14902](http://arxiv.org/abs/2604.14902)|null|
+|**2026-04-16**|**Schema Key Wording as an Instruction Channel in Structured Generation under Constrained Decoding**|Yifan Le (zju.edu.cn) et.al.|[2604.14862](http://arxiv.org/abs/2604.14862)|null|
+|**2026-04-16**|**Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization**|Zhiyuan Zhai (m.fudan.edu.cn) et.al.|[2604.14853](http://arxiv.org/abs/2604.14853)|null|
+|**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew (gmail.com) et.al.|[2604.14846](http://arxiv.org/abs/2604.14846)|**[link](https://github.com/xHaileab/Paza-AI)**|
+|**2026-04-16**|**Exploring and Testing Skill-Based Behavioral Profile Annotation: Human Operability and LLM Feasibility under Schema-Guided Execution**|Yufeng Wu et.al.|[2604.14843](http://arxiv.org/abs/2604.14843)|null|
+|**2026-04-16**|**SGA-MCTS: Decoupling Planning from Execution via Training-Free Atomic Experience Retrieval**|Xin Xie (antgroup.com) et.al.|[2604.14712](http://arxiv.org/abs/2604.14712)|null|
+|**2026-04-16**|**M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs**|Yiyu Qian (student.rmit.edu.au) et.al.|[2604.14687](http://arxiv.org/abs/2604.14687)|null|
+|**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud (saifmb.com) et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
+|**2026-04-16**|**Retrieve, Then Classify: Corpus-Grounded Automation of Clinical Value Set Authoring**|Sumit Mukherjee et.al.|[2604.14616](http://arxiv.org/abs/2604.14616)|**[link](https://github.com/mukhes3/RASC)**|
+|**2026-04-16**|**Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection**|Meng Chen (zju.edu.cn) et.al.|[2604.14604](http://arxiv.org/abs/2604.14604)|null|
+|**2026-04-16**|**Mechanistic Decoding of Cognitive Constructs in LLMs**|Yitong Shou (zju.edu.cn) et.al.|[2604.14593](http://arxiv.org/abs/2604.14593)|null|
+|**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
+|**2026-04-15**|**Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve**|Weixiang Shen et.al.|[2604.14475](http://arxiv.org/abs/2604.14475)|null|
+|**2026-04-15**|**Coalition Formation in LLM Agent Networks: Stability Analysis and Convergence Guarantees**|Dongxin Guo (connect.hku.hk) et.al.|[2604.14386](http://arxiv.org/abs/2604.14386)|null|
+|**2026-04-15**|**SatBLIP: Context Understanding and Feature Identification from Satellite Imagery with Vision-Language Learning**|Xue Wu (crimson.ua.edu) et.al.|[2604.14373](http://arxiv.org/abs/2604.14373)|null|
+|**2026-04-15**|**When PCOS Meets Eating Disorders: An Explainable AI Approach to Detecting the Hidden Triple Burden**|Apoorv Prasad (uwm.edu) et.al.|[2604.14356](http://arxiv.org/abs/2604.14356)|null|
+|**2026-04-15**|**Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation**|Zichong Li (gatech.edu) et.al.|[2604.14339](http://arxiv.org/abs/2604.14339)|null|
+|**2026-04-15**|**Mamba-SSM with LLM Reasoning for Biomarker Discovery: Causal Feature Refinement via Chain-of-Thought Gene Evaluation**|Pushpa Kumar Balan (gmail.com) et.al.|[2604.14334](http://arxiv.org/abs/2604.14334)|null|
+|**2026-04-15**|**LLM Predictive Scoring and Validation: Inferring Experience Ratings from Unstructured Text**|Jason Potteiger (dimensionlabs.io) et.al.|[2604.14321](http://arxiv.org/abs/2604.14321)|null|
+|**2026-04-15**|**ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**|Zhuofeng Li et.al.|[2604.14261](http://arxiv.org/abs/2604.14261)|**[link](https://github.com/EigenTom/ReviewGrounder)**|
+|**2026-04-15**|**LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning**|Sumeet Ramesh Motwani (cs.ox.ac.uk) et.al.|[2604.14140](http://arxiv.org/abs/2604.14140)|null|
+|**2026-04-15**|**Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection**|Ahmad Dawar Hakimi (cis.lmu.de) et.al.|[2604.13899](http://arxiv.org/abs/2604.13899)|null|
+|**2026-04-15**|**The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents**|Rafflesia Khan (gmail.com) et.al.|[2604.13759](http://arxiv.org/abs/2604.13759)|null|
+|**2026-04-15**|**An Empirical Investigation of Practical LLM-as-a-Judge Improvement Techniques on RewardBench 2**|Ryan Lail (composo.ai) et.al.|[2604.13717](http://arxiv.org/abs/2604.13717)|null|
+|**2026-04-15**|**IndicDB -- Benchmarking Multilingual Text-to-SQL Capabilities in Indian Languages**|Aviral Dawar et.al.|[2604.13686](http://arxiv.org/abs/2604.13686)|null|
+|**2026-04-15**|**Syn-TurnTurk: A Synthetic Dataset for Turn-Taking Prediction in Turkish Dialogues**|Ahmet Tuğrul Bayrak (atptech.com) et.al.|[2604.13620](http://arxiv.org/abs/2604.13620)|null|
+|**2026-04-14**|**Peer-Predictive Self-Training for Language Model Reasoning**|Shi Feng (outlook.com) et.al.|[2604.13356](http://arxiv.org/abs/2604.13356)|null|
 |**2026-04-14**|**One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness**|Erfan Baghaei Potraghloo (usc.edu) et.al.|[2604.13006](http://arxiv.org/abs/2604.13006)|null|
 |**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Amir Hossein Kargaran (cis.lmu.de) et.al.|[2604.12978](http://arxiv.org/abs/2604.12978)|**[link](https://github.com/cisnlp/glotocr-bench)**|
 |**2026-04-14**|**The Verification Tax: Fundamental Limits of AI Auditing in the Rare-Error Regime**|Jason Z Wang (gmail.com) et.al.|[2604.12951](http://arxiv.org/abs/2604.12951)|**[link](https://github.com/Jason-Wang313/verification-tax)**|
