@@ -2,20 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault (outlook.com) et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
+|**2026-04-21**|**From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems**|Quang-Huy Nguyen (vnu.edu.vn) et.al.|[2604.19663](http://arxiv.org/abs/2604.19663)|**[link](https://github.com/L2R-UET/CFExpRec)**|
+|**2026-04-21**|**CS3: Efficient Online Capability Synergy for Two-Tower Recommendation**|Lixiang Wang (kuaishou.com) et.al.|[2604.19269](http://arxiv.org/abs/2604.19269)|null|
+|**2026-04-21**|**Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility**|Zikang Liu (nuist.edu.cn) et.al.|[2604.19113](http://arxiv.org/abs/2604.19113)|null|
 |**2026-04-20**|**A multimodal and temporal foundation model for virtual patient representations at healthcare system scale**|Andrew Zhang et.al.|[2604.18570](http://arxiv.org/abs/2604.18570)|null|
 |**2026-04-20**|**Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems**|Runhao Jiang (comp.hkbu.edu.hk) et.al.|[2604.18351](http://arxiv.org/abs/2604.18351)|null|
 |**2026-04-20**|**Negative Advantage Is a Double-Edged Sword: Calibrating Advantage in GRPO for Deep Search**|Jiayi Wu (stu.ecnu.edu.cn) et.al.|[2604.18235](http://arxiv.org/abs/2604.18235)|**[link](https://github.com/wujwyi/CalibAdv)**|
 |**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen (cqu.edu.cn) et.al.|[2604.18200](http://arxiv.org/abs/2604.18200)|**[link](https://github.com/ccwwhhh/MLTFR)**|
 |**2026-04-20**|**Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs**|Ziyang Liu (outlook.com) et.al.|[2604.18179](http://arxiv.org/abs/2604.18179)|null|
-|**2026-04-20**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi (sjtu.edu.cn) et.al.|[2604.18146](http://arxiv.org/abs/2604.18146)|null|
-|**2026-04-20**|**RankUp: Towards High-rank Representations for Large Scale Advertising Recommender Systems**|Jin Chen (tencent.com) et.al.|[2604.17878](http://arxiv.org/abs/2604.17878)|null|
+|**2026-04-21**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi (sjtu.edu.cn) et.al.|[2604.18146](http://arxiv.org/abs/2604.18146)|null|
+|**2026-04-21**|**RankUp: Towards High-rank Representations for Large Scale Advertising Recommender Systems**|Jin Chen (tencent.com) et.al.|[2604.17878](http://arxiv.org/abs/2604.17878)|null|
 |**2026-04-20**|**FedCRF: A Federated Cross-domain Recommendation Method with Semantic-driven Deep Knowledge Fusion**|Lei Guo (gmail.com) et.al.|[2604.17681](http://arxiv.org/abs/2604.17681)|null|
 |**2026-04-19**|**Matlas: A Semantic Search Engine for Mathematics**|Haocheng Ju (math.pku.edu.cn) et.al.|[2604.17484](http://arxiv.org/abs/2604.17484)|null|
 |**2026-04-19**|**Transparent and Controllable Recommendation Filtering via Multimodal Multi-Agent Collaboration**|Chi Zhang (m.fudan.edu.cn) et.al.|[2604.17459](http://arxiv.org/abs/2604.17459)|null|
@@ -1391,9 +1395,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility**|Zikang Liu (nuist.edu.cn) et.al.|[2604.19113](http://arxiv.org/abs/2604.19113)|null|
 |**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen (cqu.edu.cn) et.al.|[2604.18200](http://arxiv.org/abs/2604.18200)|**[link](https://github.com/ccwwhhh/MLTFR)**|
 |**2026-04-20**|**Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs**|Ziyang Liu (outlook.com) et.al.|[2604.18179](http://arxiv.org/abs/2604.18179)|null|
-|**2026-04-20**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi (sjtu.edu.cn) et.al.|[2604.18146](http://arxiv.org/abs/2604.18146)|null|
+|**2026-04-21**|**Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations**|Yunjia Xi (sjtu.edu.cn) et.al.|[2604.18146](http://arxiv.org/abs/2604.18146)|null|
 |**2026-04-19**|**Transparent and Controllable Recommendation Filtering via Multimodal Multi-Agent Collaboration**|Chi Zhang (m.fudan.edu.cn) et.al.|[2604.17459](http://arxiv.org/abs/2604.17459)|null|
 |**2026-04-19**|**HopRank: Self-Supervised LLM Preference-Tuning on Graphs for Few-Shot Node Classification**|Ziqing Wang (u.northwestern.edu) et.al.|[2604.17271](http://arxiv.org/abs/2604.17271)|null|
 |**2026-04-16**|**GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology**|Shivendra Agrawal (colorado.edu) et.al.|[2604.15495](http://arxiv.org/abs/2604.15495)|null|
@@ -2063,8 +2068,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-20**|**Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs**|Kevin Murphy (cs.ubc.ca) et.al.|[2604.18576](http://arxiv.org/abs/2604.18576)|null|
-|**2026-04-20**|**Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion**|Terry Leitch (buffalo.edu) et.al.|[2604.18566](http://arxiv.org/abs/2604.18566)|null|
+|**2026-04-21**|**The signal is the ceiling: Measurement limits of LLM-predicted experience ratings from open-ended survey text**|Andrew Hong (dimensionlabs.io) et.al.|[2604.19645](http://arxiv.org/abs/2604.19645)|null|
+|**2026-04-21**|**SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models**|Josue Torres-Fonseca (umich.edu) et.al.|[2604.19638](http://arxiv.org/abs/2604.19638)|**[link](https://github.com/sled-group/SafetyALFRED.git)**|
+|**2026-04-21**|**Time Series Augmented Generation for Financial Applications**|Anton Kolonin (gmail.com) et.al.|[2604.19633](http://arxiv.org/abs/2604.19633)|null|
+|**2026-04-21**|**Cross-Model Consistency of AI-Generated Exercise Prescriptions: A Repeated Generation Study Across Three Large Language Models**|Kihyuk Lee (naver.com) et.al.|[2604.19598](http://arxiv.org/abs/2604.19598)|null|
+|**2026-04-21**|**Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps**|Jonas Waldendorf (ed.ac.uk) et.al.|[2604.19565](http://arxiv.org/abs/2604.19565)|null|
+|**2026-04-21**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona (simbian.ai) et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
+|**2026-04-21**|**LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues**|Fanyu Wang (monash.edu) et.al.|[2604.19464](http://arxiv.org/abs/2604.19464)|null|
+|**2026-04-21**|**Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning**|Kyuhee Kim (epfl.ch) et.al.|[2604.19459](http://arxiv.org/abs/2604.19459)|**[link](https://github.com/koreankiwi99/formalization-gaming)**|
+|**2026-04-21**|**HP-Edit: A Human-Preference Post-Training Framework for Image Editing**|Fan Li et.al.|[2604.19406](http://arxiv.org/abs/2604.19406)|null|
+|**2026-04-21**|**GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models**|Ziyang Wang (bitzh.edu.cn) et.al.|[2604.19398](http://arxiv.org/abs/2604.19398)|null|
+|**2026-04-21**|**Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?**|Niclas Doll (iais.fraunhofer.de) et.al.|[2604.19394](http://arxiv.org/abs/2604.19394)|null|
+|**2026-04-21**|**Are Large Language Models Economically Viable for Industry Deployment?**|Abdullah Mohammad (stanford.edu) et.al.|[2604.19342](http://arxiv.org/abs/2604.19342)|null|
+|**2026-04-21**|**Evaluation-driven Scaling for Scientific Discovery**|Haotian Ye et.al.|[2604.19341](http://arxiv.org/abs/2604.19341)|null|
+|**2026-04-21**|**IndiaFinBench: An Evaluation Benchmark for Large Language Model Performance on Indian Financial Regulatory Text**|Rajveer Singh Pall (ggits.net) et.al.|[2604.19298](http://arxiv.org/abs/2604.19298)|**[link](https://github.com/rajveerpall/IndiaFinBench)**|
+|**2026-04-21**|**UAF: A Unified Audio Front-end LLM for Full-Duplex Speech Interaction**|Yadong Li (alibaba-inc.com) et.al.|[2604.19221](http://arxiv.org/abs/2604.19221)|null|
+|**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu (tuta.io) et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)|null|
+|**2026-04-21**|**AlignCultura: Towards Culturally Aligned Large Language Models?**|Gautam Siddharth Kashyap (hdr.mq.edu.au) et.al.|[2604.19016](http://arxiv.org/abs/2604.19016)|null|
+|**2026-04-21**|**SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution**|Xiachong Feng (hku.hk) et.al.|[2604.18982](http://arxiv.org/abs/2604.18982)|null|
+|**2026-04-21**|**Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest**|Ramtin Davoudi (usu.edu) et.al.|[2604.18955](http://arxiv.org/abs/2604.18955)|null|
+|**2026-04-20**|**Harmful Intent as a Geometrically Recoverable Feature of LLM Residual Streams**|Isaac Llorente-Saguer et.al.|[2604.18901](http://arxiv.org/abs/2604.18901)|**[link](https://github.com/isaac-6/harm-directions)**|
+|**2026-04-20**|**Less Is More: Cognitive Load and the Single-Prompt Ceiling in LLM Mathematical Reasoning**|Manuel Israel Cazares (bytepro.ai) et.al.|[2604.18897](http://arxiv.org/abs/2604.18897)|**[link](https://github.com/israelcazares/sair-prompt-engineering)**|
+|**2026-04-20**|**LegalBench-BR: A Benchmark for Evaluating Large Language Models on Brazilian Legal Decision Classification**|Pedro Barbosa de Carvalho Neto et.al.|[2604.18878](http://arxiv.org/abs/2604.18878)|null|
+|**2026-04-20**|**LLM-as-Judge Framework for Evaluating Tone-Induced Hallucination in Vision-Language Models**|Zhiyuan Jiang (kean.edu) et.al.|[2604.18803](http://arxiv.org/abs/2604.18803)|null|
+|**2026-04-20**|**Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs**|Afsara Benazir (virginia.edu) et.al.|[2604.18788](http://arxiv.org/abs/2604.18788)|null|
+|**2026-04-20**|**Towards Understanding the Robustness of Sparse Autoencoders**|Ahson Saiyed et.al.|[2604.18756](http://arxiv.org/abs/2604.18756)|null|
+|**2026-04-21**|**Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs**|Kevin Murphy (cs.ubc.ca) et.al.|[2604.18576](http://arxiv.org/abs/2604.18576)|null|
+|**2026-04-21**|**Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion**|Terry Leitch (buffalo.edu) et.al.|[2604.18566](http://arxiv.org/abs/2604.18566)|null|
 |**2026-04-20**|**GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling**|Alireza Dadgarnia (gmail.com) et.al.|[2604.18556](http://arxiv.org/abs/2604.18556)|null|
 |**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi (ksu.edu.sa) et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
 |**2026-04-20**|**Six Llamas: Comparative Religious Ethics Through LoRA-Adapted Language Models**|Chad Coleman et.al.|[2604.18404](http://arxiv.org/abs/2604.18404)|null|
