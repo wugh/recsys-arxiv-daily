@@ -2,18 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511](http://arxiv.org/abs/2604.20511)|null|
+|**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu (m.fudan.edu.cn) et.al.|[2604.20065](http://arxiv.org/abs/2604.20065)|null|
 |**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault (outlook.com) et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
 |**2026-04-21**|**From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems**|Quang-Huy Nguyen (vnu.edu.vn) et.al.|[2604.19663](http://arxiv.org/abs/2604.19663)|**[link](https://github.com/L2R-UET/CFExpRec)**|
 |**2026-04-21**|**CS3: Efficient Online Capability Synergy for Two-Tower Recommendation**|Lixiang Wang (kuaishou.com) et.al.|[2604.19269](http://arxiv.org/abs/2604.19269)|null|
 |**2026-04-21**|**Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility**|Zikang Liu (nuist.edu.cn) et.al.|[2604.19113](http://arxiv.org/abs/2604.19113)|null|
-|**2026-04-20**|**A multimodal and temporal foundation model for virtual patient representations at healthcare system scale**|Andrew Zhang et.al.|[2604.18570](http://arxiv.org/abs/2604.18570)|null|
+|**2026-04-21**|**A multimodal and temporal foundation model for virtual patient representations at healthcare system scale**|Andrew Zhang (bwh.harvard.edu) et.al.|[2604.18570](http://arxiv.org/abs/2604.18570)|null|
 |**2026-04-20**|**Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems**|Runhao Jiang (comp.hkbu.edu.hk) et.al.|[2604.18351](http://arxiv.org/abs/2604.18351)|null|
 |**2026-04-20**|**Negative Advantage Is a Double-Edged Sword: Calibrating Advantage in GRPO for Deep Search**|Jiayi Wu (stu.ecnu.edu.cn) et.al.|[2604.18235](http://arxiv.org/abs/2604.18235)|**[link](https://github.com/wujwyi/CalibAdv)**|
 |**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen (cqu.edu.cn) et.al.|[2604.18200](http://arxiv.org/abs/2604.18200)|**[link](https://github.com/ccwwhhh/MLTFR)**|
@@ -1395,6 +1397,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511](http://arxiv.org/abs/2604.20511)|null|
+|**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu (m.fudan.edu.cn) et.al.|[2604.20065](http://arxiv.org/abs/2604.20065)|null|
 |**2026-04-21**|**Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility**|Zikang Liu (nuist.edu.cn) et.al.|[2604.19113](http://arxiv.org/abs/2604.19113)|null|
 |**2026-04-20**|**Multi-LLM Token Filtering and Routing for Sequential Recommendation**|Wuhan Chen (cqu.edu.cn) et.al.|[2604.18200](http://arxiv.org/abs/2604.18200)|**[link](https://github.com/ccwwhhh/MLTFR)**|
 |**2026-04-20**|**Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs**|Ziyang Liu (outlook.com) et.al.|[2604.18179](http://arxiv.org/abs/2604.18179)|null|
@@ -2068,12 +2072,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
+|**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen (ir.hit.edu.cn) et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
+|**2026-04-22**|**Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**|Mariano Barone (unina.it) et.al.|[2604.20791](http://arxiv.org/abs/2604.20791)|null|
+|**2026-04-22**|**RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering**|Marisa Hudspeth (cs.umass.edu) et.al.|[2604.20738](http://arxiv.org/abs/2604.20738)|**[link](https://github.com/slanglab/RespondeoQA)**|
+|**2026-04-22**|**Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization**|Mohamed Hesham Elganayni (tum.de) et.al.|[2604.20726](http://arxiv.org/abs/2604.20726)|**[link](https://github.com/TUMLegalTech/icail2026-llm-judge-gaming)**|
+|**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn (berkeley.edu) et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
+|**2026-04-22**|**Early-Stage Product Line Validation Using LLMs: A Study on Semi-Formal Blueprint Analysis**|Viet-Man Le (tugraz.at) et.al.|[2604.20523](http://arxiv.org/abs/2604.20523)|null|
+|**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav (smu.edu.sg) et.al.|[2604.20443](http://arxiv.org/abs/2604.20443)|**[link](https://github.com/Stealth-py/DialToM)**|
+|**2026-04-22**|**WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning**|Juyong Jiang (alibaba-inc.com) et.al.|[2604.20398](http://arxiv.org/abs/2604.20398)|null|
+|**2026-04-22**|**Duluth at SemEval-2026 Task 6: DeBERTa with LLM-Augmented Data for Unmasking Political Question Evasions**|Shujauddin Syed (d.umn.edu) et.al.|[2604.20168](http://arxiv.org/abs/2604.20168)|null|
+|**2026-04-22**|**Meta-Tool: Efficient Few-Shot Tool Adaptation for Small Language Models**|Sachin Kumar (live.com) et.al.|[2604.20148](http://arxiv.org/abs/2604.20148)|null|
+|**2026-04-22**|**HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs**|Darsh Kachroo (vitstudent.ac.in) et.al.|[2604.20140](http://arxiv.org/abs/2604.20140)|null|
+|**2026-04-22**|**Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework**|Chenyuan Zhang (hit.edu.cn) et.al.|[2604.20090](http://arxiv.org/abs/2604.20090)|null|
+|**2026-04-21**|**Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text**|Chengyu Huang (cornell.edu) et.al.|[2604.20051](http://arxiv.org/abs/2604.20051)|null|
+|**2026-04-21**|**Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders**|Het Patel (ucr.edu) et.al.|[2604.19974](http://arxiv.org/abs/2604.19974)|null|
+|**2026-04-21**|**Infection-Reasoner: A Compact Vision-Language Model for Wound Infection Classification with Evidence-Grounded Clinical Reasoning**|Palawat Busaranuvong (wpi.edu) et.al.|[2604.19937](http://arxiv.org/abs/2604.19937)|null|
+|**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs (googlemail.com) et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|**[link](https://github.com/ServiceNow/Fast-LLM)**|
 |**2026-04-21**|**The signal is the ceiling: Measurement limits of LLM-predicted experience ratings from open-ended survey text**|Andrew Hong (dimensionlabs.io) et.al.|[2604.19645](http://arxiv.org/abs/2604.19645)|null|
 |**2026-04-21**|**SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models**|Josue Torres-Fonseca (umich.edu) et.al.|[2604.19638](http://arxiv.org/abs/2604.19638)|**[link](https://github.com/sled-group/SafetyALFRED.git)**|
 |**2026-04-21**|**Time Series Augmented Generation for Financial Applications**|Anton Kolonin (gmail.com) et.al.|[2604.19633](http://arxiv.org/abs/2604.19633)|null|
 |**2026-04-21**|**Cross-Model Consistency of AI-Generated Exercise Prescriptions: A Repeated Generation Study Across Three Large Language Models**|Kihyuk Lee (naver.com) et.al.|[2604.19598](http://arxiv.org/abs/2604.19598)|null|
 |**2026-04-21**|**Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps**|Jonas Waldendorf (ed.ac.uk) et.al.|[2604.19565](http://arxiv.org/abs/2604.19565)|null|
-|**2026-04-21**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona (simbian.ai) et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
+|**2026-04-22**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona (simbian.ai) et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
 |**2026-04-21**|**LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues**|Fanyu Wang (monash.edu) et.al.|[2604.19464](http://arxiv.org/abs/2604.19464)|null|
 |**2026-04-21**|**Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning**|Kyuhee Kim (epfl.ch) et.al.|[2604.19459](http://arxiv.org/abs/2604.19459)|**[link](https://github.com/koreankiwi99/formalization-gaming)**|
 |**2026-04-21**|**HP-Edit: A Human-Preference Post-Training Framework for Image Editing**|Fan Li et.al.|[2604.19406](http://arxiv.org/abs/2604.19406)|null|
