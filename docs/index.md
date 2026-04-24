@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem**|Anas Buhayh (colorado.edu) et.al.|[2604.21750](http://arxiv.org/abs/2604.21750)|null|
+|**2026-04-23**|**Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion**|Xin Song (bupt.cn) et.al.|[2604.21675](http://arxiv.org/abs/2604.21675)|null|
+|**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin (gmail.com) et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
+|**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li (my.cityu.edu.hk) et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
+|**2026-04-23**|**A single algorithm for both restless and rested rotting bandits**|Julien Seznec et.al.|[2604.21432](http://arxiv.org/abs/2604.21432)|null|
+|**2026-04-22**|**Behavioral Consistency and Transparency Analysis on Large Language Model API Gateways**|Guanjie Lin (umb.edu) et.al.|[2604.21083](http://arxiv.org/abs/2604.21083)|null|
 |**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511](http://arxiv.org/abs/2604.20511)|null|
 |**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu (m.fudan.edu.cn) et.al.|[2604.20065](http://arxiv.org/abs/2604.20065)|null|
 |**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault (outlook.com) et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
@@ -1397,6 +1403,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin (gmail.com) et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
+|**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li (my.cityu.edu.hk) et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
+|**2026-04-22**|**Behavioral Consistency and Transparency Analysis on Large Language Model API Gateways**|Guanjie Lin (umb.edu) et.al.|[2604.21083](http://arxiv.org/abs/2604.21083)|null|
 |**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511](http://arxiv.org/abs/2604.20511)|null|
 |**2026-04-22**|**From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents**|Jiahao Liu (m.fudan.edu.cn) et.al.|[2604.20065](http://arxiv.org/abs/2604.20065)|null|
 |**2026-04-21**|**Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility**|Zikang Liu (nuist.edu.cn) et.al.|[2604.19113](http://arxiv.org/abs/2604.19113)|null|
@@ -2072,11 +2081,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan (ntu.edu.sg) et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan (gmail.com) et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
+|**2026-04-23**|**Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers**|Jiali Wei (stu.xjtu.edu.cn) et.al.|[2604.21700](http://arxiv.org/abs/2604.21700)|null|
+|**2026-04-23**|**Evaluating Post-hoc Explanations of the Transformer-based Genome Language Model DNABERT-2**|Isabel Kurth (student.hpi.de) et.al.|[2604.21690](http://arxiv.org/abs/2604.21690)|null|
+|**2026-04-23**|**Process Supervision via Verbal Critique Improves Reasoning in Large Language Models**|Hao-Yuan Chen (student.london.ac.uk) et.al.|[2604.21611](http://arxiv.org/abs/2604.21611)|null|
+|**2026-04-23**|**A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair**|Milan De Koning (jetbrains.com) et.al.|[2604.21579](http://arxiv.org/abs/2604.21579)|null|
+|**2026-04-23**|**Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies**|Chris Schneider et.al.|[2604.21571](http://arxiv.org/abs/2604.21571)|null|
+|**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li (my.cityu.edu.hk) et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
+|**2026-04-23**|**OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving**|Xinyu Zhang (stu.xjtu.edu.cn) et.al.|[2604.21510](http://arxiv.org/abs/2604.21510)|null|
+|**2026-04-23**|**VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought**|Byeonggeuk Lim (cau.ac.kr) et.al.|[2604.21396](http://arxiv.org/abs/2604.21396)|null|
+|**2026-04-23**|**VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation**|Qijun Han et.al.|[2604.21375](http://arxiv.org/abs/2604.21375)|null|
+|**2026-04-23**|**Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection**|Zhaohui Geoffrey Wang (usc.edu) et.al.|[2604.21282](http://arxiv.org/abs/2604.21282)|null|
+|**2026-04-23**|**When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**|Chenghao Yang (mail.ustc.edu.cn) et.al.|[2604.21255](http://arxiv.org/abs/2604.21255)|**[link](https://github.com/Syuchin/AgentEcho)**|
+|**2026-04-23**|**EngramaBench: Evaluating Long-Term Conversational Memory with Structured Graph Retrieval**|Julian Acuna (gmail.com) et.al.|[2604.21229](http://arxiv.org/abs/2604.21229)|null|
+|**2026-04-23**|**ARFBench: Benchmarking Time Series Question Answering Ability for Software Incident Response**|Stephan Xie (datadoghq.com) et.al.|[2604.21199](http://arxiv.org/abs/2604.21199)|null|
+|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq (uw.edu) et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)|null|
+|**2026-04-22**|**Enhancing Science Classroom Discourse Analysis through Joint Multi-Task Learning for Reasoning-Component Classification**|Jiho Noh (kennesaw.edu) et.al.|[2604.21137](http://arxiv.org/abs/2604.21137)|null|
+|**2026-04-22**|**Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms**|Ari Azarafrooz (intrinsec.ai) et.al.|[2604.21131](http://arxiv.org/abs/2604.21131)|null|
+|**2026-04-22**|**Leveraging Multimodal LLMs for Built Environment and Housing Attribute Assessment from Street-View Imagery**|Siyuan Yao (nd.edu) et.al.|[2604.21102](http://arxiv.org/abs/2604.21102)|null|
+|**2026-04-22**|**Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences**|Neehal Tumma (mit.edu) et.al.|[2604.21100](http://arxiv.org/abs/2604.21100)|null|
+|**2026-04-22**|**Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation**|Sanjoy Pator (gmail.com) et.al.|[2604.21076](http://arxiv.org/abs/2604.21076)|null|
+|**2026-04-22**|**DWTSumm: Discrete Wavelet Transform for Document Summarization**|Rana Salama et.al.|[2604.21070](http://arxiv.org/abs/2604.21070)|null|
+|**2026-04-22**|**InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language**|Nicklas Neu (scch.at) et.al.|[2604.21061](http://arxiv.org/abs/2604.21061)|null|
+|**2026-04-22**|**AFRILANGTUTOR: Advancing Language Tutoring and Culture Education in Low-Resource Languages with Large Language Models**|Tadesse Destaw Belay et.al.|[2604.20996](http://arxiv.org/abs/2604.20996)|null|
+|**2026-04-22**|**Breaking Bad: Interpretability-Based Safety Audits of State-of-the-Art LLMs**|Krishiv Agarwal (ufl.edu) et.al.|[2604.20945](http://arxiv.org/abs/2604.20945)|null|
+|**2026-04-23**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
 |**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen (ir.hit.edu.cn) et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
 |**2026-04-22**|**Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**|Mariano Barone (unina.it) et.al.|[2604.20791](http://arxiv.org/abs/2604.20791)|null|
 |**2026-04-22**|**RespondeoQA: a Benchmark for Bilingual Latin-English Question Answering**|Marisa Hudspeth (cs.umass.edu) et.al.|[2604.20738](http://arxiv.org/abs/2604.20738)|**[link](https://github.com/slanglab/RespondeoQA)**|
-|**2026-04-22**|**Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization**|Mohamed Hesham Elganayni (tum.de) et.al.|[2604.20726](http://arxiv.org/abs/2604.20726)|**[link](https://github.com/TUMLegalTech/icail2026-llm-judge-gaming)**|
+|**2026-04-23**|**Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization**|Mohamed Hesham Elganayni (tum.de) et.al.|[2604.20726](http://arxiv.org/abs/2604.20726)|null|
 |**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn (berkeley.edu) et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
 |**2026-04-22**|**Early-Stage Product Line Validation Using LLMs: A Study on Semi-Formal Blueprint Analysis**|Viet-Man Le (tugraz.at) et.al.|[2604.20523](http://arxiv.org/abs/2604.20523)|null|
 |**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav (smu.edu.sg) et.al.|[2604.20443](http://arxiv.org/abs/2604.20443)|**[link](https://github.com/Stealth-py/DialToM)**|
