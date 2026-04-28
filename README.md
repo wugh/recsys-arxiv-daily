@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Rethinking Semantic Collaborative Integration: Why Alignment Is Not Enough**|Maolin Wang (foxmail.com) et.al.|[2604.22195](http://arxiv.org/abs/2604.22195)|null|
+|**2026-04-24**|**Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems**|Junsong Xie (gmail.com) et.al.|[2604.22170](http://arxiv.org/abs/2604.22170)|null|
+|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi (ontariotechu.net) et.al.|[2604.22085](http://arxiv.org/abs/2604.22085)|null|
 |**2026-04-23**|**Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem**|Anas Buhayh (colorado.edu) et.al.|[2604.21750](http://arxiv.org/abs/2604.21750)|null|
 |**2026-04-23**|**Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion**|Xin Song (bupt.cn) et.al.|[2604.21675](http://arxiv.org/abs/2604.21675)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin (gmail.com) et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
@@ -1404,12 +1407,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Rethinking Semantic Collaborative Integration: Why Alignment Is Not Enough**|Maolin Wang (foxmail.com) et.al.|[2604.22195](http://arxiv.org/abs/2604.22195)|null|
+|**2026-04-23**|**Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents**|Seyed Moein Abtahi (ontariotechu.net) et.al.|[2604.22085](http://arxiv.org/abs/2604.22085)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin (gmail.com) et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
 |**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li (my.cityu.edu.hk) et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
 |**2026-04-22**|**Behavioral Consistency and Transparency Analysis on Large Language Model API Gateways**|Guanjie Lin (umb.edu) et.al.|[2604.21083](http://arxiv.org/abs/2604.21083)|null|
@@ -2084,12 +2089,22 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai (umich.edu) et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube**|Sheza Munir et.al.|[2604.22606](http://arxiv.org/abs/2604.22606)|null|
+|**2026-04-24**|**From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification**|Md Erfan (crimson.ua.edu) et.al.|[2604.22601](http://arxiv.org/abs/2604.22601)|null|
+|**2026-04-24**|**Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets**|Harshit Joshi (cs.stanford.edu) et.al.|[2604.22294](http://arxiv.org/abs/2604.22294)|null|
+|**2026-04-24**|**When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention**|Aofan Liu et.al.|[2604.22273](http://arxiv.org/abs/2604.22273)|null|
+|**2026-04-24**|**How LLMs Detect and Correct Their Own Errors: The Role of Internal Confidence Signals**|Dharshan Kumaran (google.com) et.al.|[2604.22271](http://arxiv.org/abs/2604.22271)|null|
+|**2026-04-24**|**When AI Speaks, Whose Values Does It Express? A Cross-Cultural Audit of Individualism-Collectivism Bias in Large Language Models**|Pruthvinath Jeripity Venkata (gmail.com) et.al.|[2604.22153](http://arxiv.org/abs/2604.22153)|**[link](https://github.com/pruthvinathJV/ai-values-misalignment-study)**|
+|**2026-04-23**|**Ethics Testing: Proactive Identification of Generative AI System Harms**|Shin Hwei Tan (concordia.ca) et.al.|[2604.22089](http://arxiv.org/abs/2604.22089)|null|
+|**2026-04-23**|**Reliability Auditing for Downstream LLM tasks in Psychiatry: LLM-Generated Hospitalization Risk Scores**|Shevya Pandya et.al.|[2604.22063](http://arxiv.org/abs/2604.22063)|null|
+|**2026-04-23**|**When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation**|Anamta Khan et.al.|[2604.22002](http://arxiv.org/abs/2604.22002)|null|
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan (ntu.edu.sg) et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
 |**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan (gmail.com) et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
 |**2026-04-23**|**Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers**|Jiali Wei (stu.xjtu.edu.cn) et.al.|[2604.21700](http://arxiv.org/abs/2604.21700)|null|
@@ -2100,7 +2115,7 @@
 |**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li (my.cityu.edu.hk) et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
 |**2026-04-23**|**OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving**|Xinyu Zhang (stu.xjtu.edu.cn) et.al.|[2604.21510](http://arxiv.org/abs/2604.21510)|null|
 |**2026-04-23**|**VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought**|Byeonggeuk Lim (cau.ac.kr) et.al.|[2604.21396](http://arxiv.org/abs/2604.21396)|null|
-|**2026-04-23**|**VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation**|Qijun Han et.al.|[2604.21375](http://arxiv.org/abs/2604.21375)|null|
+|**2026-04-24**|**VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation**|Qijun Han et.al.|[2604.21375](http://arxiv.org/abs/2604.21375)|null|
 |**2026-04-23**|**Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection**|Zhaohui Geoffrey Wang (usc.edu) et.al.|[2604.21282](http://arxiv.org/abs/2604.21282)|null|
 |**2026-04-23**|**When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**|Chenghao Yang (mail.ustc.edu.cn) et.al.|[2604.21255](http://arxiv.org/abs/2604.21255)|**[link](https://github.com/Syuchin/AgentEcho)**|
 |**2026-04-23**|**EngramaBench: Evaluating Long-Term Conversational Memory with Structured Graph Retrieval**|Julian Acuna (gmail.com) et.al.|[2604.21229](http://arxiv.org/abs/2604.21229)|null|
@@ -5685,7 +5700,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
