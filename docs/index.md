@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling**|Tianbao Ma (kuaishou.com) et.al.|[2604.25839](http://arxiv.org/abs/2604.25839)|null|
+|**2026-04-28**|**Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation**|Yu Liu (gmail.com) et.al.|[2604.25787](http://arxiv.org/abs/2604.25787)|null|
+|**2026-04-28**|**From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms**|Zhang Kai et.al.|[2604.25707](http://arxiv.org/abs/2604.25707)|**[link](https://github.com/yaojingang/geo-citation-lab)**|
+|**2026-04-28**|**From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space**|Pengyue Jia (cityu.edu.hk) et.al.|[2604.25291](http://arxiv.org/abs/2604.25291)|null|
+|**2026-04-27**|**Offline Evaluation Measures of Fairness in Recommender Systems**|Theresia Veronika Rampisela et.al.|[2604.25032](http://arxiv.org/abs/2604.25032)|null|
+|**2026-04-27**|**Co-Director: Agentic Generative Video Storytelling**|Yale Song (google.com) et.al.|[2604.24842](http://arxiv.org/abs/2604.24842)|**[link](https://co-director-agent.github.io/)**|
+|**2026-04-27**|**Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale**|Liang Guo (meta.com) et.al.|[2604.24806](http://arxiv.org/abs/2604.24806)|null|
 |**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|null|
 |**2026-04-26**|**Similar Users-Augmented Interest Network**|Xiaolong Chen (mail.ustc.edu.cn) et.al.|[2604.23810](http://arxiv.org/abs/2604.23810)|null|
 |**2026-04-26**|**S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA**|Minghan Li (suda.edu.cn) et.al.|[2604.23783](http://arxiv.org/abs/2604.23783)|null|
@@ -2099,6 +2106,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring**|Hector G. Rodriguez et.al.|[2604.25855](http://arxiv.org/abs/2604.25855)|null|
+|**2026-04-28**|**CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation**|Wei-Chun Chen (nycu.edu.tw) et.al.|[2604.25774](http://arxiv.org/abs/2604.25774)|null|
+|**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova (gmail.com) et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|
+|**2026-04-28**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
+|**2026-04-28**|**Emotive Architectures: The Role of LLMs in Adjusting Work Environments**|Lara Vartziotis et.al.|[2604.25601](http://arxiv.org/abs/2604.25601)|null|
+|**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du (acm.org) et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
+|**2026-04-28**|**SciEval: A Benchmark for Automatic Evaluation of K-12 Science Instructional Materials**|Zhaohui Li (buffalo.edu) et.al.|[2604.25472](http://arxiv.org/abs/2604.25472)|null|
+|**2026-04-28**|**An Investigation of Linguistic Biases in LLM-Based Recommendations**|Nitin Venkateswaran (ufl.edu) et.al.|[2604.25456](http://arxiv.org/abs/2604.25456)|null|
+|**2026-04-28**|**Below-Chance Blindness: Prompted Underperformance in Small LLMs Produces Positional Bias Rather than Answer Avoidance**|Jon-Paul Cacioli et.al.|[2604.25249](http://arxiv.org/abs/2604.25249)|null|
+|**2026-04-28**|**From Insight to Action: A Novel Framework for Interpretability-Guided Data Selection in Large Language Models**|Ling Shi (tju.edu.cn) et.al.|[2604.25167](http://arxiv.org/abs/2604.25167)|null|
+|**2026-04-28**|**Semantic Layers for Reliable LLM-Powered Data Analytics: A Paired Benchmark of Accuracy and Hallucination Across Three Frontier Models**|Michael Rumiantsau (cube.dev) et.al.|[2604.25149](http://arxiv.org/abs/2604.25149)|null|
+|**2026-04-27**|**Faithful Autoformalization via Roundtrip Verification and Repair**|Daneshvar Amrollahi (cs.stanford.edu) et.al.|[2604.25031](http://arxiv.org/abs/2604.25031)|null|
+|**2026-04-27**|**Why Search When You Can Transfer? Amortized Agentic Workflow Design from Structural Priors**|Shiyi Du (andrew.cmu.edu) et.al.|[2604.25012](http://arxiv.org/abs/2604.25012)|null|
+|**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|**[link](https://github.com/ishan1410/PolyKV)**|
+|**2026-04-27**|**Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model**|Maixent Chenebaux et.al.|[2604.24809](http://arxiv.org/abs/2604.24809)|null|
 |**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi (amd.com) et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
 |**2026-04-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli (uni.lu) et.al.|[2604.24703](http://arxiv.org/abs/2604.24703)|null|
 |**2026-04-27**|**Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study**|Sivajeet Chand (tum.de) et.al.|[2604.24678](http://arxiv.org/abs/2604.24678)|null|
