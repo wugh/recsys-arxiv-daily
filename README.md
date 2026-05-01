@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
+|**2026-04-29**|**The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems**|Pedro R. Pires (acm.org) et.al.|[2604.26651](http://arxiv.org/abs/2604.26651)|**[link](https://github.com/UFSCar-LaSID/bandits_blind_spot)**|
+|**2026-04-29**|**Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations**|Peter Müllner (know-center.at) et.al.|[2604.26390](http://arxiv.org/abs/2604.26390)|null|
+|**2026-04-29**|**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**|Yi Zhang (gmail.com) et.al.|[2604.26231](http://arxiv.org/abs/2604.26231)|null|
+|**2026-04-28**|**Budget-Constrained Causal Bandits: Bridging Uplift Modeling and Sequential Decision-Making**|Abhirami Pillai (utdallas.edu) et.al.|[2604.26169](http://arxiv.org/abs/2604.26169)|null|
 |**2026-04-28**|**Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling**|Tianbao Ma (kuaishou.com) et.al.|[2604.25839](http://arxiv.org/abs/2604.25839)|null|
 |**2026-04-28**|**Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation**|Yu Liu (gmail.com) et.al.|[2604.25787](http://arxiv.org/abs/2604.25787)|null|
-|**2026-04-28**|**From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms**|Zhang Kai et.al.|[2604.25707](http://arxiv.org/abs/2604.25707)|**[link](https://github.com/yaojingang/geo-citation-lab)**|
+|**2026-04-29**|**From Citation Selection to Citation Absorption: A Measurement Framework for Generative Engine Optimization Across AI Search Platforms**|Zhang Kai et.al.|[2604.25707](http://arxiv.org/abs/2604.25707)|**[link](https://github.com/yaojingang/geo-citation-lab)**|
 |**2026-04-28**|**From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space**|Pengyue Jia (cityu.edu.hk) et.al.|[2604.25291](http://arxiv.org/abs/2604.25291)|null|
 |**2026-04-27**|**Offline Evaluation Measures of Fairness in Recommender Systems**|Theresia Veronika Rampisela et.al.|[2604.25032](http://arxiv.org/abs/2604.25032)|null|
 |**2026-04-27**|**Co-Director: Agentic Generative Video Storytelling**|Yale Song (google.com) et.al.|[2604.24842](http://arxiv.org/abs/2604.24842)|**[link](https://co-director-agent.github.io/)**|
@@ -1424,12 +1429,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
+|**2026-04-29**|**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**|Yi Zhang (gmail.com) et.al.|[2604.26231](http://arxiv.org/abs/2604.26231)|null|
 |**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|null|
 |**2026-04-26**|**S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA**|Minghan Li (suda.edu.cn) et.al.|[2604.23783](http://arxiv.org/abs/2604.23783)|null|
 |**2026-04-26**|**Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems**|Yuchuan Zhao (uq.edu.au) et.al.|[2604.23640](http://arxiv.org/abs/2604.23640)|null|
@@ -2109,12 +2116,24 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering**|Md Biplob Hosen (umbc.edu) et.al.|[2604.26880](http://arxiv.org/abs/2604.26880)|null|
+|**2026-04-29**|**MoRFI: Monotonic Sparse Autoencoder Feature Identification**|Dimitris Dimakopoulos (ed.ac.uk) et.al.|[2604.26866](http://arxiv.org/abs/2604.26866)|null|
+|**2026-04-29**|**Domain-Adapted Small Language Models for Reliable Clinical Triage**|Manar Aljohani et.al.|[2604.26766](http://arxiv.org/abs/2604.26766)|null|
+|**2026-04-29**|**Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics**|Jatin Bhusal (sunway.edu.np) et.al.|[2604.26607](http://arxiv.org/abs/2604.26607)|null|
+|**2026-04-29**|**CoQuant: Joint Weight-Activation Subspace Projection for Mixed-Precision LLMs**|Zhe Ding (njupt.edu.cn) et.al.|[2604.26378](http://arxiv.org/abs/2604.26378)|**[link](https://github.com/Zachary5895/CoQuant)**|
+|**2026-04-29**|**A Dual-Task Paradigm to Investigate Sentence Comprehension Strategies in Language Models**|Rei Emura (dc.tohoku.ac.jp) et.al.|[2604.26351](http://arxiv.org/abs/2604.26351)|null|
+|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande (nvidia.com) et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|**[link](https://github.com/deepshnv/pipeshard-mlsys26-ae)**|
+|**2026-04-29**|**DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis**|Siyuan Li (sjtu.edu.cn) et.al.|[2604.26328](http://arxiv.org/abs/2604.26328)|null|
+|**2026-04-29**|**A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection**|Genan Dai et.al.|[2604.26319](http://arxiv.org/abs/2604.26319)|null|
+|**2026-04-28**|**Entropy Centroids as Intrinsic Rewards for Test-Time Scaling**|Wenshuo Zhao (connect.ust.hk) et.al.|[2604.26173](http://arxiv.org/abs/2604.26173)|**[link](https://github.com/hkust-nlp/entropy-centroid)**|
+|**2026-04-28**|**ImproBR: Bug Report Improver Using LLMs**|Emre Furkan Akyol (ug.bilkent.edu.tr) et.al.|[2604.26142](http://arxiv.org/abs/2604.26142)|null|
+|**2026-04-28**|**reward-lens: A Mechanistic Interpretability Library for Reward Models**|Mohammed Suhail B Nadaf (gmail.com) et.al.|[2604.26130](http://arxiv.org/abs/2604.26130)|**[link](https://github.com/suhailnadaf509/reward-lens)**|
 |**2026-04-28**|**SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring**|Hector G. Rodriguez et.al.|[2604.25855](http://arxiv.org/abs/2604.25855)|null|
 |**2026-04-28**|**CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for Recipe Nutrient Estimation**|Wei-Chun Chen (nycu.edu.tw) et.al.|[2604.25774](http://arxiv.org/abs/2604.25774)|null|
 |**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova (gmail.com) et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|
@@ -5765,7 +5784,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
