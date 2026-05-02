@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.01
+## Updated on 2026.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews**|Riley Grossman (njit.edu) et.al.|[2604.27790](http://arxiv.org/abs/2604.27790)|null|
+|**2026-04-29**|**A Gated Hybrid Contrastive Collaborative Filtering Recommendation**|Eduardo Ferreira da Silva (ufba.br) et.al.|[2604.27117](http://arxiv.org/abs/2604.27117)|null|
 |**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
 |**2026-04-29**|**The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems**|Pedro R. Pires (acm.org) et.al.|[2604.26651](http://arxiv.org/abs/2604.26651)|**[link](https://github.com/UFSCar-LaSID/bandits_blind_spot)**|
 |**2026-04-29**|**Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations**|Peter Müllner (know-center.at) et.al.|[2604.26390](http://arxiv.org/abs/2604.26390)|null|
@@ -1428,6 +1430,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**AgenticRecTune: Multi-Agent with Self-Evolving Skillhub for Recommendation System Optimization**|Xidong Wu (google.com) et.al.|[2604.26969](http://arxiv.org/abs/2604.26969)|null|
 |**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
 |**2026-04-29**|**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**|Yi Zhang (gmail.com) et.al.|[2604.26231](http://arxiv.org/abs/2604.26231)|null|
 |**2026-04-27**|**Kwai Summary Attention Technical Report**|Chenglong Chu et.al.|[2604.24432](http://arxiv.org/abs/2604.24432)|null|
@@ -2113,6 +2116,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Characterizing the Consistency of the Emergent Misalignment Persona**|Anietta Weckauff et.al.|[2604.28082](http://arxiv.org/abs/2604.28082)|null|
+|**2026-04-30**|**From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation**|Guang Yang (outlook.com) et.al.|[2604.27969](http://arxiv.org/abs/2604.27969)|null|
+|**2026-04-30**|**Language Models Refine Mechanical Linkage Designs Through Symbolic Reflection and Modular Optimisation**|João Pedro Gandarela (idiap.ch) et.al.|[2604.27962](http://arxiv.org/abs/2604.27962)|null|
+|**2026-04-30**|**DPN-LE: Dual Personality Neuron Localization and Editing for Large Language Models**|Lifan Zheng (seu.edu.cn) et.al.|[2604.27929](http://arxiv.org/abs/2604.27929)|null|
+|**2026-04-30**|**In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks**|Simon Dennis (i14.ai) et.al.|[2604.27891](http://arxiv.org/abs/2604.27891)|null|
+|**2026-04-30**|**KellyBench: A Benchmark for Long-Horizon Sequential Decision Making**|Thomas Grady (gr.inc) et.al.|[2604.27865](http://arxiv.org/abs/2604.27865)|null|
+|**2026-04-30**|**Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering**|Xupeng Chen (nyu.edu) et.al.|[2604.27724](http://arxiv.org/abs/2604.27724)|null|
+|**2026-04-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen (nyu.edu) et.al.|[2604.27720](http://arxiv.org/abs/2604.27720)|null|
+|**2026-04-30**|**The TEA Nets framework combines AI and cognitive network science to model targets, events and actors in text**|Sebastiano Franchini (unitn.it) et.al.|[2604.27673](http://arxiv.org/abs/2604.27673)|null|
+|**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu (mail.ecust.edu.cn) et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
+|**2026-04-30**|**Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs**|Naomi Esposito (unitn.it) et.al.|[2604.27618](http://arxiv.org/abs/2604.27618)|null|
+|**2026-04-30**|**APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation**|Pengyun Zhu (tju.edu.cn) et.al.|[2604.27550](http://arxiv.org/abs/2604.27550)|**[link](https://github.com/EnlightenedAI/APPSI-139)**|
+|**2026-04-30**|**Diagnosing Capability Gaps in Fine-Tuning Data**|Saeid Asgari Taghanaki et.al.|[2604.27547](http://arxiv.org/abs/2604.27547)|null|
+|**2026-04-30**|**Entropy of Ukrainian**|Anton Lavreniuk (arimlabs.ai) et.al.|[2604.27534](http://arxiv.org/abs/2604.27534)|null|
+|**2026-04-30**|**HealthBench Professional: Evaluating Large Language Models on Real Clinician Chats**|Rebecca Soskin Hicks (openai.com) et.al.|[2604.27470](http://arxiv.org/abs/2604.27470)|null|
+|**2026-04-30**|**Beyond the Mean: Within-Model Reliable Change Detection for LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27405](http://arxiv.org/abs/2604.27405)|null|
+|**2026-04-30**|**Perturbation Probing: A Two-Pass-per-Prompt Diagnostic for FFN Behavioral Circuits in Aligned LLMs**|Hongliang Liu (paloaltonetworks.com) et.al.|[2604.27401](http://arxiv.org/abs/2604.27401)|null|
+|**2026-04-30**|**MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction**|Junbo Cui et.al.|[2604.27393](http://arxiv.org/abs/2604.27393)|null|
+|**2026-04-30**|**Toward Autonomous SOC Operations: End-to-End LLM Framework for Threat Detection, Query Generation, and Resolution in Security Operations**|Md Hasan Saju (ontariotechu.ca) et.al.|[2604.27321](http://arxiv.org/abs/2604.27321)|null|
+|**2026-04-29**|**Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation**|Jon-Paul Cacioli (hotmail.com) et.al.|[2604.27249](http://arxiv.org/abs/2604.27249)|null|
+|**2026-04-29**|**Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents**|Anh Ta (apple.com) et.al.|[2604.27233](http://arxiv.org/abs/2604.27233)|null|
+|**2026-04-29**|**When Roles Fail: Epistemic Constraints on Advocate Role Fidelity in LLM-Based Political Statement Analysis**|Juergen Dietrich (democracy-intelligence.de) et.al.|[2604.27228](http://arxiv.org/abs/2604.27228)|null|
+|**2026-04-29**|**What Suppresses Nash Equilibrium Play in Large Language Models? Mechanistic Evidence and Causal Control**|Paraskevas V. Lekeas (dreamworks.com) et.al.|[2604.27167](http://arxiv.org/abs/2604.27167)|null|
+|**2026-04-29**|**Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents**|Benjamin Probst et.al.|[2604.27143](http://arxiv.org/abs/2604.27143)|null|
+|**2026-04-29**|**Cross-Lingual Response Consistency in Large Language Models: An ILR-Informed Evaluation of Claude Across Six Languages**|Camelia Baluta et.al.|[2604.27137](http://arxiv.org/abs/2604.27137)|**[link](http://github.com/camelbal-ship-it/crosslingual-claude-eval)**|
+|**2026-04-29**|**Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation**|Guillermo Iglesias (upm.es) et.al.|[2604.27014](http://arxiv.org/abs/2604.27014)|null|
 |**2026-04-29**|**HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering**|Md Biplob Hosen (umbc.edu) et.al.|[2604.26880](http://arxiv.org/abs/2604.26880)|null|
 |**2026-04-29**|**MoRFI: Monotonic Sparse Autoencoder Feature Identification**|Dimitris Dimakopoulos (ed.ac.uk) et.al.|[2604.26866](http://arxiv.org/abs/2604.26866)|null|
 |**2026-04-29**|**Domain-Adapted Small Language Models for Reliable Clinical Triage**|Manar Aljohani et.al.|[2604.26766](http://arxiv.org/abs/2604.26766)|null|
