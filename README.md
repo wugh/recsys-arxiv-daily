@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion**|Yuan Li (u.nus.edu) et.al.|[2605.00670](http://arxiv.org/abs/2605.00670)|null|
+|**2026-05-01**|**Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com**|Eva Agapaki (ingka.com) et.al.|[2605.00353](http://arxiv.org/abs/2605.00353)|null|
+|**2026-05-01**|**DynamicPO: Dynamic Preference Optimization for Recommendation**|Xingyu Hu (mail.ustc.edu.cn) et.al.|[2605.00327](http://arxiv.org/abs/2605.00327)|**[link](https://github.com/xingyuHuxingyu/DynamicPO)**|
+|**2026-04-30**|**DeGenTWeb: A First Look at LLM-dominant Websites**|Sichang Steven He et.al.|[2605.00087](http://arxiv.org/abs/2605.00087)|null|
 |**2026-04-30**|**How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews**|Riley Grossman (njit.edu) et.al.|[2604.27790](http://arxiv.org/abs/2604.27790)|null|
 |**2026-04-29**|**A Gated Hybrid Contrastive Collaborative Filtering Recommendation**|Eduardo Ferreira da Silva (ufba.br) et.al.|[2604.27117](http://arxiv.org/abs/2604.27117)|null|
 |**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
@@ -1431,12 +1435,15 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com**|Eva Agapaki (ingka.com) et.al.|[2605.00353](http://arxiv.org/abs/2605.00353)|null|
+|**2026-05-01**|**DynamicPO: Dynamic Preference Optimization for Recommendation**|Xingyu Hu (mail.ustc.edu.cn) et.al.|[2605.00327](http://arxiv.org/abs/2605.00327)|**[link](https://github.com/xingyuHuxingyu/DynamicPO)**|
+|**2026-04-30**|**DeGenTWeb: A First Look at LLM-dominant Websites**|Sichang Steven He et.al.|[2605.00087](http://arxiv.org/abs/2605.00087)|null|
 |**2026-04-21**|**AgenticRecTune: Multi-Agent with Self-Evolving Skillhub for Recommendation System Optimization**|Xidong Wu (google.com) et.al.|[2604.26969](http://arxiv.org/abs/2604.26969)|null|
 |**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu (gmail.com) et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|
 |**2026-04-29**|**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**|Yi Zhang (gmail.com) et.al.|[2604.26231](http://arxiv.org/abs/2604.26231)|null|
@@ -2119,12 +2126,28 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI**|Alfredo Madrid-García (alumnos.upm.es) et.al.|[2605.00796](http://arxiv.org/abs/2605.00796)|null|
+|**2026-05-01**|**GeoContra: From Fluent GIS Code to Verifiable Spatial Analysis with Geography-Grounded Repair**|Yinhao Xiao (gdufe.edu.cn) et.al.|[2605.00782](http://arxiv.org/abs/2605.00782)|null|
+|**2026-05-01**|**Evaluating the Architectural Reasoning Capabilities of LLM Provers via the Obfuscated Natural Number Game**|Lixing Li (st-annes.ox.ac.uk) et.al.|[2605.00677](http://arxiv.org/abs/2605.00677)|null|
+|**2026-05-01**|**Beyond Benchmarks: MathArena as an Evaluation Platform for Mathematics with LLMs**|Jasper Dekoninck (inf.ethz.ch) et.al.|[2605.00674](http://arxiv.org/abs/2605.00674)|null|
+|**2026-05-01**|**Jailbreaking Vision-Language Models Through the Visual Modality**|Aharon Azulay (gmail.com) et.al.|[2605.00583](http://arxiv.org/abs/2605.00583)|null|
+|**2026-05-01**|**AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs**|Wenxiang Lin (hit.edu.cn) et.al.|[2605.00539](http://arxiv.org/abs/2605.00539)|null|
+|**2026-05-01**|**Silicon Showdown: Performance, Efficiency, and Ecosystem Barriers in Consumer-Grade LLM Inference**|Allan Kazakov (bahcesehir.edu.tr) et.al.|[2605.00519](http://arxiv.org/abs/2605.00519)|null|
+|**2026-05-01**|**Space Network of Experts: Architecture and Expert Placement**|Zhanwei Wang (eee.hku.hk) et.al.|[2605.00515](http://arxiv.org/abs/2605.00515)|null|
+|**2026-05-01**|**RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference**|Ben Wan (jd.com) et.al.|[2605.00392](http://arxiv.org/abs/2605.00392)|null|
+|**2026-05-01**|**Online Self-Calibration Against Hallucination in Vision-Language Models**|Minghui Chen et.al.|[2605.00323](http://arxiv.org/abs/2605.00323)|null|
+|**2026-04-30**|**Jailbroken Frontier Models Retain Their Capabilities**|Daniel Zhu et.al.|[2605.00267](http://arxiv.org/abs/2605.00267)|null|
+|**2026-04-30**|**Retrieval-Augmented Reasoning for Chartered Accountancy**|Jatin Gupta (gmail.com) et.al.|[2605.00257](http://arxiv.org/abs/2605.00257)|null|
+|**2026-04-30**|**Attention Is Where You Attack**|Aviral Srivastava (amazon.com) et.al.|[2605.00236](http://arxiv.org/abs/2605.00236)|null|
+|**2026-04-30**|**Why Do LLMs Struggle in Strategic Play? Broken Links Between Observations, Beliefs, and Actions**|Jan Sobotka (epfl.ch) et.al.|[2605.00226](http://arxiv.org/abs/2605.00226)|null|
+|**2026-04-30**|**RSAT: Structured Attribution Makes Small Language Models Faithful Table Reasoners**|Jugal Gajjar (gwu.edu) et.al.|[2605.00199](http://arxiv.org/abs/2605.00199)|null|
+|**2026-04-30**|**Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models**|Shubham Kumar (illinois.edu) et.al.|[2605.00123](http://arxiv.org/abs/2605.00123)|null|
 |**2026-04-30**|**Characterizing the Consistency of the Emergent Misalignment Persona**|Anietta Weckauff et.al.|[2604.28082](http://arxiv.org/abs/2604.28082)|null|
 |**2026-04-30**|**From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation**|Guang Yang (outlook.com) et.al.|[2604.27969](http://arxiv.org/abs/2604.27969)|null|
 |**2026-04-30**|**Language Models Refine Mechanical Linkage Designs Through Symbolic Reflection and Modular Optimisation**|João Pedro Gandarela (idiap.ch) et.al.|[2604.27962](http://arxiv.org/abs/2604.27962)|null|
@@ -5813,7 +5836,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
