@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**ARGUS: Policy-Adaptive Ad Governance via Evolving Reinforcement with Adversarial Umpiring**|Deyi Ji (tencent.com) et.al.|[2605.02200](http://arxiv.org/abs/2605.02200)|null|
+|**2026-05-04**|**Retrieval and Multi-Hop Reasoning in 1M-Token Context Windows: Evaluating LLMs on Classical Chinese Text**|Eric H. C. Chow (hku.hk) et.al.|[2605.02173](http://arxiv.org/abs/2605.02173)|null|
+|**2026-05-03**|**Counting as a minimal probe of language model reliability**|Tianxiang Dai (stanford.edu) et.al.|[2605.02028](http://arxiv.org/abs/2605.02028)|**[link](https://txdai.github.io/counting-reliability/)**|
+|**2026-05-03**|**The (Marginal) Value of a Search Ad: An Online Causal Framework for Repeated Second-price Auctions**|Yuxiao Wen et.al.|[2605.01756](http://arxiv.org/abs/2605.01756)|null|
+|**2026-05-02**|**Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment**|Jingzhi Li (gmail.com) et.al.|[2605.01524](http://arxiv.org/abs/2605.01524)|null|
+|**2026-05-02**|**Investigating the Effects of Different Levels of User Control in an Interactive Educational Recommender System**|Qurat Ul Ain (stud.uni-due.de) et.al.|[2605.01400](http://arxiv.org/abs/2605.01400)|null|
 |**2026-05-01**|**Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion**|Yuan Li (u.nus.edu) et.al.|[2605.00670](http://arxiv.org/abs/2605.00670)|null|
 |**2026-05-01**|**Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com**|Eva Agapaki (ingka.com) et.al.|[2605.00353](http://arxiv.org/abs/2605.00353)|null|
 |**2026-05-01**|**DynamicPO: Dynamic Preference Optimization for Recommendation**|Xingyu Hu (mail.ustc.edu.cn) et.al.|[2605.00327](http://arxiv.org/abs/2605.00327)|**[link](https://github.com/xingyuHuxingyu/DynamicPO)**|
@@ -1434,6 +1440,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Retrieval and Multi-Hop Reasoning in 1M-Token Context Windows: Evaluating LLMs on Classical Chinese Text**|Eric H. C. Chow (hku.hk) et.al.|[2605.02173](http://arxiv.org/abs/2605.02173)|null|
+|**2026-05-03**|**Counting as a minimal probe of language model reliability**|Tianxiang Dai (stanford.edu) et.al.|[2605.02028](http://arxiv.org/abs/2605.02028)|**[link](https://txdai.github.io/counting-reliability/)**|
 |**2026-05-01**|**Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com**|Eva Agapaki (ingka.com) et.al.|[2605.00353](http://arxiv.org/abs/2605.00353)|null|
 |**2026-05-01**|**DynamicPO: Dynamic Preference Optimization for Recommendation**|Xingyu Hu (mail.ustc.edu.cn) et.al.|[2605.00327](http://arxiv.org/abs/2605.00327)|**[link](https://github.com/xingyuHuxingyu/DynamicPO)**|
 |**2026-04-30**|**DeGenTWeb: A First Look at LLM-dominant Websites**|Sichang Steven He et.al.|[2605.00087](http://arxiv.org/abs/2605.00087)|null|
@@ -2123,6 +2131,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade (student.ubc.ca) et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
+|**2026-05-04**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834](http://arxiv.org/abs/2605.02834)|null|
+|**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang (gmail.com) et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|**[link](https://github.com/xxzcc/awesome-llm-mas-rl)**|
+|**2026-05-04**|**ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming**|Mario Rodríguez Béjar (um.es) et.al.|[2605.02647](http://arxiv.org/abs/2605.02647)|null|
+|**2026-05-04**|**Beating the Style Detector: Three Hours of Agentic Research on the AI-Text Arms Race**|Andreas Maier (fau.de) et.al.|[2605.02620](http://arxiv.org/abs/2605.02620)|null|
+|**2026-05-04**|**Benchmarking Retrieval Strategies for Biomedical Retrieval-Augmented Generation: A Controlled Empirical Study**|Devi Prasad Bal (utexas.edu) et.al.|[2605.02520](http://arxiv.org/abs/2605.02520)|**[link](https://github.com/deviprasadbal/RAGHealthcareRetrievalStrategies)**|
+|**2026-05-04**|**Accurate Legal Reasoning at Scale: Neuro-Symbolic Offloading and Structural Auditability for Robust Legal Adjudication**|Stanisław Sójka (delosintelligence.com) et.al.|[2605.02472](http://arxiv.org/abs/2605.02472)|null|
+|**2026-05-04**|**When Correct Isn't Usable: Improving Structured Output Reliability in Small Language Models**|Cosimo Galeone (alomana.com) et.al.|[2605.02363](http://arxiv.org/abs/2605.02363)|null|
+|**2026-05-04**|**Decoding-Time Debiasing via Process Reward Models: From Controlled Fill-in to Open-Ended Generation**|Muneeb Ur Raheem Khan (lums.edu.pk) et.al.|[2605.02348](http://arxiv.org/abs/2605.02348)|null|
+|**2026-05-04**|**Towards Understanding Specification Gaming in Reasoning Models**|Kei Nishimura-Gasparian (gmail.com) et.al.|[2605.02269](http://arxiv.org/abs/2605.02269)|null|
+|**2026-05-04**|**Perturbation Dose Responses in Recursive LLM Loops: Raw Switching, Stochastic Floors, and Persistent Escape under Append, Replace, and Dialog Updates**|Pawel Kaplanski (kaplanski.ai) et.al.|[2605.02236](http://arxiv.org/abs/2605.02236)|**[link](https://github.com/kaplan196883/llmattr)**|
+|**2026-05-04**|**DurableUn: Quantization-Induced Recovery Attacks in Machine Unlearning**|Abdullah Ahmad Khan et.al.|[2605.02196](http://arxiv.org/abs/2605.02196)|null|
+|**2026-05-04**|**When Alignment Isn't Enough: Response-Path Attacks on LLM Agents**|Mingyu Luo (cse.ust.hk) et.al.|[2605.02187](http://arxiv.org/abs/2605.02187)|null|
+|**2026-05-04**|**Retrieval and Multi-Hop Reasoning in 1M-Token Context Windows: Evaluating LLMs on Classical Chinese Text**|Eric H. C. Chow (hku.hk) et.al.|[2605.02173](http://arxiv.org/abs/2605.02173)|null|
+|**2026-05-04**|**Ultrasound Vision-Language Alignment via Contrastive Learning**|Zhuoyang Lyu (hms.harvard.edu) et.al.|[2605.02126](http://arxiv.org/abs/2605.02126)|null|
+|**2026-05-03**|**Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning**|Arash Ahmadi (ou.edu) et.al.|[2605.02073](http://arxiv.org/abs/2605.02073)|null|
+|**2026-05-03**|**Pair2Score: Pairwise-to-Absolute Transfer for LLM-Based Essay Scoring**|İbrahim Rıza Hallaç (hiof.no) et.al.|[2605.02069](http://arxiv.org/abs/2605.02069)|null|
+|**2026-05-03**|**Conventional Commit Classification using Large Language Models and Prompt Engineering**|H. M. Sazzad Quadir (iit.du.ac.bd) et.al.|[2605.02033](http://arxiv.org/abs/2605.02033)|null|
+|**2026-05-03**|**Real-Time Text Transmission via LLM-Based Entropy Coding over Fixed-Rate Channels**|Vishnu Teja Kunde (tamu.edu) et.al.|[2605.01991](http://arxiv.org/abs/2605.01991)|null|
+|**2026-05-03**|**12 Angry AI Agents: Evaluating Multi-Agent LLM Decision-Making Through Cinematic Jury Deliberation**|Ahmet Bahaddin Ersoz et.al.|[2605.01986](http://arxiv.org/abs/2605.01986)|null|
+|**2026-05-03**|**Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration**|Debeshee Das et.al.|[2605.01970](http://arxiv.org/abs/2605.01970)|null|
+|**2026-05-03**|**RefusalGuard: Geometry-Preserving Fine-Tuning for Safety in LLMs**|Sadia Asif (rpi.edu) et.al.|[2605.01913](http://arxiv.org/abs/2605.01913)|null|
+|**2026-05-03**|**Molecular Representations for Large Language Models**|Nicholas T. Runcie (stats.ox.ac.uk) et.al.|[2605.01822](http://arxiv.org/abs/2605.01822)|null|
+|**2026-05-03**|**The Compliance Gap: Why AI Systems Promise to Follow Process Instructions but Don't**|Kwan Soo Shin (gmail.com) et.al.|[2605.01771](http://arxiv.org/abs/2605.01771)|**[link](https://github.com/seanshin0214/bs-bench)**|
+|**2026-05-03**|**Are LLMs More Skeptical of Entertainment News?**|Huiqian Lai (syr.edu) et.al.|[2605.01727](http://arxiv.org/abs/2605.01727)|null|
+|**2026-05-03**|**Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance**|Anamika Paul Rupa (howard.edu) et.al.|[2605.01699](http://arxiv.org/abs/2605.01699)|null|
+|**2026-05-03**|**MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety**|Jialin Song (sfu.ca) et.al.|[2605.01687](http://arxiv.org/abs/2605.01687)|null|
+|**2026-05-02**|**Prosa: Rubric-Based Evaluation of LLMs on Real User Chats in Brazilian Portuguese**|Roseval Malaquias Junior et.al.|[2605.01630](http://arxiv.org/abs/2605.01630)|null|
+|**2026-05-02**|**MAP-Law: Coverage-Driven Retrieval Control for Multi-Turn Legal Consultation**|Qinchuan Cheng et.al.|[2605.01486](http://arxiv.org/abs/2605.01486)|null|
+|**2026-05-02**|**VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models**|Pang Liu (tufts.edu) et.al.|[2605.01449](http://arxiv.org/abs/2605.01449)|null|
 |**2026-05-01**|**When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI**|Alfredo Madrid-García (alumnos.upm.es) et.al.|[2605.00796](http://arxiv.org/abs/2605.00796)|null|
 |**2026-05-01**|**GeoContra: From Fluent GIS Code to Verifiable Spatial Analysis with Geography-Grounded Repair**|Yinhao Xiao (gdufe.edu.cn) et.al.|[2605.00782](http://arxiv.org/abs/2605.00782)|null|
 |**2026-05-01**|**Evaluating the Architectural Reasoning Capabilities of LLM Provers via the Obfuscated Natural Number Game**|Lixing Li (st-annes.ox.ac.uk) et.al.|[2605.00677](http://arxiv.org/abs/2605.00677)|null|
