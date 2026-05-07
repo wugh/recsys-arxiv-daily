@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**APEX: Large-scale Multi-task Aesthetic-Informed Popularity Prediction for AI-Generated Music**|Jaavid Aktar Husain (mymail.sutd.edu.sg) et.al.|[2605.03395](http://arxiv.org/abs/2605.03395)|null|
 |**2026-05-04**|**ARGUS: Policy-Adaptive Ad Governance via Evolving Reinforcement with Adversarial Umpiring**|Deyi Ji (tencent.com) et.al.|[2605.02200](http://arxiv.org/abs/2605.02200)|null|
 |**2026-05-04**|**Retrieval and Multi-Hop Reasoning in 1M-Token Context Windows: Evaluating LLMs on Classical Chinese Text**|Eric H. C. Chow (hku.hk) et.al.|[2605.02173](http://arxiv.org/abs/2605.02173)|null|
 |**2026-05-03**|**Counting as a minimal probe of language model reliability**|Tianxiang Dai (stanford.edu) et.al.|[2605.02028](http://arxiv.org/abs/2605.02028)|**[link](https://txdai.github.io/counting-reliability/)**|
@@ -2131,8 +2132,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage**|Richard J. Young (unlv.edu) et.al.|[2605.03998](http://arxiv.org/abs/2605.03998)|null|
+|**2026-05-05**|**QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs**|Pratik Honavar (gmail.com) et.al.|[2605.03884](http://arxiv.org/abs/2605.03884)|null|
+|**2026-05-05**|**EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics**|Shuyue Stella Li (cs.washington.edu) et.al.|[2605.03871](http://arxiv.org/abs/2605.03871)|null|
+|**2026-05-05**|**Agentic-imodels: Evolving agentic interpretability tools via autoresearch**|Chandan Singh et.al.|[2605.03808](http://arxiv.org/abs/2605.03808)|null|
+|**2026-05-05**|**Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus**|Mullosharaf K. Arabov (kpfu.ru) et.al.|[2605.03742](http://arxiv.org/abs/2605.03742)|null|
+|**2026-05-05**|**Segmenting Human-LLM Co-authored Text via Change Point Detection**|Mengchu Li et.al.|[2605.03723](http://arxiv.org/abs/2605.03723)|null|
+|**2026-05-05**|**From Code to Prediction: Fine-Tuning LLMs for Neural Network Performance Classification in NNGPT**|Mahmoud Hanouneh et.al.|[2605.03686](http://arxiv.org/abs/2605.03686)|null|
+|**2026-05-05**|**ELAS: Efficient Pre-Training of Low-Rank Large Language Models via 2:4 Activation Sparsity**|Jiaxi Li et.al.|[2605.03667](http://arxiv.org/abs/2605.03667)|null|
+|**2026-05-05**|**Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Model**|Niklas Donhauser (ur.de) et.al.|[2605.03624](http://arxiv.org/abs/2605.03624)|null|
+|**2026-05-05**|**AfriVox-v2: A Domain-Verticalized Benchmark for In-the-Wild African Speech Recognition**|Busayo Awobade (intron.io) et.al.|[2605.03590](http://arxiv.org/abs/2605.03590)|null|
+|**2026-05-05**|**MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents**|Ishrith Gowda (berkeley.edu) et.al.|[2605.03482](http://arxiv.org/abs/2605.03482)|null|
+|**2026-05-05**|**Exposing LLM Safety Gaps Through Mathematical Encoding:New Attacks and Systematic Analysis**|Haoyu Zhang (northeastern.edu) et.al.|[2605.03441](http://arxiv.org/abs/2605.03441)|null|
+|**2026-05-05**|**From prompting to evidence-based translation: A RAG+prompt system for Japanese-Chinese translation and its pedagogical potential**|Wenshi Gu (buaa.edu.cn) et.al.|[2605.03387](http://arxiv.org/abs/2605.03387)|null|
+|**2026-05-05**|**What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis**|Xutao Mao et.al.|[2605.03354](http://arxiv.org/abs/2605.03354)|null|
+|**2026-05-05**|**SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents**|Yipeng Ouyang (mail2.sysu.edu.cn) et.al.|[2605.03353](http://arxiv.org/abs/2605.03353)|null|
+|**2026-05-05**|**VLMaxxing through FrameMogging Training-Free Anti-Recomputation for Video Vision-Language Models**|JF Bastien (jfbastien.com) et.al.|[2605.03351](http://arxiv.org/abs/2605.03351)|**[link](https://github.com/jfbastien/VLMaxxing)**|
+|**2026-05-05**|**Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems**|Maksym Nechepurenko (devnull.ae) et.al.|[2605.03310](http://arxiv.org/abs/2605.03310)|null|
+|**2026-05-05**|**The Right Answer, the Wrong Direction: Why Transformers Fail at Counting and How to Fix It**|Gabriel Garcia (gmail.com) et.al.|[2605.03258](http://arxiv.org/abs/2605.03258)|**[link](https://github.com/Gpgabriel25/GeometricReadoutBottleneck)**|
+|**2026-05-04**|**Sparse Memory Finetuning as a Low-Forgetting Alternative to LoRA and Full Finetuning**|Prakhar Gupta (umich.edu) et.al.|[2605.03229](http://arxiv.org/abs/2605.03229)|null|
+|**2026-05-04**|**Self-Mined Hardness for Safety Fine-Tuning**|Prakhar Gupta (umich.edu) et.al.|[2605.03226](http://arxiv.org/abs/2605.03226)|null|
+|**2026-05-04**|**Moral Sensitivity in LLMs: A Tiered Evaluation of Contextual Bias via Behavioral Profiling and Mechanistic Interpretability**|Yash Aggarwal et.al.|[2605.03217](http://arxiv.org/abs/2605.03217)|null|
+|**2026-05-04**|**Geometric Deviation as an Unsupervised Pre-Generation Reliability Signal: Probing LLM Representations for Answerability**|Yucheng Du (usc.edu) et.al.|[2605.03196](http://arxiv.org/abs/2605.03196)|null|
+|**2026-05-04**|**Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?**|Spandan Garg (microsoft.com) et.al.|[2605.03195](http://arxiv.org/abs/2605.03195)|null|
+|**2026-05-04**|**PIIGuard: Mitigating PII Harvesting under Adversarial Sanitization**|Mingshuo Liu et.al.|[2605.03129](http://arxiv.org/abs/2605.03129)|null|
+|**2026-05-04**|**Gated Subspace Inference for Transformer Acceleration**|Stephen J. Thomas (lehigh.edu) et.al.|[2605.03109](http://arxiv.org/abs/2605.03109)|null|
+|**2026-05-04**|**Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation**|Francesco Sovrano (usi.ch) et.al.|[2605.03058](http://arxiv.org/abs/2605.03058)|null|
+|**2026-05-04**|**How Language Models Process Negation**|Zhejian Zhou (usc.edu) et.al.|[2605.03052](http://arxiv.org/abs/2605.03052)|null|
+|**2026-05-04**|**Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense**|Kerri Prinos (horizon3.ai) et.al.|[2605.03034](http://arxiv.org/abs/2605.03034)|null|
 |**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade (student.ubc.ca) et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
-|**2026-05-04**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834](http://arxiv.org/abs/2605.02834)|null|
+|**2026-05-05**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Tanush Yadav et.al.|[2605.02834](http://arxiv.org/abs/2605.02834)|null|
 |**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang (gmail.com) et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|**[link](https://github.com/xxzcc/awesome-llm-mas-rl)**|
 |**2026-05-04**|**ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming**|Mario Rodríguez Béjar (um.es) et.al.|[2605.02647](http://arxiv.org/abs/2605.02647)|null|
 |**2026-05-04**|**Beating the Style Detector: Three Hours of Agentic Research on the AI-Text Arms Race**|Andreas Maier (fau.de) et.al.|[2605.02620](http://arxiv.org/abs/2605.02620)|null|
