@@ -1,4 +1,4 @@
-## Updated on 2026.05.15
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Logging Policy Design for Off-Policy Evaluation**|Connor Douglas (stern.nyu.edu) et.al.|[2605.15108](http://arxiv.org/abs/2605.15108)|null|
+|**2026-05-14**|**Focused PU learning from imbalanced data**|Elias Zavitsanos (iit.demokritos.gr) et.al.|[2605.14467](http://arxiv.org/abs/2605.14467)|null|
+|**2026-05-14**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen (meta.com) et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|null|
+|**2026-05-14**|**Correctness-Aware Repository Filtering Under Maximum Effective Context Window Constraints**|Shweta Mishra (gmail.com) et.al.|[2605.14362](http://arxiv.org/abs/2605.14362)|null|
+|**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet (berkeley.edu) et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
+|**2026-05-13**|**Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact**|Haofei Xu (wustl.edu) et.al.|[2605.14021](http://arxiv.org/abs/2605.14021)|null|
 |**2026-05-13**|**Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2605.13497](http://arxiv.org/abs/2605.13497)|null|
-|**2026-05-13**|**LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving**|Guoxiong Gao (math.pku.edu.cn) et.al.|[2605.13137](http://arxiv.org/abs/2605.13137)|**[link](https://github.com/frenzymath/LeanSearch-v2)**|
+|**2026-05-14**|**LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving**|Guoxiong Gao (iquestlab.com) et.al.|[2605.13137](http://arxiv.org/abs/2605.13137)|**[link](https://github.com/frenzymath/LeanSearch-v2)**|
 |**2026-05-13**|**A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset**|Ivica Kostric (uis.no) et.al.|[2605.13053](http://arxiv.org/abs/2605.13053)|null|
 |**2026-05-13**|**Decision Support for Marketplace Policies under Incomplete Evidence: From Replay to Launch Readiness**|Prashant Shekhar et.al.|[2605.12840](http://arxiv.org/abs/2605.12840)|null|
 |**2026-05-12**|**Design Your Ad: Personalized Advertising Image and Text Generation with Unified Autoregressive Models**|Yexing Xu et.al.|[2605.12138](http://arxiv.org/abs/2605.12138)|**[link](https://github.com/JD-GenX/Uni-AdGen)**|
@@ -1477,12 +1483,15 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Agentic Recommender System with Hierarchical Belief-State Memory**|Xiang Shen (meta.com) et.al.|[2605.14401](http://arxiv.org/abs/2605.14401)|null|
+|**2026-05-14**|**Correctness-Aware Repository Filtering Under Maximum Effective Context Window Constraints**|Shweta Mishra (gmail.com) et.al.|[2605.14362](http://arxiv.org/abs/2605.14362)|null|
+|**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet (berkeley.edu) et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
 |**2026-05-13**|**Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models**|Xinye Wanyan (student.rmit.edu.au) et.al.|[2605.13497](http://arxiv.org/abs/2605.13497)|null|
 |**2026-05-13**|**A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset**|Ivica Kostric (uis.no) et.al.|[2605.13053](http://arxiv.org/abs/2605.13053)|null|
 |**2026-05-12**|**RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems**|Wenwen Zeng (meituan.com) et.al.|[2605.11874](http://arxiv.org/abs/2605.11874)|null|
@@ -2190,14 +2199,42 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search**|Sahil Sen (pwc.com) et.al.|[2605.15184](http://arxiv.org/abs/2605.15184)|null|
+|**2026-05-14**|**OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation**|Shang Zhou et.al.|[2605.15177](http://arxiv.org/abs/2605.15177)|null|
+|**2026-05-14**|**From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents**|Md Tahmid Rahman Laskar (dialpad.com) et.al.|[2605.15104](http://arxiv.org/abs/2605.15104)|null|
+|**2026-05-14**|**On the Cultural Anachronism and Temporal Reasoning in Vision Language Models**|Mukul Ranjan et.al.|[2605.15071](http://arxiv.org/abs/2605.15071)|**[link](https://khushboo0012.github.io/tab-vlm-webpage/)**|
+|**2026-05-14**|**TFGN: Task-Free, Replay-Free Continual Pre-Training Without Catastrophic Forgetting at LLM Scale**|Anurup Ganguli (gmail.com) et.al.|[2605.15053](http://arxiv.org/abs/2605.15053)|null|
+|**2026-05-14**|**Orchard: An Open-Source Agentic Modeling Framework**|Baolin Peng (microsoft.com) et.al.|[2605.15040](http://arxiv.org/abs/2605.15040)|null|
+|**2026-05-14**|**COTCAgent: Preventive Consultation via Probabilistic Chain-of-Thought Completion**|Zihan Deng (hku.hk) et.al.|[2605.15016](http://arxiv.org/abs/2605.15016)|**[link](https://github.com/FrankDengAI/COTCAgent/)**|
+|**2026-05-14**|**Graphs of Research: Citation Evolution Graphs as Supervision for Research Idea Generation**|Songyang Gao (connect.hkust-gz.edu.cn) et.al.|[2605.14790](http://arxiv.org/abs/2605.14790)|null|
+|**2026-05-14**|**SceneFunRI: Reasoning the Invisible for Task-Driven Functional Object Localization**|Posheng Chen (cmlab.csie.ntu.edu.tw) et.al.|[2605.14704](http://arxiv.org/abs/2605.14704)|null|
+|**2026-05-14**|**AI-assisted cultural heritage dissemination: Comparing NMT and glossary-augmented LLM translation in rock art documents**|Vicent Briva-Iglesias (dcu.ie) et.al.|[2605.14679](http://arxiv.org/abs/2605.14679)|null|
+|**2026-05-14**|**Agentic Design of Compositional Descriptors via Autoresearch for Materials Science Applications**|Matteo Cobelli (tcd.ie) et.al.|[2605.14671](http://arxiv.org/abs/2605.14671)|null|
+|**2026-05-14**|**MultiEmo-Bench: Multi-label Visual Emotion Analysis for Multi-modal Large Language Models**|Tianwei Chen et.al.|[2605.14635](http://arxiv.org/abs/2605.14635)|null|
+|**2026-05-14**|**Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks**|Enkelejda Kasneci (tum.de) et.al.|[2605.14604](http://arxiv.org/abs/2605.14604)|null|
+|**2026-05-14**|**EndPrompt: Efficient Long-Context Extension via Terminal Anchoring**|Han Tian (mail.nankai.edu.cn) et.al.|[2605.14589](http://arxiv.org/abs/2605.14589)|**[link](https://github.com/clx1415926/EndPrompt)**|
+|**2026-05-14**|**VerbalValue: A Socially Intelligent Virtual Host for Sales-Driven Live Commerce**|Yuyan Chen (gmail.com) et.al.|[2605.14542](http://arxiv.org/abs/2605.14542)|null|
+|**2026-05-14**|**Stateful Reasoning via Insight Replay**|Bin Lei (umn.edu) et.al.|[2605.14457](http://arxiv.org/abs/2605.14457)|null|
+|**2026-05-14**|**DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping**|Pengyun Zhu (tju.edu.cn) et.al.|[2605.14420](http://arxiv.org/abs/2605.14420)|**[link](https://github.com/EnlightenedAI/DVMap)**|
+|**2026-05-14**|**SWE-Chain: Benchmarking Coding Agents on Chained Release-Level Package Upgrades**|Man Ho Lam (link.cuhk.edu.hk) et.al.|[2605.14415](http://arxiv.org/abs/2605.14415)|null|
+|**2026-05-14**|**NodeSynth: Socially Aligned Synthetic Data for AI Evaluation**|Qazi Mamunur Rashid et.al.|[2605.14381](http://arxiv.org/abs/2605.14381)|**[link](https://github.com/google-research/nodesynth)**|
+|**2026-05-14**|**Towards Self-Evolving Agentic Literature Retrieval**|Yuwen Du et.al.|[2605.14306](http://arxiv.org/abs/2605.14306)|**[link](https://github.com/sjtu-sai-agents/PaSaMaster)**|
+|**2026-05-14**|**PreFT: Prefill-only finetuning for efficient inference**|Andrew Lanpouthakoun (stanford.edu) et.al.|[2605.14217](http://arxiv.org/abs/2605.14217)|null|
+|**2026-05-13**|**LLMs Know When They Know, but Do Not Act on It: A Metacognitive Harness for Test-time Scaling**|Qi Cao (ucsd.edu) et.al.|[2605.14186](http://arxiv.org/abs/2605.14186)|null|
+|**2026-05-13**|**Agentic Systems as Boosting Weak Reasoning Models**|Varun Sunkaraneni (tamu.edu) et.al.|[2605.14163](http://arxiv.org/abs/2605.14163)|null|
+|**2026-05-13**|**Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence**|Mashrekur Rahman et.al.|[2605.14120](http://arxiv.org/abs/2605.14120)|null|
+|**2026-05-13**|**Measuring and Mitigating Toxicity in Large Language Models: A Comprehensive Replication Study**|Mokshit Surana (uic.edu) et.al.|[2605.14087](http://arxiv.org/abs/2605.14087)|null|
+|**2026-05-13**|**CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves**|Amirreza Mohseni (student.maastrichtuniversity.nl) et.al.|[2605.14068](http://arxiv.org/abs/2605.14068)|null|
+|**2026-05-13**|**SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks**|Yusuke Ozaki (kwansei.ac.jp) et.al.|[2605.14051](http://arxiv.org/abs/2605.14051)|null|
+|**2026-05-13**|**Physics-R1: An Audited Olympiad Corpus and Recipe for Visual Physics Reasoning**|Shan Yang (gmail.com) et.al.|[2605.14040](http://arxiv.org/abs/2605.14040)|null|
 |**2026-05-13**|**Negation Neglect: When models fail to learn negations in training**|Harry Mayne (oii.ox.ac.uk) et.al.|[2605.13829](http://arxiv.org/abs/2605.13829)|null|
-|**2026-05-13**|**(How) Do Large Language Models Understand High-Level Message Sequence Charts?**|Mohammad Reza Mousavi (kcl.ac.uk) et.al.|[2605.13773](http://arxiv.org/abs/2605.13773)|null|
+|**2026-05-14**|**(How) Do Large Language Models Understand High-Level Message Sequence Charts?**|Mohammad Reza Mousavi (kcl.ac.uk) et.al.|[2605.13773](http://arxiv.org/abs/2605.13773)|null|
 |**2026-05-13**|**High-Rate Quantized Matrix Multiplication II**|Or Ordentlich (mail.huji.ac.il) et.al.|[2605.13768](http://arxiv.org/abs/2605.13768)|null|
 |**2026-05-13**|**Senses Wide Shut: A Representation-Action Gap in Omnimodal LLMs**|Trung Nguyen Quang et.al.|[2605.13737](http://arxiv.org/abs/2605.13737)|null|
 |**2026-05-13**|**Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety**|Qian Shen (ufl.edu) et.al.|[2605.13709](http://arxiv.org/abs/2605.13709)|null|
@@ -6074,7 +6111,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
