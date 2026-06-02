@@ -47,34 +47,30 @@ def get_code_url(arxiv_id):
         logging.exception(f"get paper url failed {ex}")
     return None
 
-def my_arxiv_search(user_search_config):
+def my_arxiv_search(user_search_config, category=None, max_results=None):
     '''
-    #  graph_rec:
-    #    description: "图神经网络在推荐系统中的应用，在 cs.LG 中检索"
-    #    categories:
-    #      - cs.LG
-    #    query: >
-    #      (ti:"graph neural network" OR abs:"graph neural network" OR ti:GNN OR abs:GNN)
-    #      AND
-    #      (ti:recommendation OR abs:recommendation)
-    #    max_results: 10
-    #    sort_by: "submitted_date"
-    #    sort_order: "descending"
+    构造单次 arxiv.Search 查询。
+    - 当 category 为 None 时：按 config["categories"] 的并集过滤（保留旧行为，向后兼容）。
+    - 当 category 为字符串时：仅在该分类下检索（用于按分类优先级分批查询）。
+    - max_results 为 None 时使用 config["max_results"]，否则覆盖。
     '''
     config = user_search_config
+
     # 构造分类子句
-    if config["categories"] is not None and len(config["categories"]) > 0:
+    if category is not None:
+        cat_clause = f"cat:{category}"
+        final_query = f"({cat_clause}) AND {config['query']}"
+    elif config.get("categories"):
         cat_clause = " OR ".join(f"cat:{c}" for c in config["categories"])
         final_query = f"({cat_clause}) AND {config['query']}"
     else:
-        cat_clause = ""
         final_query = f"{config['query']}"
     final_query = final_query.strip()
 
     logging.info(f"Final Query: {final_query}")
     search = arxiv.Search(
         query=final_query,
-        max_results=config["max_results"],
+        max_results=max_results if max_results is not None else config["max_results"],
         sort_by=sort_by_map[config["sort_by"]],
         sort_order=sort_order_map[config["sort_order"]],
     )
@@ -159,69 +155,90 @@ def extract_email_domain_from_pdf_url(pdf_url):
 def get_daily_papers(topic, query, max_results=2):
     """
     @param topic: str
-    @param query: str
+    @param query: dict (即 config['keywords'][topic]，包含 categories/query/max_results 等字段)
     @return paper_with_code: dict
+
+    按 query['categories'] 中的顺序作为优先级，依次检索每个分类的论文，
+    每个分类各拉取 query['max_results'] 篇，再按 arxiv 论文 id 去重；
+    高优先级分类先入，低优先级再出现的同一篇会被跳过；
+    同一分类内部仍由 arxiv 的 sort_by 决定顺序。
     """
-    # output
+    # output（dict 在 Python 3.7+ 保持插入顺序，用于体现分类优先级）
     content = dict()
     content_to_web = dict()
-    search_engine = my_arxiv_search(query)
     client = arxiv.Client()
 
-    for result in client.results(search_engine):
+    # 每个分类各拉取的条数（不再设总配额）
+    per_category_quota = query.get("max_results", max_results)
+    categories = query.get("categories") or [None]  # None 表示不按分类过滤
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+    seen_keys = set()
 
-        domains = extract_email_domain_from_pdf_url(result.pdf_url)
-        if len(domains) > 0:
-            paper_first_author = f"{paper_first_author} ({domains[0]})"
+    for category in categories:
+        # 每个分类都按 per_category_quota 拉取
+        search_engine = my_arxiv_search(query, category=category, max_results=per_category_quota)
+        logging.info(f"[{topic}] Searching category = {category}, per_category_quota = {per_category_quota}")
 
-        # logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+        for result in client.results(search_engine):
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id #TODO
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
-
-        try:
-            # source code link
-            repo_url = get_code_url(paper_id)
-            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author} repo_url = {repo_url}")
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
+            # eg: 2108.09112v1 -> 2108.09112
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                paper_key = paper_id[0:ver_pos]
+            paper_url = arxiv_url + 'abs/' + paper_key
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            # 按 arxiv 论文 id 去重：高优先级分类先入，重复的跳过
+            if paper_key in seen_keys:
+                logging.info(f"[{topic}] dedup skip: paper_key = {paper_key} (already seen, current category = {category})")
+                continue
+            seen_keys.add(paper_key)
 
-        except Exception as e:
-            logging.exception(f"exception: {e} with id: {paper_key}")
+            domains = extract_email_domain_from_pdf_url(result.pdf_url)
+            if len(domains) > 0:
+                paper_first_author = f"{paper_first_author} ({domains[0]})"
 
+            # logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+
+            try:
+                # source code link
+                repo_url = get_code_url(paper_id)
+                logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author} repo_url = {repo_url} primary = {primary_category}")
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url)
+
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
+
+            except Exception as e:
+                logging.exception(f"exception: {e} with id: {paper_key}")
+
+    logging.info(f"[{topic}] total unique papers after dedup = {len(content)}")
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web
