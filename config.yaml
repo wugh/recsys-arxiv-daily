@@ -32,7 +32,39 @@ keywords:
       - cs.LG
       - cs.AI
     query: >
-      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
+      (
+        ti:"recommendation system" OR abs:"recommendation system"
+        OR ti:"recommender system" OR abs:"recommender system"
+        OR ti:"recommendation" OR abs:"recommendation"
+        OR ti:"recsys" OR abs:"recsys"
+        OR ti:"collaborative filtering" OR abs:"collaborative filtering"
+        OR ti:"matrix factorization" OR abs:"matrix factorization"
+        OR ti:"sequential recommendation" OR abs:"sequential recommendation"
+        OR ti:"session-based recommendation" OR abs:"session-based recommendation"
+        OR ti:"click-through rate" OR abs:"click-through rate"
+        OR ti:"CTR prediction" OR abs:"CTR prediction"
+        OR ti:"conversion rate prediction" OR abs:"conversion rate prediction"
+        OR ti:"CVR prediction" OR abs:"CVR prediction"
+        OR ti:"user engagement" OR abs:"user engagement"
+        OR ti:"engagement prediction" OR abs:"engagement prediction"
+        OR ti:"user behavior modeling" OR abs:"user behavior modeling"
+        OR ti:"user interest" OR abs:"user interest"
+        OR ti:"user modeling" OR abs:"user modeling"
+        OR ti:"personalization" OR abs:"personalization"
+        OR ti:"personalized ranking" OR abs:"personalized ranking"
+        OR ti:"learning to rank" OR abs:"learning to rank"
+        OR ti:"ranking model" OR abs:"ranking model"
+        OR ti:"retrieval and ranking" OR abs:"retrieval and ranking"
+        OR ti:"candidate generation" OR abs:"candidate generation"
+        OR ti:"feature interaction" OR abs:"feature interaction"
+        OR ti:"advertising system" OR abs:"advertising system"
+        OR ti:"computational advertising" OR abs:"computational advertising"
+        OR ti:"online advertising" OR abs:"online advertising"
+        OR abs:"advertising"
+        OR ti:"search engine" OR abs:"search engine"
+        OR ti:"sponsored search" OR abs:"sponsored search"
+        OR ti:"cold start" OR abs:"cold-start recommendation"
+      )
     max_results: 20
     sort_by: "submitted_date"
     sort_order: "descending"
@@ -45,7 +77,23 @@ keywords:
       - cs.LG
       - cs.AI
     query: >
-      (ti:"recommendation system" OR abs:"recommendation system" OR abs:"recsys" OR abs:"Recommender system" OR ti:"advertising system" OR abs:"advertising system" OR abs:"advertising" OR abs:"search engine")
+      (
+        ti:"recommendation system" OR abs:"recommendation system"
+        OR ti:"recommender system" OR abs:"recommender system"
+        OR ti:"recommendation" OR abs:"recommendation"
+        OR ti:"recsys" OR abs:"recsys"
+        OR ti:"collaborative filtering" OR abs:"collaborative filtering"
+        OR ti:"sequential recommendation" OR abs:"sequential recommendation"
+        OR ti:"click-through rate" OR abs:"click-through rate"
+        OR ti:"CTR prediction" OR abs:"CTR prediction"
+        OR ti:"user engagement" OR abs:"user engagement"
+        OR ti:"user behavior modeling" OR abs:"user behavior modeling"
+        OR ti:"personalization" OR abs:"personalization"
+        OR ti:"learning to rank" OR abs:"learning to rank"
+        OR ti:"advertising system" OR abs:"advertising system"
+        OR abs:"advertising"
+        OR ti:"search engine" OR abs:"search engine"
+      )
       AND
       (ti:"large language model" OR abs:"large language model" OR ti:LLM OR abs:LLM OR ti:"language model" OR abs:"language model")
     max_results: 20
