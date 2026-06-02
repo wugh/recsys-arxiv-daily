@@ -166,8 +166,9 @@ def get_daily_papers(topic, query, max_results=2):
     content = dict()
     content_to_web = dict()
     search_engine = my_arxiv_search(query)
+    client = arxiv.Client()
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
