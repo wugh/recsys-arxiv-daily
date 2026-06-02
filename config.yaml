@@ -26,12 +26,13 @@ update_code_link_num: 200
 keywords:
   "Recsys":
     description: "推荐系统"
-    # categories 的顺序代表优先级（高 -> 低）：先用 cs.IR 检索，再依次用 cs.LG / cs.CL / cs.AI 补足
+    # categories 顺序代表优先级（高 -> 低），每个分类独立配置抓取条数
+    # 写成字典则按 {分类: 条数} 抓取；写成列表则统一使用 max_results
     categories:
-      - cs.IR
-      - cs.LG
-      - cs.CL
-      - cs.AI
+      cs.IR: 20
+      cs.LG: 10
+      cs.CL: 10
+      cs.AI: 10
     query: >
       (
         ti:"recommendation system" OR abs:"recommendation system"
@@ -74,10 +75,10 @@ keywords:
     description: "推荐系统&大模型"
     # 优先级顺序：cs.IR > cs.LG > cs.CL > cs.AI
     categories:
-      - cs.IR
-      - cs.LG
-      - cs.CL
-      - cs.AI
+      cs.IR: 20
+      cs.LG: 10
+      cs.CL: 10
+      cs.AI: 10
     query: >
       (
         ti:"recommendation system" OR abs:"recommendation system"

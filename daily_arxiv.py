@@ -158,9 +158,10 @@ def get_daily_papers(topic, query, max_results=2):
     @param query: dict (即 config['keywords'][topic]，包含 categories/query/max_results 等字段)
     @return paper_with_code: dict
 
-    按 query['categories'] 中的顺序作为优先级，依次检索每个分类的论文，
-    每个分类各拉取 query['max_results'] 篇，再按 arxiv 论文 id 去重；
-    高优先级分类先入，低优先级再出现的同一篇会被跳过；
+    按 query['categories'] 中的顺序作为优先级，依次检索每个分类的论文：
+    - 当 categories 是 dict（如 {cs.IR: 20, cs.LG: 10}）时，按每个分类配置的条数抓取；
+    - 当 categories 是 list（如 [cs.IR, cs.LG]）时，每个分类统一抓 query['max_results'] 条；
+    再按 arxiv 论文 id 去重；高优先级分类先入，重复的跳过；
     同一分类内部仍由 arxiv 的 sort_by 决定顺序。
     """
     # output（dict 在 Python 3.7+ 保持插入顺序，用于体现分类优先级）
@@ -168,14 +169,21 @@ def get_daily_papers(topic, query, max_results=2):
     content_to_web = dict()
     client = arxiv.Client()
 
-    # 每个分类各拉取的条数（不再设总配额）
-    per_category_quota = query.get("max_results", max_results)
-    categories = query.get("categories") or [None]  # None 表示不按分类过滤
+    default_quota = query.get("max_results", max_results)
+    raw_categories = query.get("categories")
+
+    # 归一化为 [(category, quota), ...] 的有序列表
+    if isinstance(raw_categories, dict):
+        category_quota_pairs = [(cat, int(quota)) for cat, quota in raw_categories.items()]
+    elif isinstance(raw_categories, list) and len(raw_categories) > 0:
+        category_quota_pairs = [(cat, default_quota) for cat in raw_categories]
+    else:
+        category_quota_pairs = [(None, default_quota)]  # None 表示不按分类过滤
 
     seen_keys = set()
 
-    for category in categories:
-        # 每个分类都按 per_category_quota 拉取
+    for category, per_category_quota in category_quota_pairs:
+        # 每个分类按各自配置的条数拉取
         search_engine = my_arxiv_search(query, category=category, max_results=per_category_quota)
         logging.info(f"[{topic}] Searching category = {category}, per_category_quota = {per_category_quota}")
 
