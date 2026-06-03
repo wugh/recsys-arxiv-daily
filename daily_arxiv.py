@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import pymupdf
 import arxiv
 import yaml
@@ -167,7 +168,12 @@ def get_daily_papers(topic, query, max_results=2):
     # output（dict 在 Python 3.7+ 保持插入顺序，用于体现分类优先级）
     content = dict()
     content_to_web = dict()
-    client = arxiv.Client()
+    # 调高 page_size 与 delay_seconds，并启用重试，缓解 arxiv 429（rate limit）
+    client = arxiv.Client(
+        page_size=100,        # 单次请求拉的条数（越大请求越少）
+        delay_seconds=5.0,    # 同一 client 连续请求之间的间隔，arxiv 官方建议 >=3s
+        num_retries=5,        # 单次请求失败后的重试次数
+    )
 
     default_quota = query.get("max_results", max_results)
     raw_categories = query.get("categories")
@@ -187,7 +193,28 @@ def get_daily_papers(topic, query, max_results=2):
         search_engine = my_arxiv_search(query, category=category, max_results=per_category_quota)
         logging.info(f"[{topic}] Searching category = {category}, per_category_quota = {per_category_quota}")
 
-        for result in client.results(search_engine):
+        # 针对 429 等瞬时错误做外层重试（指数退避）
+        max_retry = 5
+        for attempt in range(1, max_retry + 1):
+            try:
+                results_iter = list(client.results(search_engine))
+                break
+            except arxiv.HTTPError as e:
+                wait = min(60, 2 ** attempt) + 5  # 7s, 9s, 13s, 21s, 37s（封顶 65s）
+                logging.warning(
+                    f"[{topic}] arxiv.HTTPError {e} on category={category}, "
+                    f"attempt {attempt}/{max_retry}, sleep {wait}s before retry"
+                )
+                time.sleep(wait)
+            except Exception as e:
+                logging.exception(f"[{topic}] unexpected error on category={category}: {e}")
+                results_iter = []
+                break
+        else:
+            logging.error(f"[{topic}] give up category={category} after {max_retry} retries")
+            results_iter = []
+
+        for result in results_iter:
             paper_id            = result.get_short_id()
             paper_title         = result.title
             paper_url           = result.entry_id
