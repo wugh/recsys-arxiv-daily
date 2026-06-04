@@ -2,13 +2,42 @@
 layout: default
 ---
 
-## Updated on 2026.06.03
+## Updated on 2026.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Dual-Stream MLP is All You Need for CTR Prediction**|Kesha Ou (gmail.com) et.al.|[2606.04944](http://arxiv.org/abs/2606.04944)|**[link](https://github.com/RUCAIBox/DS-MLP)**|
+|**2026-06-03**|**Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in Gig Labour Markets**|Piotr Frydrych (pw.edu.pl) et.al.|[2606.04916](http://arxiv.org/abs/2606.04916)|null|
+|**2026-06-03**|**BEATS: Bootstrapping E-commerce Attribute Taxonomies for Search through Iterative Human-AI Collaboration**|Yung-Yu Shih (ntu.edu.tw) et.al.|[2606.04909](http://arxiv.org/abs/2606.04909)|null|
+|**2026-06-03**|**Bayesian learning for the stochastic shortest path problem**|Chon Wai Ho (cam.ac.uk) et.al.|[2606.04845](http://arxiv.org/abs/2606.04845)|null|
+|**2026-06-03**|**NoRA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning**|Sichao Li (jhu.edu) et.al.|[2606.04806](http://arxiv.org/abs/2606.04806)|null|
+|**2026-06-03**|**Uncertainty-Aware (Un)Supervised Few-Shot User Adaptation for On-Device Personalized Human Activity Recognition**|Maximilian Burzer (kit.edu) et.al.|[2606.04798](http://arxiv.org/abs/2606.04798)|null|
+|**2026-06-03**|**Crafting Your Evolving Dreams: Concept-Incremental Versatile Customization**|Jiahua Dong (gmail.com) et.al.|[2606.04797](http://arxiv.org/abs/2606.04797)|null|
+|**2026-06-03**|**PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents**|Yubo Hou (buaa.edu.cn) et.al.|[2606.04780](http://arxiv.org/abs/2606.04780)|null|
+|**2026-06-03**|**An Empirical Audit of Input Encoders for Multi-Channel Signal Transformers**|Ossi Lehtinen (ocon.fi) et.al.|[2606.04752](http://arxiv.org/abs/2606.04752)|**[link](https://github.com/OssiLehtinen/channel-encoder-audit)**|
+|**2026-06-03**|**TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration**|Soyeong Jeong (kaist.ac.kr) et.al.|[2606.04743](http://arxiv.org/abs/2606.04743)|null|
+|**2026-06-03**|**Multilingual Long-Form Speech Instruction Following: KIT's Submission to IWSLT 2026**|Enes Yavuz Ugan (kit.edu) et.al.|[2606.04730](http://arxiv.org/abs/2606.04730)|null|
+|**2026-06-03**|**EviRank: Evidence-Based Confidence Estimation for LLM-Based Ranking**|Meng Yan (stu.xidian.edu.cn) et.al.|[2606.04727](http://arxiv.org/abs/2606.04727)|null|
+|**2026-06-03**|**Distributional Approximate Nearest Neighbour Search for Uncertainty-Aware Retrieval**|Olivier Jeunen et.al.|[2606.04603](http://arxiv.org/abs/2606.04603)|null|
+|**2026-06-03**|**Synthetic Personalities: How Well Can LLMs Mimic Individual Respondents Using Socio-Economic Microdata?**|Leonard Kinzinger (tum.de) et.al.|[2606.04592](http://arxiv.org/abs/2606.04592)|null|
+|**2026-06-03**|**Trading Engagement for Sustainability: Carbon-Aware Re-ranking for E-commerce Recommendations**|Noah Lund Syrdal et.al.|[2606.04550](http://arxiv.org/abs/2606.04550)|**[link](https://github.com/andersvestrum/carbon-aware-recsys)**|
+|**2026-06-03**|**Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization**|Heng Cao (microsoft.com) et.al.|[2606.04547](http://arxiv.org/abs/2606.04547)|null|
+|**2026-06-03**|**SAILRec: Steering LLM Attention to Dual-Side Semantically Aligned Collaborative Embeddings for Recommendation**|Xi Wu (mails.neu.edu.cn) et.al.|[2606.04514](http://arxiv.org/abs/2606.04514)|null|
+|**2026-06-03**|**Radiomic Feature Selection Using Gradient Loss of Deep Neural Network for Lung Cancer Stage Detection**|Hina Shakir (bahria.edu.pk) et.al.|[2606.04453](http://arxiv.org/abs/2606.04453)|null|
+|**2026-06-03**|**Bridging Short Videos and Live Streams: Reasoning-Guided Multimodal LLMs for Cross-Domain Representation Learning**|Le Zhang (kuaishou.com) et.al.|[2606.04448](http://arxiv.org/abs/2606.04448)|null|
+|**2026-06-03**|**L-TGVN: Leveraging Longitudinal Priors for Personalized Rapid MRI**|Arda Atalık (nyulangone.org) et.al.|[2606.04419](http://arxiv.org/abs/2606.04419)|**[link](http://github.com/sodicksonlab/L-TGVN)**|
+|**2026-06-03**|**Rethinking Sales Lead Scoring with LLM-based Hierarchical Preference Ranking**|Chenyu Zhang (outlook.com) et.al.|[2606.04387](http://arxiv.org/abs/2606.04387)|null|
+|**2026-06-03**|**Disentangling Answer Engine Optimization from Platform Growth: A Log-Based Natural Experiment on ChatGPT Referral Traffic**|Keisuke Watanabe (glasp.co) et.al.|[2606.04362](http://arxiv.org/abs/2606.04362)|null|
+|**2026-06-03**|**HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning**|Isha Abid (seecs.edu.pk) et.al.|[2606.04345](http://arxiv.org/abs/2606.04345)|null|
+|**2026-06-03**|**Noisy memory encoding explains negative polarity illusions**|Yuhan Zhang (gmail.com) et.al.|[2606.04340](http://arxiv.org/abs/2606.04340)|null|
+|**2026-06-02**|**Anycast Performance in Context**|Eric Liang (oracle.com) et.al.|[2606.04298](http://arxiv.org/abs/2606.04298)|null|
+|**2026-06-02**|**Sparse Mixture-of-Experts Reward Models Learn Interpretable and Specialized Experts for Personalized Preference Modeling**|Yifan Wang (lst.uni-saarland.de) et.al.|[2606.04284](http://arxiv.org/abs/2606.04284)|null|
+|**2026-06-02**|**ADAPTOOD: Uncertainty-Aware Fine-Tuning for Out-of-Distribution ECG Time Series Models**|Sotirios Vavaroutas et.al.|[2606.04164](http://arxiv.org/abs/2606.04164)|null|
+|**2026-06-02**|**SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice**|Tianfu Wang (connect.hkust) et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|null|
+|**2026-06-02**|**SaliMory: Orchestrating Cognitive Memory for Conversational Agents**|Kai Zhang (meta.com) et.al.|[2606.04120](http://arxiv.org/abs/2606.04120)|null|
 |**2026-06-02**|**Privacy-Robust Incrementality Measurement for Advertising Systems under Signal Loss**|Prashant Shekhar (erau.edu) et.al.|[2606.03878](http://arxiv.org/abs/2606.03878)|null|
 |**2026-06-02**|**From 'What' to 'How' and 'Why': Sharing LLM-Generated Retrospective Summaries of Older Adults' Passive Tracking Data with Remote Family Members**|Jiachen Li (acm.org) et.al.|[2606.03876](http://arxiv.org/abs/2606.03876)|null|
 |**2026-06-02**|**Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation**|Yuecheng Li (gmail.com) et.al.|[2606.03866](http://arxiv.org/abs/2606.03866)|null|
@@ -1574,6 +1603,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**NoRA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning**|Sichao Li (jhu.edu) et.al.|[2606.04806](http://arxiv.org/abs/2606.04806)|null|
+|**2026-06-03**|**PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents**|Yubo Hou (buaa.edu.cn) et.al.|[2606.04780](http://arxiv.org/abs/2606.04780)|null|
+|**2026-06-03**|**Synthetic Personalities: How Well Can LLMs Mimic Individual Respondents Using Socio-Economic Microdata?**|Leonard Kinzinger (tum.de) et.al.|[2606.04592](http://arxiv.org/abs/2606.04592)|null|
+|**2026-06-03**|**Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization**|Heng Cao (microsoft.com) et.al.|[2606.04547](http://arxiv.org/abs/2606.04547)|null|
+|**2026-06-03**|**Rethinking Sales Lead Scoring with LLM-based Hierarchical Preference Ranking**|Chenyu Zhang (outlook.com) et.al.|[2606.04387](http://arxiv.org/abs/2606.04387)|null|
+|**2026-06-03**|**Disentangling Answer Engine Optimization from Platform Growth: A Log-Based Natural Experiment on ChatGPT Referral Traffic**|Keisuke Watanabe (glasp.co) et.al.|[2606.04362](http://arxiv.org/abs/2606.04362)|null|
+|**2026-06-02**|**Sparse Mixture-of-Experts Reward Models Learn Interpretable and Specialized Experts for Personalized Preference Modeling**|Yifan Wang (lst.uni-saarland.de) et.al.|[2606.04284](http://arxiv.org/abs/2606.04284)|null|
+|**2026-06-02**|**SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice**|Tianfu Wang (connect.hkust) et.al.|[2606.04155](http://arxiv.org/abs/2606.04155)|null|
+|**2026-06-02**|**SaliMory: Orchestrating Cognitive Memory for Conversational Agents**|Kai Zhang (meta.com) et.al.|[2606.04120](http://arxiv.org/abs/2606.04120)|null|
 |**2026-06-02**|**From 'What' to 'How' and 'Why': Sharing LLM-Generated Retrospective Summaries of Older Adults' Passive Tracking Data with Remote Family Members**|Jiachen Li (acm.org) et.al.|[2606.03876](http://arxiv.org/abs/2606.03876)|null|
 |**2026-06-02**|**Taiji: Pareto Optimal Policy Optimization with Semantics-IDs Trade-off for Industrial LLM-Enhanced Recommendation**|Yuecheng Li (gmail.com) et.al.|[2606.03866](http://arxiv.org/abs/2606.03866)|null|
 |**2026-06-02**|**Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting**|Georgios Tsoumplekas et.al.|[2606.03792](http://arxiv.org/abs/2606.03792)|**[link](https://github.com/GeorgeTsoumplekas/Prompt-Aware-Multi-LoRA-Composition)**|
@@ -2367,6 +2405,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Streaming Communication in Multi-Agent Reasoning**|Zhen Yang (gmail.com) et.al.|[2606.05158](http://arxiv.org/abs/2606.05158)|**[link](https://zhenyangcs.github.io/StreamMA-website/)**|
+|**2026-06-03**|**Activation-Based Active Learning for In-Context Learning: Challenges and Insights**|Yaseen M. Osman (soton.ac.uk) et.al.|[2606.05134](http://arxiv.org/abs/2606.05134)|null|
+|**2026-06-03**|**Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases**|Cheng Liang (sjtu.edu.cn) et.al.|[2606.05112](http://arxiv.org/abs/2606.05112)|null|
+|**2026-06-03**|**Arithmetic Pedagogy for Language Models**|Andhika Bernard Lumbantobing (compsoc.bandungfe.net) et.al.|[2606.05106](http://arxiv.org/abs/2606.05106)|null|
+|**2026-06-03**|**Automatic Generation of Titles for Research Papers Using Language Models**|Tohida Rehman (jadavpuruniversity.in) et.al.|[2606.05085](http://arxiv.org/abs/2606.05085)|null|
+|**2026-06-03**|**RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation**|Nikodem Tomczak et.al.|[2606.04628](http://arxiv.org/abs/2606.04628)|null|
+|**2026-06-03**|**Disentangling Answer Engine Optimization from Platform Growth: A Log-Based Natural Experiment on ChatGPT Referral Traffic**|Keisuke Watanabe (glasp.co) et.al.|[2606.04362](http://arxiv.org/abs/2606.04362)|null|
+|**2026-06-02**|**Long Live Fine-Tuning: Task-Specific Transformers Outperform Zero-Shot LLMs for Misinformation Response Classification on Reddit**|JooYoung Lee (uts.edu.au) et.al.|[2606.04274](http://arxiv.org/abs/2606.04274)|null|
+|**2026-06-02**|**Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models**|Jianguo Zhu et.al.|[2606.04109](http://arxiv.org/abs/2606.04109)|null|
 |**2026-06-02**|**Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill**|Tao Chen et.al.|[2606.03980](http://arxiv.org/abs/2606.03980)|**[link](https://github.com/Qwen-Applications/Skill-RM)**|
 |**2026-06-02**|**Knowledge Editing in Masked Diffusion Language Models**|Haewon Park (snu.ac.kr) et.al.|[2606.03924](http://arxiv.org/abs/2606.03924)|null|
 |**2026-06-02**|**PyraMathBench: Evaluating and Improving Mathematical Capability in Large Language Models**|Zetian Ouyang (stu.ecnu.edu.cn) et.al.|[2606.03858](http://arxiv.org/abs/2606.03858)|null|
