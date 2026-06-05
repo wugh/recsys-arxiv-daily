@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.04
+## Updated on 2026.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -1603,6 +1603,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**OneReason Technical Report**| OneRec Team et.al.|[2606.06260](http://arxiv.org/abs/2606.06260)|null|
+|**2026-06-04**|**Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning**|Jiahao Zeng (connect.hkust-gz.edu.cn) et.al.|[2606.06178](http://arxiv.org/abs/2606.06178)|null|
+|**2026-06-04**|**Evaluating Stochastic Collapse and Implicit Bias in Multimodal Large Language Models**|Huiyuan Zheng (fudan.edu.cn) et.al.|[2606.05874](http://arxiv.org/abs/2606.05874)|null|
+|**2026-06-04**|**Statistical Priors for Implicit Preferences: Decoupling Skill Selection as a Local Harness in Personal Agents**|Zeyu Gan (ruc.edu.cn) et.al.|[2606.05828](http://arxiv.org/abs/2606.05828)|null|
+|**2026-06-04**|**CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement**|Hong Qian (tencent.com) et.al.|[2606.05793](http://arxiv.org/abs/2606.05793)|null|
+|**2026-06-03**|**Self-supervised User Profile Generation for Personalization**|Clark Mingxuan Ju (snap.com) et.al.|[2606.05336](http://arxiv.org/abs/2606.05336)|null|
+|**2026-06-03**|**A Model of Multi-turn Human Persuadability Using Probabilistic Belief Tracing**|Jared Moore (stanford.edu) et.al.|[2606.05330](http://arxiv.org/abs/2606.05330)|null|
+|**2026-06-03**|**Scaling Laws for Behavioral Foundation Models over User Event Sequences**|Rickard Brüel Gabrielsson (unboxai.com) et.al.|[2606.05257](http://arxiv.org/abs/2606.05257)|null|
 |**2026-06-03**|**NoRA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning**|Sichao Li (jhu.edu) et.al.|[2606.04806](http://arxiv.org/abs/2606.04806)|null|
 |**2026-06-03**|**PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents**|Yubo Hou (buaa.edu.cn) et.al.|[2606.04780](http://arxiv.org/abs/2606.04780)|null|
 |**2026-06-03**|**Synthetic Personalities: How Well Can LLMs Mimic Individual Respondents Using Socio-Economic Microdata?**|Leonard Kinzinger (tum.de) et.al.|[2606.04592](http://arxiv.org/abs/2606.04592)|null|
@@ -2405,12 +2413,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill**|Mehmet Iscan (yildiz.edu.tr) et.al.|[2606.06454](http://arxiv.org/abs/2606.06454)|null|
+|**2026-06-04**|**From Self to Other: Evaluating Demographic Perspective-Taking in LLM Hate Speech Annotation**|Paloma Piot (udc.es) et.al.|[2606.06266](http://arxiv.org/abs/2606.06266)|null|
+|**2026-06-04**|**Better Literary Translation: A Multi-Aspect Data Generation and LLM Training Approach**|Zhihao Lin (amazon.com) et.al.|[2606.05924](http://arxiv.org/abs/2606.05924)|null|
+|**2026-06-04**|**Evaluating Stochastic Collapse and Implicit Bias in Multimodal Large Language Models**|Huiyuan Zheng (fudan.edu.cn) et.al.|[2606.05874](http://arxiv.org/abs/2606.05874)|null|
+|**2026-06-04**|**TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization**|Liting Zhang (mail.nankai.edu.cn) et.al.|[2606.05859](http://arxiv.org/abs/2606.05859)|**[link](https://github.com/NKU-LITI/TARPO-master)**|
+|**2026-06-04**|**ProSPy: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL**|Zhaorui Yang et.al.|[2606.05836](http://arxiv.org/abs/2606.05836)|null|
+|**2026-06-04**|**PlanBench-V: A Spatial Planning Map Benchmark for Vision-Language Models**|Minxin Chen (tongji.edu.cn) et.al.|[2606.05744](http://arxiv.org/abs/2606.05744)|**[link](https://plangpt.github.io)**|
+|**2026-06-04**|**Using Large Language Models to Support High Volume Application Review for an Undergraduate Research Program**|Varun Aggarwal et.al.|[2606.05564](http://arxiv.org/abs/2606.05564)|null|
+|**2026-06-03**|**Localizing Prompt Ambiguity in Large Language Models with Probe-Targeted Attribution**|Govind Ramesh (gatech.edu) et.al.|[2606.05486](http://arxiv.org/abs/2606.05486)|null|
+|**2026-06-03**|**Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison**|Alejandro Lozano (mayo.edu) et.al.|[2606.05436](http://arxiv.org/abs/2606.05436)|null|
+|**2026-06-03**|**ReasoningFlow: Discourse Structures for Understanding LLM Reasoning Traces**|Jinu Lee (illinois.edu) et.al.|[2606.05402](http://arxiv.org/abs/2606.05402)|**[link](https://github.com/jinulee-v/reasoningflow)**|
+|**2026-06-03**|**Trajectory Dynamics in Language Model Hidden States Predict Human Processing Costs Beyond Surprisal**|Elan Barenholtz (fau.edu) et.al.|[2606.05346](http://arxiv.org/abs/2606.05346)|null|
+|**2026-06-03**|**LoRi: Low-Rank Distillation for Implicit Reasoning**|Ryan Solgi (ucsb.edu) et.al.|[2606.05315](http://arxiv.org/abs/2606.05315)|null|
+|**2026-06-03**|**Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference**|Abhishek Divekar (amazon.com) et.al.|[2606.05308](http://arxiv.org/abs/2606.05308)|null|
 |**2026-06-03**|**Streaming Communication in Multi-Agent Reasoning**|Zhen Yang (gmail.com) et.al.|[2606.05158](http://arxiv.org/abs/2606.05158)|**[link](https://zhenyangcs.github.io/StreamMA-website/)**|
 |**2026-06-03**|**Activation-Based Active Learning for In-Context Learning: Challenges and Insights**|Yaseen M. Osman (soton.ac.uk) et.al.|[2606.05134](http://arxiv.org/abs/2606.05134)|null|
 |**2026-06-03**|**Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases**|Cheng Liang (sjtu.edu.cn) et.al.|[2606.05112](http://arxiv.org/abs/2606.05112)|null|
 |**2026-06-03**|**Arithmetic Pedagogy for Language Models**|Andhika Bernard Lumbantobing (compsoc.bandungfe.net) et.al.|[2606.05106](http://arxiv.org/abs/2606.05106)|null|
 |**2026-06-03**|**Automatic Generation of Titles for Research Papers Using Language Models**|Tohida Rehman (jadavpuruniversity.in) et.al.|[2606.05085](http://arxiv.org/abs/2606.05085)|null|
 |**2026-06-03**|**RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation**|Nikodem Tomczak et.al.|[2606.04628](http://arxiv.org/abs/2606.04628)|null|
+|**2026-06-04**|**Context-as-AI-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation**|Ameya Gawde (meta.com) et.al.|[2606.04397](http://arxiv.org/abs/2606.04397)|null|
 |**2026-06-03**|**Disentangling Answer Engine Optimization from Platform Growth: A Log-Based Natural Experiment on ChatGPT Referral Traffic**|Keisuke Watanabe (glasp.co) et.al.|[2606.04362](http://arxiv.org/abs/2606.04362)|null|
 |**2026-06-02**|**Long Live Fine-Tuning: Task-Specific Transformers Outperform Zero-Shot LLMs for Misinformation Response Classification on Reddit**|JooYoung Lee (uts.edu.au) et.al.|[2606.04274](http://arxiv.org/abs/2606.04274)|null|
 |**2026-06-02**|**Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models**|Jianguo Zhu et.al.|[2606.04109](http://arxiv.org/abs/2606.04109)|null|
