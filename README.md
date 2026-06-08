@@ -1,4 +1,4 @@
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies**|Ekaterina Grishina (edu.hse.ru) et.al.|[2606.07492](http://arxiv.org/abs/2606.07492)|null|
+|**2026-06-05**|**CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac Electrophysiology Simulations**|Ryan Missel et.al.|[2606.07488](http://arxiv.org/abs/2606.07488)|null|
+|**2026-06-05**|**Time series Foundation Models based on Physics-Informed Synthetic Histories for Cold-Start Photovoltaic Forecasting**|Lorenzo Longarini (gmail.com) et.al.|[2606.07457](http://arxiv.org/abs/2606.07457)|null|
+|**2026-06-05**|**PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams**|Fuqiang Wang et.al.|[2606.07454](http://arxiv.org/abs/2606.07454)|null|
+|**2026-06-05**|**Breaking the Ice: Analyzing Cold Start Latency in vLLM**|Huzaifa Shaaban Kabakibo (uni-paderborn.de) et.al.|[2606.07362](http://arxiv.org/abs/2606.07362)|**[link](https://github.com/upb-cn/vllm-startup-profiler)**|
+|**2026-06-05**|**Gated Bidirectional Linear Attention for Generative Retrieval**|Artem Matveev (yandex.ru) et.al.|[2606.07317](http://arxiv.org/abs/2606.07317)|null|
+|**2026-06-05**|**When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations**|Mahdi Alkaeed (qu.edu.qa) et.al.|[2606.07237](http://arxiv.org/abs/2606.07237)|null|
+|**2026-06-05**|**RISE: A Rust Library for Inverted Index Search Engines**|Angelo Savino (studenti.unipi.it) et.al.|[2606.07187](http://arxiv.org/abs/2606.07187)|null|
+|**2026-06-05**|**Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models**|Dewi Gould (gmail.com) et.al.|[2606.07157](http://arxiv.org/abs/2606.07157)|null|
+|**2026-06-05**|**Decision-Aware Evaluation of Physics-Informed Surrogates**|Daniel Cieślak (pg.edu.pl) et.al.|[2606.07146](http://arxiv.org/abs/2606.07146)|**[link](https://github.com/Dyniel/pinn-gym)**|
+|**2026-06-05**|**Decision-Theoretic Stopping Rules for Document Screening**|Aaron H. A. Fletcher (sheffield.ac.uk) et.al.|[2606.07071](http://arxiv.org/abs/2606.07071)|null|
+|**2026-06-05**|**Bias in Filter Feature Selection Evaluation: A Meta-Analysis of Datasets, Baselines, and Experimental Design Choices**|Malick Ebiele (adaptcentre.ie) et.al.|[2606.07068](http://arxiv.org/abs/2606.07068)|null|
+|**2026-06-05**|**TrioPose: Native Triple-Stream Diffusion Transformers for Pose-Guided Text-to-Image Generation**|Dian Gu (ia.ac.cn) et.al.|[2606.07053](http://arxiv.org/abs/2606.07053)|null|
+|**2026-06-05**|**SSRLive: Live Streaming Recommendation with Dynamic Semantic ID**|Teng Shi (alibaba-inc.com) et.al.|[2606.06970](http://arxiv.org/abs/2606.06970)|null|
+|**2026-06-05**|**DREAM: Dynamic Refinement of Early Assignment Mappings**|Liwei Guan (kuaishou.com) et.al.|[2606.06947](http://arxiv.org/abs/2606.06947)|null|
+|**2026-06-05**|**The Fine-Tuning Trap: Evaluating Negative Transfer and the Role of PEFT in Sub-1B Mathematical Reasoning**|Rahul Nair (gmail.com) et.al.|[2606.06920](http://arxiv.org/abs/2606.06920)|**[link](https://github.com/gulguluu/tiny-slm-finetune-compare)**|
+|**2026-06-05**|**Modeling Nonlinear Feature Interactions with Product-Unit Residual Networks**|Ziyuan Li (hs-koblenz.de) et.al.|[2606.06861](http://arxiv.org/abs/2606.06861)|null|
+|**2026-06-05**|**Lane Change Trajectory Planning for Personalized Driving Comfort and Mobility Efficiency**|Haoxuan Dong (foxmail.com) et.al.|[2606.06805](http://arxiv.org/abs/2606.06805)|null|
+|**2026-06-04**|**Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations**|Nimesh Sinha (doordash.com) et.al.|[2606.06779](http://arxiv.org/abs/2606.06779)|null|
+|**2026-06-04**|**PromptPrint: Behavioral Biometrics Through Natural Language Prompting in LLMs**|Shaiv Patel (jh.edu) et.al.|[2606.06755](http://arxiv.org/abs/2606.06755)|null|
+|**2026-06-04**|**The Geography of Algorithmic Judgment: LLM Intermediaries, Place Identity, and Racial Steering in Housing Search**|Hana Samad (nationalfairhousing.org) et.al.|[2606.06694](http://arxiv.org/abs/2606.06694)|null|
+|**2026-06-04**|**Re-Centering Humans in LLM Personalization**|Lechen Zhang (illinois.edu) et.al.|[2606.06614](http://arxiv.org/abs/2606.06614)|null|
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri (stanford.edu) et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|null|
 |**2026-06-04**|**Risk Assessment of Autonomous Driving: Integrating Technical Failures, Ethical Dilemmas, and Policy Frameworks**|Boyi Chen (mcmaster.ca) et.al.|[2606.06396](http://arxiv.org/abs/2606.06396)|null|
 |**2026-06-04**|**OneReason Technical Report**| OneRec Team et.al.|[2606.06260](http://arxiv.org/abs/2606.06260)|null|
@@ -1628,12 +1650,17 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations**|Mahdi Alkaeed (qu.edu.qa) et.al.|[2606.07237](http://arxiv.org/abs/2606.07237)|null|
+|**2026-06-05**|**The Fine-Tuning Trap: Evaluating Negative Transfer and the Role of PEFT in Sub-1B Mathematical Reasoning**|Rahul Nair (gmail.com) et.al.|[2606.06920](http://arxiv.org/abs/2606.06920)|**[link](https://github.com/gulguluu/tiny-slm-finetune-compare)**|
+|**2026-06-04**|**Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations**|Nimesh Sinha (doordash.com) et.al.|[2606.06779](http://arxiv.org/abs/2606.06779)|null|
+|**2026-06-04**|**The Geography of Algorithmic Judgment: LLM Intermediaries, Place Identity, and Racial Steering in Housing Search**|Hana Samad (nationalfairhousing.org) et.al.|[2606.06694](http://arxiv.org/abs/2606.06694)|null|
+|**2026-06-04**|**Re-Centering Humans in LLM Personalization**|Lechen Zhang (illinois.edu) et.al.|[2606.06614](http://arxiv.org/abs/2606.06614)|null|
 |**2026-06-04**|**Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads**|Yasmine Omri (stanford.edu) et.al.|[2606.06448](http://arxiv.org/abs/2606.06448)|null|
 |**2026-06-04**|**OneReason Technical Report**| OneRec Team et.al.|[2606.06260](http://arxiv.org/abs/2606.06260)|null|
 |**2026-06-04**|**Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning**|Jiahao Zeng (connect.hkust-gz.edu.cn) et.al.|[2606.06178](http://arxiv.org/abs/2606.06178)|null|
@@ -2449,12 +2476,31 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning**|Fatema Siddika (iastate.edu) et.al.|[2606.07500](http://arxiv.org/abs/2606.07500)|null|
+|**2026-06-05**|**Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification**|Sercan Karakaş (uchicago.edu) et.al.|[2606.07479](http://arxiv.org/abs/2606.07479)|null|
+|**2026-06-05**|**Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle**|Jiayu Wang et.al.|[2606.07462](http://arxiv.org/abs/2606.07462)|**[link](https://github.com/AARR-bench/AARRI-bench)**|
+|**2026-06-05**|**A Comprehensive Anatomy of Human and DeepSeek-R1 LLM Mathematical Reasoning**|Yuxiang Chen (cs.ucl.ac.uk) et.al.|[2606.07410](http://arxiv.org/abs/2606.07410)|null|
+|**2026-06-05**|**LLM-Guided Evolution for Medical Decision Pipelines**|Ivan Sviridov (gmail.com) et.al.|[2606.07342](http://arxiv.org/abs/2606.07342)|**[link](https://github.com/univanxx/llm_guided_evo_medical)**|
+|**2026-06-05**|**When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations**|Mahdi Alkaeed (qu.edu.qa) et.al.|[2606.07237](http://arxiv.org/abs/2606.07237)|null|
+|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli (mpi-sp.org) et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|null|
+|**2026-06-05**|**UrduMMLU: A Massive Multitask Benchmark for Urdu Language Understanding**|Ahmer Tabassum (mbzuai.ac.ae) et.al.|[2606.07167](http://arxiv.org/abs/2606.07167)|null|
+|**2026-06-05**|**SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Scaling Matrices**|Ernests Lavrinovics (cs.aau.dk) et.al.|[2606.07098](http://arxiv.org/abs/2606.07098)|null|
+|**2026-06-05**|**Beyond Rubrics: Exploration-Guided Evaluation Skills for Reward Modeling**|Xing Yue (zju.edu.cn) et.al.|[2606.07040](http://arxiv.org/abs/2606.07040)|**[link](https://github.com/xing-stellus-yue/Eval-Skill)**|
+|**2026-06-05**|**ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning**|Vladislav Smirnov (mbzuai.ac.ae) et.al.|[2606.06915](http://arxiv.org/abs/2606.06915)|null|
+|**2026-06-05**|**TALAN: Task-Aligned Latent Adaptation Networks for Targeted Post-Training of Large Language Models**|Chengkai Zhang (meta.com) et.al.|[2606.06902](http://arxiv.org/abs/2606.06902)|null|
+|**2026-06-05**|**Towards Retrieving Interaction Spaces for Agentic Search**|Shengyao Zhuang (gmail.com) et.al.|[2606.06880](http://arxiv.org/abs/2606.06880)|null|
+|**2026-06-05**|**Explain Like I'm 5 or Whatever I Choose: Evaluating the Interactive Potential of Language Model Responses**|Indu Panigrahi (illinois.edu) et.al.|[2606.06788](http://arxiv.org/abs/2606.06788)|null|
+|**2026-06-04**|**A Four-Condition Diagnostic Protocol for Evidence Utilization in Long-Context and Retrieval-Augmented Language Models**|Haizhou Xia et.al.|[2606.06758](http://arxiv.org/abs/2606.06758)|null|
+|**2026-06-04**|**Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection**|Jianru Shen (umconnect.umt.edu) et.al.|[2606.06748](http://arxiv.org/abs/2606.06748)|null|
+|**2026-06-04**|**Does Topic Sentiment Cause Perceived Ideology? Comparing Human and LLM Annotations in Political News Articles**|Upasana Chatterjee (columbia.edu) et.al.|[2606.06715](http://arxiv.org/abs/2606.06715)|null|
+|**2026-06-04**|**The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment**|Jiachen Zhao (northeastern.edu) et.al.|[2606.06667](http://arxiv.org/abs/2606.06667)|null|
+|**2026-06-04**|**Improving Cross-Lingual Factual Recall via Consistency-Driven Reinforcement Learning**|Jonathan von Rad (ucl.ac.uk) et.al.|[2606.06586](http://arxiv.org/abs/2606.06586)|null|
 |**2026-06-04**|**PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training**|Senmiao Wang (link.cuhk.edu.cn) et.al.|[2606.06470](http://arxiv.org/abs/2606.06470)|**[link](https://github.com/Empath-aln/PC-layer)**|
 |**2026-06-04**|**Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals**|Thamilvendhan Munirathinam (gmail.com) et.al.|[2606.06460](http://arxiv.org/abs/2606.06460)|**[link](https://github.com/mthamil107/Recuse)**|
 |**2026-06-04**|**Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill**|Mehmet Iscan (yildiz.edu.tr) et.al.|[2606.06454](http://arxiv.org/abs/2606.06454)|null|
@@ -6538,7 +6584,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
