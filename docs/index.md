@@ -2,17 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models**|Rei Minamoto (nii.ac.jp) et.al.|[2606.12114](http://arxiv.org/abs/2606.12114)|null|
+|**2026-06-10**|**Categorical Robustness Assessment for Machine Learning based Network Intrusion Detection Systems**|Mayank Raj (umassd.edu) et.al.|[2606.12075](http://arxiv.org/abs/2606.12075)|null|
+|**2026-06-10**|**Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews**|Kuo-En Hung (ntnu.edu.tw) et.al.|[2606.11930](http://arxiv.org/abs/2606.11930)|null|
+|**2026-06-10**|**Substrate Asymmetry in User-Side Memory: A Diagnostic Framework**|Youwang Deng (gmail.com) et.al.|[2606.11712](http://arxiv.org/abs/2606.11712)|**[link](https://github.com/EpistemicaLab/substrate-asymmetry-memory)**|
+|**2026-06-10**|**ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation**|Zijie Meng (stu.pku.edu.cn) et.al.|[2606.11670](http://arxiv.org/abs/2606.11670)|null|
+|**2026-06-10**|**Learning Instance-Adaptive Low-Rank Orthogonal Subspaces for Clothes-Changing Person Re-Identification**|Dong-Woo Kim (kaist.ac.kr) et.al.|[2606.11661](http://arxiv.org/abs/2606.11661)|null|
+|**2026-06-10**|**The Long Tail, Not the Front Page: Cold-Start Prediction of Crowd Highlight Salience**|Kazuki Nakayashiki (glasp.co) et.al.|[2606.11654](http://arxiv.org/abs/2606.11654)|null|
+|**2026-06-10**|**TAROT: Task-Adaptive Refinement of LLM-prior Graphs for Few-shot Tabular Learning**|Ruxue Shi (mails.jlu.edu.cn) et.al.|[2606.11640](http://arxiv.org/abs/2606.11640)|null|
+|**2026-06-10**|**DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors**|Jiale Deng (sjtu.edu.cn) et.al.|[2606.11616](http://arxiv.org/abs/2606.11616)|**[link](https://github.com/SJTU-DMTai/DeMix)**|
+|**2026-06-10**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol (newcastle.ac.uk) et.al.|[2606.11556](http://arxiv.org/abs/2606.11556)|null|
+|**2026-06-09**|**Evaluating and Combating the Impact of Concept Drift on the Performance of Machine Learning-Based Phishing Detection Systems**|Warren Fernando et.al.|[2606.11471](http://arxiv.org/abs/2606.11471)|null|
+|**2026-06-09**|**When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval**|Nabaraj Subedi (uwyo.edu) et.al.|[2606.11350](http://arxiv.org/abs/2606.11350)|null|
+|**2026-06-09**|**FADA: Accessible fetal ultrasound interpretation and annotation with a selectively distilled unified vision-language model**|Mahmood Alzubaidi (hbku.edu.qa) et.al.|[2606.11106](http://arxiv.org/abs/2606.11106)|**[link](https://github.com/mahmoodphd/FADA)**|
+|**2026-06-10**|**Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models**|Peiqi Jia (gmail.com) et.al.|[2606.11074](http://arxiv.org/abs/2606.11074)|null|
+|**2026-06-09**|**Generative Archetype-Grounded Item Representations for Sequential Recommendation**|Yifan Li (cse.cuhk.edu.hk) et.al.|[2606.11023](http://arxiv.org/abs/2606.11023)|**[link](https://github.com/AI-Santiago/GenAIR)**|
+|**2026-06-09**|**Who Brought Easter Eggs to Eid? Auditing Cultural Translation of Math Word Problems Across Diverse Languages and Regions**|Parisa Suchdev et.al.|[2606.11009](http://arxiv.org/abs/2606.11009)|null|
 |**2026-06-09**|**Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions**|Kiarash Rezaei (chalmers.se) et.al.|[2606.10942](http://arxiv.org/abs/2606.10942)|null|
 |**2026-06-09**|**Range Penalization: Theoretical Insights with Applications in Federated Learning**|Yiyuan She et.al.|[2606.10916](http://arxiv.org/abs/2606.10916)|null|
 |**2026-06-09**|**From Prompt to Purchase: How AI Brand Recommendations Move Consumers on the Open Web**|Michael Iannelli (scrunchai.com) et.al.|[2606.10907](http://arxiv.org/abs/2606.10907)|null|
-|**2026-06-09**|**Large-scale semantic mapping of learner agency and autonomy reveals what measurement and generative AI research overlook**|Fei Qin et.al.|[2606.10881](http://arxiv.org/abs/2606.10881)|null|
+|**2026-06-09**|**Large-scale semantic mapping of learner agency and autonomy reveals what measurement and generative AI research overlook**|Fei Qin (tsinghua.edu.cn) et.al.|[2606.10881](http://arxiv.org/abs/2606.10881)|null|
 |**2026-06-09**|**Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data**|Anik Ghosh (gmail.com) et.al.|[2606.10789](http://arxiv.org/abs/2606.10789)|null|
 |**2026-06-09**|**Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting**|Guillermo Llopis (somaai.earth) et.al.|[2606.10660](http://arxiv.org/abs/2606.10660)|null|
 |**2026-06-09**|**NOVA: Symbolic Regression Discovery of Interpretable Car-Following and Lane-Change Models with Driver Heterogeneity**|Ishak Abassi (ensia.edu.dz) et.al.|[2606.10583](http://arxiv.org/abs/2606.10583)|null|
@@ -34,7 +50,7 @@ layout: default
 |**2026-06-08**|**Gaming AI-Assisted Peer Reviews Poses New Risks to the Scientific Community**|Lin Li et.al.|[2606.10159](http://arxiv.org/abs/2606.10159)|null|
 |**2026-06-08**|**$τ$ -Rec: A Verifiable Benchmark for Agentic Recommender Systems**|Bharath Sivaram Narasimhan (gmail.com) et.al.|[2606.10156](http://arxiv.org/abs/2606.10156)|**[link](https://github.com/nbharaths/tau-rec)**|
 |**2026-06-08**|**Pareto-Guided Teacher Alignment for Fair Personalized Text Generation**|Tunazzina Islam (purdue.edu) et.al.|[2606.10126](http://arxiv.org/abs/2606.10126)|null|
-|**2026-06-08**|**MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention**|Asiful Arefeen (asu.edu) et.al.|[2606.10120](http://arxiv.org/abs/2606.10120)|null|
+|**2026-06-10**|**MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention**|Asiful Arefeen (asu.edu) et.al.|[2606.10120](http://arxiv.org/abs/2606.10120)|null|
 |**2026-06-08**|**Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems**|Yaochen Zhu (virginia.edu) et.al.|[2606.10078](http://arxiv.org/abs/2606.10078)|**[link](https://github.com/yaochenzhu/Mult_DPO)**|
 |**2026-06-08**|**iOSWorld: A Benchmark for Personally Intelligent Phone Agents**|Lawrence Keunho Jang (cs.cmu.edu) et.al.|[2606.09764](http://arxiv.org/abs/2606.09764)|null|
 |**2026-06-08**|**PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models**|Gianluca Barmina (imada.sdu.dk) et.al.|[2606.09697](http://arxiv.org/abs/2606.09697)|null|
@@ -1708,6 +1724,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models**|Rei Minamoto (nii.ac.jp) et.al.|[2606.12114](http://arxiv.org/abs/2606.12114)|null|
+|**2026-06-10**|**Substrate Asymmetry in User-Side Memory: A Diagnostic Framework**|Youwang Deng (gmail.com) et.al.|[2606.11712](http://arxiv.org/abs/2606.11712)|**[link](https://github.com/EpistemicaLab/substrate-asymmetry-memory)**|
+|**2026-06-10**|**DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors**|Jiale Deng (sjtu.edu.cn) et.al.|[2606.11616](http://arxiv.org/abs/2606.11616)|**[link](https://github.com/SJTU-DMTai/DeMix)**|
+|**2026-06-09**|**When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval**|Nabaraj Subedi (uwyo.edu) et.al.|[2606.11350](http://arxiv.org/abs/2606.11350)|null|
+|**2026-06-09**|**FADA: Accessible fetal ultrasound interpretation and annotation with a selectively distilled unified vision-language model**|Mahmood Alzubaidi (hbku.edu.qa) et.al.|[2606.11106](http://arxiv.org/abs/2606.11106)|**[link](https://github.com/mahmoodphd/FADA)**|
+|**2026-06-10**|**Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models**|Peiqi Jia (gmail.com) et.al.|[2606.11074](http://arxiv.org/abs/2606.11074)|null|
+|**2026-06-09**|**Generative Archetype-Grounded Item Representations for Sequential Recommendation**|Yifan Li (cse.cuhk.edu.hk) et.al.|[2606.11023](http://arxiv.org/abs/2606.11023)|**[link](https://github.com/AI-Santiago/GenAIR)**|
+|**2026-06-09**|**Who Brought Easter Eggs to Eid? Auditing Cultural Translation of Math Word Problems Across Diverse Languages and Regions**|Parisa Suchdev et.al.|[2606.11009](http://arxiv.org/abs/2606.11009)|null|
 |**2026-06-09**|**Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data**|Anik Ghosh (gmail.com) et.al.|[2606.10789](http://arxiv.org/abs/2606.10789)|null|
 |**2026-06-09**|**NOVA: Symbolic Regression Discovery of Interpretable Car-Following and Lane-Change Models with Driver Heterogeneity**|Ishak Abassi (ensia.edu.dz) et.al.|[2606.10583](http://arxiv.org/abs/2606.10583)|null|
 |**2026-06-09**|**Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting**|Kazuki Nakayashiki (glasp.co) et.al.|[2606.10398](http://arxiv.org/abs/2606.10398)|null|
@@ -1717,7 +1741,7 @@ layout: default
 |**2026-06-09**|**TabClaw: An Interactive and Self-Evolving Agent for Spreadsheet Manipulation and Table Reasoning**|Mingyue Cheng (ustc.edu.cn) et.al.|[2606.10316](http://arxiv.org/abs/2606.10316)|null|
 |**2026-06-09**|**Catching One in Five: LLM-as-Judge Blind Spots in Production Multi-Turn Transaction Agents**|Sawyer Zhang (lumivate.io) et.al.|[2606.10315](http://arxiv.org/abs/2606.10315)|null|
 |**2026-06-08**|**$τ$ -Rec: A Verifiable Benchmark for Agentic Recommender Systems**|Bharath Sivaram Narasimhan (gmail.com) et.al.|[2606.10156](http://arxiv.org/abs/2606.10156)|**[link](https://github.com/nbharaths/tau-rec)**|
-|**2026-06-08**|**MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention**|Asiful Arefeen (asu.edu) et.al.|[2606.10120](http://arxiv.org/abs/2606.10120)|null|
+|**2026-06-10**|**MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention**|Asiful Arefeen (asu.edu) et.al.|[2606.10120](http://arxiv.org/abs/2606.10120)|null|
 |**2026-06-08**|**Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems**|Yaochen Zhu (virginia.edu) et.al.|[2606.10078](http://arxiv.org/abs/2606.10078)|**[link](https://github.com/yaochenzhu/Mult_DPO)**|
 |**2026-06-08**|**PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models**|Gianluca Barmina (imada.sdu.dk) et.al.|[2606.09697](http://arxiv.org/abs/2606.09697)|null|
 |**2026-06-08**|**Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery**|Suraj Biswas (dotsin.ai) et.al.|[2606.09672](http://arxiv.org/abs/2606.09672)|null|
@@ -2568,6 +2592,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System**|Zi Haur Pang (sap.ist.i.kyoto-u-ac.jp) et.al.|[2606.11875](http://arxiv.org/abs/2606.11875)|**[link](https://github.com/zihaurpang/Multilingual-Emotional-Validation)**|
+|**2026-06-10**|**Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training**|Michal Chudoba (uis.no) et.al.|[2606.11854](http://arxiv.org/abs/2606.11854)|null|
+|**2026-06-10**|**Mind the Perspective: Let's Reason Recursively for Theory of Mind**|Chao Lei (student.unimelb.edu.au) et.al.|[2606.11724](http://arxiv.org/abs/2606.11724)|null|
+|**2026-06-10**|**ICA Lens: Interpreting Language Models Without Training Another Dictionary**|Sida Liu (liusida.com) et.al.|[2606.11722](http://arxiv.org/abs/2606.11722)|null|
+|**2026-06-10**|**Substrate Asymmetry in User-Side Memory: A Diagnostic Framework**|Youwang Deng (gmail.com) et.al.|[2606.11712](http://arxiv.org/abs/2606.11712)|**[link](https://github.com/EpistemicaLab/substrate-asymmetry-memory)**|
+|**2026-06-10**|**Improving Cross-Format Robustness in Language Models with Multi-Format Training**|June M. Liu (antgroup.com) et.al.|[2606.11643](http://arxiv.org/abs/2606.11643)|null|
+|**2026-06-10**|**3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry**|Naoki Kimura (lycorp.co.jp) et.al.|[2606.11642](http://arxiv.org/abs/2606.11642)|null|
+|**2026-06-10**|**Multi-Agent Reasoning with Adaptive Worker Allocation for Stance Detection**|Meysam Sabbaghan et.al.|[2606.11609](http://arxiv.org/abs/2606.11609)|null|
+|**2026-06-09**|**When Roleplaying, Do Models Believe What They Say?**|Benjamin Sturgeon (gmail.com) et.al.|[2606.11502](http://arxiv.org/abs/2606.11502)|null|
+|**2026-06-09**|**The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes**|Avinash Anand (singaporetech.edu.sg) et.al.|[2606.11470](http://arxiv.org/abs/2606.11470)|null|
+|**2026-06-09**|**APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection**|Fei Wang (google.com) et.al.|[2606.11459](http://arxiv.org/abs/2606.11459)|null|
+|**2026-06-09**|**AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable**|Meysam Alizadeh et.al.|[2606.11456](http://arxiv.org/abs/2606.11456)|null|
+|**2026-06-09**|**AI Coding Agents Can Reproduce Social Science Findings**|Meysam Alizadeh et.al.|[2606.11447](http://arxiv.org/abs/2606.11447)|null|
+|**2026-06-09**|**RoVE: Rotary Value Embeddings Attention for Relative Position-dependent Value Pathways**|Alejandro García-Castellanos (uva.nl) et.al.|[2606.11275](http://arxiv.org/abs/2606.11275)|null|
+|**2026-06-09**|**Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation**|Uwe Konig (gmx.net) et.al.|[2606.11270](http://arxiv.org/abs/2606.11270)|null|
+|**2026-06-09**|**PermDoRA -- Understanding Adapter Interference in Language Models: Limits of Parameter-Space Geometry**|Gowtham Sivaramakrishnan (berkeley.edu) et.al.|[2606.11262](http://arxiv.org/abs/2606.11262)|null|
+|**2026-06-09**|**Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite**|Zhiyuan Cheng (stanford.edu) et.al.|[2606.11257](http://arxiv.org/abs/2606.11257)|null|
+|**2026-06-09**|**EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents**|Weixian Xu et.al.|[2606.11182](http://arxiv.org/abs/2606.11182)|null|
+|**2026-06-09**|**ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models**|Wenhao Liu (cityu.edu.hk) et.al.|[2606.11164](http://arxiv.org/abs/2606.11164)|null|
+|**2026-06-09**|**ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity**|Andrew Bo Liu (securebio.org) et.al.|[2606.11150](http://arxiv.org/abs/2606.11150)|null|
+|**2026-06-09**|**The Shibboleth Effect: Auditing the Cross-Lingual Distributional Skew of Large Language Models**|Hakan Mehmetcik (marmara.edu.tr) et.al.|[2606.11082](http://arxiv.org/abs/2606.11082)|null|
+|**2026-06-09**|**Who Brought Easter Eggs to Eid? Auditing Cultural Translation of Math Word Problems Across Diverse Languages and Regions**|Parisa Suchdev et.al.|[2606.11009](http://arxiv.org/abs/2606.11009)|null|
 |**2026-06-09**|**Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages**|Aman Sharma (lossfunk.com) et.al.|[2606.10933](http://arxiv.org/abs/2606.10933)|null|
 |**2026-06-09**|**Recoverable but Not Stationary:Local Linear Structures in Weights and Activations**|Irina Piontkovskaia (logic.pdmi.ras.ru) et.al.|[2606.10929](http://arxiv.org/abs/2606.10929)|null|
 |**2026-06-09**|**Optimal Post-Training Quantization Scales and Where to Find Them**|Juan Amboage (amd.com) et.al.|[2606.10890](http://arxiv.org/abs/2606.10890)|null|
@@ -2602,7 +2648,7 @@ layout: default
 |**2026-06-08**|**In-Context Learning for the Imputation of Public Opinion Data with Large Language Models**|Tobias Holtdirk et.al.|[2606.09351](http://arxiv.org/abs/2606.09351)|null|
 |**2026-06-08**|**How Far Can Prompting Go for Minimal-Edit Ukrainian Grammatical Error Correction?**|Kateryna Karpo (gmail.com) et.al.|[2606.09334](http://arxiv.org/abs/2606.09334)|null|
 |**2026-06-08**|**The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection**|Hyunseok Paeng (naver.com) et.al.|[2606.09204](http://arxiv.org/abs/2606.09204)|null|
-|**2026-06-08**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang (gmail.com) et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|**[link](https://github.com/libertywing/FlashMemory-Deepseek-V4)**|
+|**2026-06-09**|**FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention**|Yan Wang (gmail.com) et.al.|[2606.09079](http://arxiv.org/abs/2606.09079)|**[link](https://github.com/libertywing/FlashMemory-Deepseek-V4)**|
 |**2026-06-08**|**An Effective Router for Vision-Language Model Selection**|Can Wang (stu.hit.edu.cn) et.al.|[2606.08970](http://arxiv.org/abs/2606.08970)|null|
 |**2026-06-08**|**Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops**|Ziqian Zhong (andrew.cmu.edu) et.al.|[2606.08960](http://arxiv.org/abs/2606.08960)|null|
 |**2026-06-08**|**NutriMLLM: Multimodal Large Language Models for Dietary Micronutrient Analysis**|Runze Yan (emory.edu) et.al.|[2606.08948](http://arxiv.org/abs/2606.08948)|null|
