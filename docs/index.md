@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.06.12
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao (meta.com) et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders**|Minghao Luo et.al.|[2606.13610](http://arxiv.org/abs/2606.13610)|**[link](https://github.com/leoluolol/forge-benchmark)**|
+|**2026-06-11**|**Is It You or Your Environment? A Bayesian Inference Framework for Genomically-Anchored Personalized Physiological Interpretation**|Aruna Dey (dotsin.ai) et.al.|[2606.13556](http://arxiv.org/abs/2606.13556)|null|
+|**2026-06-11**|**Ride, Track, and Recover: Pilot Randomized Trial of a Wearable Digital Self-Management Intervention During a Veteran Endurance-Cycling Program**|Alan Ta (tamu.edu) et.al.|[2606.13529](http://arxiv.org/abs/2606.13529)|null|
+|**2026-06-11**|**Heterogeneous LiDAR Early Fusion and Learned Re-Ranking Strategy for Robust Long-Term Place Recognition in Unstructured Environments**|Judith Vilella-Cantos (umh.es) et.al.|[2606.13503](http://arxiv.org/abs/2606.13503)|null|
 |**2026-06-11**|**Navigating the Safety-Fidelity Trade-off: Massive-Variate Time Series Forecasting for Power Systems via Probabilistic Scenarios**|Kaijie Xu (intl.zju.edu.cn) et.al.|[2606.13338](http://arxiv.org/abs/2606.13338)|null|
 |**2026-06-11**|**RogueAI: A Reverse Turing Test for Detecting Licensed AI Deception in Dialogue**|Sara Candussio (phd.units.it) et.al.|[2606.13310](http://arxiv.org/abs/2606.13310)|null|
 |**2026-06-11**|**Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes**|Anna-Maria Velentza et.al.|[2606.13256](http://arxiv.org/abs/2606.13256)|null|
@@ -1749,6 +1754,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders**|Minghao Luo et.al.|[2606.13610](http://arxiv.org/abs/2606.13610)|**[link](https://github.com/leoluolol/forge-benchmark)**|
 |**2026-06-11**|**RogueAI: A Reverse Turing Test for Detecting Licensed AI Deception in Dialogue**|Sara Candussio (phd.units.it) et.al.|[2606.13310](http://arxiv.org/abs/2606.13310)|null|
 |**2026-06-11**|**Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes**|Anna-Maria Velentza et.al.|[2606.13256](http://arxiv.org/abs/2606.13256)|null|
 |**2026-06-11**|**EPIG: Emotion-Based Prompting for Personalised Image Generation**|Emna Othmen (isitc.u-sousse.tn) et.al.|[2606.13247](http://arxiv.org/abs/2606.13247)|null|
@@ -2631,6 +2637,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents**|Yaxin Du (sjtu.edu.cn) et.al.|[2606.13663](http://arxiv.org/abs/2606.13663)|null|
+|**2026-06-11**|**Recursive Agent Harnesses**|Elias Lumer (pwc.com) et.al.|[2606.13643](http://arxiv.org/abs/2606.13643)|null|
+|**2026-06-11**|**A Three-Layer Framework for AI in Scientific Discovery**|Guojun Liao et.al.|[2606.13566](http://arxiv.org/abs/2606.13566)|null|
+|**2026-06-11**|**AgentRivet: an automated system for producing Rivet routines from journal publications**|Antonio J. Costa (cern.ch) et.al.|[2606.13535](http://arxiv.org/abs/2606.13535)|null|
 |**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|**[link](https://github.com/MiniMax-AI/MSA)**|
 |**2026-06-11**|**A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget**|Joe Dwyer (ecpi.edu) et.al.|[2606.13370](http://arxiv.org/abs/2606.13370)|null|
 |**2026-06-11**|**ERTS: Adversarial Robustness Testing of Ethical AI via Semantic Perturbation in a Bounded Consequence Space**|Pratyush Chaudhari et.al.|[2606.13282](http://arxiv.org/abs/2606.13282)|null|

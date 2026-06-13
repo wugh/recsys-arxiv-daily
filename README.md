@@ -1,4 +1,4 @@
-## Updated on 2026.06.12
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**|Zilin Xiao (meta.com) et.al.|[2606.13680](http://arxiv.org/abs/2606.13680)|null|
+|**2026-06-11**|**One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders**|Minghao Luo et.al.|[2606.13610](http://arxiv.org/abs/2606.13610)|**[link](https://github.com/leoluolol/forge-benchmark)**|
+|**2026-06-11**|**Is It You or Your Environment? A Bayesian Inference Framework for Genomically-Anchored Personalized Physiological Interpretation**|Aruna Dey (dotsin.ai) et.al.|[2606.13556](http://arxiv.org/abs/2606.13556)|null|
+|**2026-06-11**|**Ride, Track, and Recover: Pilot Randomized Trial of a Wearable Digital Self-Management Intervention During a Veteran Endurance-Cycling Program**|Alan Ta (tamu.edu) et.al.|[2606.13529](http://arxiv.org/abs/2606.13529)|null|
+|**2026-06-11**|**Heterogeneous LiDAR Early Fusion and Learned Re-Ranking Strategy for Robust Long-Term Place Recognition in Unstructured Environments**|Judith Vilella-Cantos (umh.es) et.al.|[2606.13503](http://arxiv.org/abs/2606.13503)|null|
 |**2026-06-11**|**Navigating the Safety-Fidelity Trade-off: Massive-Variate Time Series Forecasting for Power Systems via Probabilistic Scenarios**|Kaijie Xu (intl.zju.edu.cn) et.al.|[2606.13338](http://arxiv.org/abs/2606.13338)|null|
 |**2026-06-11**|**RogueAI: A Reverse Turing Test for Detecting Licensed AI Deception in Dialogue**|Sara Candussio (phd.units.it) et.al.|[2606.13310](http://arxiv.org/abs/2606.13310)|null|
 |**2026-06-11**|**Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes**|Anna-Maria Velentza et.al.|[2606.13256](http://arxiv.org/abs/2606.13256)|null|
@@ -1750,12 +1755,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders**|Minghao Luo et.al.|[2606.13610](http://arxiv.org/abs/2606.13610)|**[link](https://github.com/leoluolol/forge-benchmark)**|
 |**2026-06-11**|**RogueAI: A Reverse Turing Test for Detecting Licensed AI Deception in Dialogue**|Sara Candussio (phd.units.it) et.al.|[2606.13310](http://arxiv.org/abs/2606.13310)|null|
 |**2026-06-11**|**Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes**|Anna-Maria Velentza et.al.|[2606.13256](http://arxiv.org/abs/2606.13256)|null|
 |**2026-06-11**|**EPIG: Emotion-Based Prompting for Personalised Image Generation**|Emna Othmen (isitc.u-sousse.tn) et.al.|[2606.13247](http://arxiv.org/abs/2606.13247)|null|
@@ -2634,12 +2640,16 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents**|Yaxin Du (sjtu.edu.cn) et.al.|[2606.13663](http://arxiv.org/abs/2606.13663)|null|
+|**2026-06-11**|**Recursive Agent Harnesses**|Elias Lumer (pwc.com) et.al.|[2606.13643](http://arxiv.org/abs/2606.13643)|null|
+|**2026-06-11**|**A Three-Layer Framework for AI in Scientific Discovery**|Guojun Liao et.al.|[2606.13566](http://arxiv.org/abs/2606.13566)|null|
+|**2026-06-11**|**AgentRivet: an automated system for producing Rivet routines from journal publications**|Antonio J. Costa (cern.ch) et.al.|[2606.13535](http://arxiv.org/abs/2606.13535)|null|
 |**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|**[link](https://github.com/MiniMax-AI/MSA)**|
 |**2026-06-11**|**A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget**|Joe Dwyer (ecpi.edu) et.al.|[2606.13370](http://arxiv.org/abs/2606.13370)|null|
 |**2026-06-11**|**ERTS: Adversarial Robustness Testing of Ethical AI via Semantic Perturbation in a Bounded Consequence Space**|Pratyush Chaudhari et.al.|[2606.13282](http://arxiv.org/abs/2606.13282)|null|
@@ -6868,7 +6878,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
