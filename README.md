@@ -1,4 +1,4 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**AI-Assisted Computational Reproducibility on the FABRIC Testbed**|Komal Thareja et.al.|[2606.25879](http://arxiv.org/abs/2606.25879)|null|
+|**2026-06-24**|**AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search**|Md Omar Faruk Rokon (walmart.com) et.al.|[2606.25871](http://arxiv.org/abs/2606.25871)|null|
+|**2026-06-24**|**Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation**|Han Jeon (pwc.com) et.al.|[2606.25782](http://arxiv.org/abs/2606.25782)|null|
+|**2026-06-24**|**Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents**|Xushuo Tang (unsw.edu.au) et.al.|[2606.25632](http://arxiv.org/abs/2606.25632)|null|
+|**2026-06-24**|**Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale**|Yanhua Cheng et.al.|[2606.25496](http://arxiv.org/abs/2606.25496)|**[link](https://recommendation-as-generation.github.io/)**|
+|**2026-06-24**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao (veyon.solutions) et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
+|**2026-06-24**|**S2-CAR: Segmentation-Supervised Complexity-Adaptive Recommendation**|Linjiang Guo (eduhk.hk) et.al.|[2606.25415](http://arxiv.org/abs/2606.25415)|null|
+|**2026-06-24**|**Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions**|Kaicheng Shen (cc.edu.cn) et.al.|[2606.25396](http://arxiv.org/abs/2606.25396)|null|
+|**2026-06-24**|**Story Operators: Decomposing the Original $\to$ Sequel Transformation in Embedding Space**|W. Frederick Zimmerman (nimblebooks.com) et.al.|[2606.25379](http://arxiv.org/abs/2606.25379)|null|
+|**2026-06-24**|**Memory Makes the Difference: Evaluating How Different Memory Roles Shape Conversational Agents**|Yuxin Wang (dartmouth.edu) et.al.|[2606.25361](http://arxiv.org/abs/2606.25361)|null|
+|**2026-06-24**|**AI Coaching for Accelerating Human Skill Development with Reinforcement Learning**|Wei Wang (engineering.upenn.edu) et.al.|[2606.25337](http://arxiv.org/abs/2606.25337)|null|
+|**2026-06-24**|**Adaptive Re-Ranking**|Ata Cinar Genc (umass.edu) et.al.|[2606.25249](http://arxiv.org/abs/2606.25249)|null|
+|**2026-06-23**|**Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval**|Sachin Yadav (microsoft.com) et.al.|[2606.25237](http://arxiv.org/abs/2606.25237)|null|
+|**2026-06-23**|**Neural operator-based digital twins for modeling amyloid- $β$ and tau propagation and treatment optimization in Alzheimer's disease**|Xiaofeng Xu (psu.edu) et.al.|[2606.25185](http://arxiv.org/abs/2606.25185)|null|
+|**2026-06-23**|**TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory**|Tianyu Yang et.al.|[2606.25161](http://arxiv.org/abs/2606.25161)|null|
+|**2026-06-23**|**Proactive Systems in HCI and AI: Concepts, Challenges, and Opportunities**|Nima Zargham (utoronto.ca) et.al.|[2606.25149](http://arxiv.org/abs/2606.25149)|null|
+|**2026-06-23**|**TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems**|Qingyun Liu (google.com) et.al.|[2606.25147](http://arxiv.org/abs/2606.25147)|null|
+|**2026-06-23**|**From Forecasting Leaderboards to Deployment Decisions: A Fail-Closed Certification Protocol**|Geumyoung Kim (chungbuk.ac.kr) et.al.|[2606.24996](http://arxiv.org/abs/2606.24996)|null|
+|**2026-06-23**|**Retrieval-Augmented Personalization with Foundation Models for Wearable Stress Detection**|Louis Simon (isir.upmc.fr) et.al.|[2606.24985](http://arxiv.org/abs/2606.24985)|null|
+|**2026-06-23**|**Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration**|Pietro Tropeano (di.ku.dk) et.al.|[2606.24970](http://arxiv.org/abs/2606.24970)|null|
+|**2026-06-23**|**Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce**|Filippos Ventirozos (mmu.ac.uk) et.al.|[2606.24783](http://arxiv.org/abs/2606.24783)|null|
 |**2026-06-23**|**ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling**|Tianbao Ma (kuaishou.com) et.al.|[2606.24605](http://arxiv.org/abs/2606.24605)|null|
 |**2026-06-23**|**MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery**|Enze Ma (uic.edu) et.al.|[2606.24595](http://arxiv.org/abs/2606.24595)|null|
 |**2026-06-23**|**LLMs Prompted for Legal Context Object More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context**|Anastasiia Kucherenko et.al.|[2606.24585](http://arxiv.org/abs/2606.24585)|null|
@@ -1938,12 +1959,22 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**AI-Assisted Computational Reproducibility on the FABRIC Testbed**|Komal Thareja et.al.|[2606.25879](http://arxiv.org/abs/2606.25879)|null|
+|**2026-06-24**|**AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search**|Md Omar Faruk Rokon (walmart.com) et.al.|[2606.25871](http://arxiv.org/abs/2606.25871)|null|
+|**2026-06-24**|**Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents**|Xushuo Tang (unsw.edu.au) et.al.|[2606.25632](http://arxiv.org/abs/2606.25632)|null|
+|**2026-06-24**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao (veyon.solutions) et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
+|**2026-06-24**|**Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions**|Kaicheng Shen (cc.edu.cn) et.al.|[2606.25396](http://arxiv.org/abs/2606.25396)|null|
+|**2026-06-24**|**Memory Makes the Difference: Evaluating How Different Memory Roles Shape Conversational Agents**|Yuxin Wang (dartmouth.edu) et.al.|[2606.25361](http://arxiv.org/abs/2606.25361)|null|
+|**2026-06-23**|**TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory**|Tianyu Yang et.al.|[2606.25161](http://arxiv.org/abs/2606.25161)|null|
+|**2026-06-23**|**TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems**|Qingyun Liu (google.com) et.al.|[2606.25147](http://arxiv.org/abs/2606.25147)|null|
+|**2026-06-23**|**Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration**|Pietro Tropeano (di.ku.dk) et.al.|[2606.24970](http://arxiv.org/abs/2606.24970)|null|
+|**2026-06-23**|**Scaling Laws for Task-Specific LLM Distillation**|Lavinia Ghita (nvidia.com) et.al.|[2606.24747](http://arxiv.org/abs/2606.24747)|null|
 |**2026-06-23**|**ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling**|Tianbao Ma (kuaishou.com) et.al.|[2606.24605](http://arxiv.org/abs/2606.24605)|null|
 |**2026-06-23**|**MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery**|Enze Ma (uic.edu) et.al.|[2606.24595](http://arxiv.org/abs/2606.24595)|null|
 |**2026-06-23**|**LLMs Prompted for Legal Context Object More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context**|Anastasiia Kucherenko et.al.|[2606.24585](http://arxiv.org/abs/2606.24585)|null|
@@ -2920,12 +2951,25 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation**|Han Jeon (pwc.com) et.al.|[2606.25782](http://arxiv.org/abs/2606.25782)|null|
+|**2026-06-24**|**OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning**|Wenxuan Jiang (gmail.com) et.al.|[2606.25757](http://arxiv.org/abs/2606.25757)|**[link](https://github.com/pangpang-xuan/OPERA)**|
+|**2026-06-24**|**RAS: Measuring LLM Safety Through Refusal Alignment**|Chang-Chieh Huang et.al.|[2606.25750](http://arxiv.org/abs/2606.25750)|null|
+|**2026-06-24**|**Steering Vision-Language Models with Joint Sparse Autoencoders**|Huizhen Shu (yunshanai.org.cn) et.al.|[2606.25657](http://arxiv.org/abs/2606.25657)|null|
+|**2026-06-24**|**C3-Bench: A Context-Aware Change Captioning Benchmark**|Jae-Woo Kim (gm.gist.ac.kr) et.al.|[2606.25445](http://arxiv.org/abs/2606.25445)|null|
+|**2026-06-24**|**PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models**|Chang Wu et.al.|[2606.25442](http://arxiv.org/abs/2606.25442)|**[link](https://github.com/Qwen-Applications/PolicyAlign)**|
+|**2026-06-24**|**EPTS: Elastic Post-Training Sparsity for Efficient Large Language Model Compression**|Ke Xu (ahu.edu.cn) et.al.|[2606.25285](http://arxiv.org/abs/2606.25285)|**[link](https://github.com/xuke225/EPTS)**|
+|**2026-06-24**|**Automatic Generation of Highlights for Academic Paper Via Prompt-based Learning**|Yi Xiang (njust.edu.cn) et.al.|[2606.25253](http://arxiv.org/abs/2606.25253)|null|
+|**2026-06-23**|**What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics**|Sofiia Nikolenko (campus.lmu.de) et.al.|[2606.25182](http://arxiv.org/abs/2606.25182)|null|
+|**2026-06-23**|**Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models**|Kwok Chun Au et.al.|[2606.25086](http://arxiv.org/abs/2606.25086)|null|
+|**2026-06-23**|**Evidence for feature-specific error correction in LLMs**|Francisco Ferreira da Silva (gmail.com) et.al.|[2606.24964](http://arxiv.org/abs/2606.24964)|null|
+|**2026-06-23**|**Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution**|Zidu Liu et.al.|[2606.24808](http://arxiv.org/abs/2606.24808)|null|
+|**2026-06-23**|**Can Scale Save Us From Plasticity Loss in Large Language Models?**|J. Fernando Hernandez-Garcia (zyphra.com) et.al.|[2606.24752](http://arxiv.org/abs/2606.24752)|null|
 |**2026-06-23**|**Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity**|Yuanhe Zhao (mmc.edu.mo) et.al.|[2606.24623](http://arxiv.org/abs/2606.24623)|**[link](https://github.com/foursoils/Privacy-Preserving-RAG)**|
 |**2026-06-23**|**Qwen-AgentWorld: Language World Models for General Agents**|Yuxin Zuo et.al.|[2606.24597](http://arxiv.org/abs/2606.24597)|**[link](https://github.com/QwenLM/Qwen-AgentWorld)**|
 |**2026-06-23**|**AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability**|Khanak Khandelwal (iitj.ac.in) et.al.|[2606.24589](http://arxiv.org/abs/2606.24589)|**[link](https://github.com/khanak0509/AdversaBench)**|
@@ -2965,7 +3009,7 @@
 |**2026-06-21**|**Confident but Conflicted: Internal Uncertainty and Cognitive Dissonance Resolution in LLMs**|Weihong Qi (iu.edu) et.al.|[2606.22633](http://arxiv.org/abs/2606.22633)|null|
 |**2026-06-21**|**Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction**|Despina Christou (csd.auth.gr) et.al.|[2606.22606](http://arxiv.org/abs/2606.22606)|null|
 |**2026-06-21**|**Context-Aware Distillation and Ablation for Text2DSL**|Alexander V. Kozachok (mirea.ru) et.al.|[2606.22578](http://arxiv.org/abs/2606.22578)|null|
-|**2026-06-21**|**Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge: A Controlled Study on Clinical Question Answering**|Madhulatha Mandarapu (samyama.ai) et.al.|[2606.22419](http://arxiv.org/abs/2606.22419)|**[link](https://github.com/samyama-ai/clinical-llm-graphrag)**|
+|**2026-06-23**|**Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge: A Controlled Study on Clinical Question Answering**|Madhulatha Mandarapu (samyama.ai) et.al.|[2606.22419](http://arxiv.org/abs/2606.22419)|**[link](https://github.com/samyama-ai/clinical-llm-graphrag)**|
 |**2026-06-21**|**Code Isn't Memory: A Structural Codebase Index Inside a Coding Agent**|Ishaan Bhola et.al.|[2606.22417](http://arxiv.org/abs/2606.22417)|**[link](https://github.com/TransformerOptimus/supercoder-eval)**|
 |**2026-06-21**|**Gold Points Sniper: Self-guided Visual Reasoning in VLM for Fine-grained Action Understanding**|Haodi Liu (bigai.ai) et.al.|[2606.22409](http://arxiv.org/abs/2606.22409)|**[link](https://github.com/Haodi-Liu/GPS-Gold-Point-Sniper)**|
 |**2026-06-21**|**Reinforcement learning to improve large language model-based automated code compliance systems**|Jack Wei Lun Shi et.al.|[2606.22402](http://arxiv.org/abs/2606.22402)|null|
@@ -7353,7 +7397,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
