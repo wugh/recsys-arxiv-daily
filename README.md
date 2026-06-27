@@ -1,4 +1,4 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Language-Based Digital Twins for Elderly Cognitive Assistance**|Mohammad Mehdi Hosseini (du.edu) et.al.|[2606.27334](http://arxiv.org/abs/2606.27334)|null|
+|**2026-06-25**|**BetXplain: An Explanation-Annotated Dataset for Detecting Manipulative Betting Advertisements on Social Media**|MSVPJ Sathvik (gmail.com) et.al.|[2606.27274](http://arxiv.org/abs/2606.27274)|null|
+|**2026-06-25**|**NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems**|Shaohua Liu (tencent.com) et.al.|[2606.27243](http://arxiv.org/abs/2606.27243)|null|
 |**2026-06-25**|**TRUST: Item-Calibrated Interval Evidence for Temporal Session-Based Recommendation**|Linjiang Guo (student.uts.edu.au) et.al.|[2606.27214](http://arxiv.org/abs/2606.27214)|null|
 |**2026-06-25**|**Graph Neural Networks Applications Across Domains: All Insights You Need**|Abderaouf Bahi (univ-eltarf.dz) et.al.|[2606.27202](http://arxiv.org/abs/2606.27202)|null|
 |**2026-06-25**|**Explaining Temporal Graph Neural Networks via Feature-induced Information Flow**|Ping Xiong (tu-berlin.de) et.al.|[2606.27201](http://arxiv.org/abs/2606.27201)|null|
@@ -1982,12 +1985,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Language-Based Digital Twins for Elderly Cognitive Assistance**|Mohammad Mehdi Hosseini (du.edu) et.al.|[2606.27334](http://arxiv.org/abs/2606.27334)|null|
+|**2026-06-25**|**NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems**|Shaohua Liu (tencent.com) et.al.|[2606.27243](http://arxiv.org/abs/2606.27243)|null|
 |**2026-06-25**|**Graph Neural Networks Applications Across Domains: All Insights You Need**|Abderaouf Bahi (univ-eltarf.dz) et.al.|[2606.27202](http://arxiv.org/abs/2606.27202)|null|
 |**2026-06-25**|**SocialPersona: Benchmarking Personalized Profiling and Response with Multimodal Social-Media Context**|Qinkai Zhang (ir.hit.edu.cn) et.al.|[2606.26654](http://arxiv.org/abs/2606.26654)|null|
 |**2026-06-25**|**Content-Based Smart E-Mail Dispatcher Using Large Language Models**|K. Paramesha (vvce.ac.in) et.al.|[2606.26593](http://arxiv.org/abs/2606.26593)|null|
@@ -2981,12 +2986,16 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Reinforcement Learning without Ground-Truth Solutions can Improve LLMs**|Yingyu Lin et.al.|[2606.27369](http://arxiv.org/abs/2606.27369)|null|
+|**2026-06-25**|**Language-Based Digital Twins for Elderly Cognitive Assistance**|Mohammad Mehdi Hosseini (du.edu) et.al.|[2606.27334](http://arxiv.org/abs/2606.27334)|null|
+|**2026-06-25**|**RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations**|Parmitha Vangapandu (gmail.com) et.al.|[2606.27247](http://arxiv.org/abs/2606.27247)|null|
+|**2026-06-25**|**The Geometry of Updates: Fisher Alignment at Vocabulary Scale**|John Sweeney (sideplane.ai) et.al.|[2606.27242](http://arxiv.org/abs/2606.27242)|null|
 |**2026-06-25**|**Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation**|Ryan Fetterman (cisco.com) et.al.|[2606.27091](http://arxiv.org/abs/2606.27091)|null|
 |**2026-06-25**|**Where Do Models Find Happiness? Emotion Vectors in Open-Source LLMs**|Sinie van der Ben (ethz.ch) et.al.|[2606.26987](http://arxiv.org/abs/2606.26987)|null|
 |**2026-06-25**|**Confidence-Aware Tool Orchestration for Robust Video Understanding**|Yangfan He et.al.|[2606.26904](http://arxiv.org/abs/2606.26904)|**[link](https://rova-v2.github.io/)**|
@@ -7448,7 +7457,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
