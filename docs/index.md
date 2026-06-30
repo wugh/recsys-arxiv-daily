@@ -2,13 +2,34 @@
 layout: default
 ---
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-28**|**Monosemanticity in Recommender Systems**|Yagel Alfasi et.al.|[2606.29341](http://arxiv.org/abs/2606.29341)|null|
+|**2026-06-28**|**SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning**|Yaron Kiselman et.al.|[2606.29322](http://arxiv.org/abs/2606.29322)|null|
+|**2026-06-28**|**Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning**|Craig Atkinson (verificate.ai) et.al.|[2606.29280](http://arxiv.org/abs/2606.29280)|null|
+|**2026-06-28**|**A Linear Matching Bandit Approach to Online Multi-Human Multi-Robot Teaming**|Yaohui Guo (umich.edu) et.al.|[2606.29221](http://arxiv.org/abs/2606.29221)|null|
+|**2026-06-28**|**A Cognition-Emotion-Personality Framework for Modeling Human-Like Awareness and Behavior in Emergency Evacuations**|Zoi Lygizou (ac.eap.gr) et.al.|[2606.29212](http://arxiv.org/abs/2606.29212)|null|
+|**2026-06-28**|**Bayesian Best-Arm Identification with Abstention: A Polynomial-to-Exponential Phase Transition**|Yuqi Huang et.al.|[2606.29203](http://arxiv.org/abs/2606.29203)|null|
+|**2026-06-28**|**Direct Causation in International Humanitarian Law and the Challenge of AI-Mediated Civilian Cyber Operations**|Alice Saito (g.ecc.u-tokyo.ac.jp) et.al.|[2606.29175](http://arxiv.org/abs/2606.29175)|null|
+|**2026-06-28**|**Pooled Leaderboards Hide System-Specific Winners: A Reporting-Protocol Audit of Offline Root-Cause Analysis Benchmarks**|Lining Hu (sjtu.edu.cn) et.al.|[2606.29159](http://arxiv.org/abs/2606.29159)|null|
+|**2026-06-28**|**DistilledGemma: Balanced Efficiency-Accuracy for Person-Place Relation Extraction from Multilingual Historical Articles**|Youssef Aboelwafa (alexu.edu.eg) et.al.|[2606.29130](http://arxiv.org/abs/2606.29130)|null|
+|**2026-06-28**|**How Anthropomorphic Language Impacts Public Perceptions of AI**|Betty Li Hou (nyu.edu) et.al.|[2606.29121](http://arxiv.org/abs/2606.29121)|null|
+|**2026-06-27**|**Fairness Attacks on Recommender Systems**|Yanan Wang (uta.edu) et.al.|[2606.29064](http://arxiv.org/abs/2606.29064)|null|
+|**2026-06-27**|**MOSAIC: Orchestrating Collaborative Knowledge Tracing with Hierarchical Semantic Alignment**|Xinjin Li (columbia.edu) et.al.|[2606.29049](http://arxiv.org/abs/2606.29049)|null|
+|**2026-06-27**|**Metric Aggregation Divergence: A Hidden Validity Threat in Agent-Based Policy Optimization and a Contractual Remedy**|Ruiyu Zhang (connect.hku.hk) et.al.|[2606.29038](http://arxiv.org/abs/2606.29038)|null|
+|**2026-06-27**|**Memory as an Attack Surface in LLM Agents: A Study on Multiple-Choice Question Answering**|Shahnewaz Karim Sakib (utc.edu) et.al.|[2606.29030](http://arxiv.org/abs/2606.29030)|null|
+|**2026-06-27**|**Fine-Tuning General-Purpose Large Language Models for Agricultural Applications:A Reproducible Framework and Evaluation Protocol Based on Qwen3-8B**|Zhaoyang Li (outlook.com) et.al.|[2606.28992](http://arxiv.org/abs/2606.28992)|null|
+|**2026-06-27**|**FinInvest-GTCN: Explainable Graph-Temporal-Causal Modeling for Risk-Aware Investment Decision Optimization**|Junyan Tan et.al.|[2606.28933](http://arxiv.org/abs/2606.28933)|null|
+|**2026-06-27**|**An Integrated Machine Learning and Hierarchical Variance Decomposition Pipeline for Student Performance Prediction and Metacognitive Calibration on Multi-Signal Telemetry**|Gurdeep Singh Virdee et.al.|[2606.28881](http://arxiv.org/abs/2606.28881)|null|
+|**2026-06-26**|**Reproducing FACTER: Fairness via Conformal Thresholding and Prompt Repair**|Oscar Miró López-Feliu (student.uva.nl) et.al.|[2606.28620](http://arxiv.org/abs/2606.28620)|**[link](https://github.com/oscar-omlf/facter-repr)**|
+|**2026-06-26**|**CMSL: Constructive Multi-Sequence Learning for Recommendation Systems**|Zikun Cui (meta.com) et.al.|[2606.28533](http://arxiv.org/abs/2606.28533)|null|
+|**2026-06-26**|**An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations**|Dihia Falouz (estin.dz) et.al.|[2606.28467](http://arxiv.org/abs/2606.28467)|null|
+|**2026-06-26**|**Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization**|Shuang Li et.al.|[2606.28307](http://arxiv.org/abs/2606.28307)|null|
 |**2026-06-26**|**Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives**|Young Yoon (hongik.ac.kr) et.al.|[2606.28217](http://arxiv.org/abs/2606.28217)|null|
 |**2026-06-26**|**Cross-view Multimodal Vision-Based Assessment Framework for Traditional Chinese Medicine Rehabilitation Training**|Francis Xiatian Zhang (durham.ac.uk) et.al.|[2606.28104](http://arxiv.org/abs/2606.28104)|null|
 |**2026-06-26**|**JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications**|Oxygen AIIC (jd.com) et.al.|[2606.28070](http://arxiv.org/abs/2606.28070)|null|
@@ -2000,6 +2021,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-28**|**Monosemanticity in Recommender Systems**|Yagel Alfasi et.al.|[2606.29341](http://arxiv.org/abs/2606.29341)|null|
+|**2026-06-28**|**Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning**|Craig Atkinson (verificate.ai) et.al.|[2606.29280](http://arxiv.org/abs/2606.29280)|null|
+|**2026-06-28**|**DistilledGemma: Balanced Efficiency-Accuracy for Person-Place Relation Extraction from Multilingual Historical Articles**|Youssef Aboelwafa (alexu.edu.eg) et.al.|[2606.29130](http://arxiv.org/abs/2606.29130)|null|
+|**2026-06-28**|**How Anthropomorphic Language Impacts Public Perceptions of AI**|Betty Li Hou (nyu.edu) et.al.|[2606.29121](http://arxiv.org/abs/2606.29121)|null|
+|**2026-06-27**|**MOSAIC: Orchestrating Collaborative Knowledge Tracing with Hierarchical Semantic Alignment**|Xinjin Li (columbia.edu) et.al.|[2606.29049](http://arxiv.org/abs/2606.29049)|null|
+|**2026-06-27**|**Memory as an Attack Surface in LLM Agents: A Study on Multiple-Choice Question Answering**|Shahnewaz Karim Sakib (utc.edu) et.al.|[2606.29030](http://arxiv.org/abs/2606.29030)|null|
+|**2026-06-27**|**Fine-Tuning General-Purpose Large Language Models for Agricultural Applications:A Reproducible Framework and Evaluation Protocol Based on Qwen3-8B**|Zhaoyang Li (outlook.com) et.al.|[2606.28992](http://arxiv.org/abs/2606.28992)|null|
+|**2026-06-27**|**Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions**|David Courtis (gmail.com) et.al.|[2606.28770](http://arxiv.org/abs/2606.28770)|null|
+|**2026-06-26**|**Reproducing FACTER: Fairness via Conformal Thresholding and Prompt Repair**|Oscar Miró López-Feliu (student.uva.nl) et.al.|[2606.28620](http://arxiv.org/abs/2606.28620)|**[link](https://github.com/oscar-omlf/facter-repr)**|
+|**2026-06-26**|**Digitizing Coaching Intelligence: An Agentic Framework for Holistic Athlete Profiling using VLM and RAG**|Deep Ghosal (gmail.com) et.al.|[2606.28570](http://arxiv.org/abs/2606.28570)|null|
+|**2026-06-26**|**CMSL: Constructive Multi-Sequence Learning for Recommendation Systems**|Zikun Cui (meta.com) et.al.|[2606.28533](http://arxiv.org/abs/2606.28533)|null|
+|**2026-06-26**|**An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations**|Dihia Falouz (estin.dz) et.al.|[2606.28467](http://arxiv.org/abs/2606.28467)|null|
 |**2026-06-26**|**JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications**|Oxygen AIIC (jd.com) et.al.|[2606.28070](http://arxiv.org/abs/2606.28070)|null|
 |**2026-06-26**|**An LLM-Powered Semantic Alignment Framework for Journal Recommendation**|Yanglin Yan (email.cufe.edu.cn) et.al.|[2606.27930](http://arxiv.org/abs/2606.27930)|null|
 |**2026-06-26**|**Intuition-Guided Latent Reasoning for LLM-Based Recommendation**|Chang Liu (buaa.edu.cn) et.al.|[2606.27684](http://arxiv.org/abs/2606.27684)|**[link](https://github.com/Ten-Mao/IntuRec)**|
@@ -3007,6 +3040,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-28**|**Hierarchical Experimentalist Agents**|Abhranil Chandra et.al.|[2606.29315](http://arxiv.org/abs/2606.29315)|null|
+|**2026-06-28**|**Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning**|Craig Atkinson (verificate.ai) et.al.|[2606.29280](http://arxiv.org/abs/2606.29280)|null|
+|**2026-06-28**|**PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents**|Seongjae Kang (kaist.ac.kr) et.al.|[2606.29225](http://arxiv.org/abs/2606.29225)|null|
+|**2026-06-28**|**Can OCR-VLMs Read Devanagari? A Stress-Test Benchmark and Post-Correction Study**|Aditya Pratap Singh (gmail.com) et.al.|[2606.29213](http://arxiv.org/abs/2606.29213)|null|
+|**2026-06-28**|**Representational Depth of Evaluation Awareness Shifts With Scale in Open-Weight Language Models**|Archit Manek (gmail.com) et.al.|[2606.29196](http://arxiv.org/abs/2606.29196)|null|
+|**2026-06-28**|**Selective Memory Retention for Long-Horizon LLM Agents**|Pranath Reddy (gmail.com) et.al.|[2606.29178](http://arxiv.org/abs/2606.29178)|null|
+|**2026-06-28**|**On the Nonlinearity of Learning Rate Scaling for LLM Training**|Zaiwen Yang (mails.tsinghua.edu.cn) et.al.|[2606.29158](http://arxiv.org/abs/2606.29158)|null|
+|**2026-06-27**|**Statistically Indistinguishable, Operationally Distinct: A Formal Barrier for Tabular Foundation Models**|Tassilo Klein (sap.com) et.al.|[2606.29091](http://arxiv.org/abs/2606.29091)|null|
+|**2026-06-27**|**Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline**|Dianwei Chen et.al.|[2606.29014](http://arxiv.org/abs/2606.29014)|null|
+|**2026-06-27**|**FlipGuard: Defending Large Language Models Against Quantization-Conditioned Backdoor Attacks**|Aoying Zheng (mail.sdu.edu.cn) et.al.|[2606.28962](http://arxiv.org/abs/2606.28962)|null|
+|**2026-06-27**|**Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries**|Jean Feng (ucsf.edu) et.al.|[2606.28960](http://arxiv.org/abs/2606.28960)|null|
+|**2026-06-27**|**DLR: Zero-Inference-Cost Latent Residuals for Low-Rank Pre-Training**|Dong Wang (tugraz.at) et.al.|[2606.28932](http://arxiv.org/abs/2606.28932)|**[link](https://github.com/nanguoyu/DLR)**|
+|**2026-06-27**|**The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning**|Will Hawkins (wolfson.ox.ac.uk) et.al.|[2606.28843](http://arxiv.org/abs/2606.28843)|null|
+|**2026-06-27**|**The Contagion Tensor: A Framework for Measuring Output-Distribution Coupling in Multi-Agent LLM Systems -- and Auditing the Claims It Enables**|Zewen Liu et.al.|[2606.28839](http://arxiv.org/abs/2606.28839)|null|
+|**2026-06-27**|**Labeling Training Data for Entity Matching Using Large Language Models**|Aaron Steiner (uni-mannheim.de) et.al.|[2606.28823](http://arxiv.org/abs/2606.28823)|null|
+|**2026-06-27**|**Agentic Abstention: Do Agents Know When to Stop Instead of Act?**|Han Luo (uw.edu) et.al.|[2606.28733](http://arxiv.org/abs/2606.28733)|**[link](https://lhannnn.github.io/agentic-abstention)**|
+|**2026-06-27**|**An AI agent for treatment reasoning over a biomedical tool universe**|Shanghua Gao (hms.harvard.edu) et.al.|[2606.28692](http://arxiv.org/abs/2606.28692)|**[link](https://github.com/mims-harvard/ATHENA)**|
+|**2026-06-27**|**Capability Gates Are Not Authorization: Confused-Deputy Failures in LLM Agent Frameworks**|David Mellafe Zuvic et.al.|[2606.28679](http://arxiv.org/abs/2606.28679)|**[link](https://github.com/raceksd-source/scopegate-runtime)**|
+|**2026-06-27**|**Why Trust Your Agent? Empirical Security Gains from TRiSM-Guided Agentic Workflows in Healthcare**|Liam Kearns (gmail.com) et.al.|[2606.28666](http://arxiv.org/abs/2606.28666)|null|
+|**2026-06-26**|**RIPA: Sensory-Vector Prompt Injection Attacks on LLM-Controlled ROS 2 Robots**|Nima Dorzhiev (psu.edu) et.al.|[2606.28649](http://arxiv.org/abs/2606.28649)|null|
+|**2026-06-26**|**Database Context Compression for Text-to-SQL on Real-World Large Databases**|Jingwen Liu (stu.pku.edu.cn) et.al.|[2606.28601](http://arxiv.org/abs/2606.28601)|**[link](https://github.com/MrBlankness/SchemaCompression)**|
+|**2026-06-26**|**Digitizing Coaching Intelligence: An Agentic Framework for Holistic Athlete Profiling using VLM and RAG**|Deep Ghosal (gmail.com) et.al.|[2606.28570](http://arxiv.org/abs/2606.28570)|null|
+|**2026-06-26**|**IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations**|Maria Xenochristou (amazon.com) et.al.|[2606.28556](http://arxiv.org/abs/2606.28556)|null|
+|**2026-06-26**|**Detecting Clinical Hallucinations in LVLMs via Counterfactual Visual Grounding Uncertainty**|Xiao Song (nju.edu.cn) et.al.|[2606.28520](http://arxiv.org/abs/2606.28520)|**[link](https://github.com/Agentic-CliniAI/CounterVHD)**|
+|**2026-06-26**|**TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents**|Shoufa Chen et.al.|[2606.28480](http://arxiv.org/abs/2606.28480)|null|
+|**2026-06-26**|**Building to the Test: Coding Agents Deliver What You Check, Not What You Requested**|Yanuo Ma (microsoft.com) et.al.|[2606.28430](http://arxiv.org/abs/2606.28430)|null|
+|**2026-06-15**|**Conversational Query Engine for Mixed-Modality Heterogeneous Enterprise Data Sources**|Darshita Rathore (paypal.com) et.al.|[2606.28370](http://arxiv.org/abs/2606.28370)|null|
+|**2026-06-14**|**LLM based Knowledge Graph Approach to Automating Medical Device Regulatory Compliance**|Subhankar Chattoraj et.al.|[2606.28364](http://arxiv.org/abs/2606.28364)|null|
+|**2026-06-09**|**How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation**|Ian van Dort (student.uva.nl) et.al.|[2606.28358](http://arxiv.org/abs/2606.28358)|null|
 |**2026-06-26**|**A Tree-of-Thoughts Inspired Hybrid Approach for Legal Case Judgement Summarization using LLMs**|Aniket Deroy (gmail.com) et.al.|[2606.28044](http://arxiv.org/abs/2606.28044)|null|
 |**2026-06-26**|**The Signal-Coverage Matrix: Stratifying Type and Semantic Errors in Statement Autoformalization**|Chengxiao Dai (uni.sydney.edu.au) et.al.|[2606.28013](http://arxiv.org/abs/2606.28013)|null|
 |**2026-06-26**|**From Detection to Action: Using LLM Agents for Fault-Tolerant Control**|Javal Vyas et.al.|[2606.28011](http://arxiv.org/abs/2606.28011)|null|
