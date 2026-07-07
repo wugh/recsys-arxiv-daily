@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls**|Kirill Shevkunov et.al.|[2607.03515](http://arxiv.org/abs/2607.03515)|null|
+|**2026-07-03**|**SentAttack: A Sentence-Level Black-Box Adversarial Attack Method for Dense Retrieval Models**|Luping Wei (stu.hit.edu.cn) et.al.|[2607.03456](http://arxiv.org/abs/2607.03456)|null|
+|**2026-07-03**|**Personalized Causal Recourse: A Human-In-The-Loop Approach**|Denise Tampieri (sms.ed.ac.uk) et.al.|[2607.03425](http://arxiv.org/abs/2607.03425)|null|
+|**2026-07-03**|**AI Overviews in Academic Search: Evaluating AI-generated Summaries of Search Results in a Domain-specific Search Engine**|Kevin Schott et.al.|[2607.03421](http://arxiv.org/abs/2607.03421)|null|
+|**2026-07-03**|**Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes**|Gergely Flamich (imperial.ac.uk) et.al.|[2607.03392](http://arxiv.org/abs/2607.03392)|null|
+|**2026-07-03**|**HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems**|Xiao Liang (kuaishou.com) et.al.|[2607.03362](http://arxiv.org/abs/2607.03362)|null|
+|**2026-07-03**|**FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy**|Andrea De Luna et.al.|[2607.03334](http://arxiv.org/abs/2607.03334)|null|
+|**2026-07-03**|**Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming**|Jerome Brender (epfl.ch) et.al.|[2607.03303](http://arxiv.org/abs/2607.03303)|null|
+|**2026-07-03**|**CONTRA: Red-Teaming Configurations of Personalizable Agents**|Jonathan Nöther (mpi-sws.org) et.al.|[2607.03220](http://arxiv.org/abs/2607.03220)|null|
+|**2026-07-03**|**Builder, Defender, Breaker: The Case Against Removing the Human from the AI-Driven Security Lifecycle**|Mohamed Chahine Ghanem (liverpool.ac.uk) et.al.|[2607.03215](http://arxiv.org/abs/2607.03215)|null|
+|**2026-07-03**|**OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance**|Mengzhang Li (gmail.com) et.al.|[2607.03213](http://arxiv.org/abs/2607.03213)|null|
+|**2026-07-03**|**APeB: Benchmarking Personalization Ability of Large Language Model Agents**|Garry Yang et.al.|[2607.03162](http://arxiv.org/abs/2607.03162)|null|
+|**2026-07-03**|**Which Algorithm Specification Formats Help Language Models Implement Machine Learning Algorithms?**|Masahiro Kato (g.ecc.u-tokyo.ac.jp) et.al.|[2607.03158](http://arxiv.org/abs/2607.03158)|null|
+|**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|null|
+|**2026-07-03**|**STELLA: Efficient Sensor-to-LLM Translation for On-Device Human Activity Recognition**|Nirhoshan Sivaroopan et.al.|[2607.03089](http://arxiv.org/abs/2607.03089)|null|
+|**2026-07-03**|**Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making**|Andreas Kouridakis (outlook.com) et.al.|[2607.03025](http://arxiv.org/abs/2607.03025)|null|
+|**2026-07-03**|**PromptPET: Privacy-Utility Optimized Prompt Obfuscation**|Ke Yang (uci.edu) et.al.|[2607.02932](http://arxiv.org/abs/2607.02932)|null|
+|**2026-07-03**|**CoFEND: A Cross-Modal Fusion End-to-End Network for Cold-Start Drug-Drug Interaction Prediction**|Di Wu (swu.edu.cn) et.al.|[2607.02928](http://arxiv.org/abs/2607.02928)|null|
+|**2026-07-02**|**Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE**|Artem Matveev (yandex.ru) et.al.|[2607.02818](http://arxiv.org/abs/2607.02818)|null|
+|**2026-07-02**|**Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms**|Ye Tian et.al.|[2607.02681](http://arxiv.org/abs/2607.02681)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni (mila.quebec) et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
 |**2026-07-02**|**QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition**|Quoc Bao Phan (fsu.edu) et.al.|[2607.02426](http://arxiv.org/abs/2607.02426)|null|
 |**2026-07-02**|**DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models**|Xi Fang et.al.|[2607.02374](http://arxiv.org/abs/2607.02374)|null|
@@ -19,7 +39,7 @@ layout: default
 |**2026-07-02**|**Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking**|Nikil Roashan Selvam (cs.stanford.edu) et.al.|[2607.01824](http://arxiv.org/abs/2607.01824)|null|
 |**2026-07-02**|**On the Limits of Steering Vectors for Preference-Aligned Generation**|Melanie Subbiah (columbia.edu) et.al.|[2607.01802](http://arxiv.org/abs/2607.01802)|null|
 |**2026-07-02**|**MKGR: Multimodal Knowledge-Graph Representation Learning for Cold-Start Protein-Protein Interaction Prediction**|Wenbo Zhang (email.swu.edu.cn) et.al.|[2607.01627](http://arxiv.org/abs/2607.01627)|null|
-|**2026-07-02**|**DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents**|Tianyi Zhang (usc.edu) et.al.|[2607.01557](http://arxiv.org/abs/2607.01557)|null|
+|**2026-07-03**|**DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents**|Tianyi Zhang et.al.|[2607.01557](http://arxiv.org/abs/2607.01557)|null|
 |**2026-07-01**|**IntentTune: Using user demand and personalization to resolve "unknown" query intents for e-commerce search**|Rachith Aiyappa et.al.|[2607.01530](http://arxiv.org/abs/2607.01530)|null|
 |**2026-07-01**|**CoPersona: Collaborative Persona Graphs for Robust LLM Personalization**|Yangtian Zhang (yale.edu) et.al.|[2607.01485](http://arxiv.org/abs/2607.01485)|null|
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri (depaul.edu) et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|**[link](https://github.com/shashank-indukuri/grounded-optimization)**|
@@ -47,7 +67,7 @@ layout: default
 |**2026-07-01**|**Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example**|Yufei Wu (airbnb.com) et.al.|[2607.00280](http://arxiv.org/abs/2607.00280)|null|
 |**2026-06-30**|**Computer vision-based neural networks for radioisotope identification in urban environments**|Masen Bachleda (pnnl.gov) et.al.|[2607.00270](http://arxiv.org/abs/2607.00270)|null|
 |**2026-06-30**|**SemiScope: Disentangling Classifier Tuning and Joint Optimization in Semi-Supervised Security Classification**|Rui Shu et.al.|[2607.00113](http://arxiv.org/abs/2607.00113)|null|
-|**2026-07-01**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984](http://arxiv.org/abs/2606.31984)|null|
+|**2026-07-03**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984](http://arxiv.org/abs/2606.31984)|null|
 |**2026-06-30**|**Adapting Foundation ASR Models to Dysarthric Speech: A Case Study**|Christian Huber (kit.edu) et.al.|[2606.31722](http://arxiv.org/abs/2606.31722)|null|
 |**2026-06-30**|**ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping**|Jiacheng Chen et.al.|[2606.31693](http://arxiv.org/abs/2606.31693)|null|
 |**2026-06-30**|**Overview of the TalentCLEF 2026: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco (avature.net) et.al.|[2606.31692](http://arxiv.org/abs/2606.31692)|null|
@@ -2091,11 +2111,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming**|Jerome Brender (epfl.ch) et.al.|[2607.03303](http://arxiv.org/abs/2607.03303)|null|
+|**2026-07-03**|**CONTRA: Red-Teaming Configurations of Personalizable Agents**|Jonathan Nöther (mpi-sws.org) et.al.|[2607.03220](http://arxiv.org/abs/2607.03220)|null|
+|**2026-07-03**|**APeB: Benchmarking Personalization Ability of Large Language Model Agents**|Garry Yang et.al.|[2607.03162](http://arxiv.org/abs/2607.03162)|null|
+|**2026-07-03**|**Which Algorithm Specification Formats Help Language Models Implement Machine Learning Algorithms?**|Masahiro Kato (g.ecc.u-tokyo.ac.jp) et.al.|[2607.03158](http://arxiv.org/abs/2607.03158)|null|
+|**2026-07-03**|**STELLA: Efficient Sensor-to-LLM Translation for On-Device Human Activity Recognition**|Nirhoshan Sivaroopan et.al.|[2607.03089](http://arxiv.org/abs/2607.03089)|null|
+|**2026-07-03**|**Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making**|Andreas Kouridakis (outlook.com) et.al.|[2607.03025](http://arxiv.org/abs/2607.03025)|null|
+|**2026-07-03**|**PromptPET: Privacy-Utility Optimized Prompt Obfuscation**|Ke Yang (uci.edu) et.al.|[2607.02932](http://arxiv.org/abs/2607.02932)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni (mila.quebec) et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
 |**2026-07-02**|**DRIFTLENS: Measuring Memory-Induced Reasoning Drift in Personalized Language Models**|Xi Fang et.al.|[2607.02374](http://arxiv.org/abs/2607.02374)|null|
 |**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea (mta.ro) et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|**[link](http://github.com)**|
 |**2026-07-02**|**Challenges and Recommendations for LLMs-as-a-Judge in Multilingual Settings and Low-Resource Languages**|A. Seza Doğruöz (ugent.be) et.al.|[2607.02235](http://arxiv.org/abs/2607.02235)|null|
-|**2026-07-02**|**DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents**|Tianyi Zhang (usc.edu) et.al.|[2607.01557](http://arxiv.org/abs/2607.01557)|null|
+|**2026-07-03**|**DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents**|Tianyi Zhang et.al.|[2607.01557](http://arxiv.org/abs/2607.01557)|null|
 |**2026-07-01**|**CoPersona: Collaborative Persona Graphs for Robust LLM Personalization**|Yangtian Zhang (yale.edu) et.al.|[2607.01485](http://arxiv.org/abs/2607.01485)|null|
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri (depaul.edu) et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|**[link](https://github.com/shashank-indukuri/grounded-optimization)**|
 |**2026-07-01**|**Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search**|Longfeng Wu (vt.edu) et.al.|[2607.01387](http://arxiv.org/abs/2607.01387)|null|
@@ -2109,7 +2136,7 @@ layout: default
 |**2026-07-01**|**Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval**|Ivan Ji (meta.com) et.al.|[2607.00448](http://arxiv.org/abs/2607.00448)|null|
 |**2026-07-01**|**Selective Test-Time Debiasing for CLIP via Reward Gating**|Jaeho Han (cau.ac.kr) et.al.|[2607.00423](http://arxiv.org/abs/2607.00423)|null|
 |**2026-07-01**|**Beyond Perplexity: A Behavioral Evaluation Framework for Deployment-Memory Claims in LLM Test-Time Training**|Xiangchen Song (cs.cmu.edu) et.al.|[2607.00368](http://arxiv.org/abs/2607.00368)|null|
-|**2026-07-01**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984](http://arxiv.org/abs/2606.31984)|null|
+|**2026-07-03**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984](http://arxiv.org/abs/2606.31984)|null|
 |**2026-06-30**|**ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping**|Jiacheng Chen et.al.|[2606.31693](http://arxiv.org/abs/2606.31693)|null|
 |**2026-06-30**|**CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift**|Jack Bell (di.unipi.it) et.al.|[2606.31470](http://arxiv.org/abs/2606.31470)|null|
 |**2026-06-30**|**Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?**|Zewen Liu et.al.|[2606.31371](http://arxiv.org/abs/2606.31371)|null|
@@ -3146,6 +3173,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-03**|**Reading Between the Dots: Decoding Hidden Computation across Filler Tokens**|Kaley Brauer et.al.|[2607.03502](http://arxiv.org/abs/2607.03502)|null|
+|**2026-07-03**|**From Judgments to Issues: Structured Extraction of Legal Reasoning with Citation-Hallucination Control**|Giovanni Piccioli (gmail.com) et.al.|[2607.03325](http://arxiv.org/abs/2607.03325)|null|
+|**2026-07-03**|**The Role of Prompt Language and Translation-Theory-Driven Prompts in Large Language Models: A Case Study on Spanish-Chinese Journalistic Translation**|Haohong Lai (autonoma.cat) et.al.|[2607.03160](http://arxiv.org/abs/2607.03160)|null|
+|**2026-07-03**|**Which Algorithm Specification Formats Help Language Models Implement Machine Learning Algorithms?**|Masahiro Kato (g.ecc.u-tokyo.ac.jp) et.al.|[2607.03158](http://arxiv.org/abs/2607.03158)|null|
+|**2026-07-03**|**LACE-SVD: Loss-Aware SVD with Cumulative Error Correction for LLM Compression**|Zhuowen Liu et.al.|[2607.03057](http://arxiv.org/abs/2607.03057)|null|
+|**2026-07-03**|**R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables**|Maxwell Horton (meta.com) et.al.|[2607.02921](http://arxiv.org/abs/2607.02921)|null|
+|**2026-07-03**|**Variable Bit-width Quantization: Learning Per-Group Precision for "Bigger-but-Smaller" Language Models**|Hamish Ogilvy et.al.|[2607.02893](http://arxiv.org/abs/2607.02893)|null|
+|**2026-07-03**|**Determinants and Limits of LLM Security-Tool Orchestration: A Study with HexStrike-AI**|Romain Gerard (ustc.edu.cn) et.al.|[2607.02873](http://arxiv.org/abs/2607.02873)|null|
+|**2026-07-03**|**Reward Granularity in RLVR: Comparing Process and Outcome Reward Structures for Mathematical Reasoning in Small Language Models**|Anagha Radhakrishna Palandye (nyu.edu) et.al.|[2607.02869](http://arxiv.org/abs/2607.02869)|null|
+|**2026-07-02**|**JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode**|Norbert Sandor Szolnoki (inf.u-szeged.hu) et.al.|[2607.02825](http://arxiv.org/abs/2607.02825)|null|
+|**2026-07-02**|**Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes**|Weiying Chen (n-dice.com) et.al.|[2607.02802](http://arxiv.org/abs/2607.02802)|**[link](https://github.com/answerrtx/CoC-Seduce)**|
+|**2026-07-02**|**LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering**|Nina Hosseini-Kivanani (ext.uni.lu) et.al.|[2607.02763](http://arxiv.org/abs/2607.02763)|null|
+|**2026-07-02**|**Out-of-Distribution Generalization of Risk Aversion in Language Models**|Kristina Zhang (gmail.com) et.al.|[2607.02755](http://arxiv.org/abs/2607.02755)|null|
+|**2026-07-02**|**Not All Refusals Are Equal: How Safety Alignment Fails Cybersecurity at Scale**|Vadym Hadetskyi (cracken.ai) et.al.|[2607.02714](http://arxiv.org/abs/2607.02714)|null|
+|**2026-07-01**|**The Moving Target: A Longitudinal Audit of Trustworthiness Drift Across Twelve Checkpoints of Open-Source Chat LLMs**|Zhichao Fan (illinois.edu) et.al.|[2607.02587](http://arxiv.org/abs/2607.02587)|null|
 |**2026-07-02**|**Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach**|Manuel Alonso-Carracedo (uvigo.gal) et.al.|[2607.02432](http://arxiv.org/abs/2607.02432)|null|
 |**2026-07-02**|**Fast Multi-dimensional Refusal Subspaces via RFM-AGOP**|Thomas Winninger (proton.me) et.al.|[2607.02396](http://arxiv.org/abs/2607.02396)|null|
 |**2026-07-02**|**DecompRL: Solving Harder Problems by Learning Modular Code Generation**|Juliette Decugis (meta.com) et.al.|[2607.02390](http://arxiv.org/abs/2607.02390)|null|
