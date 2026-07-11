@@ -1,4 +1,4 @@
-## Updated on 2026.07.10
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,11 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-09**|**MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning**|Harrison Rush et.al.|[2607.08703](http://arxiv.org/abs/2607.08703)|null|
+|**2026-07-09**|**MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning**|Harrison Rush (amboss.tech) et.al.|[2607.08703](http://arxiv.org/abs/2607.08703)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
 |**2026-07-09**|**Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data**|Ofir Arviv (ibm.com) et.al.|[2607.08522](http://arxiv.org/abs/2607.08522)|null|
 |**2026-07-09**|**The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality**|Masahiro Fujita (kansai-u.ac.jp) et.al.|[2607.08495](http://arxiv.org/abs/2607.08495)|null|
-|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
+|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen (utexas.edu) et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
 |**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Qian Jiang et.al.|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
 |**2026-07-09**|**Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition**|Jing Jie Tan (1utar.my) et.al.|[2607.08374](http://arxiv.org/abs/2607.08374)|null|
 |**2026-07-09**|**DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify**|Meng Zhao (alibaba-inc.com) et.al.|[2607.08365](http://arxiv.org/abs/2607.08365)|null|
@@ -2181,14 +2181,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
-|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
+|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen (utexas.edu) et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
 |**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Qian Jiang et.al.|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
 |**2026-07-09**|**Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition**|Jing Jie Tan (1utar.my) et.al.|[2607.08374](http://arxiv.org/abs/2607.08374)|null|
 |**2026-07-09**|**Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs**|Lorenzo Pantè (studenti.uniroma1.it) et.al.|[2607.08193](http://arxiv.org/abs/2607.08193)|null|
@@ -3276,14 +3276,14 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-07-09**|**Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution**|Ethan Leung et.al.|[2607.08700](http://arxiv.org/abs/2607.08700)|null|
-|**2026-07-09**|**Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study**|Eugene Ng Yi Sheng et.al.|[2607.08652](http://arxiv.org/abs/2607.08652)|null|
+|**2026-07-09**|**Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study**|Eugene Ng Yi Sheng (dso.org.sg) et.al.|[2607.08652](http://arxiv.org/abs/2607.08652)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
 |**2026-07-09**|**When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability**|Zongyou Yang (ic.ac.uk) et.al.|[2607.08535](http://arxiv.org/abs/2607.08535)|null|
 |**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Qian Jiang et.al.|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
@@ -7989,7 +7989,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
