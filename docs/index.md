@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems**|Hannah M. Liu (responsible.ai) et.al.|[2607.09586](http://arxiv.org/abs/2607.09586)|null|
+|**2026-07-10**|**From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale**|Changhong Jin (ucd.ie) et.al.|[2607.09540](http://arxiv.org/abs/2607.09540)|null|
+|**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee (nxn.ai) et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|null|
+|**2026-07-10**|**Beyond Topicality: A Conceptual Analysis of Societal Relevance and Its Application to Search Results and AI Responses**|Dirk Lewandowski (haw-hamburg.de) et.al.|[2607.09264](http://arxiv.org/abs/2607.09264)|null|
+|**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets (tilburguniversity.edu) et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
+|**2026-07-10**|**A Personalized Computational Framework for Assessing the Sufficiency of Partially Observed Data in Healthcare AI models**|Qingchu Jin (northeastern.edu) et.al.|[2607.09165](http://arxiv.org/abs/2607.09165)|null|
+|**2026-07-10**|**Inside the Skill Market: From Software Engineering Activities to Reusable Agent Skills**|Jialun Cao (cse.ust.hk) et.al.|[2607.09065](http://arxiv.org/abs/2607.09065)|null|
+|**2026-07-09**|**Stochastic Linear Bandits with Partially Observed Actions**|Gautam Dasarathy (asu.edu) et.al.|[2607.08971](http://arxiv.org/abs/2607.08971)|null|
 |**2026-07-09**|**MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning**|Harrison Rush (amboss.tech) et.al.|[2607.08703](http://arxiv.org/abs/2607.08703)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
 |**2026-07-09**|**Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data**|Ofir Arviv (ibm.com) et.al.|[2607.08522](http://arxiv.org/abs/2607.08522)|null|
@@ -46,7 +54,7 @@ layout: default
 |**2026-07-07**|**Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction**|Antonio Andriella (iri.upc.edu) et.al.|[2607.06344](http://arxiv.org/abs/2607.06344)|null|
 |**2026-07-07**|**Signed-Graph Recommendation as Structural Consistency Maximization**|Zifan Wang (nenu.edu.cn) et.al.|[2607.05952](http://arxiv.org/abs/2607.05952)|**[link](https://github.com/Refrainwww/SSC-Loop)**|
 |**2026-07-07**|**From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space**|Yue Xu (shanghaitech.edu.cn) et.al.|[2607.05794](http://arxiv.org/abs/2607.05794)|null|
-|**2026-07-07**|**SCOReD: Student-Aware CoT Optimization for Recommendation Distillation**|Haz Sameen Shahgir (meta.com) et.al.|[2607.05734](http://arxiv.org/abs/2607.05734)|null|
+|**2026-07-09**|**SCOReD: Student-Aware CoT Optimization for Recommendation Distillation**|Haz Sameen Shahgir (meta.com) et.al.|[2607.05734](http://arxiv.org/abs/2607.05734)|null|
 |**2026-07-07**|**Retrieving a Set, Not Independent Passages: Set-Level Compatibility Learning for Efficient Set Exploration**|Mooho Song (snu.ac.kr) et.al.|[2607.05712](http://arxiv.org/abs/2607.05712)|null|
 |**2026-07-06**|**Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks**|Yibo Hu (illinoistech.edu) et.al.|[2607.05545](http://arxiv.org/abs/2607.05545)|null|
 |**2026-07-06**|**SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints**|Dylan Zongmin Liu (stanford.edu) et.al.|[2607.05363](http://arxiv.org/abs/2607.05363)|null|
@@ -56,7 +64,7 @@ layout: default
 |**2026-07-06**|**Choosing a parallel heterogeneous ensemble method for tabular classification**|Vassili Maillet (minesparis.psl.eu) et.al.|[2607.05103](http://arxiv.org/abs/2607.05103)|null|
 |**2026-07-06**|**FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training**|Yushu Cai (stu.xidian.edu.cn) et.al.|[2607.05095](http://arxiv.org/abs/2607.05095)|null|
 |**2026-07-06**|**The syntax of wh-agreement in Yemeni Ibbi Arabic**|Ashraf Naji (ibbuniv.edu.ye) et.al.|[2607.04986](http://arxiv.org/abs/2607.04986)|null|
-|**2026-07-06**|**On the Complexity of Entrywise Power Matrix Factorization**|Nicolas Gillis (umons.ac.be) et.al.|[2607.04875](http://arxiv.org/abs/2607.04875)|**[link](https://gitlab.com/ngillis/rank-r_signing/)**|
+|**2026-07-09**|**On the Complexity of Low-Rank Matrix Signing and Entrywise Power Matrix Factorization**|Nicolas Gillis (umons.ac.be) et.al.|[2607.04875](http://arxiv.org/abs/2607.04875)|**[link](https://gitlab.com/ngillis/rank-r_signing/)**|
 |**2026-07-06**|**An Exploration of Agentic Information Fusion for Test Maintenance Prediction**|Jingxiong Liu (chalmers.se) et.al.|[2607.04786](http://arxiv.org/abs/2607.04786)|null|
 |**2026-07-06**|**Towards Personalized Differentially Private Learning for Decentralized Local Graphs**|Longzhu He (bupt.edu.cn) et.al.|[2607.04777](http://arxiv.org/abs/2607.04777)|null|
 |**2026-07-06**|**MRMS: A Multi-Resolution Memory Substrate for Long-Lived AI Agents**|Jizhizi Li (nxtlab.com.au) et.al.|[2607.04617](http://arxiv.org/abs/2607.04617)|null|
@@ -2180,6 +2188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets (tilburguniversity.edu) et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
 |**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen (utexas.edu) et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
 |**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Qian Jiang et.al.|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
@@ -2190,7 +2199,7 @@ layout: default
 |**2026-07-08**|**Persona Cartography: Charting Language Model Personality Traits in Weight Space**|Luke Baines (gmail.com) et.al.|[2607.07916](http://arxiv.org/abs/2607.07916)|null|
 |**2026-07-08**|**Seeing and Reflecting: Multimodal Memory-Enhanced Agent Collaboration for Recommendation**|Hao Cong (unsw.edu.au) et.al.|[2607.07108](http://arxiv.org/abs/2607.07108)|null|
 |**2026-07-08**|**A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving**|Heye Huang (pjlab.org.cn) et.al.|[2607.07103](http://arxiv.org/abs/2607.07103)|null|
-|**2026-07-08**|**Large Behavior Model: A Promptable Digital Twin of the Retail Customer**|Wachiravit Modecrua (amity.co) et.al.|[2607.06993](http://arxiv.org/abs/2607.06993)|null|
+|**2026-07-10**|**Large Behavior Model: A Promptable Digital Twin of the Retail Customer**|Wachiravit Modecrua (amity.co) et.al.|[2607.06993](http://arxiv.org/abs/2607.06993)|null|
 |**2026-07-08**|**Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies**|Kiarash Ahi (virelya.org) et.al.|[2607.06963](http://arxiv.org/abs/2607.06963)|null|
 |**2026-07-08**|**Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild**|Trang Nguyen (umass.edu) et.al.|[2607.06875](http://arxiv.org/abs/2607.06875)|**[link](https://information-fusion-lab-umass.github.io/video2reaction-bench.github.io)**|
 |**2026-07-07**|**Ad Headline Generation using Self-Critical Masked Language Model**|Yashal Shakti Kanungo (amazon.com) et.al.|[2607.06818](http://arxiv.org/abs/2607.06818)|null|
@@ -2198,7 +2207,7 @@ layout: default
 |**2026-07-06**|**When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents**|George Torres (nmsu.edu) et.al.|[2607.06595](http://arxiv.org/abs/2607.06595)|null|
 |**2026-07-07**|**Energy-Efficient GPU DVFS for Fine-Tuning of SLMs on Resource-constrained Embedded Devices**|Jurn-Gyu Park (nu.edu.kz) et.al.|[2607.05933](http://arxiv.org/abs/2607.05933)|null|
 |**2026-07-07**|**Synthetic Consumer Insight Generation with Large Language Models**|Stephen L. France (business.msstate.edu) et.al.|[2607.05761](http://arxiv.org/abs/2607.05761)|null|
-|**2026-07-07**|**SCOReD: Student-Aware CoT Optimization for Recommendation Distillation**|Haz Sameen Shahgir (meta.com) et.al.|[2607.05734](http://arxiv.org/abs/2607.05734)|null|
+|**2026-07-09**|**SCOReD: Student-Aware CoT Optimization for Recommendation Distillation**|Haz Sameen Shahgir (meta.com) et.al.|[2607.05734](http://arxiv.org/abs/2607.05734)|null|
 |**2026-07-06**|**Depression Symptoms and Relational Patterns in 187k ChatGPT Histories**|Neil K. R. Sehgal (seas.upenn.edu) et.al.|[2607.05685](http://arxiv.org/abs/2607.05685)|null|
 |**2026-07-06**|**Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks**|Yibo Hu (illinoistech.edu) et.al.|[2607.05545](http://arxiv.org/abs/2607.05545)|null|
 |**2026-07-06**|**LLM-Driven CI-CD Workflow Intelligence for Cyber Systems Engineering**|Bonan Shen (gmail.com) et.al.|[2607.04579](http://arxiv.org/abs/2607.04579)|null|
@@ -2249,7 +2258,7 @@ layout: default
 |**2026-06-29**|**MemDelta: Controlled Baselines and Hidden Confounds in Agent Memory Evaluation**|Kuan Wang et.al.|[2606.29914](http://arxiv.org/abs/2606.29914)|null|
 |**2026-06-29**|**LLM-based Multimodal Personality Recognition via Facial Action Unit-Text Semantic Fusion**|Tianyi Zhang (seu.edu.cn) et.al.|[2606.29900](http://arxiv.org/abs/2606.29900)|null|
 |**2026-06-30**|**Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data**|Suhwan Park (hanwha.com) et.al.|[2606.29793](http://arxiv.org/abs/2606.29793)|null|
-|**2026-06-29**|**Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook**|Daming Li (gmail.com) et.al.|[2606.29762](http://arxiv.org/abs/2606.29762)|null|
+|**2026-07-10**|**Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook**|Daming Li (gmail.com) et.al.|[2606.29762](http://arxiv.org/abs/2606.29762)|null|
 |**2026-06-28**|**As We May Search**|Saber Zerhoudi (acm.org) et.al.|[2606.29652](http://arxiv.org/abs/2606.29652)|null|
 |**2026-06-28**|**SurrogateShield: Beyond Redaction for High-Utility, Privacy-Preserving LLM Interactions**|Sherwin Vishesh Jathanna (asu.edu) et.al.|[2606.29567](http://arxiv.org/abs/2606.29567)|**[link](https://github.com/sherwinvishesh/SurrogateShield)**|
 |**2026-06-28**|**VISTA-DZ: Visual Semantic Trajectory Adaptation for Personalized Dilemma Zone Prediction**|Chuheng Wei (email.ucr.edu) et.al.|[2606.29548](http://arxiv.org/abs/2606.29548)|null|
@@ -3273,6 +3282,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Self-Guided Test-Time Training for Long-Context LLMs**|Xinyu Zhu (virginia.edu) et.al.|[2607.09415](http://arxiv.org/abs/2607.09415)|null|
+|**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen (nudt.edu.cn) et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|null|
+|**2026-07-10**|**When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks**|Brennan Bell (gmail.com) et.al.|[2607.09378](http://arxiv.org/abs/2607.09378)|null|
+|**2026-07-10**|**Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works**|Miguel Arana-Catania et.al.|[2607.09316](http://arxiv.org/abs/2607.09316)|null|
+|**2026-07-10**|**Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning**|Ivan Ilin (kaust.edu.sa) et.al.|[2607.09287](http://arxiv.org/abs/2607.09287)|**[link](https://github.com/vectozavr/SuperTuning)**|
+|**2026-07-10**|**Geopolitical alignment: Endorsement effects in large language models**|Maxim Chupilkin (politics.ox.ac.uk) et.al.|[2607.09262](http://arxiv.org/abs/2607.09262)|null|
+|**2026-07-10**|**Complexity-Guided Component-wise Initialization for Language Model Pretraining**|Konstantin Garbers (stu.pku.edu.cn) et.al.|[2607.09204](http://arxiv.org/abs/2607.09204)|null|
+|**2026-07-10**|**Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift**|Dan C. Hsu (redmindresearch.org) et.al.|[2607.09175](http://arxiv.org/abs/2607.09175)|null|
+|**2026-07-10**|**Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs**|Bartosz Ziółko et.al.|[2607.09121](http://arxiv.org/abs/2607.09121)|null|
+|**2026-07-10**|**Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls**|Saroj Gopali (ttu.edu) et.al.|[2607.09076](http://arxiv.org/abs/2607.09076)|null|
+|**2026-07-10**|**COBS: Cumulant Order Block Sparse Attention**|Alexander Tian (matx.com) et.al.|[2607.09052](http://arxiv.org/abs/2607.09052)|null|
+|**2026-07-09**|**NL-PAC: Specification Ambiguity and Certified Minimax Risk Floors in LLM-Mediated Supervision**|Berkay Anahtarci (ozyegin.edu.tr) et.al.|[2607.08961](http://arxiv.org/abs/2607.08961)|null|
 |**2026-07-09**|**Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution**|Ethan Leung et.al.|[2607.08700](http://arxiv.org/abs/2607.08700)|null|
 |**2026-07-09**|**Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study**|Eugene Ng Yi Sheng (dso.org.sg) et.al.|[2607.08652](http://arxiv.org/abs/2607.08652)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
