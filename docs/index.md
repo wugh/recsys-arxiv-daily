@@ -2,15 +2,51 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling**|Iman Johary (ugent.be) et.al.|[2607.11722](http://arxiv.org/abs/2607.11722)|null|
+|**2026-07-13**|**JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes**|Iman Johary (ugent.be) et.al.|[2607.11715](http://arxiv.org/abs/2607.11715)|null|
+|**2026-07-13**|**Lesioned Multimodal Language Models Reproduce Aphasic Picture-Naming Patterns**|Yong Yang (email.sc.edu) et.al.|[2607.11621](http://arxiv.org/abs/2607.11621)|null|
+|**2026-07-13**|**PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing**|Keshen Zhou (uni.sydney.edu.au) et.al.|[2607.11564](http://arxiv.org/abs/2607.11564)|null|
+|**2026-07-13**|**Advancing Optimal Subset Oracle via Learning Relaxation of Neural Set Functions**|Yongquan Shi (outlook.com) et.al.|[2607.11555](http://arxiv.org/abs/2607.11555)|null|
+|**2026-07-13**|**LightMem-Ego: Your AI Memory for Everyday Life**|Yijun Chen (outlook.com) et.al.|[2607.11487](http://arxiv.org/abs/2607.11487)|**[link](https://github.com/zjunlp/LightMem-Ego)**|
+|**2026-07-13**|**Score-Only Distillation for Compact Dense Retrieval**|Kirill Dubovikov (mbzuai.ac.ae) et.al.|[2607.11465](http://arxiv.org/abs/2607.11465)|null|
+|**2026-07-13**|**Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing**|Amal Saad Alshehri (jazanu.edu.sa) et.al.|[2607.11400](http://arxiv.org/abs/2607.11400)|null|
+|**2026-07-13**|**Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval**|Gui Ling (taobao.com) et.al.|[2607.11392](http://arxiv.org/abs/2607.11392)|null|
+|**2026-07-13**|**User Preference Induction with LLMs for Offline Top-N Recommendation Evaluation**|David Otero (udc.es) et.al.|[2607.11354](http://arxiv.org/abs/2607.11354)|null|
+|**2026-07-13**|**Characterising AI Models for Cataloguing**|Miguel Arana-Catania (ox.ac.uk) et.al.|[2607.11353](http://arxiv.org/abs/2607.11353)|null|
+|**2026-07-13**|**Understanding the Impact of AI Code Assistants on Security API Usage: An Empirical Study**|Zahra Mousavi et.al.|[2607.11348](http://arxiv.org/abs/2607.11348)|null|
+|**2026-07-13**|**Longitudinal Multi-View Breast Cancer Risk Prediction**|Solveig Thrun (uit.no) et.al.|[2607.11343](http://arxiv.org/abs/2607.11343)|**[link](https://github.com/sot176/LMV-Net)**|
+|**2026-07-13**|**Prompt Generation Technical Report**|Dan Ou et.al.|[2607.11326](http://arxiv.org/abs/2607.11326)|null|
+|**2026-07-13**|**Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework**|Tung Dang (g.ecc.u-tokyo.ac.jp) et.al.|[2607.11269](http://arxiv.org/abs/2607.11269)|null|
+|**2026-07-13**|**Enhancing LLMs through human feedback: a journey towards self-improvement**|Tatiana Pelc (intel.com) et.al.|[2607.11267](http://arxiv.org/abs/2607.11267)|null|
+|**2026-07-13**|**Query-Focused Event Summarization: A Dataset and Benchmark**|Chenyu Hu et.al.|[2607.11166](http://arxiv.org/abs/2607.11166)|**[link](https://github.com/sarcasm-hcy02/QFES-QFESum)**|
+|**2026-07-13**|**Do LLMs Fabricate Legal Citations? A Bilingual Benchmark on Saudi Data Protection Law and the GDPR**|Noura Suliman Alrajeh (stu.kau.edu.sa) et.al.|[2607.11127](http://arxiv.org/abs/2607.11127)|null|
+|**2026-07-13**|**Do Video-LLMs Actually Watch? Diagnosing Character-Tracking Failures in Long-Form Video**|Mohammad Al-Ratrout et.al.|[2607.11078](http://arxiv.org/abs/2607.11078)|null|
+|**2026-07-13**|**AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation**|Chenyang Li (gmail.com) et.al.|[2607.11063](http://arxiv.org/abs/2607.11063)|null|
+|**2026-07-13**|**Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration**|Pengping Tan (mail2.sysu.edu.cn) et.al.|[2607.11039](http://arxiv.org/abs/2607.11039)|null|
+|**2026-07-13**|**MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search**|Zhen-Lin Chen (jd.com) et.al.|[2607.11030](http://arxiv.org/abs/2607.11030)|null|
+|**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi (isir.upmc.fr) et.al.|[2607.10991](http://arxiv.org/abs/2607.10991)|null|
+|**2026-07-12**|**Normative Alignment of Recommender Systems via Internal Label Shift**|Johannes Kruse (jppol.dk) et.al.|[2607.10915](http://arxiv.org/abs/2607.10915)|**[link](https://github.com/johanneskruse/nails)**|
+|**2026-07-12**|**ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation**|Johannes Kruse (dtu.dk) et.al.|[2607.10910](http://arxiv.org/abs/2607.10910)|**[link](https://github.com/johanneskruse/zorro)**|
+|**2026-07-12**|**Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation**|Junchen Fu (research.gla.ac.uk) et.al.|[2607.10909](http://arxiv.org/abs/2607.10909)|**[link](https://github.com/GAIR-Lab/Stresa)**|
+|**2026-07-12**|**End-to-End Real-Time Drone-Based Person Detection Framework Using Deep Learning**|Payel Sarmah (iitg.ac.in) et.al.|[2607.10605](http://arxiv.org/abs/2607.10605)|null|
+|**2026-07-12**|**RecRec: Recursive Refinement for Sequential Recommendation**|Pervez Shaik (sony.com) et.al.|[2607.10541](http://arxiv.org/abs/2607.10541)|null|
+|**2026-07-11**|**Is Model Instability just Noise to be Tolerated or a Property that can be Managed?**|Amirali Rayegan (ncsu.edu) et.al.|[2607.10420](http://arxiv.org/abs/2607.10420)|null|
+|**2026-07-11**|**From Stochastic to Stable: Rank Stability and Structural Sufficiency in AI Visibility Measurement**|Ronald Sielinski (iqrush.ai) et.al.|[2607.10341](http://arxiv.org/abs/2607.10341)|null|
+|**2026-07-11**|**PTEI: Integrating Personality Traits to Enhance Emotional Intelligence in Large Language Models**|Amir Reza Jafari (acm.org) et.al.|[2607.10245](http://arxiv.org/abs/2607.10245)|null|
+|**2026-07-11**|**Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders**|Cedric Waterschoot (acm.org) et.al.|[2607.10235](http://arxiv.org/abs/2607.10235)|null|
+|**2026-07-10**|**Tokenizing Numerical and Embedding Features for LLM RecSys**|Zhe Xu (meta.com) et.al.|[2607.10016](http://arxiv.org/abs/2607.10016)|null|
+|**2026-07-10**|**An LLM-powered Agentic Recommendation System for Connected TV Content Discovery**|Lei Shi (meta.com) et.al.|[2607.09988](http://arxiv.org/abs/2607.09988)|null|
+|**2026-07-10**|**RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation**|Kaiji Zhou (student.bham.ac.uk) et.al.|[2607.09908](http://arxiv.org/abs/2607.09908)|null|
+|**2026-07-10**|**Serving the Long Tail: Training-Free LLM Candidate Generation for Vacation Rental Marketplaces**|Syed Mohammed Arshad Zaidi (expediagroup.com) et.al.|[2607.09877](http://arxiv.org/abs/2607.09877)|null|
 |**2026-07-10**|**TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems**|Hannah M. Liu (responsible.ai) et.al.|[2607.09586](http://arxiv.org/abs/2607.09586)|null|
-|**2026-07-10**|**From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale**|Changhong Jin (ucd.ie) et.al.|[2607.09540](http://arxiv.org/abs/2607.09540)|null|
+|**2026-07-13**|**From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale**|Changhong Jin et.al.|[2607.09540](http://arxiv.org/abs/2607.09540)|null|
 |**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee (nxn.ai) et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|null|
 |**2026-07-10**|**Beyond Topicality: A Conceptual Analysis of Societal Relevance and Its Application to Search Results and AI Responses**|Dirk Lewandowski (haw-hamburg.de) et.al.|[2607.09264](http://arxiv.org/abs/2607.09264)|null|
 |**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets (tilburguniversity.edu) et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
@@ -2188,6 +2224,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling**|Iman Johary (ugent.be) et.al.|[2607.11722](http://arxiv.org/abs/2607.11722)|null|
+|**2026-07-13**|**JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes**|Iman Johary (ugent.be) et.al.|[2607.11715](http://arxiv.org/abs/2607.11715)|null|
+|**2026-07-13**|**Lesioned Multimodal Language Models Reproduce Aphasic Picture-Naming Patterns**|Yong Yang (email.sc.edu) et.al.|[2607.11621](http://arxiv.org/abs/2607.11621)|null|
+|**2026-07-13**|**PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing**|Keshen Zhou (uni.sydney.edu.au) et.al.|[2607.11564](http://arxiv.org/abs/2607.11564)|null|
+|**2026-07-13**|**Cross-Architecture LLM Ensembles, Feature-Based Reranking and Retrieval-Augmented Prompting for Legal Information Processing**|Amal Saad Alshehri (jazanu.edu.sa) et.al.|[2607.11400](http://arxiv.org/abs/2607.11400)|null|
+|**2026-07-13**|**User Preference Induction with LLMs for Offline Top-N Recommendation Evaluation**|David Otero (udc.es) et.al.|[2607.11354](http://arxiv.org/abs/2607.11354)|null|
+|**2026-07-13**|**Prompt Generation Technical Report**|Dan Ou et.al.|[2607.11326](http://arxiv.org/abs/2607.11326)|null|
+|**2026-07-13**|**Enhancing LLMs through human feedback: a journey towards self-improvement**|Tatiana Pelc (intel.com) et.al.|[2607.11267](http://arxiv.org/abs/2607.11267)|null|
+|**2026-07-13**|**Do LLMs Fabricate Legal Citations? A Bilingual Benchmark on Saudi Data Protection Law and the GDPR**|Noura Suliman Alrajeh (stu.kau.edu.sa) et.al.|[2607.11127](http://arxiv.org/abs/2607.11127)|null|
+|**2026-07-13**|**Do Video-LLMs Actually Watch? Diagnosing Character-Tracking Failures in Long-Form Video**|Mohammad Al-Ratrout et.al.|[2607.11078](http://arxiv.org/abs/2607.11078)|null|
+|**2026-07-13**|**AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation**|Chenyang Li (gmail.com) et.al.|[2607.11063](http://arxiv.org/abs/2607.11063)|null|
+|**2026-07-13**|**MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search**|Zhen-Lin Chen (jd.com) et.al.|[2607.11030](http://arxiv.org/abs/2607.11030)|null|
+|**2026-07-13**|**Think When It Matters: Conditional VLM Reasoning for Social Navigation with RL Policies**|Ali Ahmadi (isir.upmc.fr) et.al.|[2607.10991](http://arxiv.org/abs/2607.10991)|null|
+|**2026-07-12**|**Motif: Discovering and Automating Personal Web Workflows**|Shaokang Jiang (uci.edu) et.al.|[2607.10531](http://arxiv.org/abs/2607.10531)|null|
+|**2026-07-11**|**PolyInterview: An LLM-based Platform for Immersive Mock Interview Practice with Comprehensive Multimodal Assessment**|Zhiyuan Wen (polyu.edu.hk) et.al.|[2607.10310](http://arxiv.org/abs/2607.10310)|null|
+|**2026-07-11**|**One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions**|Tomas Bruckner (vse.cz) et.al.|[2607.10252](http://arxiv.org/abs/2607.10252)|null|
+|**2026-07-11**|**Behavioural Signatures of Risk-Sensitive Decision-Making in Large Language Models**|Xuankun Rong et.al.|[2607.10251](http://arxiv.org/abs/2607.10251)|**[link](https://github.com/XuankunRong/AgentTexasPoker)**|
+|**2026-07-11**|**PTEI: Integrating Personality Traits to Enhance Emotional Intelligence in Large Language Models**|Amir Reza Jafari (acm.org) et.al.|[2607.10245](http://arxiv.org/abs/2607.10245)|null|
+|**2026-07-11**|**Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders**|Cedric Waterschoot (acm.org) et.al.|[2607.10235](http://arxiv.org/abs/2607.10235)|null|
+|**2026-07-11**|**Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices**|Yangyijian Liu (smail.nju.edu.cn) et.al.|[2607.10183](http://arxiv.org/abs/2607.10183)|null|
+|**2026-07-10**|**Tokenizing Numerical and Embedding Features for LLM RecSys**|Zhe Xu (meta.com) et.al.|[2607.10016](http://arxiv.org/abs/2607.10016)|null|
+|**2026-07-10**|**An LLM-powered Agentic Recommendation System for Connected TV Content Discovery**|Lei Shi (meta.com) et.al.|[2607.09988](http://arxiv.org/abs/2607.09988)|null|
+|**2026-07-10**|**RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation**|Kaiji Zhou (student.bham.ac.uk) et.al.|[2607.09908](http://arxiv.org/abs/2607.09908)|null|
+|**2026-07-10**|**Serving the Long Tail: Training-Free LLM Candidate Generation for Vacation Rental Marketplaces**|Syed Mohammed Arshad Zaidi (expediagroup.com) et.al.|[2607.09877](http://arxiv.org/abs/2607.09877)|null|
+|**2026-07-10**|**Memory-Conditioned Tool Calling for Camera-First Visual Agents**|Xiaofan Wu (chance.vision) et.al.|[2607.09822](http://arxiv.org/abs/2607.09822)|null|
 |**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets (tilburguniversity.edu) et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
 |**2026-07-09**|**Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance**|Peng Cui (tsinghua.edu.cn) et.al.|[2607.08602](http://arxiv.org/abs/2607.08602)|null|
 |**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen (utexas.edu) et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
@@ -3282,6 +3343,43 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification**|Lingkai Kong et.al.|[2607.11849](http://arxiv.org/abs/2607.11849)|null|
+|**2026-07-13**|**Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models**|Yu-Han Huang et.al.|[2607.11801](http://arxiv.org/abs/2607.11801)|null|
+|**2026-07-13**|**Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement**|Ziv Ben-Zion (ju.se) et.al.|[2607.11749](http://arxiv.org/abs/2607.11749)|null|
+|**2026-07-13**|**Production and Perception in LLMs: A Token Probability Approach**|Anna Marklová (ff.cuni.cz) et.al.|[2607.11703](http://arxiv.org/abs/2607.11703)|null|
+|**2026-07-13**|**Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming**|Xutao Mao (gmail.com) et.al.|[2607.11698](http://arxiv.org/abs/2607.11698)|**[link](https://github.com/henrymao2004/Auto-research-red-teaming-in-sleep)**|
+|**2026-07-13**|**Think Through a Bottleneck: Hourglass Reasoning for Rigorous Induction**|Huan Zhu et.al.|[2607.11696](http://arxiv.org/abs/2607.11696)|null|
+|**2026-07-13**|**Agentic Skill Optimization over Lie Algebroids**|Sridhar Mahadevan (adobe.com) et.al.|[2607.11493](http://arxiv.org/abs/2607.11493)|null|
+|**2026-07-13**|**HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models**|Aznaur Aliev (kaust.edu.sa) et.al.|[2607.11475](http://arxiv.org/abs/2607.11475)|**[link](https://github.com/nokronim/project-safety-remedy)**|
+|**2026-07-13**|**Confidently Wrong: Detecting Hallucinations in Financial Question Answering from LLM Internal States**|Richard Zhe Wang (sjfc.edu) et.al.|[2607.11414](http://arxiv.org/abs/2607.11414)|null|
+|**2026-07-13**|**StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure**|Wenyi Wu (gmail.com) et.al.|[2607.11388](http://arxiv.org/abs/2607.11388)|null|
+|**2026-07-13**|**The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students**|Alexis Popovici (gmail.com) et.al.|[2607.11292](http://arxiv.org/abs/2607.11292)|null|
+|**2026-07-13**|**Do LLMs Fabricate Legal Citations? A Bilingual Benchmark on Saudi Data Protection Law and the GDPR**|Noura Suliman Alrajeh (stu.kau.edu.sa) et.al.|[2607.11127](http://arxiv.org/abs/2607.11127)|null|
+|**2026-07-13**|**Do Video-LLMs Actually Watch? Diagnosing Character-Tracking Failures in Long-Form Video**|Mohammad Al-Ratrout et.al.|[2607.11078](http://arxiv.org/abs/2607.11078)|null|
+|**2026-07-13**|**BackendForge: Benchmarking Agentic End-to-End Code Generation with Backend Services**|Yuzhe Guo et.al.|[2607.11042](http://arxiv.org/abs/2607.11042)|null|
+|**2026-07-13**|**Dimensionality in Satisfaction Ratings**|Andrew Hong et.al.|[2607.11026](http://arxiv.org/abs/2607.11026)|null|
+|**2026-07-12**|**WSqD: A Horizon-Free Learning Rate Schedule for Large Model Training**|Jianhao Ma (wharton.upenn.edu) et.al.|[2607.10959](http://arxiv.org/abs/2607.10959)|null|
+|**2026-07-12**|**SETA: Scaling Environments for Terminal Agents**|Qijia Shen et.al.|[2607.10891](http://arxiv.org/abs/2607.10891)|null|
+|**2026-07-12**|**Capabilities of Claude Fable 5 on Biomedical Challenge Problems**|Dominic Okonkwo (uga.edu) et.al.|[2607.10849](http://arxiv.org/abs/2607.10849)|null|
+|**2026-07-12**|**Filtering Harmful Actions Isn't Enough: Phantom Transfer in Agentic SDF**|Chinmayi Dixit (gmail.com) et.al.|[2607.10750](http://arxiv.org/abs/2607.10750)|null|
+|**2026-07-12**|**Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs**|Shubham Rao (entropyresearch.ai) et.al.|[2607.10666](http://arxiv.org/abs/2607.10666)|null|
+|**2026-07-12**|**Knowledge Distillation for Automated AI Tutor Evaluation**|Tahmid Al Hannan (apps.losrios.edu) et.al.|[2607.10647](http://arxiv.org/abs/2607.10647)|null|
+|**2026-07-12**|**MafiaScope: Non-Invasive, Time-Resolved Belief Probing for LLM Agents in Social Deduction Games**|Ilia Karpov (gmail.com) et.al.|[2607.10645](http://arxiv.org/abs/2607.10645)|**[link](https://karpovilia.github.io/mafiascope/;)**|
+|**2026-07-12**|**Eval-Pair Matrix: Answer-Paired Meta-Evaluation of LLM Judges for Grounded RAG**|Sriram Selvam (gmail.com) et.al.|[2607.10626](http://arxiv.org/abs/2607.10626)|null|
+|**2026-07-11**|**NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations**|Ruksat Khan Shayoni et.al.|[2607.10490](http://arxiv.org/abs/2607.10490)|null|
+|**2026-07-11**|**Enjoy Your Talk: A Human-Centered Benchmark for Multi-Turn Dialogue with Decoupled User Simulation, Target Modeling, and Judging**|Jinglan Gong et.al.|[2607.10428](http://arxiv.org/abs/2607.10428)|null|
+|**2026-07-11**|**Can Agentic Trading Systems Pay for Their Own Intelligence?**|Qiqi Duan (hkust-gz.edu.cn) et.al.|[2607.10286](http://arxiv.org/abs/2607.10286)|null|
+|**2026-07-11**|**Language Re-generation: An investigation into information locality effects on reconstruction**|Amirhossein Mohammadi (uu.nl) et.al.|[2607.10268](http://arxiv.org/abs/2607.10268)|null|
+|**2026-07-11**|**One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions**|Tomas Bruckner (vse.cz) et.al.|[2607.10252](http://arxiv.org/abs/2607.10252)|null|
+|**2026-07-11**|**PTEI: Integrating Personality Traits to Enhance Emotional Intelligence in Large Language Models**|Amir Reza Jafari (acm.org) et.al.|[2607.10245](http://arxiv.org/abs/2607.10245)|null|
+|**2026-07-11**|**Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders**|Cedric Waterschoot (acm.org) et.al.|[2607.10235](http://arxiv.org/abs/2607.10235)|null|
+|**2026-07-11**|**RDQ: Residual Distribution Quantization for Large Language Models**|Prateek Singh et.al.|[2607.10137](http://arxiv.org/abs/2607.10137)|null|
+|**2026-07-11**|**Cost of Reasoning in non-English Languages: A Case Study on Japanese**|Yuu Jinnai (cyberagent.co.jp) et.al.|[2607.10114](http://arxiv.org/abs/2607.10114)|null|
+|**2026-07-11**|**AgentAbstain: Do LLM Agents Know When Not to Act?**|Xun Liu (illinois.edu) et.al.|[2607.10059](http://arxiv.org/abs/2607.10059)|**[link](http://agentabstain.github.io)**|
+|**2026-07-10**|**Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts**|Renuka Oladri (umd.edu) et.al.|[2607.09999](http://arxiv.org/abs/2607.09999)|null|
+|**2026-07-10**|**Workload-Driven Optimization for On-Device Real-Time Subtitle Translation**|Tsz-To Wong (nycu.edu.tw) et.al.|[2607.09957](http://arxiv.org/abs/2607.09957)|null|
+|**2026-07-10**|**Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences**|Robert Williams (utexas.edu) et.al.|[2607.09932](http://arxiv.org/abs/2607.09932)|null|
+|**2026-07-10**|**From Direction to Magnitude: How Multimodal Instruction-Tuning Reorganizes the Geometric Encoding of Identity-Specifying Prompts in Transformer Hidden States**|Jorge A. Castillo (axisdynamics.cl) et.al.|[2607.09842](http://arxiv.org/abs/2607.09842)|null|
 |**2026-07-10**|**Self-Guided Test-Time Training for Long-Context LLMs**|Xinyu Zhu (virginia.edu) et.al.|[2607.09415](http://arxiv.org/abs/2607.09415)|null|
 |**2026-07-10**|**Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review**|Jingbo Chen (nudt.edu.cn) et.al.|[2607.09403](http://arxiv.org/abs/2607.09403)|null|
 |**2026-07-10**|**When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks**|Brennan Bell (gmail.com) et.al.|[2607.09378](http://arxiv.org/abs/2607.09378)|null|
