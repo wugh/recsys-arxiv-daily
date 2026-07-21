@@ -2,16 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**(MPO) $^2$ : Multivariate Polynomial Optimization based on Matrix Product Operators**|Niccolò Ciolli et.al.|[2607.15916](http://arxiv.org/abs/2607.15916)|null|
 |**2026-07-17**|**Perceived AGI: Believability as Dimensional Completeness, Not Capability**|Sebastian Cochinescu (drd.unibuc.ro) et.al.|[2607.15883](http://arxiv.org/abs/2607.15883)|null|
+|**2026-07-17**|**Scientific Claim-Source Retrieval Revisited: A Comparative Study of Style Transfer and Re-Ranking**|Tobias Schreieder (tu-dresden.de) et.al.|[2607.15875](http://arxiv.org/abs/2607.15875)|null|
 |**2026-07-17**|**AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets**|Ming Chen (unimelb.edu.au) et.al.|[2607.15781](http://arxiv.org/abs/2607.15781)|null|
+|**2026-07-17**|**What Do Chinese-Language Generative Search Engines Cite and Surface? A Large-Scale Empirical Study**|Tao Zhen (adsida.com) et.al.|[2607.15771](http://arxiv.org/abs/2607.15771)|null|
+|**2026-07-17**|**RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation**|Ziyi Zhao (mail.ustc.edu.cn) et.al.|[2607.15730](http://arxiv.org/abs/2607.15730)|null|
+|**2026-07-17**|**From Skill Extraction to Multistakeholder Recommendation: A Two-Stage Framework for Bias Governance in Skills-Based Job Matching**|Andrea Forster et.al.|[2607.15707](http://arxiv.org/abs/2607.15707)|null|
 |**2026-07-17**|**Scalable LLM Agent Tool Access in the Cloud**|Mingxin Li et.al.|[2607.15593](http://arxiv.org/abs/2607.15593)|null|
+|**2026-07-17**|**RecGPT-V3 Technical Report**|Bowen Zheng et.al.|[2607.15591](http://arxiv.org/abs/2607.15591)|null|
 |**2026-07-17**|**Field-Aware RankMixer with Dual-Stream Bilinear Fusion for the Tencent UNI-REC Challenge**|Yufeng Zhang (gmail.com) et.al.|[2607.15590](http://arxiv.org/abs/2607.15590)|**[link](https://github.com/PixelCookie-zyf/TAAC-2026-SeRankMixer)**|
 |**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
 |**2026-07-17**|**Hard Rules, Soft Preferences: Bridging Reasoning, Learning, and Optimization for Personalized Packing Checklist Generation**|Himel Dev (529-tech.com) et.al.|[2607.15562](http://arxiv.org/abs/2607.15562)|null|
@@ -19,13 +25,14 @@ layout: default
 |**2026-07-17**|**From Feasibility to Desirability: Plan, Learn, Adapt (PLA) Framework for Personalized On-Device Itinerary Generation**|Himel Dev (529-tech.com) et.al.|[2607.15552](http://arxiv.org/abs/2607.15552)|null|
 |**2026-07-16**|**A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms**|Michael Papademas et.al.|[2607.15480](http://arxiv.org/abs/2607.15480)|null|
 |**2026-07-16**|**From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems**|Eduardo C. Garrido-Merchán (comillas.edu) et.al.|[2607.15459](http://arxiv.org/abs/2607.15459)|null|
+|**2026-07-16**|**Stochastic Reset Pathfinding: Path-Level Regret for Cascading Bandits over Graph Paths**|Guni Sharon (tamu.edu) et.al.|[2607.15440](http://arxiv.org/abs/2607.15440)|null|
 |**2026-07-16**|**Mutable Low-Rank Sketches for Retrain-Free Recommendation**|Hector J. Garcia (umich.edu) et.al.|[2607.15242](http://arxiv.org/abs/2607.15242)|null|
 |**2026-07-16**|**CoSimRec: Measuring Coordinated-Content Penetration in Recommender Feedback Loops**|Nan Li (gmail.com) et.al.|[2607.15114](http://arxiv.org/abs/2607.15114)|null|
 |**2026-07-16**|**Evaluating covariate balance for long time horizon Markov decision processes**|Joshua Spear (ucl.ac.uk) et.al.|[2607.15080](http://arxiv.org/abs/2607.15080)|null|
 |**2026-07-16**|**Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation**|Paul Darm (strath.ac.uk) et.al.|[2607.14970](http://arxiv.org/abs/2607.14970)|null|
 |**2026-07-16**|**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation**|Ku Onoda (weblab.t.u-tokyo.ac.jp) et.al.|[2607.14962](http://arxiv.org/abs/2607.14962)|null|
 |**2026-07-16**|**The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure**|Lucas Bergholdt Hansen (student.sdu.dk) et.al.|[2607.14865](http://arxiv.org/abs/2607.14865)|**[link](https://github.com/LucasBergholdt/EnergySociety)**|
-|**2026-07-16**|**LLM-Based Re-Ranking for Real Estate Search**|Nkateko Ntimane (quintoandar.com.br) et.al.|[2607.14835](http://arxiv.org/abs/2607.14835)|null|
+|**2026-07-17**|**LLM-Based Re-Ranking for Real Estate Search**|Nkateko Ntimane (quintoandar.com.br) et.al.|[2607.14835](http://arxiv.org/abs/2607.14835)|null|
 |**2026-07-16**|**Interventional Causal Circuits for Safe Robot Action Testing and Failure Recovery**|Naren Vasantakumaar (uni-bremen.de) et.al.|[2607.14826](http://arxiv.org/abs/2607.14826)|null|
 |**2026-07-16**|**Global Index on Responsible AI: 2026 Report**|Rachel Adams et.al.|[2607.14782](http://arxiv.org/abs/2607.14782)|null|
 |**2026-07-16**|**The Misclassification of Autistic Writing as AI-Generated**|Summer Chambers (gmu.edu) et.al.|[2607.14729](http://arxiv.org/abs/2607.14729)|null|
@@ -33,7 +40,7 @@ layout: default
 |**2026-07-16**|**SmartRAG: Native Graph-Based RAG for Mobile Device**|Zhihan Jiang (smail.nju.edu.cn) et.al.|[2607.14661](http://arxiv.org/abs/2607.14661)|null|
 |**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen (ia.ac.cn) et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|**[link](https://github.com/MrHuan3/GlanceFace)**|
 |**2026-07-16**|**Accelerating A/B-Tests with Counterfactual Estimation: Reducing Variance through Policy Overlap**|Olivier Jeunen et.al.|[2607.14604](http://arxiv.org/abs/2607.14604)|null|
-|**2026-07-16**|**Memory-Driven Self-Disclosure and Relational Turning Points: A Longitudinal Multimodal Study of Human-AI Interaction**|Ryuichi Sumida (st.kyoto-u.ac.jp) et.al.|[2607.14593](http://arxiv.org/abs/2607.14593)|null|
+|**2026-07-17**|**Memory-Driven Self-Disclosure and Relational Turning Points: A Longitudinal Multimodal Study of Human-AI Interaction**|Ryuichi Sumida (st.kyoto-u.ac.jp) et.al.|[2607.14593](http://arxiv.org/abs/2607.14593)|null|
 |**2026-07-16**|**Governing Artificial Intelligence: Public Preferences and Regulatory Options**|Magnus Lundgren et.al.|[2607.14585](http://arxiv.org/abs/2607.14585)|null|
 |**2026-07-16**|**Impact of Expert-Following Strategies in Financial Asset Recommendation**|Ryuki Unno (lmd.ist.hokudai.ac.jp) et.al.|[2607.14556](http://arxiv.org/abs/2607.14556)|null|
 |**2026-07-15**|**Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment**|Mohammad Rashid (uw.edu) et.al.|[2607.14418](http://arxiv.org/abs/2607.14418)|null|
