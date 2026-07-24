@@ -2,13 +2,30 @@
 layout: default
 ---
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Understanding Generative AI-mediated User Engagement with Academic Library Resources**|Hae Min Kim (drexel.edu) et.al.|[2607.20328](http://arxiv.org/abs/2607.20328)|null|
+|**2026-07-22**|**Don't Trust the Label: License Laundering in AI Supply Chains**|James Jewitt et.al.|[2607.20300](http://arxiv.org/abs/2607.20300)|null|
+|**2026-07-22**|**The Ethics of Autonomous AI Agents for Offensive Security**|Andreas Happe (tuwien.ac.at) et.al.|[2607.20255](http://arxiv.org/abs/2607.20255)|null|
+|**2026-07-22**|**User-Centric Modeling of Transactional Sequences with Explainable State Space Models**|Ivan Palagin (edu.hse.ru) et.al.|[2607.20228](http://arxiv.org/abs/2607.20228)|null|
+|**2026-07-22**|**The Quadrilateral Loss: Additivity as a Measurable Behavior of Dense Neural Networks**|Antonio Di Cecco et.al.|[2607.20201](http://arxiv.org/abs/2607.20201)|null|
+|**2026-07-22**|**Non--negative matrix factorization using the \textit{R} package \textsf{nnmf}**|Volkan Sevinç (mu.edu.tr) et.al.|[2607.20084](http://arxiv.org/abs/2607.20084)|null|
+|**2026-07-22**|**The Two-Process Theory of Machine Self-Report**|Hubert Plisiecki (gmail.com) et.al.|[2607.20082](http://arxiv.org/abs/2607.20082)|null|
+|**2026-07-22**|**TRUST-ESD: A Risk-Calibrated and Governance-Aware AI Framework for Enterprise Strategic Decision Support Under Uncertainty**|Tian Qiu (stu.cqu.edu.cn) et.al.|[2607.20065](http://arxiv.org/abs/2607.20065)|null|
+|**2026-07-22**|**TalentCLEF at CLEF2026: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco (avature.net) et.al.|[2607.20009](http://arxiv.org/abs/2607.20009)|**[link](https://talentclef.github.io/talentclef/)**|
+|**2026-07-22**|**Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals**|P. Harris et.al.|[2607.19999](http://arxiv.org/abs/2607.19999)|null|
+|**2026-07-22**|**UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction**|Honghao Li (gmail.com) et.al.|[2607.19987](http://arxiv.org/abs/2607.19987)|**[link](https://github.com/salmon1802/UniRank)**|
+|**2026-07-22**|**SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data**|Zenghui Zhou (gmail.com) et.al.|[2607.19949](http://arxiv.org/abs/2607.19949)|null|
+|**2026-07-22**|**Zero-Observation User Reactivation with Gap-Driven Dimensional Gating**|Jiandong Ding (fudan.edu.cn) et.al.|[2607.19802](http://arxiv.org/abs/2607.19802)|**[link](https://github.com/jdding/DeltaGate)**|
+|**2026-07-22**|**Personalized Recommendation Tool Learning via Autonomous Language Agents**|Mingdai Yang (uic.edu) et.al.|[2607.19739](http://arxiv.org/abs/2607.19739)|null|
+|**2026-07-22**|**Lightweight Person-Place Relation Extraction from Historical Newspapers with Dependency Graphs and Proximity Features**|Mlen-Too Wesley (gatech.edu) et.al.|[2607.19718](http://arxiv.org/abs/2607.19718)|null|
+|**2026-07-22**|**Efficient Clustering with Provable Guardrails for LLM Inference at Scale**|Longshaokan Wang (AMAZON.COM) et.al.|[2607.19704](http://arxiv.org/abs/2607.19704)|null|
+|**2026-07-21**|**SCPP: A Unified Python Library for Soft Clustering**|Kiyan Rezaee (gmail.com) et.al.|[2607.19620](http://arxiv.org/abs/2607.19620)|**[link](https://github.com/soft-clustering/soft-clustering)**|
 |**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
 |**2026-07-21**|**Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks**|Rawaa Alatrash et.al.|[2607.19253](http://arxiv.org/abs/2607.19253)|null|
 |**2026-07-21**|**ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU**|Fan Jiang et.al.|[2607.19191](http://arxiv.org/abs/2607.19191)|null|
@@ -2354,10 +2371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**The Ethics of Autonomous AI Agents for Offensive Security**|Andreas Happe (tuwien.ac.at) et.al.|[2607.20255](http://arxiv.org/abs/2607.20255)|null|
+|**2026-07-22**|**The Two-Process Theory of Machine Self-Report**|Hubert Plisiecki (gmail.com) et.al.|[2607.20082](http://arxiv.org/abs/2607.20082)|null|
+|**2026-07-22**|**SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data**|Zenghui Zhou (gmail.com) et.al.|[2607.19949](http://arxiv.org/abs/2607.19949)|null|
+|**2026-07-22**|**Personalized Recommendation Tool Learning via Autonomous Language Agents**|Mingdai Yang (uic.edu) et.al.|[2607.19739](http://arxiv.org/abs/2607.19739)|null|
+|**2026-07-22**|**Lightweight Person-Place Relation Extraction from Historical Newspapers with Dependency Graphs and Proximity Features**|Mlen-Too Wesley (gatech.edu) et.al.|[2607.19718](http://arxiv.org/abs/2607.19718)|null|
+|**2026-07-22**|**Efficient Clustering with Provable Guardrails for LLM Inference at Scale**|Longshaokan Wang (AMAZON.COM) et.al.|[2607.19704](http://arxiv.org/abs/2607.19704)|null|
 |**2026-07-21**|**Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks**|Rawaa Alatrash et.al.|[2607.19253](http://arxiv.org/abs/2607.19253)|null|
 |**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li (ttu.edu) et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|null|
 |**2026-07-20**|**Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish Mobile Apps**|Marcos Moran et.al.|[2607.18424](http://arxiv.org/abs/2607.18424)|null|
-|**2026-07-20**|**AdaHome: An Adaptive Smart Home Assistant using Local Small Language Models**|Eu Jin Lim (soton.ac.uk) et.al.|[2607.18034](http://arxiv.org/abs/2607.18034)|null|
+|**2026-07-22**|**AdaHome: An Adaptive Smart Home Assistant using Local Small Language Models**|Eu Jin Lim (soton.ac.uk) et.al.|[2607.18034](http://arxiv.org/abs/2607.18034)|null|
 |**2026-07-20**|**When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs**|Md. Asaduzzaman Shuvo (bscse.uiu.ac.bd) et.al.|[2607.17828](http://arxiv.org/abs/2607.17828)|**[link](https://github.com/ashuvo25/BanglaCEH)**|
 |**2026-07-21**|**SR-Agent: An Experience-Driven Agentic Framework for Post-Ranking Strategy Refinement in E-Commerce Recommendation**|Hanchen Yang et.al.|[2607.17719](http://arxiv.org/abs/2607.17719)|null|
 |**2026-07-20**|**ProEvent: An Event-centric Benchmark for Proactive Agents**|Guanzhen Li (stu.pku.edu.cn) et.al.|[2607.17701](http://arxiv.org/abs/2607.17701)|null|
@@ -2421,7 +2444,7 @@ layout: default
 |**2026-07-11**|**Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders**|Cedric Waterschoot (acm.org) et.al.|[2607.10235](http://arxiv.org/abs/2607.10235)|null|
 |**2026-07-14**|**Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices**|Yangyijian Liu (smail.nju.edu.cn) et.al.|[2607.10183](http://arxiv.org/abs/2607.10183)|null|
 |**2026-07-10**|**Tokenizing Numerical and Embedding Features for LLM RecSys**|Zhe Xu (meta.com) et.al.|[2607.10016](http://arxiv.org/abs/2607.10016)|null|
-|**2026-07-21**|**An LLM-powered Agentic Recommendation System for Connected TV Content Discovery**|Lei Shi (meta.com) et.al.|[2607.09988](http://arxiv.org/abs/2607.09988)|null|
+|**2026-07-22**|**An LLM-powered Agentic Recommendation System for Connected TV Content Discovery**|Lei Shi (meta.com) et.al.|[2607.09988](http://arxiv.org/abs/2607.09988)|null|
 |**2026-07-10**|**RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation**|Kaiji Zhou (student.bham.ac.uk) et.al.|[2607.09908](http://arxiv.org/abs/2607.09908)|null|
 |**2026-07-10**|**Serving the Long Tail: Training-Free LLM Candidate Generation for Vacation Rental Marketplaces**|Syed Mohammed Arshad Zaidi (expediagroup.com) et.al.|[2607.09877](http://arxiv.org/abs/2607.09877)|null|
 |**2026-07-10**|**Memory-Conditioned Tool Calling for Camera-First Visual Agents**|Xiaofan Wu (chance.vision) et.al.|[2607.09822](http://arxiv.org/abs/2607.09822)|null|
@@ -3519,6 +3542,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**LKValues: Aligning Large Language Models with Sri Lankan Societal Values**|Nethmi Muthugala (tju.edu.cn) et.al.|[2607.20410](http://arxiv.org/abs/2607.20410)|**[link](https://github.com/NextME14/LKValues)**|
+|**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring (ncsu.edu) et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
+|**2026-07-22**|**Exposure is Optional: Learning Unlike Coordination in Language Models**|Jiamu Luo (uw.edu) et.al.|[2607.20251](http://arxiv.org/abs/2607.20251)|null|
+|**2026-07-22**|**Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis**|Adel ElZemity (kent.ac.uk) et.al.|[2607.20216](http://arxiv.org/abs/2607.20216)|null|
+|**2026-07-22**|**OLEDLM: A Unified Language Model for OLED Molecular Design**|Fukang Wen (smbu.edu.cn) et.al.|[2607.20194](http://arxiv.org/abs/2607.20194)|null|
+|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|null|
+|**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen (stu.ecnu.edu.cn) et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
+|**2026-07-22**|**Solar Open 2 Technical Report**|Sungrae Park et.al.|[2607.20062](http://arxiv.org/abs/2607.20062)|null|
+|**2026-07-22**|**Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model**|Markus J. Buehler (MIT.EDU) et.al.|[2607.20058](http://arxiv.org/abs/2607.20058)|null|
+|**2026-07-22**|**TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models**|Mark Schutera (dhbw-ravensburg.de) et.al.|[2607.19992](http://arxiv.org/abs/2607.19992)|**[link](https://github.com/schutera/tiny_schiller)**|
+|**2026-07-22**|**When Shippers Become Algorithms: Candidate Exposure, Information Design, and the Concentration of LLM-Mediated Freight Markets**|Takahiro Ezaki et.al.|[2607.19967](http://arxiv.org/abs/2607.19967)|null|
+|**2026-07-22**|**Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models**|Yurong Liu (nyu.edu) et.al.|[2607.19847](http://arxiv.org/abs/2607.19847)|**[link](https://github.com/lyrain2001/auto-fill)**|
+|**2026-07-22**|**TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis**|Isabel Xu (gmail.com) et.al.|[2607.19794](http://arxiv.org/abs/2607.19794)|null|
+|**2026-07-22**|**PerfAgent: Profiler-Guided Iterative Refinement for Repository-Level Code Optimization**|Ryan Deng et.al.|[2607.19653](http://arxiv.org/abs/2607.19653)|null|
+|**2026-07-21**|**Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models**|Mahdiyeh Farajidizaji (gmail.com) et.al.|[2607.19608](http://arxiv.org/abs/2607.19608)|null|
+|**2026-07-21**|**BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators**|Fabian Waschkowski (basecompute.co) et.al.|[2607.19438](http://arxiv.org/abs/2607.19438)|**[link](https://github.com/basecompute/baseRT)**|
+|**2026-07-20**|**ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems**|Elias Hossain et.al.|[2607.19430](http://arxiv.org/abs/2607.19430)|null|
 |**2026-07-21**|**Selective State-Space Adaptation and Retrieval for Language Model Reasoning**|Atahan Dokme (gatech.edu) et.al.|[2607.19326](http://arxiv.org/abs/2607.19326)|null|
 |**2026-07-21**|**Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness**|Xilun Chen (meta.com) et.al.|[2607.19322](http://arxiv.org/abs/2607.19322)|null|
 |**2026-07-21**|**Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards**|Xuefeng Jin (163.com) et.al.|[2607.19219](http://arxiv.org/abs/2607.19219)|**[link](https://github.com/hellomuyi/RLAES)**|
@@ -3559,7 +3599,7 @@ layout: default
 |**2026-07-19**|**Lossless but Not Free: An Empirical Anatomy of Speculative Decoding on Consumer Hardware**|Param Chordiya (ucsd.edu) et.al.|[2607.17283](http://arxiv.org/abs/2607.17283)|**[link](https://github.com/ParamChordiya/speculative_decoding_engine)**|
 |**2026-07-19**|**An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation**|Zhanbo Li (gpnu.edu.cn) et.al.|[2607.17269](http://arxiv.org/abs/2607.17269)|**[link](https://github.com/zhanbolee/DaoQL-Edu)**|
 |**2026-07-19**|**The Geometry of Semantic Space: A Continuous Geometric Framework for the Transformer Architecture**|Zhihua Liang (ca.infn.it) et.al.|[2607.17146](http://arxiv.org/abs/2607.17146)|null|
-|**2026-07-19**|**A Systematic Evaluation of Traditional Privacy Policy Analysis Tools Against LLMs**|Madhav Aryal (usf.edu) et.al.|[2607.17075](http://arxiv.org/abs/2607.17075)|null|
+|**2026-07-22**|**A Systematic Evaluation of Traditional Privacy Policy Analysis Tools Against LLMs**|Madhav Aryal (usf.edu) et.al.|[2607.17075](http://arxiv.org/abs/2607.17075)|null|
 |**2026-07-18**|**TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization**|Navnit Shukla et.al.|[2607.16973](http://arxiv.org/abs/2607.16973)|null|
 |**2026-07-18**|**Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models**|Ye Lu (hit.edu.cn) et.al.|[2607.16870](http://arxiv.org/abs/2607.16870)|null|
 |**2026-07-18**|**Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning**|Roberto Pietrantuono (unina.it) et.al.|[2607.16808](http://arxiv.org/abs/2607.16808)|**[link](https://github.com/dessertlab/EAE/)**|
