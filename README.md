@@ -1,4 +1,4 @@
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu (connect.polyu.hk) et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
+|**2026-07-23**|**Transparent by Design, Usable in Practice? A Formative Usability Study of a Conversational Product Advisor**|Kevin Schott (gesis.org) et.al.|[2607.21513](http://arxiv.org/abs/2607.21513)|null|
+|**2026-07-23**|**Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks**|Mack Nixon (ucl.ac.uk) et.al.|[2607.21482](http://arxiv.org/abs/2607.21482)|**[link](https://github.com/UCL-ARC/RRBench)**|
+|**2026-07-23**|**Finite-Sample Coverage Audits for High-Recall Candidate Generation: Certification and Learning-Theoretic Design**|Martin Anthony et.al.|[2607.21480](http://arxiv.org/abs/2607.21480)|null|
+|**2026-07-23**|**Adaptive Identity Anchoring: Closed-Loop Keyframe Placement for Synthetic Paired Supervision in Video Face Swapping**|Logan Robbins (gmail.com) et.al.|[2607.21434](http://arxiv.org/abs/2607.21434)|null|
+|**2026-07-23**|**A Diffusion-Model Subpopulation Digital Twin for Mobile Health Deployment: A Case Study on the HeartSteps Intervention**|Ziping Xu (unc.edu) et.al.|[2607.21403](http://arxiv.org/abs/2607.21403)|null|
+|**2026-07-23**|**Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning**|Lorenzo Orsingher (unitn.it) et.al.|[2607.21300](http://arxiv.org/abs/2607.21300)|null|
+|**2026-07-23**|**news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling**|Pascal Stolzenburg et.al.|[2607.21284](http://arxiv.org/abs/2607.21284)|null|
+|**2026-07-23**|**pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development**|Chen Zhu (cau.edu.cn) et.al.|[2607.21268](http://arxiv.org/abs/2607.21268)|**[link](https://github.com/maxwell2732/pAI-Econ-claude)**|
+|**2026-07-23**|**slang.gr as a Large-Scale Crowdsourced Resource for Non-Standard Greek**|Panagiotis Papadakos (ics.forth.gr) et.al.|[2607.21255](http://arxiv.org/abs/2607.21255)|null|
+|**2026-07-23**|**SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia**|Elderly People with Frailty or Dementia Azul Debenedetti et.al.|[2607.21156](http://arxiv.org/abs/2607.21156)|null|
+|**2026-07-23**|**One More Turn, Less Regret: A Regret-Based Multi-Turn Benchmark for LLMs' Clarification Policies**|Minh Ngoc Ta (mbzuai.ac.ae) et.al.|[2607.21143](http://arxiv.org/abs/2607.21143)|null|
+|**2026-07-23**|**Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation**|Jie Peng (ruc.edu.cn) et.al.|[2607.21101](http://arxiv.org/abs/2607.21101)|null|
+|**2026-07-23**|**PrefReward: Learning User Preference Matrix for Personalized Text Generation**|Yue Wu (mail.ustc.edu.cn) et.al.|[2607.21067](http://arxiv.org/abs/2607.21067)|null|
+|**2026-07-23**|**Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation**|Junchao Zeng (tencent.com) et.al.|[2607.21028](http://arxiv.org/abs/2607.21028)|null|
+|**2026-07-23**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu (kcl.ac.uk) et.al.|[2607.21019](http://arxiv.org/abs/2607.21019)|null|
+|**2026-07-23**|**Best-of-Evidence: Best-of-N Selection under Partial Verification**|Cenwei Zhang (gmail.com) et.al.|[2607.20950](http://arxiv.org/abs/2607.20950)|null|
+|**2026-07-23**|**Controllable and Content-Based Recommendations**|Fırat Öncel et.al.|[2607.20938](http://arxiv.org/abs/2607.20938)|null|
+|**2026-07-23**|**Representing Entity Importance in AI Knowledge Systems: A Dual-Signal Framework of Audience Evaluation and Structural Authority**|Shen Xu et.al.|[2607.20925](http://arxiv.org/abs/2607.20925)|null|
+|**2026-07-23**|**Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries**|Hyeong-Gun Joo (hanyang.ac.kr) et.al.|[2607.20890](http://arxiv.org/abs/2607.20890)|null|
+|**2026-07-23**|**LO-FAR: A Cost-Aware Local Filter for Sparse Feature Ranking in Industrial Ad Recommendation**|Egemen Erbayat (meta.com) et.al.|[2607.20873](http://arxiv.org/abs/2607.20873)|null|
+|**2026-07-23**|**Probabilistic Residual Learning for Online Recommendations**|Wenyuan Wang (scarletmail.rutgers.edu) et.al.|[2607.20863](http://arxiv.org/abs/2607.20863)|null|
+|**2026-07-23**|**The Geometry of Personality: Activation Steering with Jungian Cognitive Functions**|Liu Zai et.al.|[2607.20803](http://arxiv.org/abs/2607.20803)|null|
+|**2026-07-22**|**Rushes: A Human Preference Dataset for Pluralistic Alignment**|Michael Xu (microsoft.com) et.al.|[2607.20767](http://arxiv.org/abs/2607.20767)|**[link](https://github.com/microsoft/rushes)**|
+|**2026-07-22**|**Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure in Heterogeneous Recommendation Graphs**|Parul Maheshwari et.al.|[2607.20737](http://arxiv.org/abs/2607.20737)|null|
+|**2026-07-22**|**Attribution Markets: A Fisher-Market Formulation for Fractional Credit Assignment Between Planned Tasks and Performed Actions**|Salavat Ishbulatov (doplan.ai) et.al.|[2607.20694](http://arxiv.org/abs/2607.20694)|null|
+|**2026-07-22**|**Explanation-Based Runtime Verification for Trustworthy ML-driven Optical Networks**|Omran Ayoub (supsi.ch) et.al.|[2607.20675](http://arxiv.org/abs/2607.20675)|null|
+|**2026-07-22**|**SalesLoop: Reinforcement Learning from Performance Feedback for Sales Lead Ranking**|Chenyu Zhang (outlook.com) et.al.|[2607.20655](http://arxiv.org/abs/2607.20655)|null|
+|**2026-07-22**|**Evaluating the Effectiveness of Persona Simulation in Opinion Prediction with GPT-4.1**|Sarah Y. Li (gmail.com) et.al.|[2607.20589](http://arxiv.org/abs/2607.20589)|null|
 |**2026-07-22**|**Understanding Generative AI-mediated User Engagement with Academic Library Resources**|Hae Min Kim (drexel.edu) et.al.|[2607.20328](http://arxiv.org/abs/2607.20328)|null|
 |**2026-07-22**|**Don't Trust the Label: License Laundering in AI Supply Chains**|James Jewitt et.al.|[2607.20300](http://arxiv.org/abs/2607.20300)|null|
 |**2026-07-22**|**The Ethics of Autonomous AI Agents for Offensive Security**|Andreas Happe (tuwien.ac.at) et.al.|[2607.20255](http://arxiv.org/abs/2607.20255)|null|
@@ -24,7 +53,7 @@
 |**2026-07-22**|**TRUST-ESD: A Risk-Calibrated and Governance-Aware AI Framework for Enterprise Strategic Decision Support Under Uncertainty**|Tian Qiu (stu.cqu.edu.cn) et.al.|[2607.20065](http://arxiv.org/abs/2607.20065)|null|
 |**2026-07-22**|**TalentCLEF at CLEF2026: Skill and Job Title Intelligence for Human Capital Management**|Luis Gasco (avature.net) et.al.|[2607.20009](http://arxiv.org/abs/2607.20009)|**[link](https://talentclef.github.io/talentclef/)**|
 |**2026-07-22**|**Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals**|P. Harris et.al.|[2607.19999](http://arxiv.org/abs/2607.19999)|null|
-|**2026-07-22**|**UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction**|Honghao Li (gmail.com) et.al.|[2607.19987](http://arxiv.org/abs/2607.19987)|**[link](https://github.com/salmon1802/UniRank)**|
+|**2026-07-23**|**UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction**|Honghao Li (gmail.com) et.al.|[2607.19987](http://arxiv.org/abs/2607.19987)|**[link](https://github.com/salmon1802/UniRank)**|
 |**2026-07-22**|**SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data**|Zenghui Zhou (gmail.com) et.al.|[2607.19949](http://arxiv.org/abs/2607.19949)|null|
 |**2026-07-22**|**Zero-Observation User Reactivation with Gap-Driven Dimensional Gating**|Jiandong Ding (fudan.edu.cn) et.al.|[2607.19802](http://arxiv.org/abs/2607.19802)|**[link](https://github.com/jdding/DeltaGate)**|
 |**2026-07-22**|**Personalized Recommendation Tool Learning via Autonomous Language Agents**|Mingdai Yang (uic.edu) et.al.|[2607.19739](http://arxiv.org/abs/2607.19739)|null|
@@ -2372,12 +2401,27 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu (connect.polyu.hk) et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
+|**2026-07-23**|**Transparent by Design, Usable in Practice? A Formative Usability Study of a Conversational Product Advisor**|Kevin Schott (gesis.org) et.al.|[2607.21513](http://arxiv.org/abs/2607.21513)|null|
+|**2026-07-23**|**Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks**|Mack Nixon (ucl.ac.uk) et.al.|[2607.21482](http://arxiv.org/abs/2607.21482)|**[link](https://github.com/UCL-ARC/RRBench)**|
+|**2026-07-23**|**Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning**|Lorenzo Orsingher (unitn.it) et.al.|[2607.21300](http://arxiv.org/abs/2607.21300)|null|
+|**2026-07-23**|**news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling**|Pascal Stolzenburg et.al.|[2607.21284](http://arxiv.org/abs/2607.21284)|null|
+|**2026-07-23**|**pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development**|Chen Zhu (cau.edu.cn) et.al.|[2607.21268](http://arxiv.org/abs/2607.21268)|**[link](https://github.com/maxwell2732/pAI-Econ-claude)**|
+|**2026-07-23**|**slang.gr as a Large-Scale Crowdsourced Resource for Non-Standard Greek**|Panagiotis Papadakos (ics.forth.gr) et.al.|[2607.21255](http://arxiv.org/abs/2607.21255)|null|
+|**2026-07-23**|**SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia**|Elderly People with Frailty or Dementia Azul Debenedetti et.al.|[2607.21156](http://arxiv.org/abs/2607.21156)|null|
+|**2026-07-23**|**One More Turn, Less Regret: A Regret-Based Multi-Turn Benchmark for LLMs' Clarification Policies**|Minh Ngoc Ta (mbzuai.ac.ae) et.al.|[2607.21143](http://arxiv.org/abs/2607.21143)|null|
+|**2026-07-23**|**PrefReward: Learning User Preference Matrix for Personalized Text Generation**|Yue Wu (mail.ustc.edu.cn) et.al.|[2607.21067](http://arxiv.org/abs/2607.21067)|null|
+|**2026-07-23**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu (kcl.ac.uk) et.al.|[2607.21019](http://arxiv.org/abs/2607.21019)|null|
+|**2026-07-23**|**Profiling Lightweight Large Language Models**|Tomohiro Harada (mail.saitama-u.ac.jp) et.al.|[2607.20806](http://arxiv.org/abs/2607.20806)|null|
+|**2026-07-23**|**The Geometry of Personality: Activation Steering with Jungian Cognitive Functions**|Liu Zai et.al.|[2607.20803](http://arxiv.org/abs/2607.20803)|null|
+|**2026-07-22**|**Rushes: A Human Preference Dataset for Pluralistic Alignment**|Michael Xu (microsoft.com) et.al.|[2607.20767](http://arxiv.org/abs/2607.20767)|**[link](https://github.com/microsoft/rushes)**|
+|**2026-07-22**|**Evaluating the Effectiveness of Persona Simulation in Opinion Prediction with GPT-4.1**|Sarah Y. Li (gmail.com) et.al.|[2607.20589](http://arxiv.org/abs/2607.20589)|null|
 |**2026-07-22**|**The Ethics of Autonomous AI Agents for Offensive Security**|Andreas Happe (tuwien.ac.at) et.al.|[2607.20255](http://arxiv.org/abs/2607.20255)|null|
 |**2026-07-22**|**The Two-Process Theory of Machine Self-Report**|Hubert Plisiecki (gmail.com) et.al.|[2607.20082](http://arxiv.org/abs/2607.20082)|null|
 |**2026-07-22**|**SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data**|Zenghui Zhou (gmail.com) et.al.|[2607.19949](http://arxiv.org/abs/2607.19949)|null|
@@ -3545,12 +3589,36 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation**|Linjun Li et.al.|[2607.21518](http://arxiv.org/abs/2607.21518)|null|
+|**2026-07-23**|**What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations**|Piotr Wilam (gmail.com) et.al.|[2607.21491](http://arxiv.org/abs/2607.21491)|**[link](https://github.com/piotrwilam/Atlas2x2)**|
+|**2026-07-23**|**Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable**|Prerit Ahuja (gmail.com) et.al.|[2607.21340](http://arxiv.org/abs/2607.21340)|null|
+|**2026-07-23**|**Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs**|Yidu Wu (sustech.edu.cn) et.al.|[2607.21291](http://arxiv.org/abs/2607.21291)|null|
+|**2026-07-23**|**pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development**|Chen Zhu (cau.edu.cn) et.al.|[2607.21268](http://arxiv.org/abs/2607.21268)|**[link](https://github.com/maxwell2732/pAI-Econ-claude)**|
+|**2026-07-23**|**Case study: solving P-99 with LPTP and an LLM**|Fred Mesnard (univ-reunion.fr) et.al.|[2607.21196](http://arxiv.org/abs/2607.21196)|null|
+|**2026-07-23**|**SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia**|Elderly People with Frailty or Dementia Azul Debenedetti et.al.|[2607.21156](http://arxiv.org/abs/2607.21156)|null|
+|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh (nyu.edu) et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
+|**2026-07-23**|**QuantiBias: Benchmarking Quantization-Induced Bias in LLMs**|Emilio Ferrara (usc.edu) et.al.|[2607.21063](http://arxiv.org/abs/2607.21063)|null|
+|**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du (nvidia.com) et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
+|**2026-07-23**|**Workflow-Localized Mechanism Learning: Attribution-Guided Repair and Knowledge Reuse for Structured Agent Skills**|Zibin Lin (gmail.com) et.al.|[2607.20999](http://arxiv.org/abs/2607.20999)|**[link](https://github.com/xiaolin9595/workflow-localized-mechanism-learning)**|
+|**2026-07-23**|**Fast and Efficient Approximate Nearest Neighbor Search for High-Dimensional LLM Embeddings**|Nico Hezel et.al.|[2607.20957](http://arxiv.org/abs/2607.20957)|**[link](https://github.com/Visual-Computing/sisap26-deglib)**|
+|**2026-07-23**|**Multi-turn RL with Structural and Performance Aware Rewards for CUDA Kernel Generation**|Quazi Ishtiaque Mahmud (iastate.edu) et.al.|[2607.20908](http://arxiv.org/abs/2607.20908)|null|
+|**2026-07-23**|**Position Bias is Hidden Behind Ceiling Effects: A Permutation Diagnostic for LLM Benchmarks**|Hiroki Tamba (tamba-research.academy) et.al.|[2607.20864](http://arxiv.org/abs/2607.20864)|**[link](https://github.com/TambaClan/inspect_permute)**|
+|**2026-07-23**|**Code Monitor Red Teaming for Public-Test-Passing Code**|Junchi Liao et.al.|[2607.20852](http://arxiv.org/abs/2607.20852)|null|
+|**2026-07-23**|**The Geometry of Personality: Activation Steering with Jungian Cognitive Functions**|Liu Zai et.al.|[2607.20803](http://arxiv.org/abs/2607.20803)|null|
+|**2026-07-22**|**Rushes: A Human Preference Dataset for Pluralistic Alignment**|Michael Xu (microsoft.com) et.al.|[2607.20767](http://arxiv.org/abs/2607.20767)|**[link](https://github.com/microsoft/rushes)**|
+|**2026-07-22**|**IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests**|Ankur Singh et.al.|[2607.20759](http://arxiv.org/abs/2607.20759)|null|
+|**2026-07-22**|**GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries**|Miguel P. Bento (tecnico.ulisboa.pt) et.al.|[2607.20757](http://arxiv.org/abs/2607.20757)|**[link](https://github.com/MPedraBento/gauge-quant)**|
+|**2026-07-22**|**Leaky Language Models: Stealing Architecture and Inference Optimizations via Per-Token Timing**|Sadegh Majidi (purdue.edu) et.al.|[2607.20723](http://arxiv.org/abs/2607.20723)|null|
+|**2026-07-22**|**REGARD: Regional Affective Differences in Large Language Models**|Andrei Chetvergov (ranepa.ru) et.al.|[2607.20722](http://arxiv.org/abs/2607.20722)|null|
+|**2026-07-22**|**Scaling Interpretable Transformers with Parity Bottleneck Layers**|Andrew Mack (princint.ai) et.al.|[2607.20652](http://arxiv.org/abs/2607.20652)|null|
+|**2026-07-22**|**Evaluating the Effectiveness of Persona Simulation in Opinion Prediction with GPT-4.1**|Sarah Y. Li (gmail.com) et.al.|[2607.20589](http://arxiv.org/abs/2607.20589)|null|
+|**2026-07-22**|**Geometric Configurations of Perturbed Jailbreak Prompts**|Lynn Delcon et.al.|[2607.20581](http://arxiv.org/abs/2607.20581)|null|
 |**2026-07-22**|**LKValues: Aligning Large Language Models with Sri Lankan Societal Values**|Nethmi Muthugala (tju.edu.cn) et.al.|[2607.20410](http://arxiv.org/abs/2607.20410)|**[link](https://github.com/NextME14/LKValues)**|
 |**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring (ncsu.edu) et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
 |**2026-07-22**|**Exposure is Optional: Learning Unlike Coordination in Language Models**|Jiamu Luo (uw.edu) et.al.|[2607.20251](http://arxiv.org/abs/2607.20251)|null|
@@ -8447,7 +8515,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
