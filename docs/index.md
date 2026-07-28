@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -13,9 +13,12 @@ layout: default
 |**2026-07-24**|**Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models**|Sergey Musienko (nimbusbci.com) et.al.|[2607.22397](http://arxiv.org/abs/2607.22397)|null|
 |**2026-07-24**|**Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning**|Yida Xu (outlook.com) et.al.|[2607.22356](http://arxiv.org/abs/2607.22356)|null|
 |**2026-07-24**|**Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education**|Stephan Vonschallen (zhaw.ch) et.al.|[2607.22345](http://arxiv.org/abs/2607.22345)|null|
+|**2026-07-24**|**Bringing GRACE to Recommendation: Fine-Tuning for Sustainable and Accurate Personalization**|Yibowen Zhao (mail.sdu.edu.cn) et.al.|[2607.22341](http://arxiv.org/abs/2607.22341)|null|
 |**2026-07-24**|**Efficient Recommendations via Graph Coarsening and Label Propagation**|Alessandro Sbandi (telecomitalia.it) et.al.|[2607.22287](http://arxiv.org/abs/2607.22287)|null|
 |**2026-07-24**|**Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode**|Nanbeige Lab et.al.|[2607.22083](http://arxiv.org/abs/2607.22083)|null|
 |**2026-07-24**|**Cross-Domain Off-Policy Evaluation and Learning for Contextual Bandits**|Yuta Natsubori (hakuhodo.co.jp) et.al.|[2607.22012](http://arxiv.org/abs/2607.22012)|null|
+|**2026-07-24**|**SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders**|Evan Caville (uq.net.au) et.al.|[2607.21951](http://arxiv.org/abs/2607.21951)|null|
+|**2026-07-23**|**StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach**|Erencem Ozbey (std.bogazici.edu.tr) et.al.|[2607.21802](http://arxiv.org/abs/2607.21802)|**[link](https://github.com/Cambridge-AFAR/StARS.git)**|
 |**2026-07-23**|**Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**|Shenzhe Zhu (utexas.edu) et.al.|[2607.21758](http://arxiv.org/abs/2607.21758)|null|
 |**2026-07-23**|**Co-design of LLM-based preference agents: participation may drive overtrust**|Michael J. Fell (ucl.ac.uk) et.al.|[2607.21757](http://arxiv.org/abs/2607.21757)|null|
 |**2026-07-23**|**Prior laundering: learned priors with inherited, undetectable overconfidence**|Ali Siahkoohi (ucf.edu) et.al.|[2607.21721](http://arxiv.org/abs/2607.21721)|null|
@@ -33,7 +36,7 @@ layout: default
 |**2026-07-24**|**One More Turn, Less Regret: A Regret-Based Multi-Turn Benchmark for LLMs' Clarification Policies**|Minh Ngoc Ta (mbzuai.ac.ae) et.al.|[2607.21143](http://arxiv.org/abs/2607.21143)|null|
 |**2026-07-23**|**Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation**|Jie Peng (ruc.edu.cn) et.al.|[2607.21101](http://arxiv.org/abs/2607.21101)|null|
 |**2026-07-23**|**PrefReward: Learning User Preference Matrix for Personalized Text Generation**|Yue Wu (mail.ustc.edu.cn) et.al.|[2607.21067](http://arxiv.org/abs/2607.21067)|null|
-|**2026-07-23**|**Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation**|Junchao Zeng (tencent.com) et.al.|[2607.21028](http://arxiv.org/abs/2607.21028)|null|
+|**2026-07-24**|**Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation**|Junchao Zeng (tencent.com) et.al.|[2607.21028](http://arxiv.org/abs/2607.21028)|null|
 |**2026-07-23**|**HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices**|Wei Liu (kcl.ac.uk) et.al.|[2607.21019](http://arxiv.org/abs/2607.21019)|null|
 |**2026-07-23**|**Best-of-Evidence: Best-of-N Selection under Partial Verification**|Cenwei Zhang (gmail.com) et.al.|[2607.20950](http://arxiv.org/abs/2607.20950)|null|
 |**2026-07-23**|**Controllable and Content-Based Recommendations**|Fırat Öncel et.al.|[2607.20938](http://arxiv.org/abs/2607.20938)|null|
