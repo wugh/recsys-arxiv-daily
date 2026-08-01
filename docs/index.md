@@ -2,13 +2,40 @@
 layout: default
 ---
 
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin (gmail.com) et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**The Role of Causality in Algorithmic Recourse**|Srikanth Avasarala (gatech.edu) et.al.|[2607.28497](http://arxiv.org/abs/2607.28497)|null|
+|**2026-07-30**|**LLMs struggle to simulate human belief updates in controlled environments**|Sebastian Pohl (it-u.at) et.al.|[2607.28347](http://arxiv.org/abs/2607.28347)|null|
+|**2026-07-30**|**Operationally Guided Placement-Aware Learning for Industrial Online 3D Bin Packing**|Dheeraj Poolavaram (tha.de) et.al.|[2607.28257](http://arxiv.org/abs/2607.28257)|null|
+|**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo (embl.it) et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|**[link](https://github.com/petroni-lab/librarian)**|
+|**2026-07-30**|**Vibe-FDTR: An agent-oriented framework for reproducible frequency-domain thermoreflectance data analysis**|Fuwei Yang (pku.edu.cn) et.al.|[2607.28200](http://arxiv.org/abs/2607.28200)|null|
+|**2026-07-30**|**Face and Voice Cross-modal Association with Learning Convex Feature Embedding**|Taewan Kim (sookmyung.com) et.al.|[2607.28129](http://arxiv.org/abs/2607.28129)|null|
+|**2026-07-30**|**Diversifying Personalized Research Ideation against AI-Induced Homogenization**|Rui Xu (gmail.com) et.al.|[2607.28087](http://arxiv.org/abs/2607.28087)|**[link](https://github.com/Ruixxxx/DivAlign)**|
+|**2026-07-30**|**CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent**|Yunlong Wang (tencent.com) et.al.|[2607.28070](http://arxiv.org/abs/2607.28070)|null|
+|**2026-07-30**|**Building a User Foundation Model for the Open Web**|Solal Vernier (teads.com) et.al.|[2607.28019](http://arxiv.org/abs/2607.28019)|null|
+|**2026-07-30**|**Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation**|Long Zhang (mail.ustc.edu.cn) et.al.|[2607.27944](http://arxiv.org/abs/2607.27944)|null|
+|**2026-07-30**|**MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos**|Jinpeng Hu (hfut.edu.cn) et.al.|[2607.27895](http://arxiv.org/abs/2607.27895)|null|
+|**2026-07-30**|**Back to All-Entity Ranking: Sampler-Dependent Evaluation in Continuous-Time Dynamic Graphs**|Minwoo Yu (konkuk.ac.kr) et.al.|[2607.27861](http://arxiv.org/abs/2607.27861)|null|
+|**2026-07-30**|**Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation**|Yuhang Zhu et.al.|[2607.27816](http://arxiv.org/abs/2607.27816)|**[link](https://github.com/Zhuyh1139/PALATE)**|
+|**2026-07-30**|**From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation**|Zhi Chen (gmail.com) et.al.|[2607.27789](http://arxiv.org/abs/2607.27789)|null|
+|**2026-07-30**|**ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory**|Yongye Su (purdue.edu) et.al.|[2607.27773](http://arxiv.org/abs/2607.27773)|null|
+|**2026-07-30**|**Hierarchical Latent Reasoning for LLM-based Recommendation**|Peiyu Hu (xjtlu.edu.cn) et.al.|[2607.27760](http://arxiv.org/abs/2607.27760)|**[link](https://github.com/hupeiyu21/HiLaR)**|
+|**2026-07-30**|**A Structured Knowledge Infrastructure for Domain-Specific Data Asset Discovery**|Mengdi Chen (xiaohongshu.com) et.al.|[2607.27748](http://arxiv.org/abs/2607.27748)|null|
+|**2026-07-30**|**ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation**|Yuxin Chen (meta.com) et.al.|[2607.27744](http://arxiv.org/abs/2607.27744)|null|
+|**2026-07-30**|**Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language**|Changjiang Han (mbzuai.ac.ae) et.al.|[2607.27682](http://arxiv.org/abs/2607.27682)|null|
+|**2026-07-30**|**LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation**|Hui Qian (alibaba-inc.com) et.al.|[2607.27647](http://arxiv.org/abs/2607.27647)|null|
+|**2026-07-30**|**Dynamic Exploration Graph: A Novel Approach for Efficient Nearest Neighbor Search in Evolving Multimedia Datasets**|Nico Hezel (htw-berlin.de) et.al.|[2607.27640](http://arxiv.org/abs/2607.27640)|null|
+|**2026-07-30**|**An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval**|Nico Hezel (htw-berlin.de) et.al.|[2607.27623](http://arxiv.org/abs/2607.27623)|null|
+|**2026-07-30**|**Compliance2LoRA: On-Demand Safety Alignment on Arbitrary Policy Subsets via Hypernetwork-Generated LoRA Adapters**|Pankayaraj Pathmanathan (umd.edu) et.al.|[2607.27594](http://arxiv.org/abs/2607.27594)|null|
+|**2026-07-30**|**Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study**|Di Bai (google.com) et.al.|[2607.27577](http://arxiv.org/abs/2607.27577)|null|
+|**2026-07-30**|**A Montage-Agnostic Encoder for Calibration-Light Cross-User Gesture Recognition from Surface Electromyography**|Jethro Odeyemi (usask.ca) et.al.|[2607.27565](http://arxiv.org/abs/2607.27565)|null|
+|**2026-07-29**|**OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval**|Ziwei Li (meta.com) et.al.|[2607.27475](http://arxiv.org/abs/2607.27475)|null|
 |**2026-07-29**|**Mental World Modeling**|Hao Fei (gmail.com) et.al.|[2607.27201](http://arxiv.org/abs/2607.27201)|**[link](https://mental-world.github.io/)**|
 |**2026-07-29**|**KAMR: Grounding Generation via Knowledge-Aligned Multi-hop Retrieval**|Xiaochen Wang (psu.edu) et.al.|[2607.27136](http://arxiv.org/abs/2607.27136)|null|
 |**2026-07-29**|**Linguistic Monoculture in LLM-Assisted Language Use**|Suhas Thejaswi (aalto.fi) et.al.|[2607.27134](http://arxiv.org/abs/2607.27134)|null|
@@ -21,7 +48,7 @@ layout: default
 |**2026-07-29**|**Actions Have Consequences: Detecting Outcome Performativity using Intervention Testing**|Brandon Gower-Winter (uu.nl) et.al.|[2607.26908](http://arxiv.org/abs/2607.26908)|null|
 |**2026-07-29**|**Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising**|Zipeng Chen (tencent.com) et.al.|[2607.26893](http://arxiv.org/abs/2607.26893)|null|
 |**2026-07-29**|**From Representations to Behaviors: Exploring the Person-Situation-Behavior Triad in LLMs**|Ruikang Zhang (stu.pku.edu.cn) et.al.|[2607.26853](http://arxiv.org/abs/2607.26853)|null|
-|**2026-07-29**|**Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB**|Finn Hertsch (stud.dhbw-ravensburg.de) et.al.|[2607.26832](http://arxiv.org/abs/2607.26832)|null|
+|**2026-07-30**|**Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB**|Finn Hertsch (stud.dhbw-ravensburg.de) et.al.|[2607.26832](http://arxiv.org/abs/2607.26832)|null|
 |**2026-07-29**|**CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation**|Ruiyu Liu (mail.sustech.edu.cn) et.al.|[2607.26720](http://arxiv.org/abs/2607.26720)|null|
 |**2026-07-29**|**FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking**|Muñoz-Haro Javier (uam.es) et.al.|[2607.26641](http://arxiv.org/abs/2607.26641)|null|
 |**2026-07-29**|**WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang (kuaishou.com) et.al.|[2607.26621](http://arxiv.org/abs/2607.26621)|null|
@@ -2518,15 +2545,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|**[link](https://github.com/petroni-lab/librarian)**|
-|**2026-07-30**|**Vibe-FDTR: An agent-oriented framework for reproducible frequency-domain thermoreflectance data analysis**|Fuwei Yang et.al.|[2607.28200](http://arxiv.org/abs/2607.28200)|null|
+|**2026-07-30**|**LLMs struggle to simulate human belief updates in controlled environments**|Sebastian Pohl (it-u.at) et.al.|[2607.28347](http://arxiv.org/abs/2607.28347)|null|
+|**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo (embl.it) et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|**[link](https://github.com/petroni-lab/librarian)**|
+|**2026-07-30**|**Vibe-FDTR: An agent-oriented framework for reproducible frequency-domain thermoreflectance data analysis**|Fuwei Yang (pku.edu.cn) et.al.|[2607.28200](http://arxiv.org/abs/2607.28200)|null|
 |**2026-07-30**|**Building a User Foundation Model for the Open Web**|Solal Vernier (teads.com) et.al.|[2607.28019](http://arxiv.org/abs/2607.28019)|null|
 |**2026-07-30**|**Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation**|Long Zhang (mail.ustc.edu.cn) et.al.|[2607.27944](http://arxiv.org/abs/2607.27944)|null|
 |**2026-07-30**|**MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos**|Jinpeng Hu (hfut.edu.cn) et.al.|[2607.27895](http://arxiv.org/abs/2607.27895)|null|
 |**2026-07-30**|**Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation**|Yuhang Zhu et.al.|[2607.27816](http://arxiv.org/abs/2607.27816)|**[link](https://github.com/Zhuyh1139/PALATE)**|
+|**2026-07-30**|**From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation**|Zhi Chen (gmail.com) et.al.|[2607.27789](http://arxiv.org/abs/2607.27789)|null|
 |**2026-07-30**|**ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory**|Yongye Su (purdue.edu) et.al.|[2607.27773](http://arxiv.org/abs/2607.27773)|null|
 |**2026-07-30**|**Hierarchical Latent Reasoning for LLM-based Recommendation**|Peiyu Hu (xjtlu.edu.cn) et.al.|[2607.27760](http://arxiv.org/abs/2607.27760)|**[link](https://github.com/hupeiyu21/HiLaR)**|
 |**2026-07-30**|**Evaluating and Pricing Advertisements in AI-Generated Responses**|John L. Turner-Smith (andrew.cmu.edu) et.al.|[2607.27686](http://arxiv.org/abs/2607.27686)|null|
+|**2026-07-30**|**Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language**|Changjiang Han (mbzuai.ac.ae) et.al.|[2607.27682](http://arxiv.org/abs/2607.27682)|null|
 |**2026-07-29**|**Mental World Modeling**|Hao Fei (gmail.com) et.al.|[2607.27201](http://arxiv.org/abs/2607.27201)|**[link](https://mental-world.github.io/)**|
 |**2026-07-29**|**Linguistic Monoculture in LLM-Assisted Language Use**|Suhas Thejaswi (aalto.fi) et.al.|[2607.27134](http://arxiv.org/abs/2607.27134)|null|
 |**2026-07-29**|**InferScale: GPU-Native KV Injection for Personalized LLM Serving**|Peter Li (northeastern.edu) et.al.|[2607.27090](http://arxiv.org/abs/2607.27090)|null|
@@ -2536,7 +2566,7 @@ layout: default
 |**2026-07-29**|**Credit Cards, Confusion, Computation, and Consequences: What Can We Uncover About Language Model Reasoning?**|Arnav Hiray (gatech.edu) et.al.|[2607.26952](http://arxiv.org/abs/2607.26952)|null|
 |**2026-07-29**|**Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising**|Zipeng Chen (tencent.com) et.al.|[2607.26893](http://arxiv.org/abs/2607.26893)|null|
 |**2026-07-29**|**From Representations to Behaviors: Exploring the Person-Situation-Behavior Triad in LLMs**|Ruikang Zhang (stu.pku.edu.cn) et.al.|[2607.26853](http://arxiv.org/abs/2607.26853)|null|
-|**2026-07-29**|**WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang (kuaishou.com) et.al.|[2607.26621](http://arxiv.org/abs/2607.26621)|null|
+|**2026-07-30**|**WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang (kuaishou.com) et.al.|[2607.26621](http://arxiv.org/abs/2607.26621)|null|
 |**2026-07-29**|**Uncertainty-Guided LLM Semantic Augmentation for Heterogeneous Treatment Effect Estimation**|Jialu Xu (buaa.edu.cn) et.al.|[2607.26599](http://arxiv.org/abs/2607.26599)|null|
 |**2026-07-29**|**ASARL: Autonomous Social-Aware Relevance Learning for QQ Search**|Tao Su (tencent.com) et.al.|[2607.26593](http://arxiv.org/abs/2607.26593)|null|
 |**2026-07-29**|**Learning Dynamic User Personas from Implicit Interaction Streams via Iterative Refinement**|Haifeng Wu (paypal.com) et.al.|[2607.26473](http://arxiv.org/abs/2607.26473)|null|
@@ -3772,10 +3802,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ORCA-bench: How Ready Are Language Model Agents for Oncall?**|Albert Gong (cornell.edu) et.al.|[2607.28545](http://arxiv.org/abs/2607.28545)|null|
+|**2026-07-30**|**InfoOps Bench: A live information operations safety benchmark**|Dorian Quelle (pattrn.ai) et.al.|[2607.28503](http://arxiv.org/abs/2607.28503)|null|
+|**2026-07-30**|**Beyond Sentiment: Structured Information Extraction from Financial News**|Daohan Zhu (buaa.edu.cn) et.al.|[2607.28496](http://arxiv.org/abs/2607.28496)|null|
+|**2026-07-30**|**GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation**|Maya Arseven (cl.uni-heidelberg.de) et.al.|[2607.28397](http://arxiv.org/abs/2607.28397)|null|
+|**2026-07-30**|**LLMs struggle to simulate human belief updates in controlled environments**|Sebastian Pohl (it-u.at) et.al.|[2607.28347](http://arxiv.org/abs/2607.28347)|null|
 |**2026-07-30**|**Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations**|Pere Martra et.al.|[2607.28319](http://arxiv.org/abs/2607.28319)|null|
-|**2026-07-30**|**Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing**|Huiyuan Tian et.al.|[2607.28308](http://arxiv.org/abs/2607.28308)|null|
-|**2026-07-30**|**From Textual Requirements to Microservice Architectures - A Comprehensive Evaluation of LLM-Based Design Synthesis**|Danyllo Albuquerque et.al.|[2607.28307](http://arxiv.org/abs/2607.28307)|null|
-|**2026-07-30**|**MORFES: A Benchmark for Productive Inflectional Competence in Modern Greek**|Ioakeim Perros et.al.|[2607.28274](http://arxiv.org/abs/2607.28274)|null|
+|**2026-07-30**|**Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing**|Huiyuan Tian (zju.edu.cn) et.al.|[2607.28308](http://arxiv.org/abs/2607.28308)|null|
+|**2026-07-30**|**From Textual Requirements to Microservice Architectures - A Comprehensive Evaluation of LLM-Based Design Synthesis**|Danyllo Albuquerque (copin.ufcg.edu.br) et.al.|[2607.28307](http://arxiv.org/abs/2607.28307)|null|
+|**2026-07-30**|**MORFES: A Benchmark for Productive Inflectional Competence in Modern Greek**|Ioakeim Perros (kiefer.gr) et.al.|[2607.28274](http://arxiv.org/abs/2607.28274)|null|
 |**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo (embl.it) et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|**[link](https://github.com/petroni-lab/librarian)**|
 |**2026-07-30**|**Can Agents Deceive? Evaluating Reasoning and Deception in ParliamentBench using a Social Deduction Game**|Niklas Bauer et.al.|[2607.28146](http://arxiv.org/abs/2607.28146)|null|
 |**2026-07-30**|**Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models**|Shuyi Fan (tc.columbia.edu) et.al.|[2607.28128](http://arxiv.org/abs/2607.28128)|null|
