@@ -1,4 +1,4 @@
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2566,7 +2566,7 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -3829,12 +3829,13 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang (asu.edu) et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|null|
 |**2026-07-31**|**AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction**|Rui Zou (ruc.edu.cn) et.al.|[2607.29549](http://arxiv.org/abs/2607.29549)|null|
 |**2026-07-31**|**ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation**|Gaetano Perrone et.al.|[2607.29539](http://arxiv.org/abs/2607.29539)|null|
 |**2026-07-31**|**ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models**|Penglin Zhu (mails.ucas.ac.cn) et.al.|[2607.29431](http://arxiv.org/abs/2607.29431)|null|
@@ -8905,7 +8906,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

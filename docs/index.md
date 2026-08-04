@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
@@ -3826,6 +3826,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**TokTier: Exact Stateful Tokenization for Agentic LLM Serving**|Zhenyu Zhang (asu.edu) et.al.|[2607.29678](http://arxiv.org/abs/2607.29678)|null|
 |**2026-07-31**|**AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction**|Rui Zou (ruc.edu.cn) et.al.|[2607.29549](http://arxiv.org/abs/2607.29549)|null|
 |**2026-07-31**|**ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation**|Gaetano Perrone et.al.|[2607.29539](http://arxiv.org/abs/2607.29539)|null|
 |**2026-07-31**|**ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models**|Penglin Zhu (mails.ucas.ac.cn) et.al.|[2607.29431](http://arxiv.org/abs/2607.29431)|null|
