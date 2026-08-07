@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction**|Chenglong Wang (mail.neu.edu.cn) et.al.|[2608.06310](http://arxiv.org/abs/2608.06310)|**[link](https://github.com/wangclnlp/RRC)**|
+|**2026-08-06**|**Surv-IPTB: An Attention-Based Model for Estimating Individual Probability of Treatment Benefit with Survival Data**|Lev V. Utkin et.al.|[2608.06288](http://arxiv.org/abs/2608.06288)|null|
 |**2026-08-06**|**Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model**|Saad Ahmed et.al.|[2608.06252](http://arxiv.org/abs/2608.06252)|null|
 |**2026-08-06**|**Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation**|Anna Lipkina (yandex-team.ru) et.al.|[2608.06213](http://arxiv.org/abs/2608.06213)|null|
 |**2026-08-06**|**Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalzied Financial Agents**|Yuanhong Jiang et.al.|[2608.06108](http://arxiv.org/abs/2608.06108)|null|
@@ -2669,6 +2671,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction**|Chenglong Wang (mail.neu.edu.cn) et.al.|[2608.06310](http://arxiv.org/abs/2608.06310)|**[link](https://github.com/wangclnlp/RRC)**|
 |**2026-08-06**|**Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalzied Financial Agents**|Yuanhong Jiang et.al.|[2608.06108](http://arxiv.org/abs/2608.06108)|null|
 |**2026-08-06**|**Training-Free Token-Level Steering for LLM Personalized Co-Writing**|Wenhao Mao (gmail.com) et.al.|[2608.06069](http://arxiv.org/abs/2608.06069)|null|
 |**2026-08-06**|**Cleo: A Transparent and Controllable Chatbot for Conversational Commerce**|Kevin Schott (gesis.org) et.al.|[2608.06068](http://arxiv.org/abs/2608.06068)|null|
@@ -3987,6 +3990,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**The Bitter Lesson of Tool Calling**|Ishan Patel et.al.|[2608.06370](http://arxiv.org/abs/2608.06370)|null|
+|**2026-08-06**|**The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping**|Sarvesh Baskar et.al.|[2608.06361](http://arxiv.org/abs/2608.06361)|null|
+|**2026-08-06**|**The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity**|Iosif Lytras et.al.|[2608.06283](http://arxiv.org/abs/2608.06283)|null|
 |**2026-08-06**|**What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)**|Ro Encarnación et.al.|[2608.06202](http://arxiv.org/abs/2608.06202)|null|
 |**2026-08-06**|**SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models**|Hoda Fakharzadehjahromy et.al.|[2608.06179](http://arxiv.org/abs/2608.06179)|null|
 |**2026-08-06**|**LLM Inference Under Bursty Workload Distribution: Modifying the WAIT Algorithm**|Anjali Gangadhar Katageria (gmail.com) et.al.|[2608.06135](http://arxiv.org/abs/2608.06135)|null|
