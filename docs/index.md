@@ -2,19 +2,39 @@
 layout: default
 ---
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models**|Aleksandra Kalisz (instadeep.com) et.al.|[2608.12192](http://arxiv.org/abs/2608.12192)|null|
+|**2026-08-12**|**Making Collaborative Signals Count: Graph-Aware Large Language Models for Sequential Recommendation**|Fenglin Yan (zju.edu.cn) et.al.|[2608.12184](http://arxiv.org/abs/2608.12184)|null|
+|**2026-08-12**|**Beyond Parameter Space: NTK-Guided Personalized Aggregation for Robust Federated Learning**|Mirko Konstantin (zib.de) et.al.|[2608.12108](http://arxiv.org/abs/2608.12108)|null|
+|**2026-08-12**|**Adaptive Bregman Proximal Stochastic Gradient with a Stabilized Barzilai--Borwein Step Size**|Chenhan Jin (bnbu.edu.cn) et.al.|[2608.12009](http://arxiv.org/abs/2608.12009)|null|
+|**2026-08-12**|**HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs**|Kangning Zhang (sjtu.edu.cn) et.al.|[2608.11980](http://arxiv.org/abs/2608.11980)|**[link](https://github.com/WncFht/GRec)**|
+|**2026-08-12**|**Sci-Surf: Navigating Scientific Literature Discovery through Human Feedback and Intelligent Summarizatio**|Fang Guo (westlake.edu.cn) et.al.|[2608.11973](http://arxiv.org/abs/2608.11973)|null|
+|**2026-08-12**|**LODESTAR: Trustworthy Entropy Is Navigated, Not Merely Measured -- Reinforced Polarizer Keeps a Frozen LLM from Being Confidently Misled by the Wrong Evidence**|Po-Jen Ko (citi.sinica.edu.tw) et.al.|[2608.11922](http://arxiv.org/abs/2608.11922)|null|
+|**2026-08-12**|**From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation**|Junyoung Kim (postech.ac.kr) et.al.|[2608.11846](http://arxiv.org/abs/2608.11846)|**[link](https://github.com/327aem/PRISM/)**|
+|**2026-08-12**|**When the Knowledge Base Becomes the Gold Standard: Measuring Resource-Shared Evaluation Loops in Entity-Level Machine Translation**|Jinhyung Bae et.al.|[2608.11843](http://arxiv.org/abs/2608.11843)|**[link](https://github.com/nepersoned/malmoi-sjw-eval)**|
+|**2026-08-12**|**GRPO for Financial Advice Generation: Outperforming Commercial LLMs under CATE Evaluation**|Ofir Ben Shoham (intuit.com) et.al.|[2608.11787](http://arxiv.org/abs/2608.11787)|null|
+|**2026-08-12**|**Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines**|Vaishnav Raju (newspace.co.in) et.al.|[2608.11770](http://arxiv.org/abs/2608.11770)|null|
+|**2026-08-12**|**Locating and Controlling Implicit Personalization in Large Language Models**|Yueru Yan (iu.edu) et.al.|[2608.11735](http://arxiv.org/abs/2608.11735)|null|
+|**2026-08-12**|**FunnelCausalNet: Funnel-aware Joint Conversion-Revenue Uplift for Multi-tier Coupon Allocation**|Yu Zhang (alibaba-inc.com) et.al.|[2608.11675](http://arxiv.org/abs/2608.11675)|null|
+|**2026-08-12**|**Learning from Online User Feedback for Shopping Agents**|Haobo Zhang (ruc.edu.cn) et.al.|[2608.11604](http://arxiv.org/abs/2608.11604)|null|
+|**2026-08-12**|**When Offline Evaluation Misleads: A Diagnostic Protocol for Reward and Policy Selection in Delayed-Feedback Contextual Bandits**|Sang Su Lee (thumbtack.com) et.al.|[2608.11560](http://arxiv.org/abs/2608.11560)|null|
+|**2026-08-11**|**From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation**|Alireza S. Ziabari (netflix.com) et.al.|[2608.11493](http://arxiv.org/abs/2608.11493)|null|
+|**2026-08-11**|**DonorRank: Donor Language Selection for Low-Resource Cross-Lingual Speech Recognition**|Akriti Dhasmana et.al.|[2608.11441](http://arxiv.org/abs/2608.11441)|null|
+|**2026-08-11**|**Gaze Target Estimation Anywhere with Concepts**|Xu Cao (illinois.edu) et.al.|[2608.11367](http://arxiv.org/abs/2608.11367)|**[link](http://github.com/IrohXu/GazeAnywhere)**|
+|**2026-08-11**|**Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces**|Mengyu Chen (jpmchase.com) et.al.|[2608.11354](http://arxiv.org/abs/2608.11354)|null|
+|**2026-08-11**|**Weightless Fine-Tuning: Personalizing LLMs via Logit-Space Transport**|Bohan Zhang (umich.edu) et.al.|[2608.11342](http://arxiv.org/abs/2608.11342)|null|
 |**2026-08-11**|**Are We Really Making Progress in Group Recommendation? Unmasking the Tie-Breaking Illusion**|Song-Duo Ma (ntu.edu.tw) et.al.|[2608.11190](http://arxiv.org/abs/2608.11190)|**[link](https://github.com/songduoma/TieAwareGroupRec)**|
 |**2026-08-11**|**Role of Personality in Conversational Information Seeking**|Abdisalam Abukar (student.gla.ac.uk) et.al.|[2608.11164](http://arxiv.org/abs/2608.11164)|null|
 |**2026-08-11**|**A Recommendation System Approach for Interference-Robust Sensor Subset Selection**|Kaan Buyukkalayci (ucla.edu) et.al.|[2608.11143](http://arxiv.org/abs/2608.11143)|null|
 |**2026-08-11**|**RTSKG: Building a Rail Transit Station Knowledge Graph Dataset**|Shutong Zhu (seu.edu.cn) et.al.|[2608.11080](http://arxiv.org/abs/2608.11080)|null|
 |**2026-08-11**|**Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training**|Artyom Sabitov (gmail.com) et.al.|[2608.11061](http://arxiv.org/abs/2608.11061)|null|
-|**2026-08-11**|**Sona Technical Report**| Sona Team et.al.|[2608.11015](http://arxiv.org/abs/2608.11015)|null|
+|**2026-08-12**|**Sona Technical Report**| Sona Team et.al.|[2608.11015](http://arxiv.org/abs/2608.11015)|null|
 |**2026-08-11**|**What Iterated Self-Feeding Probes of Language Models Measure, and a test that separates the construction from the model**|Nicolás Vera Zúñiga (quetru.cl) et.al.|[2608.10986](http://arxiv.org/abs/2608.10986)|**[link](https://github.com/nicoveraz/token-lattice-ca)**|
 |**2026-08-11**|**TimeRoute: Time-Aware Modality Routing and Diffusion for Multi-Modal Recommendation**|Pengyu Zhang (uva.nl) et.al.|[2608.10983](http://arxiv.org/abs/2608.10983)|null|
 |**2026-08-11**|**ReLTEx: Reliable LLM-based Taxonomy Expansion**|Zeinab Ghamlouch (gmail.com) et.al.|[2608.10970](http://arxiv.org/abs/2608.10970)|null|
@@ -2759,6 +2779,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Making Collaborative Signals Count: Graph-Aware Large Language Models for Sequential Recommendation**|Fenglin Yan (zju.edu.cn) et.al.|[2608.12184](http://arxiv.org/abs/2608.12184)|null|
+|**2026-08-12**|**Sci-Surf: Navigating Scientific Literature Discovery through Human Feedback and Intelligent Summarizatio**|Fang Guo (westlake.edu.cn) et.al.|[2608.11973](http://arxiv.org/abs/2608.11973)|null|
+|**2026-08-12**|**GRPO for Financial Advice Generation: Outperforming Commercial LLMs under CATE Evaluation**|Ofir Ben Shoham (intuit.com) et.al.|[2608.11787](http://arxiv.org/abs/2608.11787)|null|
+|**2026-08-12**|**Locating and Controlling Implicit Personalization in Large Language Models**|Yueru Yan (iu.edu) et.al.|[2608.11735](http://arxiv.org/abs/2608.11735)|null|
+|**2026-08-12**|**Learning from Online User Feedback for Shopping Agents**|Haobo Zhang (ruc.edu.cn) et.al.|[2608.11604](http://arxiv.org/abs/2608.11604)|null|
+|**2026-08-11**|**From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation**|Alireza S. Ziabari (netflix.com) et.al.|[2608.11493](http://arxiv.org/abs/2608.11493)|null|
+|**2026-08-11**|**Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces**|Mengyu Chen (jpmchase.com) et.al.|[2608.11354](http://arxiv.org/abs/2608.11354)|null|
+|**2026-08-11**|**Weightless Fine-Tuning: Personalizing LLMs via Logit-Space Transport**|Bohan Zhang (umich.edu) et.al.|[2608.11342](http://arxiv.org/abs/2608.11342)|null|
 |**2026-08-11**|**Role of Personality in Conversational Information Seeking**|Abdisalam Abukar (student.gla.ac.uk) et.al.|[2608.11164](http://arxiv.org/abs/2608.11164)|null|
 |**2026-08-11**|**VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?**|Xiaohongshu Inc et.al.|[2608.10875](http://arxiv.org/abs/2608.10875)|null|
 |**2026-08-11**|**Conversational Orchestration for Organic 6G**|Masoud Shokrnezhad (ictficial.com) et.al.|[2608.10714](http://arxiv.org/abs/2608.10714)|null|
@@ -2780,7 +2808,7 @@ layout: default
 |**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|null|
 |**2026-08-10**|**Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical Procedure Reranking**|Matan Fainzilber (healthee.co) et.al.|[2608.09650](http://arxiv.org/abs/2608.09650)|**[link](https://github.com/matanf-healthee/listwise-crossencoder-reranking)**|
 |**2026-08-10**|**TSPORec: Token Selection via Preference Optimization for LLM-Based Sequential Recommendation**|Wenqiao Zhu (outlook.com) et.al.|[2608.09605](http://arxiv.org/abs/2608.09605)|**[link](https://github.com/WNQzhu/TSPORec.git)**|
-|**2026-08-10**|**Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning**|Yuting Liu (stumail.neu.edu.cn) et.al.|[2608.09507](http://arxiv.org/abs/2608.09507)|null|
+|**2026-08-12**|**Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning**|Yuting Liu (stumail.neu.edu.cn) et.al.|[2608.09507](http://arxiv.org/abs/2608.09507)|null|
 |**2026-08-10**|**Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity**|Zihan Wang (hkust-gz.edu.cn) et.al.|[2608.09443](http://arxiv.org/abs/2608.09443)|null|
 |**2026-08-10**|**MetaStrategy: Generative Ranking with Executable LLM Strategies**|Chengyu Lai (alibaba-inc.com) et.al.|[2608.09440](http://arxiv.org/abs/2608.09440)|null|
 |**2026-08-10**|**Accurate but Natural? Diagnosing Grammatical and Idiomatic Gaps in Japanese EFL Writing**|Steve Woollaston (gmail.com) et.al.|[2608.09289](http://arxiv.org/abs/2608.09289)|null|
@@ -4125,9 +4153,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals**|Alireza Kargarzadeh (tailstate.ai) et.al.|[2608.12283](http://arxiv.org/abs/2608.12283)|null|
+|**2026-08-12**|**Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents**|Junliang Liu (szu.edu.cn) et.al.|[2608.12273](http://arxiv.org/abs/2608.12273)|null|
+|**2026-08-12**|**Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams**|Weihao Bo (adelaide.edu.au) et.al.|[2608.12262](http://arxiv.org/abs/2608.12262)|**[link](https://vi-ocean.github.io/projects/diagram-mmu)**|
+|**2026-08-12**|**SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward**|Zile Zhou et.al.|[2608.12220](http://arxiv.org/abs/2608.12220)|null|
+|**2026-08-12**|**A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench**|Praveen Reddy et.al.|[2608.12138](http://arxiv.org/abs/2608.12138)|null|
+|**2026-08-12**|**Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges**|Xi Chen (antgroup.com) et.al.|[2608.12097](http://arxiv.org/abs/2608.12097)|null|
+|**2026-08-12**|**SoftWater: Class-Aware Rate Allocation for Softmax Quantization**|Joao V. Cavalcanti (mit.edu) et.al.|[2608.12026](http://arxiv.org/abs/2608.12026)|null|
+|**2026-08-12**|**Claim-Level Reliability Assessment for Efficient Test-Time Reasoning**|Sen Xu (staff.weibo.com) et.al.|[2608.11994](http://arxiv.org/abs/2608.11994)|null|
+|**2026-08-12**|**LODESTAR: Trustworthy Entropy Is Navigated, Not Merely Measured -- Reinforced Polarizer Keeps a Frozen LLM from Being Confidently Misled by the Wrong Evidence**|Po-Jen Ko (citi.sinica.edu.tw) et.al.|[2608.11922](http://arxiv.org/abs/2608.11922)|null|
+|**2026-08-12**|**DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation**|Anik Pramanik et.al.|[2608.11889](http://arxiv.org/abs/2608.11889)|null|
+|**2026-08-12**|**How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment**|Guang Yang et.al.|[2608.11816](http://arxiv.org/abs/2608.11816)|null|
+|**2026-08-12**|**Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System**|Haoyu Zhang (m.fudan.edu.cn) et.al.|[2608.11738](http://arxiv.org/abs/2608.11738)|null|
+|**2026-08-12**|**FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents**|Yuhao Zhang (samaya.ai) et.al.|[2608.11683](http://arxiv.org/abs/2608.11683)|null|
+|**2026-08-12**|**Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation**|Duy Tran Thanh (seoultech.ac.kr) et.al.|[2608.11681](http://arxiv.org/abs/2608.11681)|null|
+|**2026-08-12**|**XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication**|Wooseong Yang et.al.|[2608.11676](http://arxiv.org/abs/2608.11676)|null|
+|**2026-08-12**|**Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting**|Xikai Sun et.al.|[2608.11655](http://arxiv.org/abs/2608.11655)|**[link](https://github.com/SunVictor23/MaP)**|
+|**2026-08-12**|**Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs**|Nimet Beyza Bozdag (illinois.edu) et.al.|[2608.11624](http://arxiv.org/abs/2608.11624)|null|
+|**2026-08-12**|**MBA: Multimodal Benchmark and Agents for Real-World Business Ideation**|Hojun Choi (kaist.ac.kr) et.al.|[2608.11616](http://arxiv.org/abs/2608.11616)|**[link](https://hchoi256.github.io/projects/mba/;)**|
+|**2026-08-11**|**The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark**|Jeremy Spence (columbia.edu) et.al.|[2608.11469](http://arxiv.org/abs/2608.11469)|null|
+|**2026-08-11**|**Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology**|Del Coburn (utoronto.ca) et.al.|[2608.11420](http://arxiv.org/abs/2608.11420)|null|
+|**2026-08-11**|**When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs**|Utkarsh Bahuguna (gmail.com) et.al.|[2608.11403](http://arxiv.org/abs/2608.11403)|null|
+|**2026-08-11**|**Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval**|Archan Dutta (westcliff.edu) et.al.|[2608.11343](http://arxiv.org/abs/2608.11343)|null|
+|**2026-07-31**|**RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle**|Dongyang Ao (foxmail.com) et.al.|[2608.11241](http://arxiv.org/abs/2608.11241)|null|
 |**2026-08-11**|**Mapping and Measuring the Behavioral Evolution of Large Language Models**|Dong Qiao (link.cuhk.edu.cn) et.al.|[2608.11027](http://arxiv.org/abs/2608.11027)|null|
 |**2026-08-11**|**REAP: Relation-Aware Elicitation and Parsing for Closed-Book Knowledge Base Construction from LLMs**|Thanh-Dan Bui (vnu.edu.vn) et.al.|[2608.10963](http://arxiv.org/abs/2608.10963)|**[link](https://github.com/yammdd/AKBC-Shared-Task-2026)**|
-|**2026-08-11**|**Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation**|Chris Han (xiaomi.com) et.al.|[2608.10812](http://arxiv.org/abs/2608.10812)|null|
+|**2026-08-12**|**Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation**|Chris Han (xiaomi.com) et.al.|[2608.10812](http://arxiv.org/abs/2608.10812)|null|
 |**2026-08-11**|**SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation**|Zhou Liu et.al.|[2608.10775](http://arxiv.org/abs/2608.10775)|null|
 |**2026-08-11**|**SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information**|Junjie Ye (m.fudan.edu.cn) et.al.|[2608.10692](http://arxiv.org/abs/2608.10692)|null|
 |**2026-08-11**|**Longitudinal Evidence That General-Purpose Chatbots Actively Foster Relational Engagement**|Lisa Mühl (uni-due.de) et.al.|[2608.10672](http://arxiv.org/abs/2608.10672)|null|
