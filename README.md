@@ -14,6 +14,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Learning-to-Transition for Large-scale and High-Order MIMO Detection**|Yubo Zhang et.al.|[2608.14511](http://arxiv.org/abs/2608.14511)|null|
+|**2026-08-14**|**Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation**|Isabel Cachola (stedwards.edu) et.al.|[2608.14457](http://arxiv.org/abs/2608.14457)|null|
+|**2026-08-14**|**PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints**|Dairui Liu (ucd.ie) et.al.|[2608.14429](http://arxiv.org/abs/2608.14429)|null|
+|**2026-08-14**|**Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice**|Syeda Anshrah Gillani (stud.uni-heidelberg.de) et.al.|[2608.14399](http://arxiv.org/abs/2608.14399)|null|
+|**2026-08-14**|**Program-space Diffusion for Morphology-to-Transcriptomics Prediction**|Ruyter Swann (icm-institute.org) et.al.|[2608.14330](http://arxiv.org/abs/2608.14330)|null|
+|**2026-08-14**|**Seeing Red, Thinking Bad: Color Bias in Vision Language Models**|Kohsuke Ide (aist.go.jp) et.al.|[2608.14286](http://arxiv.org/abs/2608.14286)|**[link](https://github.com/KohsukeIde/color-bias-vlm)**|
+|**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban (visa.com) et.al.|[2608.14198](http://arxiv.org/abs/2608.14198)|null|
+|**2026-08-14**|**Leading-Silence Augmentation and Multi-Stage Synthetic Supervision for the Second MLC-SLM Challenge**|Kexin Shi (antgroup.com) et.al.|[2608.14150](http://arxiv.org/abs/2608.14150)|null|
+|**2026-08-14**|**Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions**|Xiaokai Yan (mail.nwpu.edu.cn) et.al.|[2608.14132](http://arxiv.org/abs/2608.14132)|null|
+|**2026-08-14**|**Rewrite Once, Validate Anywhere: Producing OWL-Aware SHACL Constraints (Extended Version)**|Anouk Oudshoorn (tuwien.ac.at) et.al.|[2608.14104](http://arxiv.org/abs/2608.14104)|null|
+|**2026-08-14**|**P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems**|Myunghoon Ryu (korea.ac.kr) et.al.|[2608.14094](http://arxiv.org/abs/2608.14094)|null|
+|**2026-08-14**|**MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation**|Juli Huang (stanford.edu) et.al.|[2608.14068](http://arxiv.org/abs/2608.14068)|null|
+|**2026-08-14**|**TenderKG**|Yacine Mokhtari (imt-atlantique.fr) et.al.|[2608.14066](http://arxiv.org/abs/2608.14066)|null|
+|**2026-08-14**|**Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders**|Keito Kozaki (lmd.ist.hokudai.ac.jp) et.al.|[2608.14021](http://arxiv.org/abs/2608.14021)|null|
+|**2026-08-14**|**EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment**|Haokai Ma (gmail.com) et.al.|[2608.14011](http://arxiv.org/abs/2608.14011)|null|
+|**2026-08-14**|**Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy**|Liwei Deng (gmail.com) et.al.|[2608.13990](http://arxiv.org/abs/2608.13990)|**[link](https://liweidengdavid.github.io/SCOPE-Bench/)**|
+|**2026-08-14**|**How retriever redundancy and diversity impact RAG effectiveness**|Jonathan J Ross (uq.edu.au) et.al.|[2608.13956](http://arxiv.org/abs/2608.13956)|null|
+|**2026-08-14**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun (icloud.com) et.al.|[2608.13926](http://arxiv.org/abs/2608.13926)|null|
+|**2026-08-14**|**Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds**|Yipeng Wang (northeastern.edu) et.al.|[2608.13879](http://arxiv.org/abs/2608.13879)|null|
+|**2026-08-14**|**Predicting Custom-Feed Returns for New Bluesky Posts: A Prospective Study**|Yipeng Wang (northeastern.edu) et.al.|[2608.13874](http://arxiv.org/abs/2608.13874)|null|
+|**2026-08-14**|**Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions**|Qinglin Yang (gzhu.edu.cn) et.al.|[2608.13844](http://arxiv.org/abs/2608.13844)|null|
+|**2026-08-13**|**AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution**|Simiao Zuo (microsoft.com) et.al.|[2608.13833](http://arxiv.org/abs/2608.13833)|null|
+|**2026-08-13**|**Data-driven techniques for translational neuroscience and personalized neuro-health**|Vishal Subedi (umbc.edu) et.al.|[2608.13749](http://arxiv.org/abs/2608.13749)|null|
+|**2026-08-13**|**Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost**|Victor Barros de Miranda Neves (cin.ufpe.br) et.al.|[2608.13730](http://arxiv.org/abs/2608.13730)|null|
+|**2026-08-13**|**Architecture and Affordances of PLAUD: Performative Latents and Unsupervised DDSP**|Błażej Kotowski (upf.edu) et.al.|[2608.13724](http://arxiv.org/abs/2608.13724)|null|
+|**2026-08-13**|**Language-Specific Gaps in AI Safety Training Datasets**|Chialuka Prisca-Mary Onuoha (gmail.com) et.al.|[2608.13695](http://arxiv.org/abs/2608.13695)|null|
 |**2026-08-13**|**TabSOM: A tabular-to-image encoding method based on self-organizing maps**|David Chushig-Muzo (urjc.es) et.al.|[2608.13513](http://arxiv.org/abs/2608.13513)|null|
 |**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder (epfl.ch) et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|null|
 |**2026-08-13**|**Doubly Robust Estimation of Causal Effect on CVR with Targeted Regularization**|Jiayi Dan (tsinghua.org.cn) et.al.|[2608.13461](http://arxiv.org/abs/2608.13461)|null|
@@ -2811,6 +2837,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation**|Isabel Cachola (stedwards.edu) et.al.|[2608.14457](http://arxiv.org/abs/2608.14457)|null|
+|**2026-08-14**|**Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice**|Syeda Anshrah Gillani (stud.uni-heidelberg.de) et.al.|[2608.14399](http://arxiv.org/abs/2608.14399)|null|
+|**2026-08-14**|**Seeing Red, Thinking Bad: Color Bias in Vision Language Models**|Kohsuke Ide (aist.go.jp) et.al.|[2608.14286](http://arxiv.org/abs/2608.14286)|**[link](https://github.com/KohsukeIde/color-bias-vlm)**|
+|**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban (visa.com) et.al.|[2608.14198](http://arxiv.org/abs/2608.14198)|null|
+|**2026-08-14**|**Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions**|Xiaokai Yan (mail.nwpu.edu.cn) et.al.|[2608.14132](http://arxiv.org/abs/2608.14132)|null|
+|**2026-08-14**|**P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems**|Myunghoon Ryu (korea.ac.kr) et.al.|[2608.14094](http://arxiv.org/abs/2608.14094)|null|
+|**2026-08-14**|**MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation**|Juli Huang (stanford.edu) et.al.|[2608.14068](http://arxiv.org/abs/2608.14068)|null|
+|**2026-08-14**|**Musical Mirrors: The LLM as Sounding Board in Songwriting**|Xiao Xiao (devinci.fr) et.al.|[2608.13944](http://arxiv.org/abs/2608.13944)|null|
+|**2026-08-14**|**Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact**| Zhelun (icloud.com) et.al.|[2608.13926](http://arxiv.org/abs/2608.13926)|null|
+|**2026-08-14**|**When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict**|Lu Yang et.al.|[2608.13921](http://arxiv.org/abs/2608.13921)|null|
+|**2026-08-14**|**Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions**|Qinglin Yang (gzhu.edu.cn) et.al.|[2608.13844](http://arxiv.org/abs/2608.13844)|null|
+|**2026-08-13**|**Language-Specific Gaps in AI Safety Training Datasets**|Chialuka Prisca-Mary Onuoha (gmail.com) et.al.|[2608.13695](http://arxiv.org/abs/2608.13695)|null|
 |**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder (epfl.ch) et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|null|
 |**2026-08-13**|**RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level**|Juan Irving Vasquez (ipn.mx) et.al.|[2608.13428](http://arxiv.org/abs/2608.13428)|null|
 |**2026-08-13**|**Self-Referential Induction Increases Response Instability Relative to Unresolvable and Verifiable Questions in Large Language Models**|Paras Balani et.al.|[2608.13258](http://arxiv.org/abs/2608.13258)|null|
@@ -2818,7 +2856,7 @@
 |**2026-08-13**|**Numeracy in Large Language Models: Fundamental Limitations and Paths to Improvement**|Aoxin Ni (ucas.ac.cn) et.al.|[2608.13129](http://arxiv.org/abs/2608.13129)|null|
 |**2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Weitao Chen (smail.nju.edu.cn) et.al.|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
 |**2026-08-13**|**FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation**|Yuchen Zheng (dbis.nankai.edu.cn) et.al.|[2608.12845](http://arxiv.org/abs/2608.12845)|null|
-|**2026-08-13**|**Fast A/B/n Testing: Exact Multi-Policy Comparison via Tree-Coupled Feedback Sharing**|Yuxiao Wen et.al.|[2608.12831](http://arxiv.org/abs/2608.12831)|null|
+|**2026-08-14**|**Fast A/B/n Testing: Exact Multi-Policy Comparison via Tree-Coupled Feedback Sharing**|Yuxiao Wen et.al.|[2608.12831](http://arxiv.org/abs/2608.12831)|null|
 |**2026-08-12**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Le Zhang et.al.|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
 |**2026-08-12**|**Not All Nudges Land: Behavioral Controllability and Elaboration Quality in AI-Supported Journaling**|Nadia Mehjabin (virginia.edu) et.al.|[2608.12582](http://arxiv.org/abs/2608.12582)|null|
 |**2026-08-12**|**Making Collaborative Signals Count: Graph-Aware Large Language Models for Sequential Recommendation**|Fenglin Yan (zju.edu.cn) et.al.|[2608.12184](http://arxiv.org/abs/2608.12184)|null|
@@ -4197,6 +4235,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice**|Syeda Anshrah Gillani (stud.uni-heidelberg.de) et.al.|[2608.14399](http://arxiv.org/abs/2608.14399)|null|
+|**2026-08-14**|**DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding**|Zewen Jin et.al.|[2608.14385](http://arxiv.org/abs/2608.14385)|null|
+|**2026-08-14**|**MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation**|Juli Huang (stanford.edu) et.al.|[2608.14068](http://arxiv.org/abs/2608.14068)|null|
+|**2026-08-14**|**Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency**|Junchi Liu et.al.|[2608.14065](http://arxiv.org/abs/2608.14065)|null|
+|**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese (gmail.com) et.al.|[2608.14016](http://arxiv.org/abs/2608.14016)|null|
+|**2026-08-14**|**QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction**|Vincent Counathe et.al.|[2608.13966](http://arxiv.org/abs/2608.13966)|null|
+|**2026-08-14**|**Agentic Transaction: Towards ACID-Compliant Agent Systems**|Zhaoyan Sun (mails.tsinghua.edu.cn) et.al.|[2608.13900](http://arxiv.org/abs/2608.13900)|null|
+|**2026-08-14**|**Bootstrapping Niche Multilingual Code Translation via Reinforcement Learning with Execution-Based Verifiable Supervision**|Kouki Yuki (weblab.t.u-tokyo.ac.jp) et.al.|[2608.13854](http://arxiv.org/abs/2608.13854)|null|
+|**2026-08-13**|**From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL**|Wenyue Hua (microsoft.com) et.al.|[2608.13787](http://arxiv.org/abs/2608.13787)|null|
+|**2026-08-13**|**Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions**|Qingfang Liu (nih.gov) et.al.|[2608.13786](http://arxiv.org/abs/2608.13786)|null|
+|**2026-08-13**|**From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models**|Pranav Kumar Kaliaperumal (colorado.edu) et.al.|[2608.13675](http://arxiv.org/abs/2608.13675)|null|
+|**2026-08-13**|**Asymmetric Discourse Homogenization and Shared Language Technology: Evidence from Reddit**|Fengming Liu et.al.|[2608.13674](http://arxiv.org/abs/2608.13674)|null|
 |**2026-08-13**|**QuoteBench: How Matched Scores Can Hide Command-Path Failures**|Shangao Li (stonybrook.edu) et.al.|[2608.13547](http://arxiv.org/abs/2608.13547)|null|
 |**2026-08-13**|**DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data**|Peter Schneider-Kamp (imada.sdu.dk) et.al.|[2608.13517](http://arxiv.org/abs/2608.13517)|null|
 |**2026-08-13**|**CAPRI: Contract-Aware Proof Repair for Isabelle**|Jim Woodcock (york.ac.uk) et.al.|[2608.13459](http://arxiv.org/abs/2608.13459)|null|
