@@ -2,13 +2,30 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating**|Daria Leshchikova et.al.|[2608.18058](http://arxiv.org/abs/2608.18058)|null|
+|**2026-08-18**|**Traceable Trust for action-ready artificial intelligence in bioscience**|Huayu Xin (ed.ac.uk) et.al.|[2608.17997](http://arxiv.org/abs/2608.17997)|null|
+|**2026-08-18**|**D $^2$ ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory**|Xule Liu (xiaomi.com) et.al.|[2608.17756](http://arxiv.org/abs/2608.17756)|null|
+|**2026-08-18**|**MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning**|Xukun Luan (bit.edu.cn) et.al.|[2608.17722](http://arxiv.org/abs/2608.17722)|null|
+|**2026-08-18**|**LLM-Derived Preference Judgments Are Not Self-Consistent**|Matthew T. Ford (cornell.edu) et.al.|[2608.17644](http://arxiv.org/abs/2608.17644)|null|
+|**2026-08-18**|**From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support**|Ngoc Luyen Le (hds.utc.fr) et.al.|[2608.17618](http://arxiv.org/abs/2608.17618)|null|
+|**2026-08-18**|**Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs**|Yang Hu (stu.pku.edu.cn) et.al.|[2608.17613](http://arxiv.org/abs/2608.17613)|null|
+|**2026-08-18**|**From Entity Mentions to Tone: An LLM-Based Pipeline for Media Bias Analysis**|Klesti Hoxha (unitir.edu.al) et.al.|[2608.17454](http://arxiv.org/abs/2608.17454)|null|
+|**2026-08-18**|**Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation**|Xurong Liang (uq.edu.au) et.al.|[2608.17316](http://arxiv.org/abs/2608.17316)|**[link](https://github.com/xurong-liang/FLEXRec)**|
+|**2026-08-18**|**Q-Interference: Memory-Efficient Phase-Aware Quantum-Inspired Attention**|Emama Nahid (students.kennesaw.edu) et.al.|[2608.17288](http://arxiv.org/abs/2608.17288)|null|
+|**2026-08-18**|**Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification**|Yihang Chen (gatech.edu) et.al.|[2608.17247](http://arxiv.org/abs/2608.17247)|null|
+|**2026-08-17**|**Authorization Before Context: A Model-Neutral Audience Boundary Against Cross-Audience Memory Leakage in Agentic Systems**|Sibo Liu (outlook.com) et.al.|[2608.17148](http://arxiv.org/abs/2608.17148)|null|
+|**2026-08-17**|**Overview of the TREC 2025 Product Search and Recommendation Track**|Dean E. Alvarez (illinois.edu) et.al.|[2608.17138](http://arxiv.org/abs/2608.17138)|null|
+|**2026-08-17**|**Toward Personal Intelligence Through Cooperative Observation**|Yashar Talebirad (ualberta.ca) et.al.|[2608.17128](http://arxiv.org/abs/2608.17128)|null|
+|**2026-08-17**|**Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting**|Junda Wang et.al.|[2608.17075](http://arxiv.org/abs/2608.17075)|null|
+|**2026-08-17**|**The 10th AI City Challenge**|Zheng Tang et.al.|[2608.17044](http://arxiv.org/abs/2608.17044)|null|
+|**2026-08-17**|**Position: Fairness Failure in Generative Models is an Evaluation Problem**|Mariia Vladimirova (criteo.com) et.al.|[2608.16974](http://arxiv.org/abs/2608.16974)|**[link](https://mariiavladimirova.github.io/fairness-cards)**|
 |**2026-08-17**|**Impression Share Prediction: An Offline Evaluation Task for Ranking Systems**|Mohsen Malmir (meta.com) et.al.|[2608.16872](http://arxiv.org/abs/2608.16872)|null|
 |**2026-08-17**|**GEO-Flag: Detecting and Measuring GEO-Optimized Web Content**|Junjie Chu et.al.|[2608.16824](http://arxiv.org/abs/2608.16824)|null|
 |**2026-08-17**|**UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation**|Rongcheng Lin (meta.com) et.al.|[2608.16797](http://arxiv.org/abs/2608.16797)|null|
@@ -2860,6 +2877,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating**|Daria Leshchikova et.al.|[2608.18058](http://arxiv.org/abs/2608.18058)|null|
+|**2026-08-18**|**D $^2$ ACCI: A Dual-Loop Diagnostic Protocol for Evidence-Preserving Agent Memory**|Xule Liu (xiaomi.com) et.al.|[2608.17756](http://arxiv.org/abs/2608.17756)|null|
+|**2026-08-18**|**MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning**|Xukun Luan (bit.edu.cn) et.al.|[2608.17722](http://arxiv.org/abs/2608.17722)|null|
+|**2026-08-18**|**LLM-Derived Preference Judgments Are Not Self-Consistent**|Matthew T. Ford (cornell.edu) et.al.|[2608.17644](http://arxiv.org/abs/2608.17644)|null|
+|**2026-08-18**|**From Entity Mentions to Tone: An LLM-Based Pipeline for Media Bias Analysis**|Klesti Hoxha (unitir.edu.al) et.al.|[2608.17454](http://arxiv.org/abs/2608.17454)|null|
+|**2026-08-18**|**Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation**|Xurong Liang (uq.edu.au) et.al.|[2608.17316](http://arxiv.org/abs/2608.17316)|**[link](https://github.com/xurong-liang/FLEXRec)**|
 |**2026-08-17**|**A Human-LLM Teaming Framework for Privacy Risk Analysis: An Illustration with CBDC-Based Welfare Schemes**|Sourya Joyee De (iitk.ac.in) et.al.|[2608.16461](http://arxiv.org/abs/2608.16461)|null|
 |**2026-08-17**|**POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment**|Burak Tamer (rwu.de) et.al.|[2608.16407](http://arxiv.org/abs/2608.16407)|null|
 |**2026-08-17**|**Beyond Asking: A Pipeline for Personalized Game Generation that Reads Players from Behavior**|Yifan Lu et.al.|[2608.16196](http://arxiv.org/abs/2608.16196)|null|
@@ -4269,6 +4292,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Chain-of-Experience for Continual LLM Improvement**|Haoqin Tu et.al.|[2608.18027](http://arxiv.org/abs/2608.18027)|null|
+|**2026-08-18**|**The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning**|Eduardo Sánchez et.al.|[2608.18011](http://arxiv.org/abs/2608.18011)|null|
+|**2026-08-18**|**An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models**|Javier Aguilar Martín et.al.|[2608.17956](http://arxiv.org/abs/2608.17956)|**[link](https://github.com/JaviMaligno/code-world-models)**|
+|**2026-08-18**|**CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion**|Zheling Tan (sjtu.edu.cn) et.al.|[2608.17911](http://arxiv.org/abs/2608.17911)|null|
+|**2026-08-18**|**BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models**|Liubov Chubarova (gmail.com) et.al.|[2608.17895](http://arxiv.org/abs/2608.17895)|null|
+|**2026-08-18**|**The Model's Tell: Measuring Context-Leakage Attack Signals with Behavior Gauges**|Maosen Zhang (tsinghua.edu.cn) et.al.|[2608.17829](http://arxiv.org/abs/2608.17829)|**[link](https://github.com/yeasen-z/LeakGauge)**|
+|**2026-08-18**|**Debate Training Reduces Reward Hacking in RLAIF**|Zachary Kenton (google.com) et.al.|[2608.17776](http://arxiv.org/abs/2608.17776)|null|
+|**2026-08-18**|**What Aggregate Scores Miss: Measuring Item-Level Regressions in Commercial LLM API Migrations**|Xiaonan Xu (gmail.com) et.al.|[2608.17719](http://arxiv.org/abs/2608.17719)|null|
+|**2026-08-18**|**Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models**|Sahab Zandi (soton.ac.uk) et.al.|[2608.17715](http://arxiv.org/abs/2608.17715)|null|
+|**2026-08-18**|**DEPT: Document Embedding Preservation Tuning for Unified Query Expansion and Retrieval**|Jingyuan Wang (buaa.edu.cn) et.al.|[2608.17632](http://arxiv.org/abs/2608.17632)|**[link](https://github.com/ILSparkle/DEPT)**|
+|**2026-08-18**|**Auditing Exposure to Harmful Content on TikTok using Multimodal Language Models: A Cross-National, Age-Stratified Study**|Hamidreza Saffari (mail.polimi.it) et.al.|[2608.17583](http://arxiv.org/abs/2608.17583)|null|
+|**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed (omu.ac.jp) et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
+|**2026-08-18**|**LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents**|Yiming Du (huawei.com) et.al.|[2608.17393](http://arxiv.org/abs/2608.17393)|null|
+|**2026-08-18**|**Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets**|Zhida He et.al.|[2608.17360](http://arxiv.org/abs/2608.17360)|**[link](https://github.com/xsddys/Fair-ASR)**|
+|**2026-08-18**|**TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration**|Hanzhi Zhang (unt.edu) et.al.|[2608.17336](http://arxiv.org/abs/2608.17336)|**[link](https://github.com/HanzhiZhang-Ulrica/TileMix)**|
+|**2026-08-18**|**Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation**|Xurong Liang (uq.edu.au) et.al.|[2608.17316](http://arxiv.org/abs/2608.17316)|**[link](https://github.com/xurong-liang/FLEXRec)**|
+|**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng (u.nus.edu) et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|null|
+|**2026-08-18**|**Q-Interference: Memory-Efficient Phase-Aware Quantum-Inspired Attention**|Emama Nahid (students.kennesaw.edu) et.al.|[2608.17288](http://arxiv.org/abs/2608.17288)|null|
+|**2026-08-18**|**Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal**|Chenhao Xue et.al.|[2608.17223](http://arxiv.org/abs/2608.17223)|null|
+|**2026-08-17**|**Which Source Wins? Task-Dependent Reliance in Vision-Language Models**|Rodela Ghosh (usf.edu) et.al.|[2608.17205](http://arxiv.org/abs/2608.17205)|**[link](https://github.com/Ro-netizen004/multimodal-arbitration-artifact)**|
+|**2026-08-17**|**Can LLMs Reason in a Legally Meaningful Manner? A Small-scale Study on European Court of Human Rights Cases**|Amogh Raina (di.ku.dk) et.al.|[2608.17168](http://arxiv.org/abs/2608.17168)|null|
 |**2026-08-17**|**Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning**|Minh-Ha Nguyen et.al.|[2608.16831](http://arxiv.org/abs/2608.16831)|null|
 |**2026-08-17**|**Bounded Semantic Planning and Deterministic Compilation for Reliable Enterprise Text-to-SQL**|Yi Ai et.al.|[2608.16663](http://arxiv.org/abs/2608.16663)|null|
 |**2026-08-17**|**Evolving Executable Pipeline Programs for AutoML with Language Models**|Sofoklis Kitharidis et.al.|[2608.16416](http://arxiv.org/abs/2608.16416)|null|
@@ -4296,7 +4340,7 @@ layout: default
 |**2026-08-15**|**MAPLE: MoE Adaptive Plug-and-play Layer-wise Expert allocation**|Lie Li (bristol.ac.uk) et.al.|[2608.15299](http://arxiv.org/abs/2608.15299)|null|
 |**2026-08-15**|**TRACE-BN: Transferring Bangla-English Tutoring Behavior to a Sub-1B Offline Language Model**|Khan Raiyan Ibne Reza (northsouth.edu) et.al.|[2608.15223](http://arxiv.org/abs/2608.15223)|null|
 |**2026-08-15**|**ACTS-SQL: Agentic and Critic-Oriented Tree-Structured SQL Correctness with Large Language Models**|Xinmei Huang (ruc.edu.cn) et.al.|[2608.15145](http://arxiv.org/abs/2608.15145)|null|
-|**2026-08-15**|**RecurrentGPT: Expressive Depth through Recurrent Modulation in Transformers**|Amr Hegazy (student.guc.edu.eg) et.al.|[2608.15062](http://arxiv.org/abs/2608.15062)|null|
+|**2026-08-18**|**RecurrentGPT: Expressive Depth through Recurrent Modulation in Transformers**|Amr Hegazy (student.guc.edu.eg) et.al.|[2608.15062](http://arxiv.org/abs/2608.15062)|null|
 |**2026-08-15**|**FZ-VLM: A Two Stage Florence-Zephyr Vision Language Model Framework for Pulmonary Nodule Characterization and Clinical Decision Making**|Pramit Dutta (uoguelph.ca) et.al.|[2608.15004](http://arxiv.org/abs/2608.15004)|null|
 |**2026-08-15**|**Does a Tool Result Carry More Authority Than Plain Text? Three Prospective Studies of False-Claim Adoption in a Synthetic Assignment Task with Claude Opus 5**|Justin Bronder et.al.|[2608.14992](http://arxiv.org/abs/2608.14992)|null|
 |**2026-08-14**|**Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification**|Aman Singh Thakur (amazon.com) et.al.|[2608.14929](http://arxiv.org/abs/2608.14929)|null|
