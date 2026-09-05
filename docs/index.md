@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni (iu.edu) et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
+|**2026-09-03**|**Efficient Test-Time Adaptation through Human-AI Interaction**|Zora Zhiruo Wang (cs.cmu.edu) et.al.|[2609.04141](http://arxiv.org/abs/2609.04141)|null|
+|**2026-09-03**|**Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable**|Shai Vardi (usf.edu) et.al.|[2609.04127](http://arxiv.org/abs/2609.04127)|null|
+|**2026-09-03**|**CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation**|Tingyu Song (nlpr.ia.ac.cn) et.al.|[2609.04083](http://arxiv.org/abs/2609.04083)|null|
+|**2026-09-03**|**The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations**|Dmitrij Żatuchin (eek.ee) et.al.|[2609.04047](http://arxiv.org/abs/2609.04047)|null|
+|**2026-09-03**|**Catalogue Photography as a Cold Start: Toward Deployable Carbide Burr Recognition**|Abilash Philip Madavath et.al.|[2609.03995](http://arxiv.org/abs/2609.03995)|null|
 |**2026-09-03**|**Comparing Retrieval Methods for Academic Advisor Discovery: A Six-Method Study of 768 CS Faculty Profiles Across 9 US Universities**|Biraj Subedi et.al.|[2609.03901](http://arxiv.org/abs/2609.03901)|**[link](https://github.com/subedibiraj/academic-discovery)**|
 |**2026-09-03**|**Xiaomi-TabLDM: A Tabular Foundation Model Technical Report**|Xiaomi-TabLDM Team et.al.|[2609.03880](http://arxiv.org/abs/2609.03880)|null|
 |**2026-09-03**|**Govern the Model, Not Only the Data: Storage, Circulation, and Learning in Creative AI**|Phoenix Perry (arts.ac.uk) et.al.|[2609.03800](http://arxiv.org/abs/2609.03800)|null|
@@ -3165,6 +3171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni (iu.edu) et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
+|**2026-09-03**|**Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable**|Shai Vardi (usf.edu) et.al.|[2609.04127](http://arxiv.org/abs/2609.04127)|null|
+|**2026-09-03**|**The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations**|Dmitrij Żatuchin (eek.ee) et.al.|[2609.04047](http://arxiv.org/abs/2609.04047)|null|
 |**2026-09-03**|**Mind the Gap: Robustness Risks in PII Detection Systems**|Adeel Zafar (hh.se) et.al.|[2609.03464](http://arxiv.org/abs/2609.03464)|null|
 |**2026-09-03**|**StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios**|Chenglin Wu et.al.|[2609.03414](http://arxiv.org/abs/2609.03414)|null|
 |**2026-09-03**|**A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant**|Saptarshi Basu (gatech.edu) et.al.|[2609.03402](http://arxiv.org/abs/2609.03402)|null|
@@ -4715,8 +4724,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**When Models Edit Too Much: On the Fidelity of Minimal Code Edits**|Tongyao Zhu (u.nus.edu) et.al.|[2609.04061](http://arxiv.org/abs/2609.04061)|null|
+|**2026-09-03**|**IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations**|Chen Li (mp.aau.dk) et.al.|[2609.04030](http://arxiv.org/abs/2609.04030)|null|
+|**2026-09-03**|**Investigating the Ability of Large Language Models to Analyze Recipes for Diabetes**|Revathy Venkataramanan (gmail.com) et.al.|[2609.03967](http://arxiv.org/abs/2609.03967)|null|
 |**2026-09-03**|**Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness**|Hoang Cuong Nguyen (students.mq.edu.au) et.al.|[2609.03887](http://arxiv.org/abs/2609.03887)|**[link](https://github.com/hoangcuongnguyen2001/Beyond-Shallow-Alignment)**|
-|**2026-09-03**|**STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation**|Vineet Kumar et.al.|[2609.03874](http://arxiv.org/abs/2609.03874)|null|
+|**2026-09-03**|**STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation**|Vineet Kumar (gmail.com) et.al.|[2609.03874](http://arxiv.org/abs/2609.03874)|null|
 |**2026-09-03**|**Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations**|Lei Zheng et.al.|[2609.03860](http://arxiv.org/abs/2609.03860)|null|
 |**2026-09-03**|**GRASP: Graph-Retrieval Automated Scoring Pipeline for Label-Free Multi-Topic Essay Grading**|Aafreen Husain et.al.|[2609.03857](http://arxiv.org/abs/2609.03857)|null|
 |**2026-09-03**|**LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes**|Chuyan Chen et.al.|[2609.03796](http://arxiv.org/abs/2609.03796)|null|
