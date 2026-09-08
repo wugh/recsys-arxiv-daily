@@ -1,4 +1,4 @@
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen (walmart.com) et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
+|**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
 |**2026-09-04**|**Students' Perception of Big Data Engineering in Higher Education Curricula: Expectations, Interest and Ethical Implications**|Ioana-Georgiana Ciuciu (ubbcluj.ro) et.al.|[2609.05160](http://arxiv.org/abs/2609.05160)|null|
 |**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola (iit.cnr.it) et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
 |**2026-09-04**|**ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding**|Kanglei Zhou (tsinghua.edu.cn) et.al.|[2609.05094](http://arxiv.org/abs/2609.05094)|null|
@@ -3194,12 +3197,14 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
+|**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
 |**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola (iit.cnr.it) et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
 |**2026-09-04**|**Beyond Co-purchase Relation: Evolution of Complementary Recommendations at Allegro**|Aleksandra Osowska-Kurczab (allegro.com) et.al.|[2609.05063](http://arxiv.org/abs/2609.05063)|null|
 |**2026-09-04**|**Repeated Queries Exhaust an LLM's Brand Recommendations but Not Its Sources**|Dmitrij Żatuchin (eek.ee) et.al.|[2609.05059](http://arxiv.org/abs/2609.05059)|**[link](http://github.com/Rankfor/rankfor-open)**|
@@ -4764,12 +4769,13 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**How to Speculate about Uncertainty in Agentic Coding? A Draft-Model Gate Method**|Konstantin Grotov (gmail.com) et.al.|[2609.05274](http://arxiv.org/abs/2609.05274)|null|
 |**2026-09-04**|**PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting**|Maryam Fakhari (ec.iut.ac.ir) et.al.|[2609.05235](http://arxiv.org/abs/2609.05235)|null|
 |**2026-09-04**|**Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers**|Yumiao Li et.al.|[2609.05189](http://arxiv.org/abs/2609.05189)|**[link](https://github.com/liym22/FlexPension-LLM)**|
@@ -10490,7 +10496,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

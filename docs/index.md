@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen (walmart.com) et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
+|**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
 |**2026-09-04**|**Students' Perception of Big Data Engineering in Higher Education Curricula: Expectations, Interest and Ethical Implications**|Ioana-Georgiana Ciuciu (ubbcluj.ro) et.al.|[2609.05160](http://arxiv.org/abs/2609.05160)|null|
 |**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola (iit.cnr.it) et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
 |**2026-09-04**|**ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding**|Kanglei Zhou (tsinghua.edu.cn) et.al.|[2609.05094](http://arxiv.org/abs/2609.05094)|null|
@@ -3193,6 +3196,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
+|**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
 |**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola (iit.cnr.it) et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
 |**2026-09-04**|**Beyond Co-purchase Relation: Evolution of Complementary Recommendations at Allegro**|Aleksandra Osowska-Kurczab (allegro.com) et.al.|[2609.05063](http://arxiv.org/abs/2609.05063)|null|
 |**2026-09-04**|**Repeated Queries Exhaust an LLM's Brand Recommendations but Not Its Sources**|Dmitrij Żatuchin (eek.ee) et.al.|[2609.05059](http://arxiv.org/abs/2609.05059)|**[link](http://github.com/Rankfor/rankfor-open)**|
@@ -4761,6 +4766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**How to Speculate about Uncertainty in Agentic Coding? A Draft-Model Gate Method**|Konstantin Grotov (gmail.com) et.al.|[2609.05274](http://arxiv.org/abs/2609.05274)|null|
 |**2026-09-04**|**PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting**|Maryam Fakhari (ec.iut.ac.ir) et.al.|[2609.05235](http://arxiv.org/abs/2609.05235)|null|
 |**2026-09-04**|**Can Large Language Models Anticipate Behavioral Responses to Social Policies? A Case of Pension Enrollment Prediction among China's Flexible Workers**|Yumiao Li et.al.|[2609.05189](http://arxiv.org/abs/2609.05189)|**[link](https://github.com/liym22/FlexPension-LLM)**|
