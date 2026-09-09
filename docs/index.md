@@ -2,13 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-05**|**Closing the Long-Short View Gap in Sequential Recommendation without Cached History**|Lingfeng Shi (tamu.edu) et.al.|[2609.06219](http://arxiv.org/abs/2609.06219)|null|
+|**2026-09-05**|**Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions**|Gregory N Frank (moltaicorp.com) et.al.|[2609.06140](http://arxiv.org/abs/2609.06140)|null|
+|**2026-09-05**|**CWF: A Collaborative Writing Framework for Personalized and Reliable Popular Science Writing**|Ruibiao Fu (gmail.com) et.al.|[2609.06126](http://arxiv.org/abs/2609.06126)|**[link](https://github.com/DPInnovationWorks/CWF)**|
+|**2026-09-05**|**Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education**|Seth Bernstein (umich.edu) et.al.|[2609.06095](http://arxiv.org/abs/2609.06095)|null|
+|**2026-09-05**|**Evaluating Deep-Search Agents under Hierarchical Web Evidence Poisoning**|Zhongan Bi (zju.edu.cn) et.al.|[2609.06027](http://arxiv.org/abs/2609.06027)|**[link](https://github.com/zhonganbi102-netizen/HAE-GEO)**|
+|**2026-09-05**|**Alignment by Stereotyping: How LLMs Sacrifice Individual Distinctiveness for Cultural Adaptation**|Qishuai Zhong (e.ntu.edu.sg) et.al.|[2609.05993](http://arxiv.org/abs/2609.05993)|null|
+|**2026-09-05**|**Do All Nodes Benefit Equally from Knowledge Graphs? Adaptive Node-Aware KG Fusion for Recommendation**|Jaehyun Park (soongsil.ac.kr) et.al.|[2609.05909](http://arxiv.org/abs/2609.05909)|null|
+|**2026-09-05**|**From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**|Yu Zheng (berkeley.edu) et.al.|[2609.05901](http://arxiv.org/abs/2609.05901)|null|
+|**2026-09-04**|**What Price Fairness? Evaluating Energy - Fairness - Accuracy Trade-off in Recommender Systems**|Abhirup Mitra (jku.at) et.al.|[2609.05759](http://arxiv.org/abs/2609.05759)|null|
+|**2026-09-04**|**A Multi-Source Ensemble Approach to Candidate Generation for Alternative Vacation Rental Property Recommendations**|Syed Mohammed Arshad Zaidi (expediagroup.com) et.al.|[2609.05748](http://arxiv.org/abs/2609.05748)|null|
+|**2026-09-04**|**HB-PVI: A Hierarchical Bayesian Personalization and Value-of-Information Framework for Complex Activity Recognition**|Hammed A. Olayinka (wpi.edu) et.al.|[2609.05582](http://arxiv.org/abs/2609.05582)|null|
 |**2026-09-04**|**RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments**|Quoc H. Nguyen (walmart.com) et.al.|[2609.05403](http://arxiv.org/abs/2609.05403)|null|
 |**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
@@ -3196,6 +3207,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-05**|**Evaluating Deep-Search Agents under Hierarchical Web Evidence Poisoning**|Zhongan Bi (zju.edu.cn) et.al.|[2609.06027](http://arxiv.org/abs/2609.06027)|**[link](https://github.com/zhonganbi102-netizen/HAE-GEO)**|
+|**2026-09-05**|**Alignment by Stereotyping: How LLMs Sacrifice Individual Distinctiveness for Cultural Adaptation**|Qishuai Zhong (e.ntu.edu.sg) et.al.|[2609.05993](http://arxiv.org/abs/2609.05993)|null|
+|**2026-09-05**|**From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**|Yu Zheng (berkeley.edu) et.al.|[2609.05901](http://arxiv.org/abs/2609.05901)|null|
 |**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation**|Siliang Liu (amazon.com) et.al.|[2609.05363](http://arxiv.org/abs/2609.05363)|null|
 |**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola (iit.cnr.it) et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
@@ -4766,6 +4780,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-06**|**Steering Under Compression: Dose-Response, Capability Cost, and Failure Asymmetry in Quantized LLMs**|Saurav Bhandari (thc.tu.edu.np) et.al.|[2609.06473](http://arxiv.org/abs/2609.06473)|null|
+|**2026-09-06**|**Reliability, validity, and diagnostic evidence for multi-model LLM short-answer scoring**|Chunyi Zhao (gmail.com) et.al.|[2609.06315](http://arxiv.org/abs/2609.06315)|null|
+|**2026-09-05**|**VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification**|Yixin Wan (cs.ucla.edu) et.al.|[2609.06245](http://arxiv.org/abs/2609.06245)|null|
+|**2026-09-05**|**SWE-Test: Benchmarking LLM Vulnerability Discovery via Input Prediction**|Yuanxiang Shi et.al.|[2609.06229](http://arxiv.org/abs/2609.06229)|null|
+|**2026-09-05**|**Scratchy: Visual-Scratchpad Multimodal Reasoning for Cryptographic Proof Generation in EasyCrypt**|Yupeng Ren (mails.ucas.ac.cn) et.al.|[2609.06226](http://arxiv.org/abs/2609.06226)|null|
+|**2026-09-05**|**All for 1-Bit: Towards Genuine 1-Bit Post-Training Quantization for LLMs**|Zhixiong Zhao (houmo.ai) et.al.|[2609.06161](http://arxiv.org/abs/2609.06161)|**[link](https://github.com/Kishon-zzx/AF1)**|
+|**2026-09-05**|**VERPO: Verified Evidence Regularized Policy Optimization**|Haijiang Li (163.com) et.al.|[2609.06100](http://arxiv.org/abs/2609.06100)|null|
+|**2026-09-05**|**FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon**|Shaolong Chen et.al.|[2609.06073](http://arxiv.org/abs/2609.06073)|null|
+|**2026-09-05**|**GradeTrap: Authority Cues in Images Shift VLM Judgments Despite Explicit Instructions to Ignore Them**|Deep Dessai (utexas.edu) et.al.|[2609.06058](http://arxiv.org/abs/2609.06058)|null|
+|**2026-09-05**|**Visual Analysis of LLM-based Entity Resolution from Scientific Papers**|Siyu Wu (buaa.edu.cn) et.al.|[2609.06037](http://arxiv.org/abs/2609.06037)|null|
+|**2026-09-05**|**Alignment by Stereotyping: How LLMs Sacrifice Individual Distinctiveness for Cultural Adaptation**|Qishuai Zhong (e.ntu.edu.sg) et.al.|[2609.05993](http://arxiv.org/abs/2609.05993)|null|
+|**2026-09-05**|**Beyond Cross-Lingual Transfer: Benchmarking Propagation Boundaries in Multilingual LLM Unlearning**|Pengyang Shao et.al.|[2609.05976](http://arxiv.org/abs/2609.05976)|null|
+|**2026-09-05**|**Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents**|Md Jafrin Hossain (uwa.edu.au) et.al.|[2609.05911](http://arxiv.org/abs/2609.05911)|null|
+|**2026-09-05**|**AlignDiff: Exploiting Model-Intrinsic Information for Better Preference Data Selection**|Peng Lai et.al.|[2609.05899](http://arxiv.org/abs/2609.05899)|null|
+|**2026-09-05**|**Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools**|Bryce Cai (securebio.org) et.al.|[2609.05818](http://arxiv.org/abs/2609.05818)|null|
+|**2026-09-05**|**AtomCite: Verification and Correction of Supplied Page-Level Citations in Multi-Page Documents**|Chen Qian (wm.edu) et.al.|[2609.05802](http://arxiv.org/abs/2609.05802)|null|
+|**2026-09-04**|**Data Scout: Targeted Web Crawling for Domain-Specific Pretraining Corpora**|Chirag Garg (ibm.com) et.al.|[2609.05766](http://arxiv.org/abs/2609.05766)|null|
+|**2026-09-04**|**PAC-Private Autoregressive Generation: Calibrating Noise to Ensemble Disagreement**|Mina Mirzadehsarcheshmeh et.al.|[2609.05676](http://arxiv.org/abs/2609.05676)|null|
+|**2026-09-04**|**Robustness of LLM-Generated SystemVerilog Assertions to Semantics-Preserving RTL Transformations**|FNU Aditi et.al.|[2609.05658](http://arxiv.org/abs/2609.05658)|null|
 |**2026-09-04**|**Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence**|Urja Pawar (bny.com) et.al.|[2609.05385](http://arxiv.org/abs/2609.05385)|null|
 |**2026-09-04**|**How to Speculate about Uncertainty in Agentic Coding? A Draft-Model Gate Method**|Konstantin Grotov (gmail.com) et.al.|[2609.05274](http://arxiv.org/abs/2609.05274)|null|
 |**2026-09-04**|**PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting**|Maryam Fakhari (ec.iut.ac.ir) et.al.|[2609.05235](http://arxiv.org/abs/2609.05235)|null|
