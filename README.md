@@ -1,4 +1,4 @@
-## Updated on 2026.09.11
+## Updated on 2026.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-10**|**FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation**|Mingzhe Han et.al.|[2609.11632](http://arxiv.org/abs/2609.11632)|**[link](https://github.com/Mingzhe-Han/FedHUR)**|
+|**2026-09-10**|**Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact**|Masahiro Kato (g.ecc.u-tokyo.ac.jp) et.al.|[2609.11915](http://arxiv.org/abs/2609.11915)|null|
+|**2026-09-10**|**On the Regularization Landscape for the Linear Recommendation Models**|Dong Li (kent.edu) et.al.|[2609.11876](http://arxiv.org/abs/2609.11876)|null|
+|**2026-09-10**|**FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation**|Mingzhe Han (m.fudan.edu.cn) et.al.|[2609.11632](http://arxiv.org/abs/2609.11632)|**[link](https://github.com/Mingzhe-Han/FedHUR)**|
 |**2026-09-10**|**On the Impact of Anonymization on the Performance of Large Language Models**|Tobias Deußer (uni-bonn.de) et.al.|[2609.11335](http://arxiv.org/abs/2609.11335)|null|
 |**2026-09-10**|**Assessing the Reusability of Public Speech Resources for Low-Resource Languages: A Central Kurdish Case Study**|Hiwa Asadpour (lingua.uni-frankfurt.de) et.al.|[2609.11246](http://arxiv.org/abs/2609.11246)|null|
 |**2026-09-10**|**(Whose defaults?) Is artificial intelligence reorienting archaeological methods?**|Lorenzo Cardarelli (cam.ac.uk) et.al.|[2609.11198](http://arxiv.org/abs/2609.11198)|null|
@@ -27,7 +29,7 @@
 |**2026-09-10**|**Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models**|Yu-Chung Hsiao et.al.|[2609.10996](http://arxiv.org/abs/2609.10996)|null|
 |**2026-09-10**|**What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead**|Haseeb Mohammed Afsar et.al.|[2609.10962](http://arxiv.org/abs/2609.10962)|**[link](https://github.com/itguruhaseeb/mcp-probe)**|
 |**2026-09-10**|**Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System**|Ming Li (meta.com) et.al.|[2609.10922](http://arxiv.org/abs/2609.10922)|null|
-|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
+|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo (alumni.harvard.edu) et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
 |**2026-09-09**|**Towards a Deterministic Math Solver for Clinical Language Models**|Felipe Ocampo Osorio (mit.edu) et.al.|[2609.10728](http://arxiv.org/abs/2609.10728)|null|
 |**2026-09-09**|**IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier**|Blake Stenstrom (iterate.ai) et.al.|[2609.10494](http://arxiv.org/abs/2609.10494)|null|
 |**2026-09-09**|**Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs**|Ansuman Mullick et.al.|[2609.10413](http://arxiv.org/abs/2609.10413)|null|
@@ -3254,7 +3256,7 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -3267,7 +3269,7 @@
 |**2026-09-10**|**How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding**|Jeongyeon Kim (stanford.edu) et.al.|[2609.11109](http://arxiv.org/abs/2609.11109)|null|
 |**2026-09-10**|**Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models**|Yu-Chung Hsiao et.al.|[2609.10996](http://arxiv.org/abs/2609.10996)|null|
 |**2026-09-10**|**Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System**|Ming Li (meta.com) et.al.|[2609.10922](http://arxiv.org/abs/2609.10922)|null|
-|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
+|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo (alumni.harvard.edu) et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
 |**2026-09-09**|**Towards a Deterministic Math Solver for Clinical Language Models**|Felipe Ocampo Osorio (mit.edu) et.al.|[2609.10728](http://arxiv.org/abs/2609.10728)|null|
 |**2026-09-09**|**Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs**|Ansuman Mullick et.al.|[2609.10413](http://arxiv.org/abs/2609.10413)|null|
 |**2026-09-09**|**TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards**|Rui Sun et.al.|[2609.10315](http://arxiv.org/abs/2609.10315)|null|
@@ -4860,13 +4862,15 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-10**|**Cross-Lingual Clinical Annotation Projection as Constrained Text Generation: A Six-Language Study**|Álvaro Rey-Blanes et.al.|[2609.11450](http://arxiv.org/abs/2609.11450)|null|
+|**2026-09-10**|**From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge**|Wenkang Wei (mail.ustc.edu.cn) et.al.|[2609.11859](http://arxiv.org/abs/2609.11859)|null|
+|**2026-09-10**|**Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing**|Yi Liu (mail.ustc.edu.cn) et.al.|[2609.11769](http://arxiv.org/abs/2609.11769)|null|
+|**2026-09-10**|**Cross-Lingual Clinical Annotation Projection as Constrained Text Generation: A Six-Language Study**|Álvaro Rey-Blanes (uma.es) et.al.|[2609.11450](http://arxiv.org/abs/2609.11450)|null|
 |**2026-09-10**|**SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ**|Huy Hoang Le (cake.vn) et.al.|[2609.11355](http://arxiv.org/abs/2609.11355)|null|
 |**2026-09-10**|**On the Impact of Anonymization on the Performance of Large Language Models**|Tobias Deußer (uni-bonn.de) et.al.|[2609.11335](http://arxiv.org/abs/2609.11335)|null|
 |**2026-09-10**|**NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment**|Guoqiang Zhang (gmail.com) et.al.|[2609.11234](http://arxiv.org/abs/2609.11234)|null|
@@ -4877,7 +4881,7 @@
 |**2026-09-10**|**Structurally Speaking: Motif-Oriented Graph Captioning through Bidirectional Graph-Text Translation**|Hsiao-Ying Lu (ucdavis.edu) et.al.|[2609.10923](http://arxiv.org/abs/2609.10923)|null|
 |**2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Yizhan Li (umontreal.ca) et.al.|[2609.10895](http://arxiv.org/abs/2609.10895)|null|
 |**2026-09-09**|**Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble**|Jorio Cocola (truthful.ai) et.al.|[2609.10883](http://arxiv.org/abs/2609.10883)|null|
-|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
+|**2026-09-09**|**Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation**|Hsuan Lo (alumni.harvard.edu) et.al.|[2609.10856](http://arxiv.org/abs/2609.10856)|**[link](https://github.com/hsuanlolo/ai-housing-audit)**|
 |**2026-09-09**|**Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction**|Kateryna Karpo (ucu.edu.ua) et.al.|[2609.10810](http://arxiv.org/abs/2609.10810)|null|
 |**2026-09-09**|**Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu**|Farah Adeeba (uni-konstanz.de) et.al.|[2609.10758](http://arxiv.org/abs/2609.10758)|null|
 |**2026-09-09**|**When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents**|Syed Shariyar Murtaza (manulife.com) et.al.|[2609.10750](http://arxiv.org/abs/2609.10750)|null|
@@ -4899,7 +4903,7 @@
 |**2026-09-09**|**Looped GPT-BERT: Trading Parameters for Computation in Small Language Modeling**|Tingshuo Fan (m.fudan.edu.cn) et.al.|[2609.09691](http://arxiv.org/abs/2609.09691)|null|
 |**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
 |**2026-09-08**|**Building the Harness Automatically: Self-Play in Code Distills a Text Harness for Black-Box Optimization**|Yi Wu (google.com) et.al.|[2609.09468](http://arxiv.org/abs/2609.09468)|null|
-|**2026-09-08**|**Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements**|Oliver G. B. Garrod et.al.|[2609.09425](http://arxiv.org/abs/2609.09425)|null|
+|**2026-09-10**|**Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements**|Oliver G. B. Garrod et.al.|[2609.09425](http://arxiv.org/abs/2609.09425)|null|
 |**2026-09-08**|**Do LLMs Make More Mistakes If They Do Not Believe the Input Data?**|Peter Kochelka (ufal.mff.cuni.cz) et.al.|[2609.09363](http://arxiv.org/abs/2609.09363)|null|
 |**2026-09-08**|**Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding**|Fengxiang Bie (together.ai) et.al.|[2609.09338](http://arxiv.org/abs/2609.09338)|**[link](https://github.com/LeanModels/Osprey)**|
 |**2026-09-08**|**In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning**|Iliano Fasolino et.al.|[2609.09243](http://arxiv.org/abs/2609.09243)|null|
@@ -10675,7 +10679,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
