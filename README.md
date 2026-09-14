@@ -1,4 +1,4 @@
-## Updated on 2026.09.12
+## Updated on 2026.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-11**|**Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval**|Junghyun Min (georgetown.edu) et.al.|[2609.13073](http://arxiv.org/abs/2609.13073)|null|
+|**2026-09-11**|**Generative Retrieval for Unsupervised Text-Based Person Search**|Mang Ye (suda.edu.cn) et.al.|[2609.12965](http://arxiv.org/abs/2609.12965)|**[link](https://github.com/Flame-Chasers/GTR)**|
+|**2026-09-11**|**Implicit Personality Representations in Humans and LLMs**|Yilin Geng (student.unimelb.edu.au) et.al.|[2609.12704](http://arxiv.org/abs/2609.12704)|null|
+|**2026-09-11**|**Enabling and Understanding Personalization in AI-Generated Advertising Imagery**|Victor Kolominsky-Rabas (fit.fraunhofer.de) et.al.|[2609.12697](http://arxiv.org/abs/2609.12697)|null|
+|**2026-09-11**|**I Am AdMan: A Pipeline for Automatic Generation of Personalized Advertising Imagery**|Victor Kolominsky-Rabas (fit.fraunhofer.de) et.al.|[2609.12694](http://arxiv.org/abs/2609.12694)|null|
+|**2026-09-11**|**SIFPBPNet: A Dual-Path Network for Wearable and Cuffless Blood Pressure Estimation via Individualized Steady-state Representation**|Shuailong Tang (sztu.edu.cn) et.al.|[2609.12690](http://arxiv.org/abs/2609.12690)|null|
+|**2026-09-11**|**Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery**|Hendrik Droste (uni-potsdam.de) et.al.|[2609.12591](http://arxiv.org/abs/2609.12591)|null|
+|**2026-09-11**|**Meddies-PII: A Multilingual Framework for Personally Identifiable Information Extraction in Clinical De-identification**|Linh Uyen Le (meddies.ai) et.al.|[2609.12544](http://arxiv.org/abs/2609.12544)|null|
+|**2026-09-11**|**Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up**|Preeti Saraswat (samsung.com) et.al.|[2609.12469](http://arxiv.org/abs/2609.12469)|null|
+|**2026-09-11**|**Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis**|Minghang Liu (ict.ac.cn) et.al.|[2609.12403](http://arxiv.org/abs/2609.12403)|null|
+|**2026-09-11**|**OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation**|Xiangrui Yang (connect.hku.hk) et.al.|[2609.12399](http://arxiv.org/abs/2609.12399)|null|
+|**2026-09-11**|**Toward Robust Personalized Alignment for LLMs: Mitigating Persona Drift in Multi-Turn Dialogue**|Youyuan Zhang (outlook.com) et.al.|[2609.12373](http://arxiv.org/abs/2609.12373)|null|
+|**2026-09-11**|**Affective Agent: On-Device Personalized Intervention Reasoning for Wearable Systems**|Reina Mun et.al.|[2609.12322](http://arxiv.org/abs/2609.12322)|null|
+|**2026-09-10**|**CRFCAN: A Complex-Valued Cross-Domain Residual Network for Joint Channel and Phase Noise Estimation in Sub-THz OFDM Systems**|Ruilin Wang (ece.uvic.ca) et.al.|[2609.12244](http://arxiv.org/abs/2609.12244)|null|
+|**2026-09-10**|**GUIDE: Generative Utility Inference and Decision Engine**|Anagha Tiwari (uchicago.edu) et.al.|[2609.12137](http://arxiv.org/abs/2609.12137)|null|
+|**2026-09-10**|**Rank-Efficient LoRA via Joint Tangent-Space Optimization under Isotropic Curvature**|Zihan Zhu (wharton.upenn.edu) et.al.|[2609.12123](http://arxiv.org/abs/2609.12123)|null|
 |**2026-09-10**|**Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact**|Masahiro Kato (g.ecc.u-tokyo.ac.jp) et.al.|[2609.11915](http://arxiv.org/abs/2609.11915)|null|
 |**2026-09-10**|**On the Regularization Landscape for the Linear Recommendation Models**|Dong Li (kent.edu) et.al.|[2609.11876](http://arxiv.org/abs/2609.11876)|null|
 |**2026-09-10**|**FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation**|Mingzhe Han (m.fudan.edu.cn) et.al.|[2609.11632](http://arxiv.org/abs/2609.11632)|**[link](https://github.com/Mingzhe-Han/FedHUR)**|
@@ -3256,7 +3272,7 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
 
 ## Recsys LLM
 
@@ -4862,12 +4878,14 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-11**|**Simulating Disengaged Students to Evaluate LLM-based Tutors**|Xianghui Meng (hku.hk) et.al.|[2609.12331](http://arxiv.org/abs/2609.12331)|null|
+|**2026-09-10**|**Rank-Efficient LoRA via Joint Tangent-Space Optimization under Isotropic Curvature**|Zihan Zhu (wharton.upenn.edu) et.al.|[2609.12123](http://arxiv.org/abs/2609.12123)|null|
 |**2026-09-10**|**From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge**|Wenkang Wei (mail.ustc.edu.cn) et.al.|[2609.11859](http://arxiv.org/abs/2609.11859)|null|
 |**2026-09-10**|**Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing**|Yi Liu (mail.ustc.edu.cn) et.al.|[2609.11769](http://arxiv.org/abs/2609.11769)|null|
 |**2026-09-10**|**Cross-Lingual Clinical Annotation Projection as Constrained Text Generation: A Six-Language Study**|Álvaro Rey-Blanes (uma.es) et.al.|[2609.11450](http://arxiv.org/abs/2609.11450)|null|
@@ -4902,7 +4920,7 @@
 |**2026-09-09**|**When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination**|Karan Parekh et.al.|[2609.09696](http://arxiv.org/abs/2609.09696)|null|
 |**2026-09-09**|**Looped GPT-BERT: Trading Parameters for Computation in Small Language Modeling**|Tingshuo Fan (m.fudan.edu.cn) et.al.|[2609.09691](http://arxiv.org/abs/2609.09691)|null|
 |**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
-|**2026-09-08**|**Building the Harness Automatically: Self-Play in Code Distills a Text Harness for Black-Box Optimization**|Yi Wu (google.com) et.al.|[2609.09468](http://arxiv.org/abs/2609.09468)|null|
+|**2026-09-10**|**Code-to-Harness: Distilling Black-Box Optimizers from Self-Play**|Yi Wu (google.com) et.al.|[2609.09468](http://arxiv.org/abs/2609.09468)|null|
 |**2026-09-10**|**Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements**|Oliver G. B. Garrod et.al.|[2609.09425](http://arxiv.org/abs/2609.09425)|null|
 |**2026-09-08**|**Do LLMs Make More Mistakes If They Do Not Believe the Input Data?**|Peter Kochelka (ufal.mff.cuni.cz) et.al.|[2609.09363](http://arxiv.org/abs/2609.09363)|null|
 |**2026-09-08**|**Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding**|Fengxiang Bie (together.ai) et.al.|[2609.09338](http://arxiv.org/abs/2609.09338)|**[link](https://github.com/LeanModels/Osprey)**|
@@ -10679,7 +10697,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
