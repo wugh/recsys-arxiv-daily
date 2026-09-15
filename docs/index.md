@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear**|Levin Brinkmann et.al.|[2609.15472](http://arxiv.org/abs/2609.15472)|null|
+|**2026-09-14**|**MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving**|Tiancheng Zhang et.al.|[2609.15359](http://arxiv.org/abs/2609.15359)|null|
+|**2026-09-14**|**Clean Scores, Buried Evidence, and Confident Wrong: A Receipt-Based Audit of Frontier Agentic QA**|Luis M. Sánchez (toryx.ai) et.al.|[2609.15319](http://arxiv.org/abs/2609.15319)|null|
+|**2026-09-14**|**Evaluation Metrics for Safe Reinforcement Learning**|Lindsay Spoor (liacs.leidenuniv.nl) et.al.|[2609.15315](http://arxiv.org/abs/2609.15315)|null|
+|**2026-09-14**|**ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment**|Junkai Tong (stu.ecnu.edu.cn) et.al.|[2609.15292](http://arxiv.org/abs/2609.15292)|**[link](https://github.com/qky7/ProIQA)**|
+|**2026-09-14**|**TEAR: Table Extraction with Attribute Recommendation from Texts via Large Language Models**|Tong Li (connect.ust.hk) et.al.|[2609.15205](http://arxiv.org/abs/2609.15205)|null|
+|**2026-09-14**|**Medical Knowledge Simplification for Patients in the Era of LLMs: A Case Study on Diabetes**|Pallika Kafle (mq.edu.au) et.al.|[2609.15129](http://arxiv.org/abs/2609.15129)|null|
+|**2026-09-14**|**Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation**|Yi Chen (baidu.com) et.al.|[2609.15094](http://arxiv.org/abs/2609.15094)|null|
+|**2026-09-14**|**Personalizing Personal Health Interfaces: Co-Design with Generative AI**|Karthik S. Bhat et.al.|[2609.15046](http://arxiv.org/abs/2609.15046)|null|
+|**2026-09-14**|**The average-farmer illusion in language-model simulations of agricultural decisions**|Zhanliang Zhu (hhu.edu.cn) et.al.|[2609.15038](http://arxiv.org/abs/2609.15038)|null|
 |**2026-09-11**|**Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval**|Junghyun Min (georgetown.edu) et.al.|[2609.13073](http://arxiv.org/abs/2609.13073)|null|
 |**2026-09-11**|**Generative Retrieval for Unsupervised Text-Based Person Search**|Mang Ye (suda.edu.cn) et.al.|[2609.12965](http://arxiv.org/abs/2609.12965)|**[link](https://github.com/Flame-Chasers/GTR)**|
 |**2026-09-11**|**Implicit Personality Representations in Humans and LLMs**|Yilin Geng (student.unimelb.edu.au) et.al.|[2609.12704](http://arxiv.org/abs/2609.12704)|null|
@@ -3271,10 +3281,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving**|Tiancheng Zhang (tju.edu.cn) et.al.|[2609.15359](http://arxiv.org/abs/2609.15359)|null|
+|**2026-09-14**|**TEAR: Table Extraction with Attribute Recommendation from Texts via Large Language Models**|Tong Li (connect.ust.hk) et.al.|[2609.15205](http://arxiv.org/abs/2609.15205)|null|
+|**2026-09-14**|**Medical Knowledge Simplification for Patients in the Era of LLMs: A Case Study on Diabetes**|Pallika Kafle (mq.edu.au) et.al.|[2609.15129](http://arxiv.org/abs/2609.15129)|null|
+|**2026-09-14**|**Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation**|Yi Chen (baidu.com) et.al.|[2609.15094](http://arxiv.org/abs/2609.15094)|null|
+|**2026-09-14**|**The average-farmer illusion in language-model simulations of agricultural decisions**|Zhanliang Zhu (hhu.edu.cn) et.al.|[2609.15038](http://arxiv.org/abs/2609.15038)|null|
+|**2026-09-14**|**LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training**|Xiaodong Li (alibaba-inc.com) et.al.|[2609.14978](http://arxiv.org/abs/2609.14978)|null|
+|**2026-09-13**|**LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions**|Myra Cheng (cs.stanford.edu) et.al.|[2609.14849](http://arxiv.org/abs/2609.14849)|null|
+|**2026-09-13**|**AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory**|Sushan Adhikari (gmail.com) et.al.|[2609.14572](http://arxiv.org/abs/2609.14572)|**[link](https://github.com/Sushan-Adhikari/AlgoRAG)**|
+|**2026-09-13**|**A Generative AI Integrated Multimodal Framework for Low-Latency Multi-Camera Person Re-Identification**|Leon Fernando et.al.|[2609.14419](http://arxiv.org/abs/2609.14419)|null|
+|**2026-09-13**|**Assessing the Applicability of Existing Design Recommendations to AI Companion Design: A Multi-Method Study**|Soobin Cho et.al.|[2609.14236](http://arxiv.org/abs/2609.14236)|null|
+|**2026-09-12**|**One Size Does Not Fit All: Setting Inference Depth from the Questions a Deployment Actually Asks**|Jerry Kaplan (Stanford.edu) et.al.|[2609.14144](http://arxiv.org/abs/2609.14144)|**[link](https://github.com/jerrykaplan/question-conditioned-early-exit)**|
+|**2026-09-12**|**RA-CoA: Training-free Fashion Image Captioning via Retrieval-Augmented Chain-of-Attributes**|Abhirama Subramanyam Penamakuri (mbzuai.ac.ae) et.al.|[2609.14100](http://arxiv.org/abs/2609.14100)|null|
+|**2026-09-12**|**P3Rec: Distilling Prior--Posterior Preference Reasoning for LLM-based Recommendation**|Jinfei Chen (stu.cqut.edu.cn) et.al.|[2609.13993](http://arxiv.org/abs/2609.13993)|null|
+|**2026-09-11**|**A Three-Axis Stress Test of LLM vs Classical ML for Network Intrusion Detection under Distribution Shift and Adversarial Evasion**|Muhammad Ebad Atif (st.habib.edu.pk) et.al.|[2609.13511](http://arxiv.org/abs/2609.13511)|null|
+|**2026-09-11**|**Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval**|Junghyun Min (georgetown.edu) et.al.|[2609.13073](http://arxiv.org/abs/2609.13073)|null|
+|**2026-09-11**|**Affective Agent: On-Device Personalized Intervention Reasoning for Wearable Systems**|Reina Mun et.al.|[2609.12322](http://arxiv.org/abs/2609.12322)|null|
+|**2026-09-10**|**GUIDE: Generative Utility Inference and Decision Engine**|Anagha Tiwari (uchicago.edu) et.al.|[2609.12137](http://arxiv.org/abs/2609.12137)|null|
+|**2026-09-10**|**Rank-Efficient LoRA via Joint Tangent-Space Optimization under Isotropic Curvature**|Zihan Zhu (wharton.upenn.edu) et.al.|[2609.12123](http://arxiv.org/abs/2609.12123)|null|
 |**2026-09-10**|**On the Impact of Anonymization on the Performance of Large Language Models**|Tobias Deußer (uni-bonn.de) et.al.|[2609.11335](http://arxiv.org/abs/2609.11335)|null|
 |**2026-09-10**|**(Whose defaults?) Is artificial intelligence reorienting archaeological methods?**|Lorenzo Cardarelli (cam.ac.uk) et.al.|[2609.11198](http://arxiv.org/abs/2609.11198)|null|
 |**2026-09-10**|**Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce**|Spandan Ghose Chowdhury (gatech.edu) et.al.|[2609.11190](http://arxiv.org/abs/2609.11190)|null|
-|**2026-09-10**|**Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation**|Koutian Wu (tacite.ai) et.al.|[2609.11115](http://arxiv.org/abs/2609.11115)|**[link](https://github.com/ktwu01/benchmark-radar)**|
+|**2026-09-13**|**Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation**|Koutian Wu (tacite.ai) et.al.|[2609.11115](http://arxiv.org/abs/2609.11115)|**[link](https://github.com/ktwu01/benchmark-radar)**|
 |**2026-09-10**|**How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding**|Jeongyeon Kim (stanford.edu) et.al.|[2609.11109](http://arxiv.org/abs/2609.11109)|null|
 |**2026-09-10**|**Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models**|Yu-Chung Hsiao et.al.|[2609.10996](http://arxiv.org/abs/2609.10996)|null|
 |**2026-09-10**|**Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System**|Ming Li (meta.com) et.al.|[2609.10922](http://arxiv.org/abs/2609.10922)|null|
