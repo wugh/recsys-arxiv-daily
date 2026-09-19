@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.09.18
+## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-17**|**Detecting Deceptive Recruitment: A Signal-theoretic Machine Learning Framework for Early Identification of Labour Exploitation**|Sajid Siraj et.al.|[2609.20336](http://arxiv.org/abs/2609.20336)|null|
+|**2026-09-17**|**Ownership in AI-Assisted Everyday Tasks**|Megan Wei (brown.edu) et.al.|[2609.20658](http://arxiv.org/abs/2609.20658)|null|
+|**2026-09-17**|**UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising**|Kun Yao (meituan.com) et.al.|[2609.20630](http://arxiv.org/abs/2609.20630)|null|
+|**2026-09-17**|**Online Supervised Dimension Reduction with Random Features: Diagnostics and Computational Trade-offs**|Zhenlin Yao et.al.|[2609.20454](http://arxiv.org/abs/2609.20454)|null|
+|**2026-09-17**|**Xeno-Interpretability: Investigating the Alien Minds of LLMs**|F. Pierucci et.al.|[2609.20408](http://arxiv.org/abs/2609.20408)|null|
+|**2026-09-17**|**Detecting Deceptive Recruitment: A Signal-theoretic Machine Learning Framework for Early Identification of Labour Exploitation**|Sajid Siraj (leeds.ac.uk) et.al.|[2609.20336](http://arxiv.org/abs/2609.20336)|null|
 |**2026-09-17**|**QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles**|Baran Can Gül (ias.uni-stuttgart.de) et.al.|[2609.20123](http://arxiv.org/abs/2609.20123)|null|
 |**2026-09-17**|**Tailored to you: longitudinal effects of personalising language models**|Canfer Akbulut (google.com) et.al.|[2609.20077](http://arxiv.org/abs/2609.20077)|null|
 |**2026-09-17**|**Marginal utility, matrix factorization, and the Key-Value (KV) cache: a unified information-economic framework for sovereign geo-mining inference**|Caroline Gans Combe et.al.|[2609.20068](http://arxiv.org/abs/2609.20068)|null|
@@ -3365,6 +3369,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Xeno-Interpretability: Investigating the Alien Minds of LLMs**|F. Pierucci et.al.|[2609.20408](http://arxiv.org/abs/2609.20408)|null|
 |**2026-09-17**|**Tailored to you: longitudinal effects of personalising language models**|Canfer Akbulut (google.com) et.al.|[2609.20077](http://arxiv.org/abs/2609.20077)|null|
 |**2026-09-17**|**An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence**|Erik Nijkamp (salesforce.com) et.al.|[2609.19519](http://arxiv.org/abs/2609.19519)|null|
 |**2026-09-16**|**SCOUT: Sim-to-Real Text-Based Person Retrieval by Embedding-Space Prediction over Frozen Video Features**|Abdarahmane Traoré (umoncton.ca) et.al.|[2609.19483](http://arxiv.org/abs/2609.19483)|**[link](https://github.com/abtraore/SCOUT-ECCV)**|
@@ -5013,9 +5018,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations**|Sarah Wyer (durham.ac.uk) et.al.|[2609.20779](http://arxiv.org/abs/2609.20779)|null|
+|**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
+|**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|null|
+|**2026-09-17**|**What Does Privileged Information Add to On-Policy Self-Distillation?**|XiuYu Zhang et.al.|[2609.20612](http://arxiv.org/abs/2609.20612)|null|
+|**2026-09-17**|**Relational Attention for Data-Efficient Language Modeling**|Adrian Brasoveanu (gmail.com) et.al.|[2609.20530](http://arxiv.org/abs/2609.20530)|**[link](https://github.com/abrsvn/babylm_dat_2026)**|
+|**2026-09-17**|**SkillAA: Attribution-Guided Skill-Graph Updating with Targeted Validation and Rollback**|Ziqiao Shang et.al.|[2609.20455](http://arxiv.org/abs/2609.20455)|null|
 |**2026-09-17**|**To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals**|Roy Eisenstadt et.al.|[2609.20186](http://arxiv.org/abs/2609.20186)|null|
 |**2026-09-17**|**Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis**|Zifan Guan et.al.|[2609.20124](http://arxiv.org/abs/2609.20124)|null|
-|**2026-09-17**|**Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents**|Yichao Jin et.al.|[2609.20110](http://arxiv.org/abs/2609.20110)|null|
+|**2026-09-17**|**Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents**|Yichao Jin (ocbc.com) et.al.|[2609.20110](http://arxiv.org/abs/2609.20110)|null|
 |**2026-09-17**|**Geopolitical Divisions Across Languages in Large Language Models**|Maxim Chupilkin (politics.ox.ac.uk) et.al.|[2609.20005](http://arxiv.org/abs/2609.20005)|null|
 |**2026-09-17**|**MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation**|Yudai Nakada (scsk.jp) et.al.|[2609.19944](http://arxiv.org/abs/2609.19944)|null|
 |**2026-09-17**|**Digital Twins for Opinion Dynamics: A Generative LLM Framework for Social Networks**|Omran Berjawi (telecom-paris.fr) et.al.|[2609.19913](http://arxiv.org/abs/2609.19913)|null|
