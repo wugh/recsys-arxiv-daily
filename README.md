@@ -1,4 +1,4 @@
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**A Patient World Model for Early Forecasting of Digital Health Campaign Outcomes: Capabilities and Limits**|Yunlong Wang et.al.|[2609.23333](http://arxiv.org/abs/2609.23333)|null|
+|**2026-09-20**|**Co-occurrence Patterns of LoRA Adapters in Production Diffusion Model Inference Services**|Tao Zhang et.al.|[2609.23321](http://arxiv.org/abs/2609.23321)|null|
+|**2026-09-19**|**Do Not Trust the Benchmark: Limitations of General LLM Rankings and a Case for Task-Specific Evaluation**|Danial Amin et.al.|[2609.23201](http://arxiv.org/abs/2609.23201)|null|
+|**2026-09-19**|**From Prompt to Recommendation: A Fitted Stage Model of Brand Visibility in AI Search**|Benjamin Tannenbaum (getaiso.com) et.al.|[2609.23162](http://arxiv.org/abs/2609.23162)|null|
+|**2026-09-19**|**Inherit4Rec: Parameter Inheritance for Efficient Scaling of Recommendation Models**|Ruihao Zhang (gmail.com) et.al.|[2609.23111](http://arxiv.org/abs/2609.23111)|null|
+|**2026-09-19**|**Dual-Locking Learned AI Models: A PIN-Based Sparse QIM Watermarking and Adaptive Index Permutation Approach**|Iva Vasic (unifr.ch) et.al.|[2609.22981](http://arxiv.org/abs/2609.22981)|null|
+|**2026-09-19**|**Automatic multimodal UX improvement recommendations from LLM agent user simulations**|Anu Chowdhury et.al.|[2609.22971](http://arxiv.org/abs/2609.22971)|null|
+|**2026-09-19**|**Beyond Linear Context: Graph-Guided Evidence Navigation for Long-Novel Reasoning with a Local 9B Language Model**|Wenji Fu (gmail.com) et.al.|[2609.22939](http://arxiv.org/abs/2609.22939)|**[link](https://github.com/fuxiaoji/novel-graph-lab)**|
+|**2026-09-19**|**Personalized Federated Reinforcement Learning via Model-Agnostic Meta-Learning: Convergence of Exact and Hessian-Free Meta-Policy Gradients**|Ali Beikmohammadi (dsv.su.se) et.al.|[2609.22833](http://arxiv.org/abs/2609.22833)|**[link](https://github.com/AliBeikmohammadi/Per-FedAvg-PG)**|
+|**2026-09-19**|**Algorithmic Collusion and the Complexity of Information-Value-Free Equilibria**|Ioannis Anagnostides (cmu.edu) et.al.|[2609.22757](http://arxiv.org/abs/2609.22757)|null|
+|**2026-09-19**|**Beyond Raw Engagement: A Counterfactual Observability Framework for Recommender Systems at Netflix**|Chaoran Guo (netflix.com) et.al.|[2609.22747](http://arxiv.org/abs/2609.22747)|null|
+|**2026-09-19**|**Generative Embodied Multiple Behavior Control Systems for Human-like Agents**|Chongyu Bao et.al.|[2609.22691](http://arxiv.org/abs/2609.22691)|null|
+|**2026-09-18**|**Preserving What Matters: Semantic Scaffolds Beyond Saturation in Summarization Evaluation**|Nikhil Reddy Pottanigari (servicenow.com) et.al.|[2609.22603](http://arxiv.org/abs/2609.22603)|null|
+|**2026-09-18**|**Toward Personalized Sleep Guidance from Wearable Data Using Language Models**|Yusheng Tan (uchicago.edu) et.al.|[2609.22463](http://arxiv.org/abs/2609.22463)|null|
+|**2026-09-18**|**Connected Content Retriever: Dense Graph Edge Features Powering Pre-Ranking at LinkedIn**|Akhilesh Gupta (linkedin.com) et.al.|[2609.22441](http://arxiv.org/abs/2609.22441)|null|
+|**2026-09-18**|**Available Guardrails: Certifying Selective Prediction across ML Systems**|Parivesh Priye et.al.|[2609.22048](http://arxiv.org/abs/2609.22048)|null|
 |**2026-09-18**|**AutoRecLab: Describe the Experiment, Get the Code!**|Moritz Baumgart (uni-siegen.de) et.al.|[2609.21863](http://arxiv.org/abs/2609.21863)|null|
 |**2026-09-18**|**TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization**|Jiacheng Lin (keiji.ai) et.al.|[2609.21859](http://arxiv.org/abs/2609.21859)|null|
 |**2026-09-18**|**Do Personality-Tuned LLMs Make Better Social Agents?**|Tim Krabbe (dsv.su.se) et.al.|[2609.21857](http://arxiv.org/abs/2609.21857)|null|
@@ -3395,12 +3411,21 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**Co-occurrence Patterns of LoRA Adapters in Production Diffusion Model Inference Services**|Tao Zhang et.al.|[2609.23321](http://arxiv.org/abs/2609.23321)|null|
+|**2026-09-19**|**Do Not Trust the Benchmark: Limitations of General LLM Rankings and a Case for Task-Specific Evaluation**|Danial Amin et.al.|[2609.23201](http://arxiv.org/abs/2609.23201)|null|
+|**2026-09-19**|**Automatic multimodal UX improvement recommendations from LLM agent user simulations**|Anu Chowdhury et.al.|[2609.22971](http://arxiv.org/abs/2609.22971)|null|
+|**2026-09-19**|**Beyond Linear Context: Graph-Guided Evidence Navigation for Long-Novel Reasoning with a Local 9B Language Model**|Wenji Fu (gmail.com) et.al.|[2609.22939](http://arxiv.org/abs/2609.22939)|**[link](https://github.com/fuxiaoji/novel-graph-lab)**|
+|**2026-09-18**|**Toward Personalized Sleep Guidance from Wearable Data Using Language Models**|Yusheng Tan (uchicago.edu) et.al.|[2609.22463](http://arxiv.org/abs/2609.22463)|null|
+|**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma (ucmail.uc.edu) et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
+|**2026-09-18**|**Available Guardrails: Certifying Selective Prediction across ML Systems**|Parivesh Priye et.al.|[2609.22048](http://arxiv.org/abs/2609.22048)|null|
+|**2026-09-18**|**When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence**|Eshika Pathak (illinois.edu) et.al.|[2609.21942](http://arxiv.org/abs/2609.21942)|null|
+|**2026-09-18**|**AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory**|Zijie Cao (nudt.edu.cn) et.al.|[2609.21940](http://arxiv.org/abs/2609.21940)|null|
 |**2026-09-18**|**Do Personality-Tuned LLMs Make Better Social Agents?**|Tim Krabbe (dsv.su.se) et.al.|[2609.21857](http://arxiv.org/abs/2609.21857)|null|
 |**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo (u.nus.edu) et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
 |**2026-09-18**|**Rethinking Human-Aligned Evaluation: An Analysis of Semantic Metrics Beyond WER**|Hritika Sharma et.al.|[2609.21663](http://arxiv.org/abs/2609.21663)|null|
@@ -3422,6 +3447,7 @@
 |**2026-09-16**|**Too Good to Be Real? Diagnosing and Reducing the Gap Between AI Preference and Real User Engagement**|Xinglang Zhang (hust.edu.cn) et.al.|[2609.18282](http://arxiv.org/abs/2609.18282)|null|
 |**2026-09-16**|**LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era**|Venkat Srinivas (meta.com) et.al.|[2609.18148](http://arxiv.org/abs/2609.18148)|null|
 |**2026-09-16**|**Linguistic Triggers of Gender and Racial Bias in Open-Weight LLMs Applied to Recruitment**|Kosuke Kitahara (r.recruit.co.jp) et.al.|[2609.18106](http://arxiv.org/abs/2609.18106)|null|
+|**2026-09-18**|**Agora: Git as Shared Memory for Collective AutoResearch**|Yifan Zhang (nvidia.com) et.al.|[2609.18094](http://arxiv.org/abs/2609.18094)|null|
 |**2026-09-16**|**Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders**|Davood Wadi (mail.mcgill.ca) et.al.|[2609.17989](http://arxiv.org/abs/2609.17989)|null|
 |**2026-09-15**|**HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models**|Yuchen Liu (uni.lu) et.al.|[2609.17771](http://arxiv.org/abs/2609.17771)|null|
 |**2026-09-15**|**Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling**|Xiaoyang Liu (outlook.com) et.al.|[2609.17331](http://arxiv.org/abs/2609.17331)|null|
@@ -5056,12 +5082,30 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States**|Yifan Wang (nexuslumenlabs.com) et.al.|[2609.23371](http://arxiv.org/abs/2609.23371)|null|
+|**2026-09-19**|**Triggers and Diagnostics for LLM-Based Interpretability Failures in Active Inference Agents**|Param Raval (gmail.com) et.al.|[2609.23215](http://arxiv.org/abs/2609.23215)|null|
+|**2026-09-19**|**Euston: Training Away Mathematical Sycophancy Without Losing the Mathematics**|Zehua Cheng (flock.io) et.al.|[2609.23205](http://arxiv.org/abs/2609.23205)|null|
+|**2026-09-19**|**MolSC: Leveraging Substituent Contributions to Enhance Fine-grained Molecular Understanding in LLMs**|Hyuntae Park (korea.ac.kr) et.al.|[2609.23073](http://arxiv.org/abs/2609.23073)|null|
+|**2026-09-19**|**Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity**|Joan C. Timoneda (purdue.edu) et.al.|[2609.23039](http://arxiv.org/abs/2609.23039)|null|
+|**2026-09-19**|**The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI**|Oren Perez (biu.ac.il) et.al.|[2609.22882](http://arxiv.org/abs/2609.22882)|null|
+|**2026-09-19**|**Discrete vs. Continuous: A Comprehensive Study of Unified Audio Understanding in LALMs**|Jing Peng (se.cuhk.edu.hk) et.al.|[2609.22851](http://arxiv.org/abs/2609.22851)|null|
+|**2026-09-19**|**SelfOp: An Optimization Algorithm for Self-Improving Security Agents**|Saad Ullah (bu.edu) et.al.|[2609.22792](http://arxiv.org/abs/2609.22792)|null|
+|**2026-09-19**|**ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding**|Nishit Anand (umd.edu) et.al.|[2609.22771](http://arxiv.org/abs/2609.22771)|**[link](https://nishitanand.github.io/paralinguistic-understanding-llm/)**|
+|**2026-09-19**|**LLaDA-PRM: A Bidirectional Step-Level Reasoning Evaluator**|Yiming Feng (umich.edu) et.al.|[2609.22700](http://arxiv.org/abs/2609.22700)|null|
+|**2026-09-18**|**Math2Visual-X: A Modular Framework for Pedagogically Aligned Lower-Primary Math Visuals Generation**|H. D. E. Maduranga (cse.mrt.ac.lk) et.al.|[2609.22647](http://arxiv.org/abs/2609.22647)|null|
+|**2026-09-18**|**SEABED: SouthEast Asian Benchmark for Evaluating Audio Reasoning**|Harshit Rajgarhia (centific.com) et.al.|[2609.22586](http://arxiv.org/abs/2609.22586)|null|
+|**2026-09-18**|**Do Student LLMs Inherit OOD Robustness? Invariance-Weighted Distillation for Reliable Knowledge Transfer**|Dileesha Kannangara (umd.edu) et.al.|[2609.22566](http://arxiv.org/abs/2609.22566)|null|
+|**2026-09-18**|**IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law**|Genis Skura et.al.|[2609.22529](http://arxiv.org/abs/2609.22529)|null|
+|**2026-09-18**|**Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents**|Justin Szczepaniak (tauex.tau.ac.il) et.al.|[2609.22510](http://arxiv.org/abs/2609.22510)|null|
+|**2026-09-18**|**Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation**|Bhushan Kashinath Joshi (yahoo.com) et.al.|[2609.22478](http://arxiv.org/abs/2609.22478)|null|
+|**2026-09-18**|**Apollo Restore: A Foundation LLM for Historical Greek Optimized for Fill-in-the-Middle Restoration of Ancient Greek Texts**|Hope McGovern (mistral.ai) et.al.|[2609.22455](http://arxiv.org/abs/2609.22455)|null|
+|**2026-09-18**|**A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal**|Hiskias Dingeto (stackone.com) et.al.|[2609.21996](http://arxiv.org/abs/2609.21996)|null|
 |**2026-09-18**|**Do Personality-Tuned LLMs Make Better Social Agents?**|Tim Krabbe (dsv.su.se) et.al.|[2609.21857](http://arxiv.org/abs/2609.21857)|null|
 |**2026-09-18**|**GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills**|Rui Sun (my.cityu.edu.hk) et.al.|[2609.21749](http://arxiv.org/abs/2609.21749)|**[link](https://github.com/ruisun7/GraphSkillEvo)**|
 |**2026-09-18**|**PRISM-BN: A Controlled Corpus and Benchmark for Text-to-Parameterized Bayesian Network Extraction**|Amartya Bhattacharya (dartmouth.edu) et.al.|[2609.21673](http://arxiv.org/abs/2609.21673)|null|
@@ -5079,7 +5123,7 @@
 |**2026-09-17**|**Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations**|Sarah Wyer (durham.ac.uk) et.al.|[2609.20779](http://arxiv.org/abs/2609.20779)|null|
 |**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
 |**2026-09-17**|**On-Demand Attention: Language Models Know When to Recall**|Haibo Feng et.al.|[2609.20734](http://arxiv.org/abs/2609.20734)|null|
-|**2026-09-17**|**What Does Privileged Information Add to On-Policy Self-Distillation?**|XiuYu Zhang et.al.|[2609.20612](http://arxiv.org/abs/2609.20612)|null|
+|**2026-09-18**|**What Does Privileged Information Add to On-Policy Self-Distillation?**|XiuYu Zhang et.al.|[2609.20612](http://arxiv.org/abs/2609.20612)|null|
 |**2026-09-17**|**Relational Attention for Data-Efficient Language Modeling**|Adrian Brasoveanu (gmail.com) et.al.|[2609.20530](http://arxiv.org/abs/2609.20530)|**[link](https://github.com/abrsvn/babylm_dat_2026)**|
 |**2026-09-17**|**SkillAA: Attribution-Guided Skill-Graph Updating with Targeted Validation and Rollback**|Ziqiao Shang et.al.|[2609.20455](http://arxiv.org/abs/2609.20455)|null|
 |**2026-09-17**|**To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals**|Roy Eisenstadt et.al.|[2609.20186](http://arxiv.org/abs/2609.20186)|null|
@@ -5093,7 +5137,7 @@
 |**2026-09-17**|**Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions**|Xiaofei Yuan (eulerai.au) et.al.|[2609.19654](http://arxiv.org/abs/2609.19654)|null|
 |**2026-09-17**|**From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization**|Diba Afroze (louisiana.edu) et.al.|[2609.19630](http://arxiv.org/abs/2609.19630)|null|
 |**2026-09-16**|**Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models**|Alizishaan Khatri (wrynx.com) et.al.|[2609.19472](http://arxiv.org/abs/2609.19472)|null|
-|**2026-09-16**|**A frontend-backend architecture for tool calls in full-duplex speech models**|Ke Hu et.al.|[2609.19334](http://arxiv.org/abs/2609.19334)|null|
+|**2026-09-18**|**A frontend-backend architecture for tool calls in full-duplex speech models**|Ke Hu et.al.|[2609.19334](http://arxiv.org/abs/2609.19334)|null|
 |**2026-09-16**|**Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses**|Mahsa Amani et.al.|[2609.19244](http://arxiv.org/abs/2609.19244)|null|
 |**2026-09-16**|**Layer-wise Curriculum Learning for Efficient LLM Compression**|Donggeon Lee (ajou.ac.kr) et.al.|[2609.19213](http://arxiv.org/abs/2609.19213)|null|
 |**2026-09-15**|**BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research**|Qingyang Xu (gmail.com) et.al.|[2609.19180](http://arxiv.org/abs/2609.19180)|null|
@@ -5113,7 +5157,7 @@
 |**2026-09-16**|**TeochewBench: A Human-Reviewed Benchmark for Teochew Hanzi Translation**|Jianan Wu (stu.pku.edu.cn) et.al.|[2609.18156](http://arxiv.org/abs/2609.18156)|null|
 |**2026-09-18**|**PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs**|Rushabh Vipulkumar Patel (student.uwtsd.ac.uk) et.al.|[2609.18120](http://arxiv.org/abs/2609.18120)|null|
 |**2026-09-16**|**Linguistic Triggers of Gender and Racial Bias in Open-Weight LLMs Applied to Recruitment**|Kosuke Kitahara (r.recruit.co.jp) et.al.|[2609.18106](http://arxiv.org/abs/2609.18106)|null|
-|**2026-09-16**|**Agora: Git as Shared Memory for Collective AutoResearch**|Yifan Zhang (nvidia.com) et.al.|[2609.18094](http://arxiv.org/abs/2609.18094)|null|
+|**2026-09-18**|**Agora: Git as Shared Memory for Collective AutoResearch**|Yifan Zhang (nvidia.com) et.al.|[2609.18094](http://arxiv.org/abs/2609.18094)|null|
 |**2026-09-16**|**An Empirical Evaluation of Cost-Efficient Large Language Models on Algorithmic Programming Tasks**|Chandimal Adikari et.al.|[2609.18052](http://arxiv.org/abs/2609.18052)|null|
 |**2026-09-16**|**Multimodal Conditioning of Fine-Tuned Stable Diffusion XL for Controllable and Culturally Faithful Ulos Motif Generation**|Humasak Simanjuntak (del.ac.id) et.al.|[2609.17987](http://arxiv.org/abs/2609.17987)|null|
 |**2026-09-16**|**When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI**|Sai Babu Udayagiri (five9.com) et.al.|[2609.17977](http://arxiv.org/abs/2609.17977)|null|
@@ -10991,7 +11035,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
