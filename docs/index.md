@@ -2,14 +2,27 @@
 layout: default
 ---
 
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-24**|**Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages**|Stephen E. Moore et.al.|[2609.29798](http://arxiv.org/abs/2609.29798)|null|
+|**2026-09-24**|**Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority**|Mehmet Iscan (yildiz.edu.tr) et.al.|[2609.30219](http://arxiv.org/abs/2609.30219)|null|
+|**2026-09-24**|**Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search**|Nayoung Choi (emory.edu) et.al.|[2609.30177](http://arxiv.org/abs/2609.30177)|null|
+|**2026-09-24**|**AT-SKM-Net: An Accelerated Trainable Sampling Kaczmarz-Motzkin Framework for Linear Hard-Constraint Feasibility on Dynamic Graphs**|Xiaochen Zhang (intl.zju.edu.cn) et.al.|[2609.30088](http://arxiv.org/abs/2609.30088)|null|
+|**2026-09-24**|**Nuclear Norm-Regularized Bayesian Matrix Completion**|Calvin Tolbert (cornell.edu) et.al.|[2609.30078](http://arxiv.org/abs/2609.30078)|null|
+|**2026-09-24**|**How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure**|Dipankar Sarkar (skelfresearch.com) et.al.|[2609.30074](http://arxiv.org/abs/2609.30074)|**[link](/src/2609.30074v1/anc/corpus/github-annotated/053136ecb86a_SKILL.contexts.json)**|
+|**2026-09-24**|**Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models**|Ehsan Barkhordar (fastinfer.org) et.al.|[2609.30048](http://arxiv.org/abs/2609.30048)|**[link](https://github.com/ebarkhordar/llm-collusion)**|
+|**2026-09-24**|**Advancing Model Research in AgentX: Long-Horizon Autonomy for Industrial Recommender Systems**|Shuang Yang et.al.|[2609.30001](http://arxiv.org/abs/2609.30001)|null|
+|**2026-09-24**|**From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation**|Mengdan Zhu (emory.edu) et.al.|[2609.29983](http://arxiv.org/abs/2609.29983)|null|
+|**2026-09-24**|**Learning Better Reasoning for Generative Recommendation with Semantic IDs**|Mengdan Zhu (emory.edu) et.al.|[2609.29973](http://arxiv.org/abs/2609.29973)|null|
+|**2026-09-24**|**Augur: A Synthetic Decision Lab for Rehearsing Reactions to Product and Policy Changes**|Rahul Khedar et.al.|[2609.29952](http://arxiv.org/abs/2609.29952)|null|
+|**2026-09-24**|**Cultural Divergence Preservation: Diagnosing Flattening and Caricature in LLM-Simulated Survey Populations**|Yeeun Chae (yonsei.ac.kr) et.al.|[2609.29928](http://arxiv.org/abs/2609.29928)|null|
+|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-24**|**LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders**|Shih-Hong Chen (nycu.edu.tw) et.al.|[2609.29815](http://arxiv.org/abs/2609.29815)|null|
+|**2026-09-24**|**Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages**|Stephen E. Moore (ucc.edu.gh) et.al.|[2609.29798](http://arxiv.org/abs/2609.29798)|null|
 |**2026-09-24**|**Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores**|Sam Urmian (uib.no) et.al.|[2609.29453](http://arxiv.org/abs/2609.29453)|null|
 |**2026-09-24**|**SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support**|Muhammad Muhtasim Shahriar (mmu.edu.my) et.al.|[2609.29341](http://arxiv.org/abs/2609.29341)|null|
 |**2026-09-24**|**ScalarLens: Numerical Embeddings with Stable Coordinates and Contextual Responses for CTR Prediction**|Heng Yao (qq.com) et.al.|[2609.29182](http://arxiv.org/abs/2609.29182)|null|
@@ -3474,7 +3487,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-24**|**Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages**|Stephen E. Moore et.al.|[2609.29798](http://arxiv.org/abs/2609.29798)|null|
+|**2026-09-24**|**Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search**|Nayoung Choi (emory.edu) et.al.|[2609.30177](http://arxiv.org/abs/2609.30177)|null|
+|**2026-09-24**|**How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure**|Dipankar Sarkar (skelfresearch.com) et.al.|[2609.30074](http://arxiv.org/abs/2609.30074)|**[link](/src/2609.30074v1/anc/corpus/github-annotated/053136ecb86a_SKILL.contexts.json)**|
+|**2026-09-24**|**Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models**|Ehsan Barkhordar (fastinfer.org) et.al.|[2609.30048](http://arxiv.org/abs/2609.30048)|**[link](https://github.com/ebarkhordar/llm-collusion)**|
+|**2026-09-24**|**Cultural Divergence Preservation: Diagnosing Flattening and Caricature in LLM-Simulated Survey Populations**|Yeeun Chae (yonsei.ac.kr) et.al.|[2609.29928](http://arxiv.org/abs/2609.29928)|null|
+|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-24**|**LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders**|Shih-Hong Chen (nycu.edu.tw) et.al.|[2609.29815](http://arxiv.org/abs/2609.29815)|null|
+|**2026-09-24**|**Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages**|Stephen E. Moore (ucc.edu.gh) et.al.|[2609.29798](http://arxiv.org/abs/2609.29798)|null|
 |**2026-09-24**|**SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support**|Muhammad Muhtasim Shahriar (mmu.edu.my) et.al.|[2609.29341](http://arxiv.org/abs/2609.29341)|null|
 |**2026-09-24**|**From Static Personal Values to Contextualized Personalization: Bayesian Personalized Value Alignment for LLMs**|Hanze Guo (ruc.edu.cn) et.al.|[2609.28942](http://arxiv.org/abs/2609.28942)|null|
 |**2026-09-23**|**Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents**|Zheng Zhang et.al.|[2609.28609](http://arxiv.org/abs/2609.28609)|null|
@@ -5166,6 +5185,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**LLM Agents Can Easily Tamper With Their Own Traces**|Jeremy Qin et.al.|[2609.30266](http://arxiv.org/abs/2609.30266)|null|
+|**2026-09-24**|**Coding Agents for Generalized Task and Motion Planning Problems**|Matteo Merler (princeton.edu) et.al.|[2609.30233](http://arxiv.org/abs/2609.30233)|null|
+|**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
+|**2026-09-24**|**GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI**|Arunabh Srivastava et.al.|[2609.30147](http://arxiv.org/abs/2609.30147)|null|
+|**2026-09-24**|**R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection**| Pushp (iiits.in) et.al.|[2609.30100](http://arxiv.org/abs/2609.30100)|null|
+|**2026-09-24**|**Scoring Both Directions: LLMs realize the MRS they cannot reliably parse**|Soham Dan (scale.com) et.al.|[2609.30071](http://arxiv.org/abs/2609.30071)|null|
+|**2026-09-24**|**Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models**|Ehsan Barkhordar (fastinfer.org) et.al.|[2609.30048](http://arxiv.org/abs/2609.30048)|**[link](https://github.com/ebarkhordar/llm-collusion)**|
+|**2026-09-24**|**Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents**|Tingyu Qu et.al.|[2609.29892](http://arxiv.org/abs/2609.29892)|**[link](https://tongyi-mai.github.io/Qwen-Planner-Agent/)**|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna (gmail.com) et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
 |**2026-09-21**|**OBLIQ-IR: Training a Dense Retriever for Oblique Queries**|Mahmoud Abdalla (uibk.ac.at) et.al.|[2609.29649](http://arxiv.org/abs/2609.29649)|**[link](https://github.com/DataScienceUIBK/obliq-ir)**|
 |**2026-08-28**|**An Exploratory Ablation of a Small MLA--SSM Hybrid Language Model**|Christos Koutsiaris (sap.com) et.al.|[2609.29618](http://arxiv.org/abs/2609.29618)|**[link](https://github.com/unseen1980/talh)**|
@@ -5184,7 +5211,7 @@ layout: default
 |**2026-09-23**|**Computation Over Geometry: Meaning Identity Is Computed, Not Shipped in the Embeddings**|Jiaqi Deng (163.com) et.al.|[2609.28290](http://arxiv.org/abs/2609.28290)|null|
 |**2026-09-23**|**Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?**|AbdulRahman A. Morsy (gwu.edu) et.al.|[2609.28245](http://arxiv.org/abs/2609.28245)|null|
 |**2026-09-23**|**Can LLMs Catch a Rigged Backtest? A Clean-Control Calibration Benchmark**|Makar Ulesov et.al.|[2609.28090](http://arxiv.org/abs/2609.28090)|null|
-|**2026-09-23**|**SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving**|Zhilong Ge (cs.ecnu.edu.cn) et.al.|[2609.27717](http://arxiv.org/abs/2609.27717)|null|
+|**2026-09-24**|**SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving**|Zhilong Ge (cs.ecnu.edu.cn) et.al.|[2609.27717](http://arxiv.org/abs/2609.27717)|null|
 |**2026-09-23**|**FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration**|Weihang Ding et.al.|[2609.27571](http://arxiv.org/abs/2609.27571)|null|
 |**2026-09-23**|**What Looks Like a Capability Limit in Vision-Language Models Is a Readout Limit**|Alfredo F. Frontera Del Valle (columbia.edu) et.al.|[2609.27408](http://arxiv.org/abs/2609.27408)|null|
 |**2026-09-23**|**Forecast Workflow Bench: Evaluating Language-Model Decisions with Budgeted Forecast Tools**|Shunya Nagashima et.al.|[2609.27385](http://arxiv.org/abs/2609.27385)|null|
