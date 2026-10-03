@@ -1,4 +1,4 @@
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-01**|**Optimizing Effective Training Time for Large-Scale Recommendation Systems**|Mingming Ding et.al.|[2610.02057](http://arxiv.org/abs/2610.02057)|null|
-|**2026-10-01**|**SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning**|Si Qi Goh et.al.|[2610.01962](http://arxiv.org/abs/2610.01962)|null|
+|**2026-10-01**|**Optimizing Effective Training Time for Large-Scale Recommendation Systems**|Mingming Ding (meta.com) et.al.|[2610.02057](http://arxiv.org/abs/2610.02057)|null|
+|**2026-10-01**|**SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning**|Si Qi Goh (e.ntu.edu.sg) et.al.|[2610.01962](http://arxiv.org/abs/2610.01962)|null|
 |**2026-10-01**|**A foundation for systematic analysis of transformers and RNNs for tractography**|Emmanuelle Renauld et.al.|[2610.01894](http://arxiv.org/abs/2610.01894)|null|
 |**2026-10-01**|**Where LLMs Fail with Visualization DSLs**|Chang Han (sci.utah.edu) et.al.|[2610.01873](http://arxiv.org/abs/2610.01873)|null|
 |**2026-10-01**|**RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations**|Arman Behnam (quis.ai) et.al.|[2610.01780](http://arxiv.org/abs/2610.01780)|null|
@@ -3647,13 +3647,13 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-01**|**SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning**|Si Qi Goh et.al.|[2610.01962](http://arxiv.org/abs/2610.01962)|null|
+|**2026-10-01**|**SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning**|Si Qi Goh (e.ntu.edu.sg) et.al.|[2610.01962](http://arxiv.org/abs/2610.01962)|null|
 |**2026-10-01**|**Where LLMs Fail with Visualization DSLs**|Chang Han (sci.utah.edu) et.al.|[2610.01873](http://arxiv.org/abs/2610.01873)|null|
 |**2026-10-01**|**AgentWebRec: Compact Evidence Fusion over the Agent Web for Personalized Recommendation**|Haoran Qiang (buaa.edu.cn) et.al.|[2610.01705](http://arxiv.org/abs/2610.01705)|null|
 |**2026-10-01**|**OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation**|Negin Ashrafi (stanford.edu) et.al.|[2610.01497](http://arxiv.org/abs/2610.01497)|null|
@@ -5440,7 +5440,7 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
 
 ## LLM
 
@@ -5448,7 +5448,7 @@
 |---|---|---|---|---|
 |**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|**[link](https://rpg-robot.github.io/)**|
 |**2026-10-01**|**Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair**|Areeb Ahmad (lexsi.ai) et.al.|[2610.02173](http://arxiv.org/abs/2610.02173)|null|
-|**2026-10-01**|**Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents**|Ahmad Yehia et.al.|[2610.02002](http://arxiv.org/abs/2610.02002)|**[link](https://github.com/AIDAChip-Inc/mem-plus-plus)**|
+|**2026-10-01**|**Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents**|Ahmad Yehia (utexas.edu) et.al.|[2610.02002](http://arxiv.org/abs/2610.02002)|**[link](https://github.com/AIDAChip-Inc/mem-plus-plus)**|
 |**2026-10-01**|**FastCI: Efficient GPU-Intensive CI for LLM Training Frameworks**|Tianshuo Qiao et.al.|[2610.01967](http://arxiv.org/abs/2610.01967)|null|
 |**2026-10-01**|**Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage**|Manar Aljohani (vt.edu) et.al.|[2610.01963](http://arxiv.org/abs/2610.01963)|null|
 |**2026-10-01**|**Do Your Own Research: Learning to Forecast by Learning to Search**|Yusuf Afifi (futureprinciple.com) et.al.|[2610.01955](http://arxiv.org/abs/2610.01955)|**[link](https://github.com/afifi-yusuf/prime-forecast)**|
@@ -11726,7 +11726,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
