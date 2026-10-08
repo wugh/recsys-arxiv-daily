@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**|Shravan Chaudhari et.al.|[2610.10538](http://arxiv.org/abs/2610.10538)|**[link](https://ledger-3d.github.io)**|
+|**2026-10-07**|**Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion**|Walid Bendada (spotify.com) et.al.|[2610.10483](http://arxiv.org/abs/2610.10483)|null|
+|**2026-10-07**|**ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning**|Koffka Khan (sta.uwi.edu) et.al.|[2610.10361](http://arxiv.org/abs/2610.10361)|null|
+|**2026-10-07**|**Stale, Misattributed, or Late: Where Personal Memory Fails Before Generation**|Haonan Deng et.al.|[2610.10265](http://arxiv.org/abs/2610.10265)|null|
+|**2026-10-07**|**OOM-RL II: Reality Is an Oracle, Not a Debugger Provenance-Constrained Diagnosis in Continually Evolving Agent-Engineered Systems**|Kun Liu (quantpits.com) et.al.|[2610.10256](http://arxiv.org/abs/2610.10256)|null|
+|**2026-10-07**|**Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows**|Ryotaro Kawata (g.ecc.u-tokyo.ac.jp) et.al.|[2610.10218](http://arxiv.org/abs/2610.10218)|null|
+|**2026-10-07**|**Policy Learning with Weak Signals**|Benedikt Koch (g.harvard.edu) et.al.|[2610.10167](http://arxiv.org/abs/2610.10167)|null|
+|**2026-10-07**|**Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition**|Xuesi Wang (icloud.com) et.al.|[2610.10124](http://arxiv.org/abs/2610.10124)|null|
+|**2026-10-07**|**HGP:An on-device personalized agent memory via hybrid graph storage**|Ran Zhou (nju.edu.cn) et.al.|[2610.10071](http://arxiv.org/abs/2610.10071)|**[link](https://github.com/Ouan6/HGP-.git)**|
+|**2026-10-07**|**TRACK: Telemetry-Based Racing Analysis and Coaching Kit in Sim Racing Games**|Efe Çangırılı (gmail.com) et.al.|[2610.10061](http://arxiv.org/abs/2610.10061)|null|
+|**2026-10-07**|**Marrying Pricing and Advertising with LLMs**|Alessandro Barro (mail.polimi.it) et.al.|[2610.09985](http://arxiv.org/abs/2610.09985)|null|
+|**2026-10-07**|**Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization**|Antony Dalmiere et.al.|[2610.09964](http://arxiv.org/abs/2610.09964)|null|
+|**2026-10-07**|**Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy**|Georgios Koutidis (clone-systems.com) et.al.|[2610.09906](http://arxiv.org/abs/2610.09906)|null|
+|**2026-10-07**|**MIRROR: From Imitation to Internalization in LLM Personalization**|Huayi Lai (baidu.com) et.al.|[2610.09795](http://arxiv.org/abs/2610.09795)|null|
+|**2026-10-07**|**From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery**|Xinglin Wang (bit.edu.cn) et.al.|[2610.09684](http://arxiv.org/abs/2610.09684)|null|
+|**2026-10-07**|**Ream: Unfolding Mutual Awareness in Human-Agent Workspaces**|Peiling Jiang (ucsd.edu) et.al.|[2610.09497](http://arxiv.org/abs/2610.09497)|null|
+|**2026-10-07**|**What a Reporting Convention Hides: A Matched-Budget Audit of Quantum Natural Gradient with an Exactly Computed Metric**|Lu Wei et.al.|[2610.09425](http://arxiv.org/abs/2610.09425)|null|
+|**2026-10-07**|**The Confidence Game: Strategic Miscalibration in Human-AI Delegation**|Raghu Arghal (upenn.edu) et.al.|[2610.09371](http://arxiv.org/abs/2610.09371)|null|
+|**2026-10-07**|**Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense**|Fernando Martinez (fordham.edu) et.al.|[2610.09337](http://arxiv.org/abs/2610.09337)|null|
+|**2026-10-07**|**Reading Position Is the Baseline to Beat: A Time-Ordered Evaluation of Personalised Highlight Prediction**|Kazuki Nakayashiki (glasp.co) et.al.|[2610.09262](http://arxiv.org/abs/2610.09262)|null|
+|**2026-10-06**|**Patient, Place, Prior (P $^3$ ): What Counts as Personalization in Medical World Models?**|Xingrui Gu et.al.|[2610.09194](http://arxiv.org/abs/2610.09194)|null|
+|**2026-10-06**|**sk-bench: A Native-First Benchmark for Evaluating Large Language Models in Slovak**|Marek Šuppa (suppa.sk) et.al.|[2610.09152](http://arxiv.org/abs/2610.09152)|**[link](https://github.com/slovak-nlp/sk-bench)**|
+|**2026-10-06**|**Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning**|Ryan C. Barron (umbc.edu) et.al.|[2610.08894](http://arxiv.org/abs/2610.08894)|null|
 |**2026-10-06**|**Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation**|Wenwen Si et.al.|[2610.08743](http://arxiv.org/abs/2610.08743)|null|
 |**2026-10-06**|**Optimal and Efficient Online Inverse Optimization**|Anupam Gupta et.al.|[2610.08735](http://arxiv.org/abs/2610.08735)|null|
 |**2026-10-06**|**A Systematic Study of Semantic ID Spaces for Generative Information Retrieval**|Alexia Allal (artefact.com) et.al.|[2610.08732](http://arxiv.org/abs/2610.08732)|null|
@@ -3731,12 +3754,26 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Stale, Misattributed, or Late: Where Personal Memory Fails Before Generation**|Haonan Deng et.al.|[2610.10265](http://arxiv.org/abs/2610.10265)|null|
+|**2026-10-07**|**HGP:An on-device personalized agent memory via hybrid graph storage**|Ran Zhou (nju.edu.cn) et.al.|[2610.10071](http://arxiv.org/abs/2610.10071)|**[link](https://github.com/Ouan6/HGP-.git)**|
+|**2026-10-07**|**Marrying Pricing and Advertising with LLMs**|Alessandro Barro (mail.polimi.it) et.al.|[2610.09985](http://arxiv.org/abs/2610.09985)|null|
+|**2026-10-07**|**Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization**|Antony Dalmiere et.al.|[2610.09964](http://arxiv.org/abs/2610.09964)|null|
+|**2026-10-07**|**Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy**|Georgios Koutidis (clone-systems.com) et.al.|[2610.09906](http://arxiv.org/abs/2610.09906)|null|
+|**2026-10-07**|**MIRROR: From Imitation to Internalization in LLM Personalization**|Huayi Lai (baidu.com) et.al.|[2610.09795](http://arxiv.org/abs/2610.09795)|null|
+|**2026-10-07**|**From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery**|Xinglin Wang (bit.edu.cn) et.al.|[2610.09684](http://arxiv.org/abs/2610.09684)|null|
+|**2026-10-07**|**Let the Library Speak: Self-Advertised Method Selection for Formal Proving**|Xiaopeng Yuan (illinois.edu) et.al.|[2610.09401](http://arxiv.org/abs/2610.09401)|null|
+|**2026-10-07**|**The Confidence Game: Strategic Miscalibration in Human-AI Delegation**|Raghu Arghal (upenn.edu) et.al.|[2610.09371](http://arxiv.org/abs/2610.09371)|null|
+|**2026-10-07**|**Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense**|Fernando Martinez (fordham.edu) et.al.|[2610.09337](http://arxiv.org/abs/2610.09337)|null|
+|**2026-10-06**|**Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models**|Yujie Chen (purdue.edu) et.al.|[2610.09070](http://arxiv.org/abs/2610.09070)|null|
+|**2026-10-06**|**Justice After Identity: Large Language Models and the View from Everywhere**|W. Russell Neuman et.al.|[2610.09053](http://arxiv.org/abs/2610.09053)|null|
+|**2026-10-06**|**Personalize at Test Time: Learning User Preferences for Image Generation**|Jiamu Bai et.al.|[2610.09015](http://arxiv.org/abs/2610.09015)|null|
+|**2026-10-06**|**An Empirical Study of Agent Skills' Downstream Utility**|Yu Cheng (zju.edu.cn) et.al.|[2610.08875](http://arxiv.org/abs/2610.08875)|null|
 |**2026-10-06**|**Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment**|Orion Reblitz-Richardson (orionr.com) et.al.|[2610.08670](http://arxiv.org/abs/2610.08670)|null|
 |**2026-10-06**|**Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals**|Tal Cordova (mail.tau.ac.il) et.al.|[2610.08407](http://arxiv.org/abs/2610.08407)|null|
 |**2026-10-06**|**MoF: Preference-Aware Mixture Modeling for Black-Box LLM Personalization**|Hun Park (korea.ac.kr) et.al.|[2610.08330](http://arxiv.org/abs/2610.08330)|null|
@@ -5573,12 +5610,51 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory**|Hongru Cai (gmail.com) et.al.|[2610.10533](http://arxiv.org/abs/2610.10533)|null|
+|**2026-10-07**|**RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing**|Yilun Hao et.al.|[2610.10507](http://arxiv.org/abs/2610.10507)|null|
+|**2026-10-07**|**OrBIT: Structure-Guided Embedding Compression**|Yunied Puig (gmail.com) et.al.|[2610.10385](http://arxiv.org/abs/2610.10385)|null|
+|**2026-10-07**|**Document-Level Text Simplification in Estonian Using Large Language Models**|Meeri-Ly Muru (rara.ee) et.al.|[2610.10378](http://arxiv.org/abs/2610.10378)|null|
+|**2026-10-07**|**Input-Blind Controls Produce Substantial Oracle Headroom for Layer Programs in Multiple-Choice Evaluation**|Yibei Guo (gmail.com) et.al.|[2610.10368](http://arxiv.org/abs/2610.10368)|null|
+|**2026-10-07**|**Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts**|Himarsha R. Jayanetti (odu.edu) et.al.|[2610.10318](http://arxiv.org/abs/2610.10318)|null|
+|**2026-10-07**|**SemanticFold: Latent Sequence Compression SeparatesLanguage Modeling, Decodability, and Reasoning**|Mingyan Liu (gmail.com) et.al.|[2610.10304](http://arxiv.org/abs/2610.10304)|null|
+|**2026-10-07**|**Know the Shape, Find the Fault: Topology-Conditioned Diagnosis of Multi-Agent LLM Failures**|Xinwen Liu (buaa.edu.cn) et.al.|[2610.10126](http://arxiv.org/abs/2610.10126)|null|
+|**2026-10-07**|**I would rather quit NLP than read another paper like this: The rise of antithesis in NLP papers**|Olga Zamaraeva (udc.es) et.al.|[2610.10092](http://arxiv.org/abs/2610.10092)|null|
+|**2026-10-07**|**Activation-Aware Weight Tensorization: A Calibration-Time Preconditioner for Tensor-Network LLM Compression**|Alessandro Beatini (uniroma1.it) et.al.|[2610.10085](http://arxiv.org/abs/2610.10085)|null|
+|**2026-10-07**|**From Pixel to Coding: Evaluating the Figure Reproduction Capabilities of MLLMs**|Zijian Chen (sjtu.edu.cn) et.al.|[2610.10066](http://arxiv.org/abs/2610.10066)|null|
+|**2026-10-07**|**Cache the Encoder Within:Compact, Reusable Memory across LLM Queries**|Hanzuo Liu (mails.tsinghua.edu.cn) et.al.|[2610.10058](http://arxiv.org/abs/2610.10058)|null|
+|**2026-10-07**|**Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization**|Antony Dalmiere et.al.|[2610.09964](http://arxiv.org/abs/2610.09964)|null|
+|**2026-10-07**|**Training Advisors for LLM Agents from Task Outcomes**|Sergei Polezhaev (nebius.com) et.al.|[2610.09858](http://arxiv.org/abs/2610.09858)|null|
+|**2026-10-07**|**A Deafening Silence: Catastrophic Forgetting Lives in the Output Embeddings of Tokens the Data Never Speaks**|Jonghyun Han (seoultech.ac.kr) et.al.|[2610.09835](http://arxiv.org/abs/2610.09835)|null|
+|**2026-10-07**|**UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation**|Deyuan Liu et.al.|[2610.09823](http://arxiv.org/abs/2610.09823)|**[link](https://github.com/LINs-lab/UltraText_Bench)**|
+|**2026-10-07**|**The Impact of Backbone Evolution on LLM-Based Relevance Assessments**|Chuting Yu (uq.edu.au) et.al.|[2610.09820](http://arxiv.org/abs/2610.09820)|null|
+|**2026-10-07**|**Decoupling Logic from Persona: Structural Immunity of Edge LLM Agents to Context Pollution**|Masaaki Nakatsu et.al.|[2610.09772](http://arxiv.org/abs/2610.09772)|null|
+|**2026-10-07**|**Bridge Routing Heads: Where Multilingual Multi-hop Reasoning Lives in LLMs**|Seunghan Kim (chosun.ac.kr) et.al.|[2610.09733](http://arxiv.org/abs/2610.09733)|null|
+|**2026-10-07**|**How Do Agentic LLMs Decide to Call Tools? A Tool-Call Vector Shaped by Suppression**|Xijie Gong (mbzuai.ac.ae) et.al.|[2610.09624](http://arxiv.org/abs/2610.09624)|**[link](https://github.com/XijieGo/MI4ToolCalling)**|
+|**2026-10-07**|**Learning Situation-Conditioned Thinking Policies for Long-Term LLM Agents**|Hong Su (126.com) et.al.|[2610.09590](http://arxiv.org/abs/2610.09590)|null|
+|**2026-10-07**|**MIMESIS: Learning User Simulators as Training Environments for Interactive Agents**|Hoang Phan (nyu.edu) et.al.|[2610.09484](http://arxiv.org/abs/2610.09484)|**[link](https://github.com/VietHoang1512/mimesis)**|
+|**2026-10-07**|**Right Number, Wrong State? Measuring Cross-Jurisdiction Substitution in LLM Recall of State Policy**|Jiayu Feng (hsph.harvard.edu) et.al.|[2610.09458](http://arxiv.org/abs/2610.09458)|null|
+|**2026-10-07**|**Arctic Questions, Missing Answers: A Dataset and Benchmark for LLM Abstention in Arctic Science**|Benjamin Wilcox (unt.edu) et.al.|[2610.09446](http://arxiv.org/abs/2610.09446)|**[link](https://github.com/BenWilcox8/arctic-qa)**|
+|**2026-10-07**|**Visual Jev Rewards: Reference-Bound Verification for Multi-Subject Image Generation**|Baoteng Li (bupt.edu.cn) et.al.|[2610.09328](http://arxiv.org/abs/2610.09328)|null|
+|**2026-10-07**|**The Winner's Curse in LLM Self-Improvement Loops: Selection Noise, Lock-in, and Acceptance Rules**|Litao Hu et.al.|[2610.09239](http://arxiv.org/abs/2610.09239)|null|
+|**2026-10-06**|**CM-DPO: Constraint-Margin Direct Preference Optimization for LLM Planning**|Rabimba Karanjai (paypal.com) et.al.|[2610.09219](http://arxiv.org/abs/2610.09219)|null|
+|**2026-10-06**|**From Probabilities to Decisions: Search and Multi-Teacher Distillation with Jev**|Mohamad Yazan Sadoun et.al.|[2610.09188](http://arxiv.org/abs/2610.09188)|null|
+|**2026-10-06**|**Breaking the Space Barrier and its Application to Language Model Inference**|Arip Asadulaev et.al.|[2610.09139](http://arxiv.org/abs/2610.09139)|null|
+|**2026-10-06**|**GeoNatureAgent (GNA): A Framework and Benchmark for Pre-Production Evaluation of Tool-Using Agents on Geospatial and Environmental Tasks**|Gabriel Diaz-Ireland (jhu.edu) et.al.|[2610.09112](http://arxiv.org/abs/2610.09112)|null|
+|**2026-10-06**|**Large-scale Repository Engineering via Agent-Native Reusable Code Primitives**|Haibo Jin (illinois.edu) et.al.|[2610.09079](http://arxiv.org/abs/2610.09079)|null|
+|**2026-10-06**|**Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs**|Pavan Maddula (gmail.com) et.al.|[2610.09033](http://arxiv.org/abs/2610.09033)|null|
+|**2026-10-06**|**Sigma-Hunter: A Domain-Specific Language Model for Threat Hunting and Detection Engineering**|Kemal Davaslioglu et.al.|[2610.09007](http://arxiv.org/abs/2610.09007)|null|
+|**2026-10-06**|**Algorithmic Scratchpads and Curriculum Staging for Arithmetic Reasoning in Tiny Transformers**|Sourabh Kasliwal (gmail.com) et.al.|[2610.09003](http://arxiv.org/abs/2610.09003)|**[link](https://github.com/SoKasl/AIMathLab)**|
+|**2026-10-06**|**How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis**|Muhammad Zeeshan Karamat (vt.edu) et.al.|[2610.09000](http://arxiv.org/abs/2610.09000)|null|
+|**2026-10-06**|**Verify Less, Evolve More: Training Idea-Level Critics for Verification-Efficient ML Evolving Agents**|Jiamu Bai et.al.|[2610.08993](http://arxiv.org/abs/2610.08993)|null|
+|**2026-10-06**|**Socio-Foundation: A Model for Generalizable Individual Behavior Simulation via Hierarchical Capability Distillation**|Liang Wang (m.fudan.edu.cn) et.al.|[2610.08967](http://arxiv.org/abs/2610.08967)|null|
+|**2026-10-06**|**Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models**|Xingang Guo et.al.|[2610.08966](http://arxiv.org/abs/2610.08966)|null|
+|**2026-10-05**|**LRCC: Generalizing Low-Rank Compression with Conditional Computation**|Thomas Vaitses Fontanari (uniroma1.it) et.al.|[2610.08858](http://arxiv.org/abs/2610.08858)|null|
 |**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720](http://arxiv.org/abs/2610.08720)|**[link](https://github.com/sirujiang/WorldSolver)**|
 |**2026-10-06**|**Same-Number Citation Swaps: Stress-Testing Jev as a Financial Evidence Judge**|Chuhong Xu (sofia.edu) et.al.|[2610.08675](http://arxiv.org/abs/2610.08675)|null|
 |**2026-10-06**|**Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment**|Orion Reblitz-Richardson (orionr.com) et.al.|[2610.08670](http://arxiv.org/abs/2610.08670)|null|
@@ -11986,7 +12062,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
