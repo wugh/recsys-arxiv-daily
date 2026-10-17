@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.16
+## Updated on 2026.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Zhixu Li (gatech.edu) et.al.|[2610.22372](http://arxiv.org/abs/2610.22372)|**[link](https://libero-perm.github.io/)**|
+|**2026-10-15**|**Shortcut Sensitivity in Agent-Safety Evaluations**|Hasan Demirkiran (kontext.security) et.al.|[2610.22243](http://arxiv.org/abs/2610.22243)|null|
+|**2026-10-15**|**Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs**|Haoyu Zhang et.al.|[2610.22230](http://arxiv.org/abs/2610.22230)|null|
+|**2026-10-15**|**EMO: A Closed-Loop Test-Time Computation Framework via Alternating Context Optimization and Logits Steering**|Wei Xia (stu.pku.edu.cn) et.al.|[2610.22160](http://arxiv.org/abs/2610.22160)|null|
+|**2026-10-15**|**Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization**|Sekh Mainul Islam (di.ku.dk) et.al.|[2610.22127](http://arxiv.org/abs/2610.22127)|null|
+|**2026-10-15**|**Decoding Naturalistic Speech from fMRI with Temporal Modeling and Multimodal Alignment**|Corentin Caris et.al.|[2610.22049](http://arxiv.org/abs/2610.22049)|null|
+|**2026-10-15**|**Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation**|Bruno Arcanjo (soton.ac.uk) et.al.|[2610.21938](http://arxiv.org/abs/2610.21938)|null|
+|**2026-10-15**|**Encoded but Exposed: Language Embeddings can Reveal More Than They Should in Recommender Systems**|Linda Beková (fit.cvut.cz) et.al.|[2610.21713](http://arxiv.org/abs/2610.21713)|null|
+|**2026-10-15**|**MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment**|Vikrant Sahu (iitbhilai.ac.in) et.al.|[2610.21685](http://arxiv.org/abs/2610.21685)|null|
 |**2026-10-15**|**A Quantum Machine Learning Approach to Content-Based Media Recommendation**|Mina Abbaszadeh (ucl.ac.uk) et.al.|[2610.21562](http://arxiv.org/abs/2610.21562)|null|
 |**2026-10-15**|**Memorilla: Latent Semantic Memory for LLMs**|Adibvafa Fallahpour (seas.upenn.edu) et.al.|[2610.21375](http://arxiv.org/abs/2610.21375)|null|
 |**2026-10-15**|**Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning**|Ruizhe Shi et.al.|[2610.21336](http://arxiv.org/abs/2610.21336)|null|
@@ -3893,6 +3902,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization**|Sekh Mainul Islam (di.ku.dk) et.al.|[2610.22127](http://arxiv.org/abs/2610.22127)|null|
+|**2026-10-15**|**Encoded but Exposed: Language Embeddings can Reveal More Than They Should in Recommender Systems**|Linda Beková (fit.cvut.cz) et.al.|[2610.21713](http://arxiv.org/abs/2610.21713)|null|
 |**2026-10-15**|**Memorilla: Latent Semantic Memory for LLMs**|Adibvafa Fallahpour (seas.upenn.edu) et.al.|[2610.21375](http://arxiv.org/abs/2610.21375)|null|
 |**2026-10-15**|**Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning**|Ruizhe Shi et.al.|[2610.21336](http://arxiv.org/abs/2610.21336)|null|
 |**2026-10-15**|**PocketTSLM: Deploying an On-Device Soft-Prompt Time-Series Language Model for Privacy-Preserving Smartphone Reasoning**|Max Rosenblattl (stanford.edu) et.al.|[2610.21308](http://arxiv.org/abs/2610.21308)|**[link](https://github.com/SchmiedmayerLab/PocketTSLM)**|
@@ -5832,6 +5843,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering**|Shangheng Du (pjlab.org.cn) et.al.|[2610.22344](http://arxiv.org/abs/2610.22344)|**[link](https://github.com/InternScience/MLExpert)**|
+|**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa (nyu.edu) et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|**[link](https://github.com/ManyaWadhwa/diverge_ideation)**|
+|**2026-10-15**|**AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions**|Alexey A. Bokov (airi.net) et.al.|[2610.22298](http://arxiv.org/abs/2610.22298)|null|
+|**2026-10-15**|**CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty**|Yuan-Chen Chang (tararesearch.org) et.al.|[2610.22292](http://arxiv.org/abs/2610.22292)|null|
+|**2026-10-15**|**Improving Environment-Agnostic Coding Agents: The Role of Scaffolding**|Sergey Rodionov et.al.|[2610.22289](http://arxiv.org/abs/2610.22289)|null|
+|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh (stanford.edu) et.al.|[2610.22273](http://arxiv.org/abs/2610.22273)|null|
+|**2026-10-15**|**Hy-Memory-30B-A3B: Attributed Reinforcement Learning for Long-Term Memory Writing**|Tianxiang Fei et.al.|[2610.22196](http://arxiv.org/abs/2610.22196)|null|
+|**2026-10-15**|**EMO: A Closed-Loop Test-Time Computation Framework via Alternating Context Optimization and Logits Steering**|Wei Xia (stu.pku.edu.cn) et.al.|[2610.22160](http://arxiv.org/abs/2610.22160)|null|
+|**2026-10-15**|**When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models**|Wei Cai (stu.pku.edu.cn) et.al.|[2610.22068](http://arxiv.org/abs/2610.22068)|null|
+|**2026-10-15**|**N-Gram Memories at Two Bits: Quantizing Lookup Tables in Large Language Models**|Donghoon Han (dnotitia.com) et.al.|[2610.21810](http://arxiv.org/abs/2610.21810)|null|
+|**2026-10-15**|**From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research**|Yijia Mao et.al.|[2610.21767](http://arxiv.org/abs/2610.21767)|null|
+|**2026-10-15**|**FIRM: Fisher-Informed Retention Merging for Federated LLM Unlearning**|Reeyansh Shah (gmail.com) et.al.|[2610.21720](http://arxiv.org/abs/2610.21720)|null|
+|**2026-10-15**|**Human Interventions as Labels: Localizing, Steering, and (Sometimes) Editing the Computations Behind LLM Agent Failures**|Cesare Zavattari (di.unipi.it) et.al.|[2610.21708](http://arxiv.org/abs/2610.21708)|null|
 |**2026-10-15**|**Qwen-Audio-Jev: A Unified Interface for Audio Decisions**|Ying Fang et.al.|[2610.21614](http://arxiv.org/abs/2610.21614)|null|
 |**2026-10-15**|**Decoding What iOS Location Services Send to Apple: An LLM Is an Unreliable Analyst but a Useful Toolmaker**|Douglas Leith (tcd.ie) et.al.|[2610.21597](http://arxiv.org/abs/2610.21597)|null|
 |**2026-10-15**|**ISW-Agent: Integrating LLM-Driven Dialogue with n8n Workflow for Internal Solitary Wave Remote Sensing Image Processing**|Hao Zhang (fio.org.cn) et.al.|[2610.21502](http://arxiv.org/abs/2610.21502)|null|
