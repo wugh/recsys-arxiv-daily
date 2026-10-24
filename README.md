@@ -1,4 +1,4 @@
-## Updated on 2026.10.23
+## Updated on 2026.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy**|Gautam Kamath (csail.mit.edu) et.al.|[2610.31612](http://arxiv.org/abs/2610.31612)|null|
+|**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria (unina.it) et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
+|**2026-10-22**|**Jev-DLC: Decision-Level Continual Learning from Typed Feedback**|Yangyang Feng (connect.hkust-gz.edu.cn) et.al.|[2610.31521](http://arxiv.org/abs/2610.31521)|null|
+|**2026-10-22**|**From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims**|Suyash Mishra (roche.com) et.al.|[2610.31519](http://arxiv.org/abs/2610.31519)|null|
+|**2026-10-22**|**FairFRESH: A Neuro-Symbolic Framework for Fair and Explainable Household Food Recommendation**|Kodur Sai Vinay Sathvik (gmail.com) et.al.|[2610.31506](http://arxiv.org/abs/2610.31506)|null|
+|**2026-10-22**|**Training Small Language Models for Transferable Tool Selection**|Zhaoyi Zhou (andrew.cmu.edu) et.al.|[2610.31483](http://arxiv.org/abs/2610.31483)|null|
+|**2026-10-22**|**How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views**|Morita Tarvirdians (tudelft.nl) et.al.|[2610.31459](http://arxiv.org/abs/2610.31459)|null|
+|**2026-10-22**|**Major Revision, Minor Accountability: LLMs as Reviewers of Published Articles in Top-Tier Journals**|Bastien Le Guellec (chu-lille.fr) et.al.|[2610.31414](http://arxiv.org/abs/2610.31414)|null|
+|**2026-10-22**|**Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models**|Athira Gopal (qpiai.tech) et.al.|[2610.31407](http://arxiv.org/abs/2610.31407)|null|
+|**2026-10-22**|**CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring**|Shmuel Amar (gmail.com) et.al.|[2610.31277](http://arxiv.org/abs/2610.31277)|null|
+|**2026-10-22**|**Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use**|Yijiang River Dong et.al.|[2610.31272](http://arxiv.org/abs/2610.31272)|null|
 |**2026-10-22**|**Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness**|Asal Mehrabi (gmail.com) et.al.|[2610.31172](http://arxiv.org/abs/2610.31172)|null|
 |**2026-10-22**|**Prompt Sensitivity in Tool-Augmented Model Comparisons**|Mateusz Modrzejewski (pw.edu.pl) et.al.|[2610.31148](http://arxiv.org/abs/2610.31148)|null|
 |**2026-10-22**|**PriMa-Causa: Causal Prescriptive Maintenance**|Felix Saretzky et.al.|[2610.31147](http://arxiv.org/abs/2610.31147)|null|
@@ -4044,12 +4055,19 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria (unina.it) et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
+|**2026-10-22**|**Jev-DLC: Decision-Level Continual Learning from Typed Feedback**|Yangyang Feng (connect.hkust-gz.edu.cn) et.al.|[2610.31521](http://arxiv.org/abs/2610.31521)|null|
+|**2026-10-22**|**From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims**|Suyash Mishra (roche.com) et.al.|[2610.31519](http://arxiv.org/abs/2610.31519)|null|
+|**2026-10-22**|**Major Revision, Minor Accountability: LLMs as Reviewers of Published Articles in Top-Tier Journals**|Bastien Le Guellec (chu-lille.fr) et.al.|[2610.31414](http://arxiv.org/abs/2610.31414)|null|
+|**2026-10-22**|**Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models**|Athira Gopal (qpiai.tech) et.al.|[2610.31407](http://arxiv.org/abs/2610.31407)|null|
+|**2026-10-22**|**CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring**|Shmuel Amar (gmail.com) et.al.|[2610.31277](http://arxiv.org/abs/2610.31277)|null|
+|**2026-10-22**|**Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use**|Yijiang River Dong et.al.|[2610.31272](http://arxiv.org/abs/2610.31272)|null|
 |**2026-10-22**|**Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness**|Asal Mehrabi (gmail.com) et.al.|[2610.31172](http://arxiv.org/abs/2610.31172)|null|
 |**2026-10-22**|**Prompt Sensitivity in Tool-Augmented Model Comparisons**|Mateusz Modrzejewski (pw.edu.pl) et.al.|[2610.31148](http://arxiv.org/abs/2610.31148)|null|
 |**2026-10-22**|**Constraint Reasoning and Large Language Models Join Forces: Providing Contrastive Explanations for Real-World Optimisation-Based Applications**|Roger X. Lera-Leri (iiia.csic.es) et.al.|[2610.31119](http://arxiv.org/abs/2610.31119)|null|
@@ -6068,12 +6086,27 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Cost-Aware Abstention for LLM-Based IT Ticket Classification**|Sachin Gupta (gmail.com) et.al.|[2610.31657](http://arxiv.org/abs/2610.31657)|null|
+|**2026-10-22**|**Low-Bit N-Gram Embeddings for Language Models**|Stephen Chung (dualverse.ai) et.al.|[2610.31646](http://arxiv.org/abs/2610.31646)|null|
+|**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva (pennmedicine.upenn.edu) et.al.|[2610.31606](http://arxiv.org/abs/2610.31606)|null|
+|**2026-10-22**|**Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration**|Deepthika S (iisc.ac.in) et.al.|[2610.31579](http://arxiv.org/abs/2610.31579)|null|
+|**2026-10-22**|**DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination**|Ziyi Jiao et.al.|[2610.31511](http://arxiv.org/abs/2610.31511)|null|
+|**2026-10-22**|**Training Small Language Models for Transferable Tool Selection**|Zhaoyi Zhou (andrew.cmu.edu) et.al.|[2610.31483](http://arxiv.org/abs/2610.31483)|null|
+|**2026-10-22**|**Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon**|Kyrylo Yemets (macpaw.com) et.al.|[2610.31479](http://arxiv.org/abs/2610.31479)|null|
+|**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke (di.ku.dk) et.al.|[2610.31412](http://arxiv.org/abs/2610.31412)|null|
+|**2026-10-22**|**Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models**|Athira Gopal (qpiai.tech) et.al.|[2610.31407](http://arxiv.org/abs/2610.31407)|null|
+|**2026-10-22**|**Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language**|Mullosharaf K. Arabov (kpfu.ru) et.al.|[2610.31397](http://arxiv.org/abs/2610.31397)|null|
+|**2026-10-22**|**AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents**|Ehsan Saleh (osu.edu) et.al.|[2610.31366](http://arxiv.org/abs/2610.31366)|null|
+|**2026-10-22**|**Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation**|Hongcan Guo (bytedance.com) et.al.|[2610.31305](http://arxiv.org/abs/2610.31305)|null|
+|**2026-10-22**|**PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding**|Valentino Sacco et.al.|[2610.31274](http://arxiv.org/abs/2610.31274)|**[link](https://github.com/warmwindOS/pointerbench)**|
+|**2026-10-22**|**Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use**|Yijiang River Dong et.al.|[2610.31272](http://arxiv.org/abs/2610.31272)|null|
+|**2026-10-22**|**Trion-1: Unifying Language, Protein Sequence, and Structure with Diffusion Language Models**|Tianyu Lu et.al.|[2610.31215](http://arxiv.org/abs/2610.31215)|null|
 |**2026-10-22**|**Diagnosing the Explicit-to-Applied Theory of Mind Gap in LLMs**|Prajvi Saxena (dfki.de) et.al.|[2610.31060](http://arxiv.org/abs/2610.31060)|null|
 |**2026-10-22**|**Tracing Hallucinations in LLM Reasoning for UML Class Diagram Generation: An Empirical Taxonomy and Mitigation Study**|Mojdeh Rahmanian (napier.ac.uk) et.al.|[2610.30946](http://arxiv.org/abs/2610.30946)|null|
 |**2026-10-22**|**Harnessing Language Models as Optimization Modeling Agents**|Yunxiang Luo (ust.hk) et.al.|[2610.30917](http://arxiv.org/abs/2610.30917)|null|
@@ -6113,7 +6146,7 @@
 |**2026-10-21**|**DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis**|Xuan Yang et.al.|[2610.29443](http://arxiv.org/abs/2610.29443)|**[link](https://github.com/Miaow-Lab/DynaWeave)**|
 |**2026-10-21**|**BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments**|Ge Qu (connect.hku.hk) et.al.|[2610.29426](http://arxiv.org/abs/2610.29426)|null|
 |**2026-10-21**|**LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines**|Abdullah Hamdi et.al.|[2610.29409](http://arxiv.org/abs/2610.29409)|null|
-|**2026-10-21**|**Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan**|Ju-Chun Ko (ntu.edu.tw) et.al.|[2610.29342](http://arxiv.org/abs/2610.29342)|**[link](https://daaab.github.io/uncensored-not-unbiased/)**|
+|**2026-10-22**|**Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan**|Ju-Chun Ko (ntu.edu.tw) et.al.|[2610.29342](http://arxiv.org/abs/2610.29342)|**[link](https://daaab.github.io/uncensored-not-unbiased/)**|
 |**2026-10-21**|**Asking What a Director Sees Can Change What Vision-Language Models Choose**|Jiaxuan Guo (stanford.edu) et.al.|[2610.29318](http://arxiv.org/abs/2610.29318)|null|
 |**2026-10-21**|**Compressing Onboard Language Models for Space Robots under a Behavioral-Fidelity Requirement**|Jia Deng (astroup.com) et.al.|[2610.29302](http://arxiv.org/abs/2610.29302)|null|
 |**2026-10-21**|**Let Agents Design How They Search: Automatic Interface Optimization for Agentic Search**|Sangjune An (korea.ac.kr) et.al.|[2610.29250](http://arxiv.org/abs/2610.29250)|null|
@@ -12925,7 +12958,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
