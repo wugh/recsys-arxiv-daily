@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**When Should AI Agents Ask? Clarification Requests Under Limited Human Attention**|Hanzhao Wang (sydney.edu.au) et.al.|[2610.41129](http://arxiv.org/abs/2610.41129)|null|
+|**2026-10-30**|**Language Models Show a "Women-Are-Wonderful" Effect in Blame Attribution That is Not Just Leniency**|Anika Sharma et.al.|[2610.41116](http://arxiv.org/abs/2610.41116)|null|
+|**2026-10-29**|**Can Personal Requirements Become Supervision for Planning?**|Junwei Wu et.al.|[2610.40992](http://arxiv.org/abs/2610.40992)|null|
+|**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
+|**2026-10-29**|**Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG**|Ivan Kochergin (student.letovo.ru) et.al.|[2610.40966](http://arxiv.org/abs/2610.40966)|null|
+|**2026-10-29**|**P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior**|Grant Nasir Brown (sfsu.edu) et.al.|[2610.40959](http://arxiv.org/abs/2610.40959)|null|
+|**2026-10-29**|**Fair Recommender Systems for Intersecting Groups**|Christine Ling (gatech.edu) et.al.|[2610.40936](http://arxiv.org/abs/2610.40936)|null|
+|**2026-10-29**|**Adaptive Personalization Under Preference Epistemic Uncertainty**|Priyanka Dey (usc.edu) et.al.|[2610.40930](http://arxiv.org/abs/2610.40930)|null|
+|**2026-10-29**|**Retrieve-then-Disambiguate: Scalable Reviewer Discovery**|Vicente Amado Olivo et.al.|[2610.40768](http://arxiv.org/abs/2610.40768)|**[link](https://github.com/deepthought-initiative/Retrieve-then-Disambiguate)**|
+|**2026-10-29**|**Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors**|Ahanaf Hasan Ariq et.al.|[2610.40740](http://arxiv.org/abs/2610.40740)|null|
+|**2026-10-29**|**PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management**|Robin Staab (google.com) et.al.|[2610.40714](http://arxiv.org/abs/2610.40714)|null|
 |**2026-10-29**|**Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers**|Ibrahim Salifu (utas.edu.gh) et.al.|[2610.40544](http://arxiv.org/abs/2610.40544)|null|
 |**2026-10-29**|**Agentic University: Collaborative Agents for Personalized Learning**|Jingru Fan (sjtu.edu.cn) et.al.|[2610.40492](http://arxiv.org/abs/2610.40492)|**[link](https://github.com/AgenticOrgLab/AgenticUniversity.git)**|
 |**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi (kavai.com) et.al.|[2610.40370](http://arxiv.org/abs/2610.40370)|null|
@@ -4197,12 +4208,20 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**When Should AI Agents Ask? Clarification Requests Under Limited Human Attention**|Hanzhao Wang (sydney.edu.au) et.al.|[2610.41129](http://arxiv.org/abs/2610.41129)|null|
+|**2026-10-30**|**Language Models Show a "Women-Are-Wonderful" Effect in Blame Attribution That is Not Just Leniency**|Anika Sharma et.al.|[2610.41116](http://arxiv.org/abs/2610.41116)|null|
+|**2026-10-29**|**Can Personal Requirements Become Supervision for Planning?**|Junwei Wu et.al.|[2610.40992](http://arxiv.org/abs/2610.40992)|null|
+|**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
+|**2026-10-29**|**Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG**|Ivan Kochergin (student.letovo.ru) et.al.|[2610.40966](http://arxiv.org/abs/2610.40966)|null|
+|**2026-10-29**|**P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior**|Grant Nasir Brown (sfsu.edu) et.al.|[2610.40959](http://arxiv.org/abs/2610.40959)|null|
+|**2026-10-29**|**Adaptive Personalization Under Preference Epistemic Uncertainty**|Priyanka Dey (usc.edu) et.al.|[2610.40930](http://arxiv.org/abs/2610.40930)|null|
+|**2026-10-29**|**PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management**|Robin Staab (google.com) et.al.|[2610.40714](http://arxiv.org/abs/2610.40714)|null|
 |**2026-10-29**|**Agentic University: Collaborative Agents for Personalized Learning**|Jingru Fan (sjtu.edu.cn) et.al.|[2610.40492](http://arxiv.org/abs/2610.40492)|**[link](https://github.com/AgenticOrgLab/AgenticUniversity.git)**|
 |**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi (kavai.com) et.al.|[2610.40370](http://arxiv.org/abs/2610.40370)|null|
 |**2026-10-29**|**Judged in Company: In-Context Batching Makes LLM Verdicts Depend on Other Items**|Peng Xie (tum.de) et.al.|[2610.40241](http://arxiv.org/abs/2610.40241)|null|
@@ -6300,12 +6319,29 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models**|Tian Wang et.al.|[2610.41236](http://arxiv.org/abs/2610.41236)|null|
+|**2026-10-30**|**RTL-Interact: Training EDA-Interactive Models for Multi-Task RTL Design**|Wenxuan Shi et.al.|[2610.41225](http://arxiv.org/abs/2610.41225)|null|
+|**2026-10-30**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu (infiniflow.ai) et.al.|[2610.41172](http://arxiv.org/abs/2610.41172)|**[link](https://github.com/infiniflow/ragflow)**|
+|**2026-10-30**|**ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration**|Yichen Zhao (nyu.edu) et.al.|[2610.41168](http://arxiv.org/abs/2610.41168)|null|
+|**2026-10-30**|**Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges**|Mohammad Zangooei (h-partners.com) et.al.|[2610.41149](http://arxiv.org/abs/2610.41149)|null|
+|**2026-10-30**|**TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing**|Huancheng Chen (microsoft.com) et.al.|[2610.41143](http://arxiv.org/abs/2610.41143)|null|
+|**2026-10-30**|**When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents**|Xinyu Wang (sydney.edu.au) et.al.|[2610.41132](http://arxiv.org/abs/2610.41132)|null|
+|**2026-10-30**|**Confident Fools or Careful Searchers? A Behavioural Study of When LLMs Search Beyond Their Static Internal Memory**|Nipun D. Pathirage (rpi.edu) et.al.|[2610.41124](http://arxiv.org/abs/2610.41124)|null|
+|**2026-10-29**|**BABA-Bench: Evaluating Long-Horizon Patient-Advocacy Agents**|Shriram Vasudevan et.al.|[2610.41076](http://arxiv.org/abs/2610.41076)|null|
+|**2026-10-29**|**ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay**|Jeremy Canale (jeremycanale.com) et.al.|[2610.41025](http://arxiv.org/abs/2610.41025)|**[link](https://github.com/jeremy1392/RCAreplay)**|
+|**2026-10-29**|**Towards Understanding Score-Seeking in LLMs**|Aghyad Deeb (rdwrs.com) et.al.|[2610.41014](http://arxiv.org/abs/2610.41014)|null|
+|**2026-10-29**|**Can Personal Requirements Become Supervision for Planning?**|Junwei Wu et.al.|[2610.40992](http://arxiv.org/abs/2610.40992)|null|
+|**2026-10-29**|**Fewer Heads, Fewer Memories: Pruning Redundant Attention Heads Suppresses Verbatim Memorisation**|Aryan Chowdhury et.al.|[2610.40974](http://arxiv.org/abs/2610.40974)|null|
+|**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song (sfu.ca) et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
+|**2026-10-29**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain (sfu.ca) et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
+|**2026-10-29**|**FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation**|Xiaojun Wu et.al.|[2610.40858](http://arxiv.org/abs/2610.40858)|**[link](https://github.com/wxj630/FARO)**|
+|**2026-10-29**|**CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN**|Sunder Ali Khowaja (dcu.ie) et.al.|[2610.40744](http://arxiv.org/abs/2610.40744)|null|
 |**2026-10-29**|**Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns**|Eric Rudolph (th-nuernberg.de) et.al.|[2610.40563](http://arxiv.org/abs/2610.40563)|null|
 |**2026-10-29**|**Advancing Clinical Genomic Analysis with a Skill-Centred Agent**|Qiaoyu Zheng (sjtu.edu.cn) et.al.|[2610.40556](http://arxiv.org/abs/2610.40556)|null|
 |**2026-10-29**|**IndicIPR-QA: A Benchmark for Extractive Question Answering on Indian IPR Laws**|M. Mohaiminul Islam (students.sau.ac.in) et.al.|[2610.40518](http://arxiv.org/abs/2610.40518)|null|
@@ -13335,7 +13371,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
