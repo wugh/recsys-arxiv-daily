@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.11.06
+## Updated on 2026.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
+|**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
+|**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel (gwdg.de) et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
+|**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani (stu.qom.ac.ir) et.al.|[2611.08315](http://arxiv.org/abs/2611.08315)|null|
+|**2026-11-05**|**Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks**|Zhitao He (cse.ust.hk) et.al.|[2611.08281](http://arxiv.org/abs/2611.08281)|null|
+|**2026-11-05**|**Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling**|Xiaojun Wu et.al.|[2611.08237](http://arxiv.org/abs/2611.08237)|**[link](https://github.com/wxj630/terminal-bench-math-modeling)**|
+|**2026-11-05**|**Domain-specific information retrieval**|Suzan Verberne (liacs.leidenuniv.nl) et.al.|[2611.08228](http://arxiv.org/abs/2611.08228)|null|
+|**2026-11-05**|**Detecting Silent Faults at the Environment-Trainer Boundary in Reinforcement Learning**|Zuo Gou (mails.tsinghua.edu.cn) et.al.|[2611.08144](http://arxiv.org/abs/2611.08144)|**[link](https://github.com/PlugRL)**|
 |**2026-11-05**|**Beyond the Keyword: A Human-Annotated Benchmark for Arabic Anxiety-Related Discourse**|Shimaa Ibrahim (northwestern.edu) et.al.|[2611.07949](http://arxiv.org/abs/2611.07949)|null|
 |**2026-11-05**|**ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation**|Petru Neague (tudelft.nl) et.al.|[2611.07928](http://arxiv.org/abs/2611.07928)|null|
 |**2026-11-05**|**Adaptive Semantic Branching: Disagreement-Localized Cross-Trajectory Regeneration for Reasoning Candidate Expansion**|Jeong-Yoon Kim et.al.|[2611.07918](http://arxiv.org/abs/2611.07918)|null|
@@ -4345,6 +4353,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
+|**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel (gwdg.de) et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
+|**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani (stu.qom.ac.ir) et.al.|[2611.08315](http://arxiv.org/abs/2611.08315)|null|
+|**2026-11-05**|**Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling**|Xiaojun Wu et.al.|[2611.08237](http://arxiv.org/abs/2611.08237)|**[link](https://github.com/wxj630/terminal-bench-math-modeling)**|
 |**2026-11-05**|**ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation**|Petru Neague (tudelft.nl) et.al.|[2611.07928](http://arxiv.org/abs/2611.07928)|null|
 |**2026-11-05**|**Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation**|Hongyang Su (tencent.com) et.al.|[2611.07866](http://arxiv.org/abs/2611.07866)|null|
 |**2026-11-05**|**Axis-LoRA: Probing and Adapting Embedding Models for Personal-Memory Retrieval**|Dohoon Kim (snu.ac.kr) et.al.|[2611.07820](http://arxiv.org/abs/2611.07820)|**[link](https://github.com/dohoonkim-ai/axis-lora)**|
@@ -6519,6 +6531,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
+|**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan (stanford.edu) et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
+|**2026-11-05**|**FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning**|Ali Mohammadi Ruzbahani (ucalgary.ca) et.al.|[2611.08383](http://arxiv.org/abs/2611.08383)|null|
+|**2026-11-05**|**StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference**|Jake Hyun et.al.|[2611.08363](http://arxiv.org/abs/2611.08363)|null|
+|**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani (stu.qom.ac.ir) et.al.|[2611.08315](http://arxiv.org/abs/2611.08315)|null|
+|**2026-11-05**|**LLM-Assisted Label Noise Correction for EEG-Based Sleep Stage Classification**|Elmira Salari (shockers.wichita.edu) et.al.|[2611.08311](http://arxiv.org/abs/2611.08311)|null|
+|**2026-11-05**|**Accepted but Wrong: Silent Failures of LLM Code Repairs after API Migrations**|Xiaobo Chen et.al.|[2611.08269](http://arxiv.org/abs/2611.08269)|null|
+|**2026-11-05**|**DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels**|Jinho Park (columbia.edu) et.al.|[2611.08082](http://arxiv.org/abs/2611.08082)|**[link](https://jp4327.github.io/dictllm/)**|
+|**2026-11-05**|**Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring "Weight-Space Programming"**|Nazmus Sakib Ahmed (bracu.ac.bd) et.al.|[2611.08070](http://arxiv.org/abs/2611.08070)|null|
+|**2026-11-05**|**NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models**|Lubnaa Abdur Rahman et.al.|[2611.08054](http://arxiv.org/abs/2611.08054)|null|
 |**2026-11-05**|**TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research**|Yifan Luo (mails.tsinghua.edu.cn) et.al.|[2611.07962](http://arxiv.org/abs/2611.07962)|**[link](https://moonshotai.github.io/TCSExam/)**|
 |**2026-11-05**|**Which Signals of Code Correctness Survive Distribution Shift? Hidden-State and Causal Predictors of Program and Verdict Correctness**|Viola Campos (hs-rm.de) et.al.|[2611.07876](http://arxiv.org/abs/2611.07876)|null|
 |**2026-11-05**|**Towards Foundation Decision Models: Drex**|Nischay Dhankhar et.al.|[2611.07854](http://arxiv.org/abs/2611.07854)|**[link](https://github.com/nace-ai/drex-decision-models)**|
