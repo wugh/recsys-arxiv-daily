@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training**|Pranjal Srivastava et.al.|[2611.08892](http://arxiv.org/abs/2611.08892)|null|
+|**2026-11-06**|**The Relational Capacity Framework: A Lens for AI-Mediated Relationality**|Emily Tseng et.al.|[2611.08877](http://arxiv.org/abs/2611.08877)|null|
+|**2026-11-06**|**What Matters for LLM Persona Simulation: Signal Form in Cold-Start E-Commerce Advertising**|Jiwoo Choi (dosan.io) et.al.|[2611.08840](http://arxiv.org/abs/2611.08840)|null|
+|**2026-11-05**|**Generative Search and Recommendation at Shopify**|Juhana Kangaspunta et.al.|[2611.08804](http://arxiv.org/abs/2611.08804)|null|
+|**2026-11-05**|**SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery**|Sunkyung Lee (skku.edu) et.al.|[2611.08790](http://arxiv.org/abs/2611.08790)|null|
+|**2026-11-05**|**Learning from How Users Interpret: Personalizing Recommendation Explanation Order**|Deo Munduku (lamsade.dauphine.fr) et.al.|[2611.08785](http://arxiv.org/abs/2611.08785)|null|
+|**2026-11-05**|**Goals as a Representational Layer for Human-AI Collaboration**|Gaia Molinaro et.al.|[2611.08757](http://arxiv.org/abs/2611.08757)|null|
+|**2026-11-05**|**Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support**|Eli Min (gatech.edu) et.al.|[2611.08721](http://arxiv.org/abs/2611.08721)|null|
+|**2026-11-05**|**Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation**|Emilly Pitman de Castro (itau-unibanco.com.br) et.al.|[2611.08718](http://arxiv.org/abs/2611.08718)|null|
+|**2026-11-05**|**Enhancing Academic Advisement with Case-Based Reasoning**|Tanat Tonguthaisri et.al.|[2611.08572](http://arxiv.org/abs/2611.08572)|null|
+|**2026-11-05**|**Personalized health coaching via coachable health age and counterfactual wearable trajectories**|Simon A. Lee (google.com) et.al.|[2611.08568](http://arxiv.org/abs/2611.08568)|null|
+|**2026-11-05**|**CascadeRec: Deployed Adaptive LLM Compute Allocation for Multi-Tenant Content Recommendation**|Kai Zhao (workday.com) et.al.|[2611.08566](http://arxiv.org/abs/2611.08566)|null|
 |**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487](http://arxiv.org/abs/2611.08487)|null|
 |**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel (gwdg.de) et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
@@ -4354,12 +4366,20 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training**|Pranjal Srivastava et.al.|[2611.08892](http://arxiv.org/abs/2611.08892)|null|
+|**2026-11-06**|**What Matters for LLM Persona Simulation: Signal Form in Cold-Start E-Commerce Advertising**|Jiwoo Choi (dosan.io) et.al.|[2611.08840](http://arxiv.org/abs/2611.08840)|null|
+|**2026-11-05**|**Generative Search and Recommendation at Shopify**|Juhana Kangaspunta et.al.|[2611.08804](http://arxiv.org/abs/2611.08804)|null|
+|**2026-11-05**|**SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery**|Sunkyung Lee (skku.edu) et.al.|[2611.08790](http://arxiv.org/abs/2611.08790)|null|
+|**2026-11-05**|**Learning from How Users Interpret: Personalizing Recommendation Explanation Order**|Deo Munduku (lamsade.dauphine.fr) et.al.|[2611.08785](http://arxiv.org/abs/2611.08785)|null|
+|**2026-11-05**|**Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support**|Eli Min (gatech.edu) et.al.|[2611.08721](http://arxiv.org/abs/2611.08721)|null|
+|**2026-11-05**|**Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation**|Emilly Pitman de Castro (itau-unibanco.com.br) et.al.|[2611.08718](http://arxiv.org/abs/2611.08718)|null|
+|**2026-11-05**|**CascadeRec: Deployed Adaptive LLM Compute Allocation for Multi-Tenant Content Recommendation**|Kai Zhao (workday.com) et.al.|[2611.08566](http://arxiv.org/abs/2611.08566)|null|
 |**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel (gwdg.de) et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation**|Ali Sarabadani (stu.qom.ac.ir) et.al.|[2611.08315](http://arxiv.org/abs/2611.08315)|null|
@@ -6534,12 +6554,18 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training**|Pranjal Srivastava et.al.|[2611.08892](http://arxiv.org/abs/2611.08892)|null|
+|**2026-11-06**|**What Matters for LLM Persona Simulation: Signal Form in Cold-Start E-Commerce Advertising**|Jiwoo Choi (dosan.io) et.al.|[2611.08840](http://arxiv.org/abs/2611.08840)|null|
+|**2026-11-05**|**MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis**|Mingrui Ma (illinois.edu) et.al.|[2611.08795](http://arxiv.org/abs/2611.08795)|null|
+|**2026-11-05**|**How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis**|Will Tucker-Ray (google.com) et.al.|[2611.08749](http://arxiv.org/abs/2611.08749)|null|
+|**2026-11-05**|**Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles**|Iris Ye (chicagobooth.edu) et.al.|[2611.08730](http://arxiv.org/abs/2611.08730)|null|
+|**2026-11-05**|**Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP**|Stepan Epifantsev (gmail.com) et.al.|[2611.08639](http://arxiv.org/abs/2611.08639)|null|
 |**2026-11-05**|**MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue**|Donghua Zhang (umich.edu) et.al.|[2611.08433](http://arxiv.org/abs/2611.08433)|null|
 |**2026-11-05**|**Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks**|E. Kelly Buchanan (stanford.edu) et.al.|[2611.08417](http://arxiv.org/abs/2611.08417)|null|
 |**2026-11-05**|**FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning**|Ali Mohammadi Ruzbahani (ucalgary.ca) et.al.|[2611.08383](http://arxiv.org/abs/2611.08383)|null|
@@ -6583,6 +6609,7 @@
 |**2026-11-04**|**Editing Large Language Models with Geometry-Aware Regularization**|Bingqing Liu (hust.edu.cn) et.al.|[2611.06185](http://arxiv.org/abs/2611.06185)|null|
 |**2026-11-04**|**SafeStart: Mitigating the Overlooked Safety Cost of Active Expert Reduction in MoE LLM Serving**|Erfan Baghaei Potraghloo (usc.edu) et.al.|[2611.06147](http://arxiv.org/abs/2611.06147)|null|
 |**2026-11-04**|**Shallow Encoding Emits Deep Memories**|Mingyuan Ma et.al.|[2611.06084](http://arxiv.org/abs/2611.06084)|null|
+|**2026-11-06**|**Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning**|Mengni Jia (alibaba-inc.com) et.al.|[2611.05942](http://arxiv.org/abs/2611.05942)|**[link](https://github.com/Qwen-Applications/RewardBudget)**|
 |**2026-11-04**|**CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines**|Yuqin Dai (zju.edu.cn) et.al.|[2611.05862](http://arxiv.org/abs/2611.05862)|**[link](https://github.com/Da1yuqin/CARTBench)**|
 |**2026-11-04**|**When File Ingestion Misleads Language Models: Measuring and Mitigating Divergences in Office Documents**|Penghui Li (ntu.edu.sg) et.al.|[2611.05806](http://arxiv.org/abs/2611.05806)|null|
 |**2026-11-04**|**GREP: Grounding Generated Room Evaluation in Principles**|Mohan Cao et.al.|[2611.05802](http://arxiv.org/abs/2611.05802)|**[link](https://han-808.github.io/GREP/)**|
@@ -6619,7 +6646,7 @@
 |**2026-11-03**|**Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection**|Xiaoshan Zhou (sydney.edu.au) et.al.|[2611.04112](http://arxiv.org/abs/2611.04112)|null|
 |**2026-11-03**|**The Agent Board: Kanban for Machines; Durable Coordination for Agents That Outlive the Conversation**|Tyler Hunt (corvic.ai) et.al.|[2611.04100](http://arxiv.org/abs/2611.04100)|null|
 |**2026-11-03**|**When Strong Reasoners Join the Pool: Small Union Premiums and Costly Runaway Generations in LLM Routing**|Teng-Ruei Chen (g2.nctu.edu.tw) et.al.|[2611.04098](http://arxiv.org/abs/2611.04098)|null|
-|**2026-11-02**|**Follow the Features: SAE Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models**|Ryan Swift (usc.edu) et.al.|[2611.04085](http://arxiv.org/abs/2611.04085)|null|
+|**2026-11-05**|**Follow the Features: SAE Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models**|Ryan Swift (usc.edu) et.al.|[2611.04085](http://arxiv.org/abs/2611.04085)|**[link](https://github.com/ryanaswift7/follow_the_features)**|
 |**2026-11-02**|**AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance**|Yilun Hao (mit.edu) et.al.|[2611.04079](http://arxiv.org/abs/2611.04079)|null|
 |**2026-11-02**|**Query-based Submodular Data Selection for Efficient Instruction Tuning**|Zhenghao Zhao et.al.|[2611.04059](http://arxiv.org/abs/2611.04059)|null|
 |**2026-11-02**|**Measuring Model-Specific Alignment Drift in LLM-Based Opinion Dynamics**|Nataša Djurdjevac Conrad et.al.|[2611.03980](http://arxiv.org/abs/2611.03980)|null|
@@ -13752,7 +13779,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
