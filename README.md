@@ -1,4 +1,4 @@
-## Updated on 2026.11.11
+## Updated on 2026.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang (amazon.com) et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
+|**2026-11-10**|**Personalized Affective Perception via Continual Learning in Human-Agent Negotiation**|Mehmet Onur Keskin et.al.|[2611.14247](http://arxiv.org/abs/2611.14247)|null|
+|**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan (gmail.com) et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
+|**2026-11-10**|**Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment**|Yupeng Han (mail.ustc.edu.cn) et.al.|[2611.14017](http://arxiv.org/abs/2611.14017)|null|
+|**2026-11-10**|**LUMIR: Decoupled Multimodal Representation Learning from Heterogeneous Data for Next-POI Recommendation**|Zehui Wang (rwu.de) et.al.|[2611.14004](http://arxiv.org/abs/2611.14004)|**[link](https://github.com/wzehui/LUMIR)**|
+|**2026-11-10**|**Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models**|Xingqi Wang (mails.tsinghua.edu.cn) et.al.|[2611.13997](http://arxiv.org/abs/2611.13997)|**[link](https://github.com/achernarwang/specify-privacy-yourself)**|
+|**2026-11-10**|**Data Quality Challenges in Multimodal Tourism Recommender Systems**|Zehui Wang (rwu.de) et.al.|[2611.13972](http://arxiv.org/abs/2611.13972)|null|
+|**2026-11-10**|**Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies**|Jonas Limniatis (lht.dlh.de) et.al.|[2611.13966](http://arxiv.org/abs/2611.13966)|**[link](https://github.com/bschaarmann/TIGA)**|
+|**2026-11-10**|**Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation**|Eoin M. Kenny (jpmorgan.com) et.al.|[2611.13926](http://arxiv.org/abs/2611.13926)|null|
+|**2026-11-10**|**CAppleNet: A Coordinate Attention-Based YOLO11 for Real-Time Apple Stem Cavity and Calyx Detection**|Alican Güneş (gmail.com) et.al.|[2611.13920](http://arxiv.org/abs/2611.13920)|null|
+|**2026-11-10**|**From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations**|Vojtech Cahlik (fit.cvut.cz) et.al.|[2611.13914](http://arxiv.org/abs/2611.13914)|**[link](https://github.com/vcahlik/from-counterfactual-edits-to-human-narratives)**|
+|**2026-11-10**|**Transparency Disclosures for Chain-of-Thought Monitorability**|Jacob Davies et.al.|[2611.13873](http://arxiv.org/abs/2611.13873)|null|
+|**2026-11-10**|**Beyond Interaction Scores: Selecting Feature Interactions via Independent Replication**|Jincheng Gao (connect.hkust-gz.edu.cn) et.al.|[2611.13765](http://arxiv.org/abs/2611.13765)|**[link](https://github.com/JinchengGao-Infty/LENS)**|
+|**2026-11-10**|**SeqFold: Timestamp-Addressable Compressed States for User Action Sequence Backbones**|Mianwei Zhou (coupang.com) et.al.|[2611.13704](http://arxiv.org/abs/2611.13704)|null|
+|**2026-11-10**|**Metamorphic testing of learned AC optimal power flow surrogates reveals representation dependence**|Stephen Peng (bcg.com) et.al.|[2611.13566](http://arxiv.org/abs/2611.13566)|null|
+|**2026-11-10**|**An evidence-traceable benchmark of clinical reasoning in large language models**|Zhiqun Zhao (email.sdfmu.edu.cn) et.al.|[2611.13562](http://arxiv.org/abs/2611.13562)|null|
+|**2026-11-10**|**Exploiting Feature-invariant Scaling Laws for Efficient A/B Experimentation in Recommendation Systems**|Zhiliang Chen (u.nus.edu) et.al.|[2611.13539](http://arxiv.org/abs/2611.13539)|null|
+|**2026-11-10**|**EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice**|Evan Pačes-Wiles (cs.unc.edu) et.al.|[2611.13525](http://arxiv.org/abs/2611.13525)|null|
 |**2026-11-10**|**Deep Personalization: Continuous Context Observation for Local Proactive Agents**|Yijia Shao et.al.|[2611.13457](http://arxiv.org/abs/2611.13457)|null|
 |**2026-11-10**|**The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures**|Shyam Agarwal (andrew.cmu.edu) et.al.|[2611.13396](http://arxiv.org/abs/2611.13396)|null|
 |**2026-11-09**|**Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis**|Iman Mohammadi (uci.edu) et.al.|[2611.13366](http://arxiv.org/abs/2611.13366)|null|
@@ -4427,12 +4445,23 @@
 |**2018-01-23**|**Offline A/B testing for Recommender Systems**|Alexandre Gilotte (criteo.com) et.al.|[1801.07030](http://arxiv.org/abs/1801.07030)|null|
 |**2016-04-04**|**Building an Internet Radio System with Interdisciplinary factored system for automatic content recommendation**|Krzysztof Wołk et.al.|[1604.00233](http://arxiv.org/abs/1604.00233)|null|
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 ## Recsys LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang (amazon.com) et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
+|**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan (gmail.com) et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
+|**2026-11-10**|**LUMIR: Decoupled Multimodal Representation Learning from Heterogeneous Data for Next-POI Recommendation**|Zehui Wang (rwu.de) et.al.|[2611.14004](http://arxiv.org/abs/2611.14004)|**[link](https://github.com/wzehui/LUMIR)**|
+|**2026-11-10**|**Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models**|Xingqi Wang (mails.tsinghua.edu.cn) et.al.|[2611.13997](http://arxiv.org/abs/2611.13997)|**[link](https://github.com/achernarwang/specify-privacy-yourself)**|
+|**2026-11-10**|**Data Quality Challenges in Multimodal Tourism Recommender Systems**|Zehui Wang (rwu.de) et.al.|[2611.13972](http://arxiv.org/abs/2611.13972)|null|
+|**2026-11-10**|**Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies**|Jonas Limniatis (lht.dlh.de) et.al.|[2611.13966](http://arxiv.org/abs/2611.13966)|**[link](https://github.com/bschaarmann/TIGA)**|
+|**2026-11-10**|**Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation**|Eoin M. Kenny (jpmorgan.com) et.al.|[2611.13926](http://arxiv.org/abs/2611.13926)|null|
+|**2026-11-10**|**From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations**|Vojtech Cahlik (fit.cvut.cz) et.al.|[2611.13914](http://arxiv.org/abs/2611.13914)|**[link](https://github.com/vcahlik/from-counterfactual-edits-to-human-narratives)**|
+|**2026-11-10**|**Benchmarking LLM Next-Step Recommendations with Knowledge Space Theory**|Peter Steiner et.al.|[2611.13667](http://arxiv.org/abs/2611.13667)|null|
+|**2026-11-10**|**An evidence-traceable benchmark of clinical reasoning in large language models**|Zhiqun Zhao (email.sdfmu.edu.cn) et.al.|[2611.13562](http://arxiv.org/abs/2611.13562)|null|
+|**2026-11-10**|**Exploiting Feature-invariant Scaling Laws for Efficient A/B Experimentation in Recommendation Systems**|Zhiliang Chen (u.nus.edu) et.al.|[2611.13539](http://arxiv.org/abs/2611.13539)|null|
 |**2026-11-09**|**Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis**|Iman Mohammadi (uci.edu) et.al.|[2611.13366](http://arxiv.org/abs/2611.13366)|null|
 |**2026-11-09**|**DEPUTYBENCH: Evaluating Contextual Safety in Enterprise Agents**|Hao Zhao (718.ai) et.al.|[2611.13355](http://arxiv.org/abs/2611.13355)|null|
 |**2026-11-09**|**Counting Under Disagreement: Dollar-Weighted Measurement, Selective Machine Labelling and Budgeted Human Review from Disagreeing AI Readers of Administrative Text**|George Koomullil (ascendr.ai) et.al.|[2611.13215](http://arxiv.org/abs/2611.13215)|null|
@@ -6645,12 +6674,33 @@
 |**2025-01-22**|**Recommender Systems in the Era of Large Language Models (LLMs)**|Zihuai Zhao (gmail.com) et.al.|[2307.02046](http://arxiv.org/abs/2307.02046)|null|
 |**2023-07-11**|**GenRec: Large Language Model for Generative Recommendation**|Jianchao Ji (rutgers.edu) et.al.|[2307.00457](http://arxiv.org/abs/2307.00457)|null|
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking**|Arjun Rao (sap.com) et.al.|[2611.14477](http://arxiv.org/abs/2611.14477)|null|
+|**2026-11-10**|**A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets**|Audrey Huang (harvard.edu) et.al.|[2611.14467](http://arxiv.org/abs/2611.14467)|null|
+|**2026-11-10**|**AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**|Zihan Chen (stevens.edu) et.al.|[2611.14333](http://arxiv.org/abs/2611.14333)|null|
+|**2026-11-10**|**Tree-Ising: Repairing Language Models with Bit-Level Ising Edits**|Hadi Salloum et.al.|[2611.14210](http://arxiv.org/abs/2611.14210)|null|
+|**2026-11-10**|**Breakdown of Autoregressive Multi-Step Reasoning Under Concentrated vs. Diffuse Attention Head Dropout**|Karol Struniawski (sggw.edu.pl) et.al.|[2611.14209](http://arxiv.org/abs/2611.14209)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi (iut-dhaka.edu) et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study**|Zhikun Tao (siflow.cn) et.al.|[2611.14051](http://arxiv.org/abs/2611.14051)|null|
+|**2026-11-10**|**Beyond Proxy Metrics: MLLMs as Human Surrogates for Explainable AI Evaluation**|Eoin M. Kenny (jpmorgan.com) et.al.|[2611.13926](http://arxiv.org/abs/2611.13926)|null|
+|**2026-11-10**|**Beyond Passive Imitation: On-Policy Mid-Training Distillation for Language Models**|Ruize Zheng et.al.|[2611.13855](http://arxiv.org/abs/2611.13855)|null|
+|**2026-11-10**|**Auditing LLM Pseudo-Label Distillation for Review Informativeness at E-Commerce Scale**|M. Emin Dogan (hepsiburada.com) et.al.|[2611.13797](http://arxiv.org/abs/2611.13797)|null|
+|**2026-11-10**|**Mixed Signals: Weight-Space Programming for EEG and ECG**|Dara Varam (epfl.ch) et.al.|[2611.13758](http://arxiv.org/abs/2611.13758)|**[link](https://daravaram.github.io/BioWSP)**|
+|**2026-11-10**|**Do Language Models Feel the Sentiment? Investigating Emotion Vectors**|Ali Hassan Khan (lhr.nu.edu.pk) et.al.|[2611.13744](http://arxiv.org/abs/2611.13744)|null|
+|**2026-11-10**|**Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence**|Sayed Amir Karim (pelloran.com) et.al.|[2611.13730](http://arxiv.org/abs/2611.13730)|**[link](https://github.com/pelloran-inc/tritify)**|
+|**2026-11-10**|**FedVP: Federated Learning across Heterogeneous Models by Pooling Locally Trained Verifiers**|Yifan Li (bath.ac.uk) et.al.|[2611.13708](http://arxiv.org/abs/2611.13708)|null|
+|**2026-11-10**|**MOAI: Module-Optimizing Architecture for non-interactive secure transformer Inference**|Linru Zhang et.al.|[2611.13641](http://arxiv.org/abs/2611.13641)|null|
+|**2026-11-10**|**Curriculum proof repair with learned counterexamples**|Yuechun Sun (uchicago.edu) et.al.|[2611.13627](http://arxiv.org/abs/2611.13627)|null|
+|**2026-11-10**|**IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier**|Aghoghomena Akasukpe (ontariotechu.ca) et.al.|[2611.13595](http://arxiv.org/abs/2611.13595)|null|
+|**2026-11-10**|**POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling**|Haoyi Wu (nju.edu.cn) et.al.|[2611.13578](http://arxiv.org/abs/2611.13578)|null|
+|**2026-11-10**|**TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation**|Yunkai Dang (nju.edu.cn) et.al.|[2611.13577](http://arxiv.org/abs/2611.13577)|null|
+|**2026-11-10**|**Tabular Foundation Models in Financial Predictions**|Ed deHaan (stanford.edu) et.al.|[2611.13550](http://arxiv.org/abs/2611.13550)|null|
+|**2026-11-10**|**Framing-Induced Vulnerability in Large Language Models: Evidence from Chinese News Headlines**|Mo Zhou et.al.|[2611.13531](http://arxiv.org/abs/2611.13531)|null|
 |**2026-11-10**|**Mobile AI Factory: Building Specialized Language Models for Your Mobile Device**|Evan Li et.al.|[2611.13509](http://arxiv.org/abs/2611.13509)|**[link](https://github.com/evanly-gh/SLM_Factory)**|
 |**2026-11-10**|**SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization**|Yan Xu et.al.|[2611.13452](http://arxiv.org/abs/2611.13452)|null|
 |**2026-11-10**|**Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines**|Wen Huang (microsoft.com) et.al.|[2611.13413](http://arxiv.org/abs/2611.13413)|null|
@@ -13958,7 +14008,7 @@
 |**2024-02-14**|**Sentinels of the Stream: Unleashing Large Language Models for Dynamic Packet Classification in Software Defined Networks -- Position Paper**|Shariq Murtuza (jiit.ac.in) et.al.|[2402.07950](http://arxiv.org/abs/2402.07950)|null|
 |**2024-01-09**|**Evaluating Large Language Models on the GMAT: Implications for the Future of Business Education**|Vahid Ashrafimoghari (stevens.edu) et.al.|[2401.02985](http://arxiv.org/abs/2401.02985)|null|
 
-<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
