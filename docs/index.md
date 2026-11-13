@@ -2,13 +2,32 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recsys
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Analysis choices decide whether untrained networks beat trained ones at V1: a multiverse analysis of model-brain RSA**|Nils Leutenegger (gmail.com) et.al.|[2611.15533](http://arxiv.org/abs/2611.15533)|**[link](https://github.com/nilsleut/ridge-readout)**|
+|**2026-11-11**|**DecArena: Evaluating Large-Scale Decentralized Multi-Agent Collaboration**|Jiali Cheng (amazon.com) et.al.|[2611.15521](http://arxiv.org/abs/2611.15521)|null|
+|**2026-11-11**|**Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents**|Jipu Su (geely.com) et.al.|[2611.15515](http://arxiv.org/abs/2611.15515)|null|
+|**2026-11-11**|**Selective State-Space Neural Tucker Factorization for Temporal-aware Traffic Imputation**|Zhenhao Li et.al.|[2611.15502](http://arxiv.org/abs/2611.15502)|null|
+|**2026-11-11**|**Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models**|Eric So (mit.edu) et.al.|[2611.15475](http://arxiv.org/abs/2611.15475)|null|
+|**2026-11-11**|**SurvEval: Listwise Re-Ranking Evaluator via Survival-Based Exposure and Multi-Objective Value Modeling**|YaChen Yan (intuit.com) et.al.|[2611.15434](http://arxiv.org/abs/2611.15434)|null|
+|**2026-11-11**|**SimRec: Learning to Search, Ask, and Recommend from Simulated Interaction**|Yaxin Zhang (zju.edu.cn) et.al.|[2611.15426](http://arxiv.org/abs/2611.15426)|**[link](https://github.com/ZJU-REAL/SimRec)**|
+|**2026-11-11**|**Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval**|Xinyu Zhou (stu.suda.edu.cn) et.al.|[2611.15328](http://arxiv.org/abs/2611.15328)|**[link](https://github.com/Flame-Chasers/ViSeLA)**|
+|**2026-11-11**|**Where is My Mug? Training-Free Framework for Personalized Image Segmentation**|Quang Qui-Vinh Nguyen (qti.qualcomm.com) et.al.|[2611.15216](http://arxiv.org/abs/2611.15216)|null|
+|**2026-11-11**|**Measuring, Revealing and Mitigating Harmful Content Propagation in Recommender Systems**|Xiaokun Zhang (gmail.com) et.al.|[2611.15160](http://arxiv.org/abs/2611.15160)|**[link](https://github.com/Zhang-xiaokun/MitiHarm)**|
+|**2026-11-11**|**Serving-Aligned Entire-Space Conversion Modeling via Click-Through Rate Knowledge Distillation**|Pavel Dolin (reddit.com) et.al.|[2611.15137](http://arxiv.org/abs/2611.15137)|null|
+|**2026-11-11**|**Beyond Named Mechanisms: Economic Institutions as a Design Space for Artificial Agents**|Nikolos Gurney (ict.usc.edu) et.al.|[2611.15017](http://arxiv.org/abs/2611.15017)|null|
+|**2026-11-11**|**Who Moved the Frontier? Paying Open Frontier Challenges with Free Identities**|Luca Zanolini (gmail.com) et.al.|[2611.14974](http://arxiv.org/abs/2611.14974)|null|
+|**2026-11-11**|**When Does a Recommendation Spark Curiosity? Theory, Measurement, and Field Evidence**|Pan Li (scheller.gatech.edu) et.al.|[2611.14938](http://arxiv.org/abs/2611.14938)|null|
+|**2026-11-11**|**ToolTurns: Benchmarking LLM Agents in Multi-Turn Dialogue**|Milad Gholami (ucsc.edu) et.al.|[2611.14925](http://arxiv.org/abs/2611.14925)|null|
+|**2026-11-11**|**Is Jev a Good Multilingual Judge?**|Wei Liu (gmail.com) et.al.|[2611.14861](http://arxiv.org/abs/2611.14861)|null|
+|**2026-11-10**|**Generalize Then Personalize: Wearable-Based Heart Rate Forecasting Under Scarce Ruck-March Data**|Muntaqim Ahmed Raju (uml.edu) et.al.|[2611.14849](http://arxiv.org/abs/2611.14849)|null|
+|**2026-11-10**|**What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa**|Abdul Rehman Antall (lhr.nu.edu.pk) et.al.|[2611.14818](http://arxiv.org/abs/2611.14818)|null|
+|**2026-11-10**|**GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering**|Noah J. Bagazinski (mit.edu) et.al.|[2611.14804](http://arxiv.org/abs/2611.14804)|null|
 |**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang (amazon.com) et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-10**|**Personalized Affective Perception via Continual Learning in Human-Agent Negotiation**|Mehmet Onur Keskin et.al.|[2611.14247](http://arxiv.org/abs/2611.14247)|null|
 |**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan (gmail.com) et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
@@ -26,7 +45,7 @@ layout: default
 |**2026-11-10**|**Metamorphic testing of learned AC optimal power flow surrogates reveals representation dependence**|Stephen Peng (bcg.com) et.al.|[2611.13566](http://arxiv.org/abs/2611.13566)|null|
 |**2026-11-10**|**An evidence-traceable benchmark of clinical reasoning in large language models**|Zhiqun Zhao (email.sdfmu.edu.cn) et.al.|[2611.13562](http://arxiv.org/abs/2611.13562)|null|
 |**2026-11-10**|**Exploiting Feature-invariant Scaling Laws for Efficient A/B Experimentation in Recommendation Systems**|Zhiliang Chen (u.nus.edu) et.al.|[2611.13539](http://arxiv.org/abs/2611.13539)|null|
-|**2026-11-10**|**EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice**|Evan Pačes-Wiles (cs.unc.edu) et.al.|[2611.13525](http://arxiv.org/abs/2611.13525)|null|
+|**2026-11-11**|**EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice**|Evan Pačes-Wiles (cs.unc.edu) et.al.|[2611.13525](http://arxiv.org/abs/2611.13525)|null|
 |**2026-11-10**|**Deep Personalization: Continuous Context Observation for Local Proactive Agents**|Yijia Shao et.al.|[2611.13457](http://arxiv.org/abs/2611.13457)|null|
 |**2026-11-10**|**The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures**|Shyam Agarwal (andrew.cmu.edu) et.al.|[2611.13396](http://arxiv.org/abs/2611.13396)|null|
 |**2026-11-09**|**Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis**|Iman Mohammadi (uci.edu) et.al.|[2611.13366](http://arxiv.org/abs/2611.13366)|null|
@@ -4444,6 +4463,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**DecArena: Evaluating Large-Scale Decentralized Multi-Agent Collaboration**|Jiali Cheng (amazon.com) et.al.|[2611.15521](http://arxiv.org/abs/2611.15521)|null|
+|**2026-11-11**|**Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents**|Jipu Su (geely.com) et.al.|[2611.15515](http://arxiv.org/abs/2611.15515)|null|
+|**2026-11-11**|**SimRec: Learning to Search, Ask, and Recommend from Simulated Interaction**|Yaxin Zhang (zju.edu.cn) et.al.|[2611.15426](http://arxiv.org/abs/2611.15426)|**[link](https://github.com/ZJU-REAL/SimRec)**|
+|**2026-11-11**|**Is Jev a Good Multilingual Judge?**|Wei Liu (gmail.com) et.al.|[2611.14861](http://arxiv.org/abs/2611.14861)|null|
 |**2026-11-10**|**Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents**|Howard Zhang (amazon.com) et.al.|[2611.14493](http://arxiv.org/abs/2611.14493)|null|
 |**2026-11-10**|**SHARP: Semantic Hierarchical Agentic Reasoning for Next POI Prediction with Dynamic Memory**|Yuhang Zhan (gmail.com) et.al.|[2611.14220](http://arxiv.org/abs/2611.14220)|null|
 |**2026-11-10**|**LUMIR: Decoupled Multimodal Representation Learning from Heterogeneous Data for Next-POI Recommendation**|Zehui Wang (rwu.de) et.al.|[2611.14004](http://arxiv.org/abs/2611.14004)|**[link](https://github.com/wzehui/LUMIR)**|
@@ -6671,6 +6694,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance Throttling**|Chengguang Gan (gmail.com) et.al.|[2611.15568](http://arxiv.org/abs/2611.15568)|null|
+|**2026-11-11**|**Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Information Loss**|Xin Liu (griffithuni.edu.au) et.al.|[2611.15543](http://arxiv.org/abs/2611.15543)|null|
+|**2026-11-11**|**Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition**|Yue Liu (connect.ust.hk) et.al.|[2611.15538](http://arxiv.org/abs/2611.15538)|null|
+|**2026-11-11**|**The Illusion of Diversity: Aligning LLM Exploration via Effective Entropy**|Xiaoliang Fu (meituan.com) et.al.|[2611.15493](http://arxiv.org/abs/2611.15493)|null|
+|**2026-11-11**|**Where Language-Model Vocabulary Rose on Stack Exchange**|Fengming Liu (uchicago.edu) et.al.|[2611.15172](http://arxiv.org/abs/2611.15172)|null|
+|**2026-11-11**|**A frontier machine intelligence for human neuroimaging**|Chenhui Zhao et.al.|[2611.15094](http://arxiv.org/abs/2611.15094)|null|
+|**2026-11-11**|**AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control**|Zhaoning Zhang (mail.utoronto.ca) et.al.|[2611.15041](http://arxiv.org/abs/2611.15041)|null|
+|**2026-11-11**|**EvoX: Rethinking the Agent Harness as a Runtime Policy**|Haoyang Zhang (evomap.ai) et.al.|[2611.15006](http://arxiv.org/abs/2611.15006)|null|
+|**2026-11-11**|**Breaking Bad: "Going Badly" Activations Drive Reward Hacking**|Natalia Fischl-Lanzoni et.al.|[2611.14996](http://arxiv.org/abs/2611.14996)|null|
+|**2026-11-11**|**RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving**|Binghang Lu (purdue.edu) et.al.|[2611.14949](http://arxiv.org/abs/2611.14949)|null|
+|**2026-11-11**|**Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen**|Richard J. Young (unlv.edu) et.al.|[2611.14935](http://arxiv.org/abs/2611.14935)|**[link](https://github.com/ricyoung/qpain-llm-counterfactual-audit)**|
+|**2026-11-11**|**MLIRBench - A Benchmark and Dataset for Compiler and Hardware-Aware Reasoning**|Pranava Sai Maganti (iastate.edu) et.al.|[2611.14881](http://arxiv.org/abs/2611.14881)|null|
+|**2026-11-11**|**Is Jev a Good Multilingual Judge?**|Wei Liu (gmail.com) et.al.|[2611.14861](http://arxiv.org/abs/2611.14861)|null|
+|**2026-11-10**|**AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms**|Igor Sadalski (csail.mit.edu) et.al.|[2611.14844](http://arxiv.org/abs/2611.14844)|null|
+|**2026-11-10**|**Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models**|J. Zach Gazak (alum.mit.edu) et.al.|[2611.14838](http://arxiv.org/abs/2611.14838)|**[link](https://github.com/zgazak/sophon)**|
+|**2026-11-10**|**OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design**|Ruiheng Yu (fsu.edu) et.al.|[2611.14808](http://arxiv.org/abs/2611.14808)|null|
+|**2026-11-10**|**Code as Explanations: Executable and Verifiable LLM Explanations**|Nhi Nguyen (nyu.edu) et.al.|[2611.14704](http://arxiv.org/abs/2611.14704)|**[link](https://github.com/rajesh-lab/code-as-explanations)**|
+|**2026-11-10**|**Together Compiler: Continual Compilation for AI Inference**|Reyna Abhyankar (together.ai) et.al.|[2611.14681](http://arxiv.org/abs/2611.14681)|null|
+|**2026-11-10**|**Evaluating the Performance of LLMs in Drafting NIH Data Management Plans**|Nahid Zeinali (calmi2.org) et.al.|[2611.14648](http://arxiv.org/abs/2611.14648)|null|
 |**2026-11-10**|**FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking**|Arjun Rao (sap.com) et.al.|[2611.14477](http://arxiv.org/abs/2611.14477)|null|
 |**2026-11-10**|**A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets**|Audrey Huang (harvard.edu) et.al.|[2611.14467](http://arxiv.org/abs/2611.14467)|null|
 |**2026-11-10**|**AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**|Zihan Chen (stevens.edu) et.al.|[2611.14333](http://arxiv.org/abs/2611.14333)|null|
@@ -6699,7 +6741,7 @@ layout: default
 |**2026-11-09**|**Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis**|Iman Mohammadi (uci.edu) et.al.|[2611.13366](http://arxiv.org/abs/2611.13366)|null|
 |**2026-11-09**|**Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation**|Achuth Chandrasekhar (cmu.edu) et.al.|[2611.13329](http://arxiv.org/abs/2611.13329)|null|
 |**2026-11-09**|**Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding**|Susav Shrestha (nvidia.com) et.al.|[2611.13293](http://arxiv.org/abs/2611.13293)|null|
-|**2026-11-09**|**Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams**|Rayed AlGhamdi (kau.edu.sa) et.al.|[2611.13217](http://arxiv.org/abs/2611.13217)|null|
+|**2026-11-11**|**Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams**|Rayed AlGhamdi (kau.edu.sa) et.al.|[2611.13217](http://arxiv.org/abs/2611.13217)|null|
 |**2026-11-09**|**Teaching the Harness: Student-Aware Skill Transfer for LLM Agents**|Chang Liu (mines.edu) et.al.|[2611.13144](http://arxiv.org/abs/2611.13144)|null|
 |**2026-11-09**|**The Indic Token Tax in 2026: Measuring Tokenizer. Disparity and Its Cost for the Languages of India**|Johin Johny Arimbur (gmail.com) et.al.|[2611.13058](http://arxiv.org/abs/2611.13058)|**[link](https://github.com/HavonAI/indic-token-tax)**|
 |**2026-11-08**|**Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows**|Bhaskar Gurram (gmail.com) et.al.|[2611.13006](http://arxiv.org/abs/2611.13006)|**[link](https://github.com/bhaskargurram-ai/medscope)**|
